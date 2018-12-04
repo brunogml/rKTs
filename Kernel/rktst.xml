@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+
 <outline>
 <name>Tanjur</name>
 <creator type="hasScribe">Bruno Lainé</creator>
@@ -569,6 +569,7 @@
 
 <item>
 <rktst>77</rktst>
+<tib>dpal dus kyi 'khor lo'i dkyil 'khor gyi cho ga</tib>
 <tib>dpal dus kyi 'khor lo'i dkyil 'khor cho ga</tib>
 <skt>śrīkālacakramaṇḍalavidhi</skt>
 <mng></mng>
@@ -1121,6 +1122,7 @@
 <item>
 <rktst>151</rktst>
 <tib>man ngag lus kyi dkyil 'khor gyi mngon par rtogs pa</tib>
+<tib>'khor lo sdom pa'i lus dkyil gyi mngon rtogs</tib>
 <skt>upadeśakāyamaṇḍalābhisamaya</skt>
 <mng></mng>
 </item>
@@ -1164,6 +1166,7 @@
 
 <item>
 <rktst>157</rktst>
+<tib>dpal 'khor lo sdom pa'i bstod pa zhes bya ba</tib>
 <tib>dpal 'khor lo sdom pa'i bstod pa</tib>
 <skt>śrīcakrasaṃvarastotra</skt>
 <mng></mng>
@@ -1740,6 +1743,7 @@
 
 <item>
 <rktst>235</rktst>
+<tib>dpal mkha' 'gro rgya mtsho'i mngon par dbang bskur ba'i cho ga</tib>
 <tib>dpal mkha' 'gro rgya mtsho'i dbang bskur ba'i rgyud kyi cho ga</tib>
 <skt>śrīḍākārṇavatantrābhiṣekavidhi</skt>
 <mng></mng>
@@ -1748,6 +1752,7 @@
 <item>
 <rktst>236</rktst>
 <tib>dpal mkha' 'gro rgya mtsho'i rgyud kyi sbyin sreg gi cho ga rin po che me shel</tib>
+<tib>dpal mkha' 'gro rgya mtsho'i sbyin sreg gi cho ga</tib>
 <skt>śrīḍākārṇavatantrahomavidhi-ratnasūryakānta</skt>
 <mng></mng>
 </item>
@@ -1790,6 +1795,7 @@
 <item>
 <rktst>242</rktst>
 <tib>dpal 'khor lo sdom pa'i bstod pa zhes bya ba</tib>
+<tib>dpal 'khor lo sdom pa'i bstod pa</tib>
 <skt>śrīcakrasaṃvarastotra-nāma</skt>
 <mng></mng>
 </item>
@@ -1809,6 +1815,7 @@
 <item>
 <rktst>245</rktst>
 <tib>lam gyi dbang bskur ba'i rab tu bya ba</tib>
+<tib>lam gyi rab tu bya ba</tib>
 <skt>mārgābhiṣekaprakaraṇa</skt>
 <mng></mng>
 </item>
@@ -1823,6 +1830,7 @@
 <item>
 <rktst>247</rktst>
 <tib>dpal 'khor lo sdom pa dpa' bo gcig bu'i sgrub thabs</tib>
+<tib>dpal 'khor lo sdom pa dpa' bo gcig pa'i sgrub thabs</tib>
 <skt>śrīcakrasaṃvaraikavīrasādhana</skt>
 <mng></mng>
 </item>
@@ -1835,6 +1843,7 @@
 <item>
 <rktst>249</rktst>
 <tib>dpal 'khor lo bde mchog 'byung ba zhes bya ba'i dkyil 'khor cho ga</tib>
+<tib>dpal 'khor lo bde mchog 'byung ba zhes bya ba'i dkyil 'khor gyi cho ga</tib>
 <skt>śrīcakraśambarodaya-nāma-maṇḍalopāyikā</skt>
 <mng></mng>
 </item>
@@ -1848,7 +1857,7 @@
 
 <item>
 <rktst>251</rktst>
-<tib>sgron ma bzhi'i T'i kA zhes bya ba</tib>
+<tib>sgron ma bzhi'i TI kA zhes bya ba</tib>
 <skt>ālokacaturaṭīkā-nāma</skt>
 <mng></mng>
 </item>
@@ -1856,6 +1865,8 @@
 <item>
 <rktst>252</rktst>
 <tib>dpal rdo rje phag mo sgrub pa'i thabs zhes bya ba</tib>
+<tib>dpal rdo rje phag mo sgrub pa'i thab</tib>
+<tib>rdo rje phag mo sgrub pa'i thabs</tib>
 <skt>śrīvajravārāhīsādhana-nāma</skt>
 <mng></mng>
 </item>
@@ -1869,7 +1880,9 @@
 
 <item>
 <rktst>254</rktst>
+<tib>dpal rdo rje rnal 'byor ma'i sngags kyi de kho na nyid kyis byin gyis brlabs pa'i rim pa zhes bya ba</tib>
 <tib>dpal rdo rje rnal 'byor ma'i sngags kyi de kho na nyid kyis byin gyis brlab pa'i rim pa zhes bya ba</tib>
+<tib>rdo rje rnal 'byor ma dkar mo'i sgrub thabs</tib>
 <skt>śrīvajrayoginīmantratattvasvādhiṣṭhānanirdeśa-nāma</skt>
 <mng></mng>
 </item>
@@ -1877,6 +1890,7 @@
 <item>
 <rktst>255</rktst>
 <tib>rdo rje rnal 'byor ma'i sgrub pa'i thabs</tib>
+<tib>rnal 'byor ma'i sgrub pa'i thabs</tib>
 <skt>vajrayoginīsādhana</skt>
 <mng></mng>
 </item>
@@ -1926,6 +1940,7 @@
 <item>
 <rktst>262</rktst>
 <tib>rdo rje phag mo dbu bcad ma'i sgrub thabs</tib>
+<tib>phag mo dbu bcad ma'i sgrub thabs</tib>
 <skt>chinnamuṇḍavajravārāhīsādhana</skt>
 <mng></mng>
 </item>
@@ -1954,6 +1969,8 @@
 <item>
 <rktst>266</rktst>
 <tib>rdo rje rnal 'byor ma'i sgrub thabs</tib>
+<tib>rje btsun rdo rje rnal 'byor ma'i sgrub thabs</tib>
+<tib>rdo rje rnal 'byor ma'i sgrub thabs zhes bya ba</tib>
 <skt>vajrayoginīsādhana</skt>
 <mng></mng>
 </item>
@@ -1967,7 +1984,8 @@
 
 <item>
 <rktst>268</rktst>
-<tib>k'u rma pA da zhes bya ba'i gdams pa phag mo thugs kyi bsgrub thabs</tib>
+<tib>kU rma pA da zhes bya ba'i gdams pa phag mo thugs kyi bsgrub thabs</tib>
+<tib>phag mo thugs kyi sgrub thabs</tib>
 <skt>kūrmapādopadeśa-nāma-vārāhīmanaḥsādhana</skt>
 <mng></mng>
 </item>
@@ -2024,6 +2042,7 @@
 <item>
 <rktst>276</rktst>
 <tib>keng rus tA ra nga'i sgrub thabs</tib>
+<tib>keng rus tA ra na'i sgrub thabs</tib>
 <skt>kaṃkālatāraṇasādhana</skt>
 <mng></mng>
 </item>
@@ -2031,6 +2050,7 @@
 <item>
 <rktst>277</rktst>
 <tib>keng rus tA ra Na'i sgrub thabs kyi 'grel pa gzhan la phan pa zhes bya ba</tib>
+<tib>keng rus tA ra na'i sgrub thabs kyi 'grel pa gzhan la phan pa zhes bya ba</tib>
 <skt>kaṃkālatāraṇasādhanaṭīkā-parahitā-nāma</skt>
 <mng></mng>
 </item>
@@ -2148,6 +2168,7 @@
 
 <item>
 <rktst>295</rktst>
+<tib>rdo rje rnal 'byor ma'i bde ba mchog gi sdom pa 'jug pa nges pa don gyi dkyil 'khor gyi sgrub thabs zhes bya ba</tib>
 <tib>rdo rje rnal 'byor ma'i bde ba mchog gi sdom pa la 'jug pa nges pa don gyi dkyil 'khor zhes bya ba</tib>
 <skt>vajrayoginīsukhapraveśasaṃvaranirṇayārthakamaṇḍala-nāma</skt>
 <mng></mng>
@@ -3110,6 +3131,7 @@
 
 <item>
 <rktst>430</rktst>
+<tib>'byung po thams cad kyi gtor ma'i cho ga</tib>
 <tib>'byung po thams cad kyi gtor ma'i cho ga zhes bya ba</tib>
 <skt>sarvabhūtabalividhi-nāma</skt>
 <mng></mng>
@@ -3502,6 +3524,7 @@
 
 <item>
 <rktst>485</rktst>
+<tib>dpal gdan bzhi pa'i zab don ston pa shing gcig gi dka' 'grel</tib>
 <tib>dpal gdan bzhi'i zab don ston pa shing gcig gi dka' 'grel</tib>
 <skt>śrīcatuḥpīṭhagūḍhārthanirdeśa-ekadrumapañjikā</skt>
 <mng></mng>
@@ -3516,6 +3539,7 @@
 
 <item>
 <rktst>487</rktst>
+<tib>dpal gdan bzhi pa'i sgrub pa'i thabs</tib>
 <tib>dpal gdan bzhi pa'i bsgrub pa'i thabs</tib>
 <skt>śrīcatuḥpīṭhasādhanopāyikā</skt>
 <mng></mng>
@@ -3523,6 +3547,7 @@
 
 <item>
 <rktst>488</rktst>
+<tib>dpal gdan bzhi pa'i chu'i sbyin sreg</tib>
 <tib>dpal gdan bzhi'i chu'i sbyin sreg</tib>
 <skt>śrīcatuḥpīṭhajalahoma</skt>
 <mng></mng>
@@ -3552,6 +3577,7 @@
 <item>
 <rktst>492</rktst>
 <tib>dpal gdan bzhi pa'i de kho na nyid bzhi pa</tib>
+<tib>gdan bzhi'i de kho na nyid bzhi pa</tib>
 <skt>śrīcatuḥpīṭhatattvacatuṣka.)</skt>
 <mng></mng>
 </item>
@@ -3615,6 +3641,7 @@
 <item>
 <rktst>501</rktst>
 <tib>rmongs pa bsgral ba'i brtag pa zhes bya ba</tib>
+<tib>ma hA mA yA'i sgrub thabs rmongs pa sgrol ba'i brtag pa</tib>
 <skt>mohataraṇakalpa-nāma</skt>
 <mng></mng>
 </item>
@@ -3629,6 +3656,7 @@
 <item>
 <rktst>503</rktst>
 <tib>dpal ma ha mA y'a'i dkyil 'khor gyi lha la bstod pa</tib>
+<tib>dkyil 'khor gyi lha la bstod pa</tib>
 <skt>śrīmahāmāyāmaṇḍaladevastotra</skt>
 <mng></mng>
 </item>
@@ -3685,6 +3713,7 @@
 <item>
 <rktst>511</rktst>
 <tib>rje btsun dpal he ru ka 'khor dang bcas pa'i bstod pa</tib>
+<tib>dang bcas pa</tib>
 <skt>sānucaraśrīherukabhaṭṭārakastotra</skt>
 <mng></mng>
 </item>
@@ -3698,6 +3727,7 @@
 
 <item>
 <rktst>513</rktst>
+<tib>sA ts+tsha gdab pa'i man ngag</tib>
 <tib>sa tsha gdab pa'i cho ga</tib>
 <skt>sañcakanirvapaṇavidhi</skt>
 <mng></mng>
@@ -3726,6 +3756,7 @@
 
 <item>
 <rktst>517</rktst>
+<tib>sgyu 'phrul chen mo'i dkyil 'khor gyi cho ga bla ma'i zhal snga'i man ngag zhes bya ba</tib>
 <tib>sgyu 'phrul chen mo'i dkyil 'khor gyi cho ga bla ma'i zhal snga'i man ngag ces bya ba</tib>
 <skt>gurūpadeśa-nāma-mahāmāyāmaṇḍalopāyikā</skt>
 <mng></mng>
@@ -3808,6 +3839,7 @@
 
 <item>
 <rktst>529</rktst>
+<tib>dpal sangs rgyas thod pa zhes bya ba'i dkyil khor gyi cho ga'i rim pa gsal ba zhes bya ba</tib>
 <tib>dpal sangs rgyas thod pa zhes bya ba'i dkyil 'khor gyi cho ga'i rim pa gsal ba</tib>
 <skt>śrībuddhakapāla-nāma-maṇḍalavidhikramapradyotana</skt>
 <mng></mng>
@@ -3815,14 +3847,16 @@
 
 <item>
 <rktst>530</rktst>
-<tib>ri gi a' ra li'i sgrub thabs</tib>
+<tib>ri gi A ra li'i sgrub thabs</tib>
 <skt>rigyāralisādhana</skt>
 <mng></mng>
 </item>
 
 <item>
 <rktst>531</rktst>
+<tib>dpal sangs rgyas thams cad dang mnyam par sbyor ba mkha' 'gro sgyu ma bde mchog gi rgyud kyi don rnam par bshad pa zhes bya ba</tib>
 <tib>dpal sangs rgyas thams cad dang mnyam par sbyor ba mkha' 'gro sgyu ma bde ba mchog gi rgyud kyi don rnam par bshad pa zhes bya ba</tib>
+<tib>sangs rgyas thams cad dang mnyam sbyor mkha' 'gro sgyu ma bde mchog gi rgyud kyi don rnam par bshad pa</tib>
 <skt>śrīsarvabuddhasamayogaḍākinījālaśambaratantrārthaṭīkā-nāma</skt>
 <mng></mng>
 </item>
@@ -3837,6 +3871,7 @@
 <item>
 <rktst>533</rktst>
 <tib>dpal sangs rgyas thams cad dang mnyam par sbyor ba zhes bya ba'i rgyud kyi dka' 'grel</tib>
+<tib>sangs rgyas thams cad dang mnyam par sbyor ba'i rgyud kyi dka' 'grel</tib>
 <skt>śrīsarvabuddhasamayoga-nāma-tantrapañjikā</skt>
 <mng></mng>
 </item>
@@ -3871,6 +3906,7 @@
 
 <item>
 <rktst>538</rktst>
+<tib>dpal he ru ka'i gsang ba'i don rnam par bkod pa zhes bya ba</tib>
 <tib>dpal rdo rje he ru ka'i gsang ba'i don rnam par dgod pa zhes bya ba</tib>
 <skt>śrīvajraherukaguhyārthadharavyūha-nāma</skt>
 <mng></mng>
@@ -3878,6 +3914,7 @@
 
 <item>
 <rktst>539</rktst>
+<tib>dpal pad+ma gar gyi dbang phyug gi gsang ba'i don rnam par dgod pa zhes bya ba</tib>
 <tib>dpal padma gar gyi dbang phyug gi gsang ba'i don rnam par dgod pa zhes bya ba</tib>
 <skt>śrīpadmanarteśvarīguhyārthadharavyūha-nāma</skt>
 <mng></mng>
@@ -3893,6 +3930,7 @@
 <item>
 <rktst>541</rktst>
 <tib>dpal rta mchog rol pa'i gsang ba'i don du rnam par dgod zhes bya ba</tib>
+<tib>dpal rta mchog rol pa'i gsang ba'i don rnam par dgod pa</tib>
 <skt>śrīsughoṭalalitagvhyārthadharavyūha-nāma</skt>
 <mng></mng>
 </item>
@@ -3913,6 +3951,7 @@
 
 <item>
 <rktst>544</rktst>
+<tib>sangs rgyas thams cad dang mnyam par sbyor ba'i tshogs kyi cho ga zhes bya ba</tib>
 <tib>sangs rgyas thams cad dang mnyam par sbyor ba'i tshogs kyi cho ga ces bya ba</tib>
 <skt>sarvabuddhasamayogagaṇavidhi-nāma</skt>
 <mng></mng>
@@ -3928,6 +3967,7 @@
 <item>
 <rktst>546</rktst>
 <tib>dpal rdo rje he ru ka'i sgrub pa'i thabs zhes bya ba</tib>
+<tib>dpal he ru ka'i sgrub pa'i thabs zhes bya ba</tib>
 <skt>śrīvajraherukasādhana-nāma</skt>
 <mng></mng>
 </item>
@@ -3955,6 +3995,7 @@
 
 <item>
 <rktst>550</rktst>
+<tib>dpal khrag 'thung chen po'i sgrub thabs yang dag par grub pa zhes bya ba</tib>
 <tib>dpal khrag 'thung chen po'i sgrub thabs yang dag grub pa zhes bya ba</tib>
 <skt>saṃsiddhimahāśrīherukopāyikā-nāma</skt>
 <mng></mng>
@@ -3962,6 +4003,7 @@
 
 <item>
 <rktst>551</rktst>
+<tib>rgyud kyi rgyal po dpal sangs rgyas thams cad dang mnyam par sbyor ba mkha' 'gro ma sgyu ma bde mchog ces bya ba'i dkyil 'khor gyi cho ga sems can thams cad kyi bde ba skyed ma zhes bya ba</tib>
 <tib>rgyud kyi rgyal po chen po dpal sangs rgyas thams cad dang mnyam par sbyor ba mkha' 'gro ma sgyu ma bde mchog ces bya ba'i dkyil 'khor gyi cho ga sems can thams cad kyi bde ba skyed ma zhes bya ba</tib>
 <skt>śrīsarvabuddhasamayogaḍākinījālaśambaramahātantrarāja-nāma-maṇḍalopāyikāsarvasattvasukhodayā-nāma</skt>
 <mng></mng>
@@ -3974,6 +4016,7 @@
 
 <item>
 <rktst>553</rktst>
+<tib>bcom ldan 'das dpal bde ba chen po rdo rjes sems dpa'i sgrub pa'i thabs</tib>
 <tib>bcom ldan 'das dpal bde ba chen po rdo rje sems dpa'i sgrub pa'i thabs</tib>
 <skt>bhagavacchrīmahāsukhavajrasattvasādhana</skt>
 <mng></mng>
@@ -3996,6 +4039,7 @@
 <item>
 <rktst>556</rktst>
 <tib>thugs rje chen po 'phags ma sgrol ma'i sgrub thabs spyi'i mngon par rtogs pa zhes bya ba</tib>
+<tib>sgrol ma'i sgrub thabs spyi'i mngon par rtogs pa</tib>
 <skt>mahākāruṇikāryatārāsādhanasāmānyābhisamaya-nāma</skt>
 <mng></mng>
 </item>
@@ -4003,6 +4047,8 @@
 <item>
 <rktst>557</rktst>
 <tib>lha mo sgrol ma'i bstod pa nyi shu rtsa gcig pa'i sgrub thabs zhes bya ba</tib>
+<tib>lha mo sgrol ma'i bstod pa nyi shu rtsa gcig pa'i sgrub thabs</tib>
+<tib>sgrol ma'i bstod pa nyi shu rtsa gcig pa'i sgrub thabs</tib>
 <skt>tārādevīstotra-ekaviṃśatikasādhana-nāma</skt>
 <mng></mng>
 </item>
@@ -4024,6 +4070,8 @@
 <item>
 <rktst>560</rktst>
 <tib>bcom ldan 'das ma lha mo sgrol ma la bstod pa nyi shu rtsa gcig pa'i sgrub thabs</tib>
+<tib>bcom ldan 'das ma sgrol ma la bstod pa nyi shu rtsa gcig pa'i sgrub thabs</tib>
+<tib>sgrol ma la bstod pa nyi shu rtsa gcig pa'i sgrub thabs</tib>
 <skt>bhagavatītārādevyekaviṃśatistotropāyikā</skt>
 <mng></mng>
 </item>
@@ -4031,6 +4079,7 @@
 <item>
 <rktst>561</rktst>
 <tib>lha mo sgrol ma nyi shu rtsa gcig la bstod pa rnam dag gtsug gi nor bu zhes bya ba</tib>
+<tib>sgrol ma nyi shu rtsa gcig la bstod pa rnam dag gtsug gi nor bu zhes bya ba</tib>
 <skt>devītāraikaviṃśatistotra-viśuddhacūḍāmaṇi-nāma</skt>
 <mng></mng>
 </item>
@@ -4094,6 +4143,7 @@
 <item>
 <rktst>570</rktst>
 <tib>log par blta ba sun dbyung ba</tib>
+<tib>log par lta ba sun dbyung ba</tib>
 <skt>kudṛṣṭidūṣaṇa</skt>
 <mng></mng>
 </item>
@@ -4128,6 +4178,7 @@
 
 <item>
 <rktst>575</rktst>
+<tib>'phags pa sgyu 'phrul drwa ba'i rim pas rje btsun sgrol ma'i sgrub thabs</tib>
 <tib>'phags pa sgyu 'phrul dra ba'i rim pas rje btsun sgrol ma'i sgrub thabs</tib>
 <skt>āryamāyājālakrameṇa bhaṭṭārikātārāsādhana</skt>
 <mng></mng>
@@ -4171,6 +4222,7 @@
 <item>
 <rktst>581</rktst>
 <tib>dpa' mo gcig pa'i rnal 'byor ma'i sgrub pa'i thabs zhes bya ba</tib>
+<tib>dpa' mo gcig pa'i rnal 'byor ma'i sgrub pa'i thabs</tib>
 <skt>ekavīrayoginīsādhana-nāma</skt>
 <mng></mng>
 </item>
@@ -4178,6 +4230,7 @@
 <item>
 <rktst>582</rktst>
 <tib>u rgyan gyi rim pa'i lha mo sgrol ma'i sgrub thabs zhes bya ba</tib>
+<tib>u rgyan gyi rim pa'i sgrol ma'i sgrub thabs zhes bya ba</tib>
 <skt>uḍḍiyānakramatārādevīsādhana-nāma</skt>
 <mng></mng>
 </item>
@@ -4191,7 +4244,7 @@
 
 <item>
 <rktst>584</rktst>
-<tib>zhing gi dbang phyug ma'i mchod pa'i rom pa</tib>
+<tib>zhing gi dbang phyug ma'i mchod pa'i rim pa</tib>
 <skt>piṭhīśvarīpūjākrama</skt>
 <mng></mng>
 </item>
@@ -4248,6 +4301,8 @@
 <item>
 <rktst>592</rktst>
 <tib>rje btsun Arya tA ra'i man ngag la brten nas 'chi ka ma'i nyams len</tib>
+<tib>'phags ma sgrol ma la bstod pa</tib>
+<tib>'chi ka ma'i nyams len</tib>
 <skt>āryatārābhaṭṭārikopadeśāśrayāsannamaraṇāmnāya</skt>
 <mng></mng>
 </item>
@@ -4276,6 +4331,7 @@
 <item>
 <rktst>596</rktst>
 <tib>sgrol ma khro mo la rtsa ba'i sngags kyis bstod pa zhes bya ba</tib>
+<tib>sgrol ma khro mo la rtsa ba'i sngags kyis bstod pa</tib>
 <skt>ugratārāmūlamantrastotra-nāma</skt>
 <mng></mng>
 </item>
@@ -4283,6 +4339,7 @@
 <item>
 <rktst>597</rktst>
 <tib>lha mo u gra ta ra'i sgrub thabs</tib>
+<tib>lha mo u gra tA ra'i sgrub thabs</tib>
 <skt>ugratārādevīsādhana</skt>
 <mng></mng>
 </item>
@@ -4305,6 +4362,7 @@
 <item>
 <rktst>600</rktst>
 <tib>sgrol ma khros pa'i ba ling gi gtor ma</tib>
+<tib>sgrol ma khros pa'i ba liM gi gtor ma</tib>
 <skt>krodhatārābalyupahāra</skt>
 <mng></mng>
 </item>
@@ -18220,6 +18278,7 @@
 <item>
 <rktst>2679</rktst>
 <tib>rdo rje phag mo don kun grub pa'i sgrub thabs zhes bya ba</tib>
+<tib>rdo rje phag mo don kun grub pa'i sgrub thabs</tib>
 <skt>sarvārthasādhakavajravārāhīsādhana-nāma</skt>
 <mng></mng>
 </item>
@@ -20879,6 +20938,7 @@
 
 <item>
 <rktst>3068</rktst>
+<tib>bdud rtsi 'od zer can zhes bya ba</tib>
 <tib>bdud rtsi 'od zer can</tib>
 <skt></skt>
 <mng></mng>
@@ -20886,6 +20946,7 @@
 
 <item>
 <rktst>3069</rktst>
+<tib>dpal rdo rje mkha' 'gro lus med pa'i chos zhes bya ba</tib>
 <tib>dpal mkha' 'gro lus med pa'i chos</tib>
 <skt></skt>
 <mng></mng>
@@ -20893,7 +20954,7 @@
 
 <item>
 <rktst>3070</rktst>
-<tib>dpal rdo rje mkha' 'gro malta sgom spyod gsum gyi brda bstan pa</tib>
+<tib>dpal rdo rje mkha' 'gro ma lta sgom spyod gsum gyi brda bstan pa</tib>
 <skt></skt>
 <mng></mng>
 </item>
@@ -26025,6 +26086,7 @@
 
 <item>
 <rktst>3792</rktst>
+<tib>phag mo'i srung ba'i 'khor lo</tib>
 <tib>phag mo bsrung ba'i 'khor lo</tib>
 <skt></skt>
 <mng></mng>
@@ -27859,3 +27921,4 @@
 </item>
 
 </outline>
+
