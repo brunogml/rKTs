@@ -6,7 +6,7 @@
 Some indications on the xml format:
 - UTF8 with no BOM
 - LF for new lines
-- format with `cat rkts.xml | xmllint --format - | sed -e 's/^[ ]*//;s/\<item\>/\<item\>\n/' | sponge rkts.xml`
+- format with `cat rkts.xml | xmllint --format - | sed -e 's/^[ ]*//;s/<item>/\n<item>/' | sponge rkts.xml`
 
 
 ### License
