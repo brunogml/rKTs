@@ -1,1 +1,0 @@
-from the Derge Edition
