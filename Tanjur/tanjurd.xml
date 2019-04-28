@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <outline>
 <name>Tanjur Derge</name>
 <creator type="hasScribe">Bruno Lainé</creator>
@@ -2632,7 +2632,7 @@
 </item>
 
 <item>
-<rktst>456</rktst>
+<rktst>4255</rktst>
 <ref>D1326</ref>
 <loc>rgyud 'grel, ta 279b5-281b7 (vol. 10)</loc>
 <tib>rdo rje sgrol ma'i sgrub thabs</tib>
@@ -3124,7 +3124,7 @@
 </item>
 
 <item>
-<rktst>80</rktst>
+<rktst>4265</rktst>
 <ref>D1367</ref>
 <loc>rgyud 'grel, pa 198b5-207a3 (vol. 14)</loc>
 <tib>sbyor ba yan lag drug pa zhes bya ba</tib>
@@ -5176,7 +5176,7 @@
 </item>
 
 <item>
-<rktst>165</rktst>
+<rktst>4267</rktst>
 <ref>D1537</ref>
 <loc>rgyud 'grel, za 112a1-117b2 (vol. 23)</loc>
 <tib>dpal bde mchog 'khor lo'i sbyin sreg gi cho ga</tib>
@@ -5860,7 +5860,7 @@
 </item>
 
 <item>
-<rktst>298</rktst>
+<rktst>4268</rktst>
 <ref>D1594</ref>
 <loc>rgyud 'grel, 'a 113a5-114a1 (vol. 24)</loc>
 <tib>rdo rje rnal 'byor ma la bstod pa</tib>
@@ -6004,7 +6004,7 @@
 </item>
 
 <item>
-<rktst/>
+<rktst></rktst>
 <ref>D1605</ref>
 <loc>rgyud 'grel, 'a 128b4-129b (vol. 24)</loc>
 <tib>rdo rje phag mo'i sgrub thabs</tib>
@@ -6165,7 +6165,7 @@
 <loc>rgyud 'grel, ya 150a1-152a5 (vol. 25)</loc>
 <tib>ye shes mkha' 'gro'i sgrub thabs</tib>
 <skttrans/>
-<coloph></coloph>
+<coloph/>
 <note/>
 <sv/>
 <sp/>
@@ -6177,7 +6177,7 @@
 <loc>rgyud 'grel, ya 152a5-152a6 (vol. 25)</loc>
 <tib></tib>
 <skttrans/>
-<coloph></coloph>
+<coloph/>
 <note/>
 <sv/>
 <sp/>
@@ -6532,7 +6532,7 @@
 </item>
 
 <item>
-<rktst>506</rktst>
+<rktst>4269</rktst>
 <ref>D1648</ref>
 <loc>rgyud 'grel, ya 312b4-314a7 (vol. 25)</loc>
 <tib>sgyu 'phrul chen mo'i sgrub thabs</tib>
@@ -8008,7 +8008,7 @@
 </item>
 
 <item>
-<rktst/>
+<rktst></rktst>
 <ref>D1770</ref>
 <loc>rgyud 'grel, sha 266b-267b (vol. 28)</loc>
 <tib>gtor ma'i cho ga</tib>
@@ -8068,7 +8068,7 @@
 </item>
 
 <item>
-<rktst>640</rktst>
+<rktst>4284</rktst>
 <ref>D1775</ref>
 <loc>rgyud 'grel, sha 269b6-270b2 (vol. 28)</loc>
 <tib>dpal nag po chen po la bstod pa</tib>
@@ -8116,7 +8116,7 @@
 </item>
 
 <item>
-<rktst>639</rktst>
+<rktst>4283</rktst>
 <ref>D1779</ref>
 <loc>rgyud 'grel, sha 273a6-274a6 (vol. 28)</loc>
 <tib>dpal nag po chen po la bstod pa rkang pa brgyad pa zhes bya ba</tib>
@@ -8193,7 +8193,7 @@
 <loc>rgyud 'grel, sa 284a1-2324a7 (vol. 29)</loc>
 <tib>le'u bco brgyad pa'i rgya cher 'grel pa</tib>
 <skttrans>aSh+Ta da sha pa Ta la bi sta [#]ra byA khyA</skttrans>
-<coloph></coloph>
+<coloph/>
 <note/>
 <sv/>
 <sp/>
@@ -8864,7 +8864,7 @@
 <ref>D1839a</ref>
 <loc>rgyud 'grel, chi 14a6-24a7 (vol. 37)</loc>
 <tib>rim pa lnga dang rnam par dag pa'i rim pa rnam par bshad pa</tib>
-<skttrans></skttrans>
+<skttrans/>
 <coloph/>
 <note/>
 <sv/>
@@ -9592,7 +9592,7 @@
 </item>
 
 <item>
-<rktst>651</rktst>
+<rktst>4285</rktst>
 <ref>D1900</ref>
 <loc>rgyud 'grel, pi 286b1-287a6 (vol. 44)</loc>
 <tib>sbyor ba yan lag drug pa zhes bya ba'i 'grel pa</tib>
@@ -9604,7 +9604,7 @@
 </item>
 
 <item>
-<rktst>80</rktst>
+<rktst>4266</rktst>
 <ref>D1901</ref>
 <loc>rgyud 'grel, pi 287a6-288b3 (vol. 44)</loc>
 <tib>sbyor ba yan lag drug pa zhes bya ba</tib>
@@ -10029,7 +10029,7 @@
 <loc>rgyud 'grel, mi 62a6-63a3 (vol. 47)</loc>
 <tib>dpal gshin rje gshed nag po'i sgrub pa'i thabs zhes bya ba</tib>
 <skttrans>kr-iSh+Na ya mA ri sA d+ha naM nA ma</skttrans>
-<coloph></coloph>
+<coloph/>
 <note/>
 <sv/>
 <sp/>
@@ -10041,7 +10041,7 @@
 <loc>rgyud 'grel, mi 63a3-64b5 (vol. 47)</loc>
 <tib>khro bo'i rgyal po gshin rje'i gshed nag po dus mthar phyin pa'i sgrub thabs zhes bya ba</tib>
 <skttrans>kr-iSh+Na ya mA ri kro d+ha rA dza ba tra sa ra sA d+ha naM nA ma</skttrans>
-<coloph></coloph>
+<coloph/>
 <note/>
 <sv/>
 <sp/>
@@ -10684,7 +10684,7 @@
 </item>
 
 <item>
-<rktst/>
+<rktst></rktst>
 <ref>D1989</ref>
 <loc>rgyud 'grel, mi 185b1-186a (vol. 47)</loc>
 <tib>rdo rje 'jigs byed kyi sgrub thabs</tib>
@@ -10804,7 +10804,7 @@
 </item>
 
 <item>
-<rktst>850</rktst>
+<rktst>4291</rktst>
 <ref>D1999</ref>
 <loc>rgyud 'grel, mi 201b3-203b7 (vol. 47)</loc>
 <tib>dpal rdo rje 'jigs byed kyi sgrub thabs</tib>
@@ -10905,7 +10905,7 @@
 <loc>rgyud 'grel, mi 214b7-218a2 (vol. 47)</loc>
 <tib>dpal rdo rje 'jigs byed chen po'i sgrub thabs</tib>
 <skttrans/>
-<coloph></coloph>
+<coloph/>
 <note/>
 <sv/>
 <sp/>
@@ -10936,7 +10936,7 @@
 </item>
 
 <item>
-<rktst>861</rktst>
+<rktst>4292</rktst>
 <ref>D2010</ref>
 <loc>rgyud 'grel, mi 219a7-219b2 (vol. 47)</loc>
 <tib>dpal rdo rje 'jigs byed kyi bstod pa</tib>
@@ -10948,7 +10948,7 @@
 </item>
 
 <item>
-<rktst>861</rktst>
+<rktst>4293</rktst>
 <ref>D2011</ref>
 <loc>rgyud 'grel, mi 219b2-220a5 (vol. 47)</loc>
 <tib>dpal rdo rje 'jigs byed kyi bstod pa</tib>
@@ -12028,7 +12028,7 @@
 </item>
 
 <item>
-<rktst>4019</rktst>
+<rktst>4282</rktst>
 <ref>D2100</ref>
 <loc>rgyud 'grel, tshi 129b7-130b7 (vol. 49)</loc>
 <tib>rmi lam brtag pa</tib>
@@ -12208,7 +12208,7 @@
 </item>
 
 <item>
-<rktst>512</rktst>
+<rktst>4270</rktst>
 <ref>D2115</ref>
 <loc>rgyud 'grel, tshi 155a2-156a1 (vol. 49)</loc>
 <tib>bdun tshigs kyi cho ga</tib>
@@ -12328,7 +12328,7 @@
 </item>
 
 <item>
-<rktst>973</rktst>
+<rktst>4298</rktst>
 <ref>D2125</ref>
 <loc>rgyud 'grel, tshi 171b1-172a7 (vol. 49)</loc>
 <tib>dpal bcom ldan 'das ral pa gcig pa'i sgrub thabs</tib>
@@ -13689,7 +13689,7 @@
 <loc>rgyud 'grel, wi 113b6-114a3 (vol. 51)</loc>
 <tib>dga' gcugs lnga pa</tib>
 <skttrans>pri Na pany+tsa ka</skttrans>
-<coloph></coloph>
+<coloph/>
 <note/>
 <sv/>
 <sp/>
@@ -14452,7 +14452,7 @@
 </item>
 
 <item>
-<rktst>1127</rktst>
+<rktst>4306</rktst>
 <ref>D2301</ref>
 <loc>rgyud 'grel, zhi 228b7-230a6 (vol. 52)</loc>
 <tib>do ha mdzod</tib>
@@ -15016,7 +15016,7 @@
 </item>
 
 <item>
-<rktst>1181</rktst>
+<rktst>4307</rktst>
 <ref>D2355</ref>
 <loc>rgyud 'grel, zi 6b1-6b4 (vol. 53)</loc>
 <tib>sa ra ha'i glu</tib>
@@ -16444,7 +16444,7 @@
 </item>
 
 <item>
-<rktst>471</rktst>
+<rktst>4264</rktst>
 <ref>D2474</ref>
 <loc>rgyud 'grel, zi 155a-156b (vol. 53)</loc>
 <tib>dbang gi rim pa mdor bsdus pa</tib>
@@ -17289,7 +17289,7 @@
 <loc>rgyud 'grel, ngu 13b6-14b2 (vol. 65)</loc>
 <tib>'phags pa 'jam dpal zhes bya ba'i sgrub pa'i thabs</tib>
 <skttrans/>
-<coloph></coloph>
+<coloph/>
 <note/>
 <sv/>
 <sp/>
@@ -17301,43 +17301,43 @@
 <loc>rgyud 'grel, ngu 14b2-15a5 (vol. 65)</loc>
 <tib>'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i dkyil 'khor gyi cho ga zhes bya ba</tib>
 <skttrans>Ar+ya many+dzu shrI nA ma sang+gI ti bi d+hi maN+Dal nA ma</skttrans>
-<coloph></coloph>
+<coloph/>
 <note/>
 <sv/>
 <sp/>
 </item>
 
 <item>
-<rktst>1368</rktst>
+<rktst>4308</rktst>
 <ref>D2544b</ref>
 <loc>rgyud 'grel, ngu 15a5-16a5 (vol. 65)</loc>
 <tib>'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i dkyil 'khor gyi cho ga zhes bya ba</tib>
 <skttrans>Ar+ya many+dzu shrI nA ma sing+gA ti maN+Da la bi d+hi nA ma</skttrans>
-<coloph></coloph>
+<coloph/>
 <note/>
 <sv/>
 <sp/>
 </item>
 
 <item>
-<rktst>1368</rktst>
+<rktst>4309</rktst>
 <ref>D2545</ref>
 <loc>rgyud 'grel, ngu 16a5-16b7 (vol. 65)</loc>
 <tib>'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i dkyil 'khor gyi cho ga zhes bya ba</tib>
 <skttrans/>
-<coloph></coloph>
+<coloph/>
 <note/>
 <sv/>
 <sp/>
 </item>
 
 <item>
-<rktst>1368</rktst>
+<rktst>4310</rktst>
 <ref>D2545a</ref>
 <loc>rgyud 'grel, ngu 17a1-17b2 (vol. 65)</loc>
 <tib>'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i dkyil 'khor gyi cho ga zhes bya ba</tib>
 <skttrans>Ar+ya many+dzu shrI nA ma sang+gI ti bid+hi maN+Da la nA ma</skttrans>
-<coloph></coloph>
+<coloph/>
 <note/>
 <sv/>
 <sp/>
@@ -17740,7 +17740,7 @@
 </item>
 
 <item>
-<rktst>958</rktst>
+<rktst>4294</rktst>
 <ref>D2579</ref>
 <loc>rgyud 'grel, ngu 59a3-70b2 (vol. 65)</loc>
 <tib>'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i sgrub thabs</tib>
@@ -17980,7 +17980,7 @@
 </item>
 
 <item>
-<rktst>958</rktst>
+<rktst>4295</rktst>
 <ref>D2599</ref>
 <loc>rgyud 'grel, cu 63a2-67a2 (vol. 66)</loc>
 <tib>'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i sgrub thabs zhes bya ba</tib>
@@ -17992,7 +17992,7 @@
 </item>
 
 <item>
-<rktst>958</rktst>
+<rktst>4296</rktst>
 <ref>D2600</ref>
 <loc>rgyud 'grel, cu 67a2-68b5 (vol. 66)</loc>
 <tib>'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i sgrub thabs</tib>
@@ -18220,7 +18220,7 @@
 </item>
 
 <item>
-<rktst>958</rktst>
+<rktst>4297</rktst>
 <ref>D2619</ref>
 <loc>rgyud 'grel, cu 92a3-109a2 (vol. 66)</loc>
 <tib>'phags pa 'jam dpal gyi mtshan yang dag par brjod pa'i sgrub thabs zhes bya ba</tib>
@@ -21417,7 +21417,7 @@
 <loc>rgyud 'grel, nu 219b5-221a3 (vol. 73)</loc>
 <tib>dpal phyag na rdo rje'i spur gsad las tshogs bsdus pa zhes bya ba</tib>
 <skttrans/>
-<coloph></coloph>
+<coloph/>
 <note/>
 <sv/>
 <sp/>
@@ -21429,7 +21429,7 @@
 <loc>rgyud 'grel, nu 221a3-221a5 (vol. 73)</loc>
 <tib>klu 'bros pa'i sngags</tib>
 <skttrans/>
-<coloph></coloph>
+<coloph/>
 <note/>
 <sv/>
 <sp/>
@@ -21472,7 +21472,7 @@
 </item>
 
 <item>
-<rktst>1692</rktst>
+<rktst>4311</rktst>
 <ref>D2884</ref>
 <loc>rgyud 'grel, nu 226b1-227b1 (vol. 73)</loc>
 <tib>phyag na rdo rje sgrub pa'i thabs zhes bya ba</tib>
@@ -21592,7 +21592,7 @@
 </item>
 
 <item>
-<rktst>1711</rktst>
+<rktst>4312</rktst>
 <ref>D2894</ref>
 <loc>rgyud 'grel, nu 244a5-246b5 (vol. 73)</loc>
 <tib>phyag na rdo rje'i dkyil 'khor gyi cho ga</tib>
@@ -21633,7 +21633,7 @@
 <loc>rgyud 'grel, nu 250a6-250b1 (vol. 73)</loc>
 <tib>sbyin sreg gi dus su bstod pa</tib>
 <skttrans/>
-<coloph></coloph>
+<coloph/>
 <note/>
 <sv/>
 <sp/>
@@ -22180,7 +22180,7 @@
 </item>
 
 <item>
-<rktst>1732</rktst>
+<rktst>4313</rktst>
 <ref>D2942</ref>
 <loc>rgyud 'grel, pu 16a6-23b4 (vol. 74)</loc>
 <tib>rdo rje rnam par 'joms pa'i dkyil 'khor gyi cho ga zhes bya ba</tib>
@@ -23512,7 +23512,7 @@
 </item>
 
 <item>
-<rktst>994</rktst>
+<rktst>4299</rktst>
 <ref>D3053</ref>
 <loc>rgyud 'grel, pu 105b6-107b2 (vol. 74)</loc>
 <tib>rta mgrin gyi sgrub thabs</tib>
@@ -23524,7 +23524,7 @@
 </item>
 
 <item>
-<rktst>994</rktst>
+<rktst>4300</rktst>
 <ref>D3054</ref>
 <loc>rgyud 'grel, pu 107b2-108a2 (vol. 74)</loc>
 <tib>rta mgrin gyi sgrub thabs zhes bya ba</tib>
@@ -23536,7 +23536,7 @@
 </item>
 
 <item>
-<rktst>994</rktst>
+<rktst>4301</rktst>
 <ref>D3055</ref>
 <loc>rgyud 'grel, pu 108a2-108a7 (vol. 74)</loc>
 <tib>rta mgrin gyi sgrub thabs zhes bya ba</tib>
@@ -23548,7 +23548,7 @@
 </item>
 
 <item>
-<rktst>994</rktst>
+<rktst>4302</rktst>
 <ref>D3056</ref>
 <loc>rgyud 'grel, pu 108a7-109b4 (vol. 74)</loc>
 <tib>rta mgrin gyi sgrub thabs zhes bya ba</tib>
@@ -23608,7 +23608,7 @@
 </item>
 
 <item>
-<rktst>1883</rktst>
+<rktst>4314</rktst>
 <ref>D3061</ref>
 <loc>rgyud 'grel, pu 116b6-117b7 (vol. 74)</loc>
 <tib>khro bo'i rgyal po 'phags pa mi g.yo ba la bstod pa</tib>
@@ -23800,12 +23800,12 @@
 </item>
 
 <item>
-<rktst>1894</rktst>
+<rktst>4315</rktst>
 <ref>D3076a</ref>
 <loc>rgyud 'grel, pu 172a2-172b2 (vol. 74)</loc>
 <tib>mchod rten bye ba gdab pa'i cho ga</tib>
 <skttrans/>
-<coloph></coloph>
+<coloph/>
 <note/>
 <sv/>
 <sp/>
@@ -23848,7 +23848,7 @@
 </item>
 
 <item>
-<rktst>1898</rktst>
+<rktst>4316</rktst>
 <ref>D3080</ref>
 <loc>rgyud 'grel, pu 176a3-176b4 (vol. 74)</loc>
 <tib>mchod rten lnga gdab pa'i cho ga</tib>
@@ -23872,7 +23872,7 @@
 </item>
 
 <item>
-<rktst>1899</rktst>
+<rktst>4317</rktst>
 <ref>D3082</ref>
 <loc>rgyud 'grel, pu 177a6-177b6 (vol. 74)</loc>
 <tib>gtsug tor dri ma med pa'i gzungs kyi cho ga</tib>
@@ -25252,7 +25252,7 @@
 </item>
 
 <item>
-<rktst>456</rktst>
+<rktst>4256</rktst>
 <ref>D3197</ref>
 <loc>rgyud 'grel, phu 203b7-206a1 (vol. 75)</loc>
 <tib>rdo rje sgrol ma'i sgrub thabs</tib>
@@ -25264,7 +25264,7 @@
 </item>
 
 <item>
-<rktst>456</rktst>
+<rktst>4257</rktst>
 <ref>D3198</ref>
 <loc>rgyud 'grel, phu 206a1-208a6 (vol. 75)</loc>
 <tib>rdo rje sgrol ma'i sgrub thabs</tib>
@@ -25276,7 +25276,7 @@
 </item>
 
 <item>
-<rktst>594</rktst>
+<rktst>4274</rktst>
 <ref>D3199</ref>
 <loc>rgyud 'grel, phu 208a6-208b4 (vol. 75)</loc>
 <tib>'phags ma sgrol ma'i sgrub thabs</tib>
@@ -25288,7 +25288,7 @@
 </item>
 
 <item>
-<rktst>1995</rktst>
+<rktst>4318</rktst>
 <ref>D3200</ref>
 <loc>rgyud 'grel, phu 208b4-208b6 (vol. 75)</loc>
 <tib>gdams ngag gi khyad par</tib>
@@ -25336,7 +25336,7 @@
 </item>
 
 <item>
-<rktst>2023</rktst>
+<rktst>4322</rktst>
 <ref>D3204</ref>
 <loc>rgyud 'grel, phu 210b5-211a4 (vol. 75)</loc>
 <tib>sgrol ma dkar mo'i sgrub thabs</tib>
@@ -25348,7 +25348,7 @@
 </item>
 
 <item>
-<rktst>2023</rktst>
+<rktst>4323</rktst>
 <ref>D3205</ref>
 <loc>rgyud 'grel, phu 211a4-211b3 (vol. 75)</loc>
 <tib>sgrol ma dkar mo'i sgrub thabs</tib>
@@ -25420,7 +25420,7 @@
 </item>
 
 <item>
-<rktst>1995</rktst>
+<rktst>4319</rktst>
 <ref>D3211</ref>
 <loc>rgyud 'grel, phu 217a3-217a5 (vol. 75)</loc>
 <tib>gdams ngag gi khyad par</tib>
@@ -25708,7 +25708,7 @@
 </item>
 
 <item>
-<rktst>1995</rktst>
+<rktst>4320</rktst>
 <ref>D3235</ref>
 <loc>rgyud 'grel, bu 8b1-8b3 (vol. 76)</loc>
 <tib>gdams ngag gi khyad par</tib>
@@ -25876,7 +25876,7 @@
 </item>
 
 <item>
-<rktst>599</rktst>
+<rktst>4277</rktst>
 <ref>D3247</ref>
 <loc>rgyud 'grel, bu 12b4-13b3 (vol. 76)</loc>
 <tib>ral gcig ma'i sgrub thabs</tib>
@@ -26212,7 +26212,7 @@
 </item>
 
 <item>
-<rktst>1995</rktst>
+<rktst>4321</rktst>
 <ref>D3275</ref>
 <loc>rgyud 'grel, bu 26a2-26a4 (vol. 76)</loc>
 <tib>gdams ngag gi khyad par</tib>
@@ -26236,7 +26236,7 @@
 </item>
 
 <item>
-<rktst>994</rktst>
+<rktst>4303</rktst>
 <ref>D3277</ref>
 <loc>rgyud 'grel, bu 26a5-26b3 (vol. 76)</loc>
 <tib>rta mgrin gyi sgrub thabs</tib>
@@ -26428,7 +26428,7 @@
 </item>
 
 <item>
-<rktst>441</rktst>
+<rktst>4251</rktst>
 <ref>D3293</ref>
 <loc>rgyud 'grel, bu 35a6-35b3 (vol. 76)</loc>
 <tib>bdag med ma'i sgrub thabs</tib>
@@ -26440,7 +26440,7 @@
 </item>
 
 <item>
-<rktst>441</rktst>
+<rktst>4252</rktst>
 <ref>D3294</ref>
 <loc>rgyud 'grel, bu 35b3-35b7 (vol. 76)</loc>
 <tib>bdag med ma'i sgrub thabs</tib>
@@ -26824,7 +26824,7 @@
 </item>
 
 <item>
-<rktst>785</rktst>
+<rktst>4286</rktst>
 <ref>D3326</ref>
 <loc>rgyud 'grel, mu 20b6-21a5 (vol. 77)</loc>
 <tib>gshin rje gshed nag po'i sgrub thabs</tib>
@@ -26836,7 +26836,7 @@
 </item>
 
 <item>
-<rktst>785</rktst>
+<rktst>4287</rktst>
 <ref>D3327</ref>
 <loc>rgyud 'grel, mu 21a5-21b7 (vol. 77)</loc>
 <tib>gshin rje gshed nag po'i sgrub pa'i thabs</tib>
@@ -26956,7 +26956,7 @@
 </item>
 
 <item>
-<rktst>2023</rktst>
+<rktst>4324</rktst>
 <ref>D3337</ref>
 <loc>rgyud 'grel, mu 27b3-28a2 (vol. 77)</loc>
 <tib>sgrol ma dkar mo'i sgrub pa'i thabs</tib>
@@ -26980,7 +26980,7 @@
 </item>
 
 <item>
-<rktst>2023</rktst>
+<rktst>4325</rktst>
 <ref>D3339</ref>
 <loc>rgyud 'grel, mu 28a6-29a1 (vol. 77)</loc>
 <tib>sgrol ma dkar mo'i sgrub pa'i thabs</tib>
@@ -27400,7 +27400,7 @@
 </item>
 
 <item>
-<rktst>456</rktst>
+<rktst>4258</rktst>
 <ref>D3374</ref>
 <loc>rgyud 'grel, mu 49b1-51b3 (vol. 77)</loc>
 <tib>rdo rje sgrol ma'i sgrub thabs</tib>
@@ -27628,7 +27628,7 @@
 </item>
 
 <item>
-<rktst>441</rktst>
+<rktst>4253</rktst>
 <ref>D3393</ref>
 <loc>rgyud 'grel, mu 57a3-57a7 (vol. 77)</loc>
 <tib>bdag med ma'i sgrub pa'i thabs</tib>
@@ -27688,7 +27688,7 @@
 </item>
 
 <item>
-<rktst>2023</rktst>
+<rktst>4326</rktst>
 <ref>D3398</ref>
 <loc>rgyud 'grel, mu 58b7-59b7 (vol. 77)</loc>
 <tib>sgrol ma dkar mo'i sgrub thabs</tib>
@@ -28744,7 +28744,7 @@
 </item>
 
 <item>
-<rktst>456</rktst>
+<rktst>4259</rktst>
 <ref>D3486</ref>
 <loc>rgyud 'grel, mu 132b3-134b1 (vol. 77)</loc>
 <tib>rdo rje sgrol ma'i sgrub thabs</tib>
@@ -28756,7 +28756,7 @@
 </item>
 
 <item>
-<rktst>456</rktst>
+<rktst>4260</rktst>
 <ref>D3487</ref>
 <loc>rgyud 'grel, mu 134b1-136b3 (vol. 77)</loc>
 <tib>rdo rje sgrol ma'i sgrub thabs</tib>
@@ -28768,7 +28768,7 @@
 </item>
 
 <item>
-<rktst>456</rktst>
+<rktst>4261</rktst>
 <ref>D3488</ref>
 <loc>rgyud 'grel, mu 136b3-137a7 (vol. 77)</loc>
 <tib>rdo rje sgrol ma'i sgrub thabs</tib>
@@ -28780,7 +28780,7 @@
 </item>
 
 <item>
-<rktst>456</rktst>
+<rktst>4262</rktst>
 <ref>D3489</ref>
 <loc>rgyud 'grel, mu 137a7-139b5 (vol. 77)</loc>
 <tib>rdo rje sgrol ma'i sgrub thabs</tib>
@@ -28792,7 +28792,7 @@
 </item>
 
 <item>
-<rktst>456</rktst>
+<rktst>4263</rktst>
 <ref>D3490</ref>
 <loc>rgyud 'grel, mu 139b5-144b6 (vol. 77)</loc>
 <tib>rdo rje sgrol ma'i sgrub thabs</tib>
@@ -28876,7 +28876,7 @@
 </item>
 
 <item>
-<rktst>2023</rktst>
+<rktst>4327</rktst>
 <ref>D3497</ref>
 <loc>rgyud 'grel, mu 150b3-151a1 (vol. 77)</loc>
 <tib>sgrol ma dkar mo'i sgrub thabs</tib>
@@ -29080,7 +29080,7 @@
 </item>
 
 <item>
-<rktst>599</rktst>
+<rktst>4278</rktst>
 <ref>D3514</ref>
 <loc>rgyud 'grel, mu 159b6-162b3 (vol. 77)</loc>
 <tib>ral pa gcig ma'i sgrub thabs</tib>
@@ -29092,7 +29092,7 @@
 </item>
 
 <item>
-<rktst>599</rktst>
+<rktst>4279</rktst>
 <ref>D3515</ref>
 <loc>rgyud 'grel, mu 162b3-163b1 (vol. 77)</loc>
 <tib>ral pa gcig ma'i sgrub thabs</tib>
@@ -29116,7 +29116,7 @@
 </item>
 
 <item>
-<rktst>599</rktst>
+<rktst>4280</rktst>
 <ref>D3517</ref>
 <loc>rgyud 'grel, mu 164a5-164b1 (vol. 77)</loc>
 <tib>ral pa gcig ma'i sgrub thabs</tib>
@@ -29128,7 +29128,7 @@
 </item>
 
 <item>
-<rktst>599</rktst>
+<rktst>4281</rktst>
 <ref>D3518</ref>
 <loc>rgyud 'grel, mu 164b1-165a1 (vol. 77)</loc>
 <tib>ral pa gcig ma'i sgrub thabs</tib>
@@ -30364,7 +30364,7 @@
 </item>
 
 <item>
-<rktst>994</rktst>
+<rktst>4304</rktst>
 <ref>D3621</ref>
 <loc>rgyud 'grel, mu 242a4-242b1 (vol. 77)</loc>
 <tib>rta mgrin gyi sgrub thabs</tib>
@@ -30448,7 +30448,7 @@
 </item>
 
 <item>
-<rktst>785</rktst>
+<rktst>4288</rktst>
 <ref>D3628</ref>
 <loc>rgyud 'grel, mu 246a7-246b7 (vol. 77)</loc>
 <tib>gshin rje gshed nag po'i sgrub thabs</tib>
@@ -30460,7 +30460,7 @@
 </item>
 
 <item>
-<rktst>785</rktst>
+<rktst>4289</rktst>
 <ref>D3629</ref>
 <loc>rgyud 'grel, mu 246b7-247b4 (vol. 77)</loc>
 <tib>gshin rje gshed nag po'i sgrub thabs</tib>
@@ -30472,7 +30472,7 @@
 </item>
 
 <item>
-<rktst>785</rktst>
+<rktst>4290</rktst>
 <ref>D3630</ref>
 <loc>rgyud 'grel, mu 247b4-248a6 (vol. 77)</loc>
 <tib>gshin rje gshed nag po'i sgrub thabs</tib>
@@ -30592,7 +30592,7 @@
 </item>
 
 <item>
-<rktst>441</rktst>
+<rktst>4254</rktst>
 <ref>D3640</ref>
 <loc>rgyud 'grel, mu 253a2-253a6 (vol. 77)</loc>
 <tib>bdag med ma'i sgrub thabs</tib>
@@ -30688,7 +30688,7 @@
 </item>
 
 <item>
-<rktst>2469</rktst>
+<rktst>4330</rktst>
 <ref>D3648</ref>
 <loc>rgyud 'grel, mu 260b5-261b2 (vol. 77)</loc>
 <tib>'phags pa byams pa'i sgrub thabs</tib>
@@ -30832,7 +30832,7 @@
 </item>
 
 <item>
-<rktst>4110</rktst>
+<rktst>4329</rktst>
 <ref>D3660</ref>
 <loc>rgyud 'grel, mu 265a1-265a7 (vol. 77)</loc>
 <tib>lha mo 'od zer can gyi sgrub thabs</tib>
@@ -30849,7 +30849,7 @@
 <loc>rgyud 'grel, mu 265a7-265b6 (vol. 77)</loc>
 <tib>lha mo 'od zer can gyi sgrub thabs</tib>
 <skttrans/>
-<coloph></coloph>
+<coloph/>
 <note/>
 <sv/>
 <sp/>
@@ -30860,8 +30860,8 @@
 <ref>D3661a</ref>
 <loc>rgyud 'grel, mu 265b6-267a2 (vol. 77)</loc>
 <tib>lha mo 'od zer can gyi sgrub thabs</tib>
-<skttrans></skttrans>
-<coloph></coloph>
+<skttrans/>
+<coloph/>
 <note/>
 <sv/>
 <sp/>
@@ -31000,7 +31000,7 @@
 </item>
 
 <item>
-<rktst>2023</rktst>
+<rktst>4328</rktst>
 <ref>D3673</ref>
 <loc>rgyud 'grel, mu 286a7-287a2 (vol. 77)</loc>
 <tib>sgrol ma dkar mo'i sgrub thabs</tib>
@@ -31120,7 +31120,7 @@
 </item>
 
 <item>
-<rktst>594</rktst>
+<rktst>4275</rktst>
 <ref>D3683</ref>
 <loc>rgyud 'grel, mu 313b7-314a3 (vol. 77)</loc>
 <tib>'phags ma sgrol ma'i sgrub thabs</tib>
@@ -31180,7 +31180,7 @@
 </item>
 
 <item>
-<rktst>562</rktst>
+<rktst>4271</rktst>
 <ref>D3688</ref>
 <loc>rgyud 'grel, mu 323a1-323b2 (vol. 77)</loc>
 <tib>'phags ma sgrol ma la bstod pa</tib>
@@ -31192,7 +31192,7 @@
 </item>
 
 <item>
-<rktst>594</rktst>
+<rktst>4276</rktst>
 <ref>D3689</ref>
 <loc>rgyud 'grel, mu 323b2-324b7 (vol. 77)</loc>
 <tib>'phags ma sgrol ma'i sgrub thabs</tib>
@@ -31240,7 +31240,7 @@
 </item>
 
 <item>
-<rktst>562</rktst>
+<rktst>4272</rktst>
 <ref>D3693</ref>
 <loc>rgyud 'grel, mu 327a4-327b4 (vol. 77)</loc>
 <tib>'phags ma sgrol ma la bstod pa</tib>
@@ -31252,7 +31252,7 @@
 </item>
 
 <item>
-<rktst>562</rktst>
+<rktst>4273</rktst>
 <ref>D3694</ref>
 <loc>rgyud 'grel, mu 327b4-328a2 (vol. 77)</loc>
 <tib>'phags ma sgrol ma la bstod pa</tib>
@@ -31912,7 +31912,7 @@
 </item>
 
 <item>
-<rktst>2565</rktst>
+<rktst>4331</rktst>
 <ref>D3749</ref>
 <loc>rgyud 'grel, tshu 84b2-84b7 (vol. 79)</loc>
 <tib>'phags pa rmugs 'dzin la bstod pa</tib>
@@ -32920,7 +32920,7 @@
 </item>
 
 <item>
-<rktst>1092</rktst>
+<rktst>4305</rktst>
 <ref>D3833</ref>
 <loc>mdo 'grel (dbu ma), tsa 137b-138a (vol. 96)</loc>
 <tib>theg pa chen po nyi shu pa</tib>
@@ -37084,7 +37084,7 @@
 </item>
 
 <item>
-<rktst>3299</rktst>
+<rktst>4332</rktst>
 <ref>D4178</ref>
 <loc>mdo 'grel (spring yig), nge 34b-35b (vol. 173)</loc>
 <tib>mi dge ba bcu'i las kyi lam bstan pa</tib>
@@ -39772,7 +39772,7 @@
 </item>
 
 <item>
-<rktst>3734</rktst>
+<rktst>4333</rktst>
 <ref>D4401</ref>
 <loc>mdo 'grel (bstan bcos sna tshogs), nyo 339b7-340a7 (vol. 207)</loc>
 <tib>bde legs kyi tshigs su bcad pa</tib>
