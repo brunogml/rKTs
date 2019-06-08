@@ -18,9 +18,12 @@ The tags used in the xml files of the `Kanjur/`, `Tanjur/` and `Tantra/` folder 
 - `<coltitle>` is the title of the text as indicated in the colophon
 - `<author>` is the name of the author as appearing in the colophon of the edition (can appear multiple times)
 - `<translator>` idem with the translator
+- `<translator2>` idem with the translator of the second translation
 - `<revisor>` idem with the person involved in the first revision
 - `<revisor2>` idem with the person involved in the second revision
+- `<revisor3>` idem with the person involved in the third revision
 - `<translationplace>` the place where the translation occured according to the colophon of the edition
+- `<revisionplace>` the place where the translation occured according to the colophon of the edition
 - `<note>` a note, in English
 
 #### Kernel
