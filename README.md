@@ -33,7 +33,12 @@ The tags used in the xml files of the `Kanjur/`, `Tanjur/` and `Tantra/` folder 
 
 TODO
 
-### File format
+### Policy choices
+
+- in edition files, when a title in an edition ends with `bzhugs` or `bzhugs so`, it is omitted from the title
+- in edition files, when a title contains `zhes bya ba` it is kept
+
+### File format details
 
 Some indications on the xml format:
 - UTF8 with no BOM
