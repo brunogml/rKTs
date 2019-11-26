@@ -11,6 +11,12 @@ The tags used in the xml files of the `Kanjur/`, `Tanjur/` and `Tantra/` folder 
 - `<rkts>` (resp. `rktst`, `rktsg`), indicating that the text is a manifestation / expression of a text in the Kernel. For instance `<rkts>1</rkts>` in `Kanjur/derge.xml` indicates that the text in the Derge edition is a manifestation of the text with ID `1` in the Kernel file
 - `<ref>` indicates the reference number of the text in the edition. It is unique and prefixed by one or several letter corresponding to the sigla of the edition (see [list of siglas](https://www.istb.univie.ac.at/kanjur/rktsneu/sigla/)). When catalogs of the edition are available, they are used as the source of these reference numbers.
 - `<loc>` indicates the location of the text in the edition. Its format varies a bit from file to file (TBD)
+ (will be adapted to the following pattern 
+ `<loc>`
+ `<vol>` volume name (ex:'dul ba, ka)
+ `<voln>` volume number in the collection 
+ `<volBDRC>` BDRC volume number
+ `<p>` begin-end (ex: 1b1-462a8)
 - `<tib>` is the Tibetan title indicated in the incipit of the text in the edition, transliterated in EWTS
 - `<skttrans>` idem with the Sanskrit title
 - `<zhtrans>` idem with the Chinese title
