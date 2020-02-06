@@ -10,6 +10,7 @@
 <loc><vol>'dul ba ka</vol><voln>1</voln><json>2KG209863</json><p>1b1-431a7</p></loc>
 <loc><vol>'dul ba kha</vol><voln>2</voln><json>2KG209864</json><p>1b1-415a7</p></loc>
 <loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>1b1-436a7</p></loc>
+<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>1b1-408a7</p></loc>
 <tib>'dul ba gzhi</tib>
 <skttrans>bi na ya ba stu</skttrans>
 <bampo>1.<loc><vol>'dul ba ka</vol><voln>1</voln><json>2KG209863</json><p>1b2-21a2</p></loc></bampo>
@@ -67,46 +68,99 @@
 <bampo>53.<loc><vol>'dul ba kha</vol><voln>2</voln><json>2KG209864</json><p>376b5-390b4</p></loc></bampo>
 <bampo>54.<loc><vol>'dul ba kha</vol><voln>2</voln><json>2KG209864</json><p>390b4-402b5</p></loc></bampo>
 <bampo>55.<loc><vol>'dul ba kha</vol><voln>2</voln><json>2KG209864</json><p>402b5-415a7</p></loc></bampo>
-<bampo>56.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>1b1-16a1</p></loc></bampo>
-<bampo>57.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>16a1-30a6</p></loc></bampo>
-<bampo>58.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>30a6-43b3</p></loc></bampo>
-<bampo>59.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>43b3-57b3</p></loc></bampo>
-<bampo>60.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>57b3-72b1</p></loc></bampo>
-<bampo>61.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>72b1-87a6</p></loc></bampo>
-<bampo>62.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>87a6-104a3</p></loc></bampo>
-<bampo>63.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>104a3-119a2</p></loc></bampo>
-<bampo>64.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>119a2-131a1</p></loc></bampo>
-<bampo>65.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>131a1-144a7</p></loc></bampo>
-<bampo>66.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>144a7-158a1</p></loc></bampo>
-<bampo>67.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>158a1-170b1</p></loc></bampo>
-<bampo>68.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>170b1-186a3</p></loc></bampo>
-<bampo>69.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>186a3-199b7</p></loc></bampo>
-<bampo>70.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>199b7-216a3</p></loc></bampo>
-<bampo>71.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>216a3-235a5</p></loc></bampo>
-<bampo>72.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>235a5-251a1</p></loc></bampo>
-<bampo>73.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>251a1-266a2</p></loc></bampo>
-<bampo>74.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>266a2-281a6</p></loc></bampo>
-<bampo>75.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>281a6-298b6</p></loc></bampo>
-<bampo>76.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>298b6-314b3</p></loc></bampo>
-<bampo>77.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>314b3-332b2</p></loc></bampo>
-<bampo>78.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>332b2-349b7</p></loc></bampo>
-<bampo>79.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>349b7-367b6</p></loc></bampo>
-<bampo>80.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>367b6-386a2</p></loc></bampo>
-<bampo>81.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>386a2-402a7</p></loc></bampo>
-<bampo>82.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>402a7-419a6</p></loc></bampo>
-<bampo>83.<loc><vol>'dul ba ga</vol><voln>36</voln><json>2KG209865</json><p>419a6-436a7</p></loc></bampo>
+<bampo>56.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>1b1-16a1</p></loc></bampo>
+<bampo>57.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>16a1-30a6</p></loc></bampo>
+<bampo>58.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>30a6-43b3</p></loc></bampo>
+<bampo>59.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>43b3-57b3</p></loc></bampo>
+<bampo>60.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>57b3-72b1</p></loc></bampo>
+<bampo>61.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>72b1-87a6</p></loc></bampo>
+<bampo>62.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>87a6-104a3</p></loc></bampo>
+<bampo>63.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>104a3-119a2</p></loc></bampo>
+<bampo>64.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>119a2-131a1</p></loc></bampo>
+<bampo>65.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>131a1-144a7</p></loc></bampo>
+<bampo>66.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>144a7-158a1</p></loc></bampo>
+<bampo>67.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>158a1-170b1</p></loc></bampo>
+<bampo>68.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>170b1-186a3</p></loc></bampo>
+<bampo>69.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>186a3-199b7</p></loc></bampo>
+<bampo>70.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>199b7-216a3</p></loc></bampo>
+<bampo>71.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>216a3-235a5</p></loc></bampo>
+<bampo>72.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>235a5-251a1</p></loc></bampo>
+<bampo>73.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>251a1-266a2</p></loc></bampo>
+<bampo>74.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>266a2-281a6</p></loc></bampo>
+<bampo>75.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>281a6-298b6</p></loc></bampo>
+<bampo>76.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>298b6-314b3</p></loc></bampo>
+<bampo>77.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>314b3-332b2</p></loc></bampo>
+<bampo>78.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>332b2-349b7</p></loc></bampo>
+<bampo>79.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>349b7-367b6</p></loc></bampo>
+<bampo>80.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>367b6-386a2</p></loc></bampo>
+<bampo>81.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>386a2-402a7</p></loc></bampo>
+<bampo>82.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>402a7-419a6</p></loc></bampo>
+<bampo>83.<loc><vol>'dul ba ga</vol><voln>3</voln><json>2KG209865</json><p>419a6-436a7</p></loc></bampo>
+<bampo>84.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>1b1-19b3</p></loc></bampo>
+<bampo>85.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>19b3-34b5</p></loc></bampo>
+<bampo>86.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>34b5-49a2</p></loc></bampo>
+<bampo>87.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>49a2-65a6</p></loc></bampo>
+<bampo>88.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>65a6-81b7</p></loc></bampo>
+<bampo>89.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>81b7-99a5</p></loc></bampo>
+<bampo>90.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>99a5-115b4</p></loc></bampo>
+<bampo>91.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>115b4-132a7</p></loc></bampo>
+<bampo>92.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>132a7-150b5</p></loc></bampo>
+<bampo>93.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>150b5-166b7</p></loc></bampo>
+<bampo>94.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>166b7-182b5</p></loc></bampo>
+<bampo>95.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>182b5-197b6</p></loc></bampo>
+<bampo>96.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>197b6-213b7</p></loc></bampo>
+<bampo>97.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>213b7-229a1</p></loc></bampo>
+<bampo>98.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>229a1-243b3</p></loc></bampo>
+<bampo>99.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>243b3-260a5</p></loc></bampo>
+<bampo>100.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>260a5-276b1</p></loc></bampo>
+<bampo>101.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>276b1-292a2</p></loc></bampo>
+<bampo>102.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>292a2-306b4</p></loc></bampo>
+<bampo>103.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>306b4-322b6</p></loc></bampo>
+<bampo>104.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>322b6-337a4</p></loc></bampo>
+<bampo>105.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>337a4-351b5</p></loc></bampo>
+<bampo>106.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>351b5-367a2</p></loc></bampo>
+<bampo>107.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>367a2-382b7</p></loc></bampo>
+<bampo>108.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>382b7-396b2</p></loc></bampo>
+<bampo>109.<loc><vol>'dul ba nga</vol><voln>4</voln><json>2KG209866</json><p>396b2-408a7</p></loc></bampo>
 <chap><p></p></chap>
+<coloph>'dul ba'i gzhi rdzogs so// //kha che'i mkhan po sarba dz+nyA na de ba dang/ rgya gar gyi mkhan po bidya ka ra pra b+ha dang/  kha che' mkhan po d+harma ka ra dang/ lo tsa ba ban d+he dpal gyi lhun pos bsgyur/ rgya gar gyi mkhan po badyi ka ra pra b+ha dang/ zhu chen gyi lo tsa ba ban d+he dpal brtsegs kyis zhus te gtan la phab pa'o// //thub dbang zla ba'i zhal nas byung gyur pa/ /gsung gi me tog char pa yid 'od rnams/ /lha ba dan zlog snyi ba med pa yi/ /ran gzhan yun ring skyed dgu'i nang gnas shog/</coloph>
+<note></note>
+</item>
+
+<item>
+<rkts>2</rkts>
+<ref>Ty005-001</ref>
+<loc><vol>'dul ba ca</vol><voln>5</voln><json>2KG209867</json><p>1b1-30a7</p></loc>
+<tib>so sor thar pa'i mdo</tib>
+<skttrans>prA ti mo k+sha sU tra</skttrans>
+<bampo>1.<loc><vol>'dul ba ca</vol><voln>5</voln><json>2KG209867</json><p>1b2-16b6</p></loc></bampo>
+<bampo>2.<loc><vol>'dul ba ca</vol><voln>5</voln><json>2KG209867</json><p>16b6-30a7</p></loc></bampo>
+<chap><p></p></chap>
+<coloph>'dul ba so sor thar pa'i mdo rdzogs so// //dbang phyug dam pa'i mnga' bdag dpal lha btsan pa'i bka' lung gis/ 'phags pa gzhi thams cad yod par smra ba'i 'dul ba 'dzin pa kha che'i bye brag tu smra ba'i slong dpon dzi na mi tra dang/ zhu chen gyi lo tsa ba ban+d+he klu'i rgyal mtshan gyis bsgyur cing zhus te gtan la phab pa/ 'di la sho lo ka bdun brgya yod/ bam po ni gnyis su byas pa/ 'dul ba lung gzhan dag ka bka' lung so sor thar pa bzhengs pa mi snang mod kyi/ 'on kyang 'dr gtso bor dge slong pha'i dgag ppa'i slab pa rgyas par ston pa/ dge slong pha'i rnam par 'byed pa'i rtsa ba lta bu yin la/ lung rnam par 'byed pa nnin 'grel pa yin pas/ dge slong pha'i so sor thar pa'i mdo 'di yang lung rnam par 'byed pa'i dbu nyid tu bris so</coloph>
+<note></note>
+</item>
+
+<item>
+<rkts>3</rkts>
+<ref>Ty002-002</ref>
+<loc><vol></vol><voln>5</voln><json>2KG209867</json><p>30a7-</p></loc>
+<tib>'dul ba rnam par 'byed pa</tib>
+<skttrans>bi na ya bi b+hang ga</skttrans>
+<bampo>1.<loc><vol></vol><voln>5</voln><json>2KG209867</json><p>30b1-</p></loc></bampo>
+<chap><p></p></chap>
+<coloph></coloph>
 <note></note>
 </item>
 
 <item>
 <rkts></rkts>
-<ref>Ty001-001</ref>
-<loc><vol></vol><voln>1</voln><json>2KG209863</json><p>1b1-</p></loc>
+<ref>Ty002-001</ref>
+<loc><vol></vol><voln>5</voln><json>2KG209867</json><p>1b1-</p></loc>
 <tib></tib>
 <skttrans></skttrans>
 <bampo><p></p></bampo>
 <chap><p></p></chap>
+<coloph></coloph>
 <note></note>
 </item>
 
