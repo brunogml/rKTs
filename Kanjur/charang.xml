@@ -1,217 +1,1491 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <outline>
 <name>Charang</name>
-<creator type="hasScribe">Bruno Lainé</creator>
+<creator type="hasScribe">Helmut Tauscher</creator>
 
 <item>
-<rkts>981</rkts>
-<ref>Ch1.1</ref>
-<loc>ka ?-140a1</loc>
+<rkts>417</rkts>
+<rkts>418</rkts>
+<ref>Cx01.1</ref>
+<loc>rgyud Ka 1b1?-42a4</loc>
 <tib></tib>
-<skttrans>-</skttrans>
-<coloph></coloph>
-<note>Beginning missing (13a). Text found in the Tanjur</note>
-<chap>4. tshong dgond kyi skyes pa'i rabs ste bzhi pa (14a8)</chap>
-<chap>5. tshong dphon zild kyis ma nond oa'i skyis pa'i rabs ste lnga pa (17a4)</chap>
-<chap>6. ri bong gi skyes pa'i rabs te drug pa (20a6)</chap>
-<chap>7. a gas sta'i skyes pa'i rabs ste bdun pa (25a7)</chap>
-<chap>8. byams pa'i stobs kyi skyes pa'i rabs te brgyad pa (32a1)</chap>
-<chap>9. thams cad sgrol gyi skyes pa'i rabs ste dgu pa (42b2)</chap>
-<chap>10. mchod sbyin kyi skyes pa rabs te bcu pa (46a5)</chap>
-<chap>11. brgya byin gyi skyes pa'i rabs te bcu gcig pa (48a3)</chap>
-<chap>12. bram ze skyes pa'i rabs ste bcu gnyis pa (50a5)</chap>
-<chap>13. myos byeng ma'i skyes pa'i rabs ste bdu gsum pa (55a1)</chap>
-<chap>14. legs par pha rold tu phyind pa'i skyes pa'i rabs ste bcu bzhi pa (59b7)</chap>
-<chap>15. nya'i skyes pa'i rabs ste bco lnga pa (61b5)</chap>
-<chap>16. bya sreg pa'i phru gu'i rabs ste bcu drug pa (62b8)</chap>
-<chap>17. bum pa'i skyes pa'i rabs ste bcu bdun pa (65b6)</chap>
-<chap>18. rgyal rigs phyug po'i skyes pa'i rabs ste bco brgyad pa (68a2)</chap>
-<chap>19. pad ma'i rtsa ba skyes pa'i rabs ste bcu dgu pa (72b1)</chap>
-<chap>21. gtsug pud byang chub kyi skyes pa'i rabs ste nyi zhu cig pa (79b8)</chap>
-<chap>23. byang chub chen po'i skyes pai rabs te nyi shu gsum pa (91b4)</chap>
-<chap>24. spre'u chen po'i skyes pa'i rabs ste nyi shu bzhi pa (96a3)</chap>
-<chap>25. re dags sha ra bha'i skyes pa'i rabs ste nyi shu lnga pa (99a8)</chap>
-<chap>28. bzod par smra ba'i skyes pa'i rabs ste nyi shu brgyad pa (112a4)</chap>
-<chap>29. tshangs pa'i skyes pa'i rabs te nyi shu dgu pa (117a1)</chap>
-<chap>30. glang po che'i skyes pa'i rabs ste gsum bcu pa (122a1)</chap>
-<chap>31. su da sa'i skyes pa'i rabs ste sum bcu rtsa gcig pa (129a7)</chap>
-<chap>32. lcags kyi khyim na skyes pa'i rabs ste sum bcu rtsa gnyis pa (134b4)</chap>
-<chap>33. ma he'i skyes pa'i skyes pa'i rabs ste sum bcu rtsa gsum pa (136b6)</chap>
-<chap>34. mya shing ... che'i skyes pa'i rabs ste gsum bcu rtsa bzhi (140a1)</chap>
-<bampo>6. 68a2</bampo>
-<bampo>7. 80a1</bampo>
-<bampo>9. 96a3</bampo>
-<bampo>11. 117a2</bampo>
-<bampo>12. 129a7</bampo>
+<skttrans></skttrans>
+<coloph>brtag pa gnyis kyi kye'i rdo rje mkha' 'gro ma dra ba'i sdom pa rgyud kyi rgyal po chen po rdzogs s+ho// // //rgya gar gyi mkhan po g+ha ya d+ha ri zhal snga nas kyang / dge slong shAkya ye shes kyis bsgyur cing zhus te gtan la phab pa//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>fol. 1-35a missing, probably containing the equivalent of 417 and the beginning of 418 combined in one text, cf. Eimer 1999, n.10; 1 miniature on 42a</note>
 </item>
+D 417+418, Nga.1+2 1b1-13b5+13b5-30a3; Mu Ka.1; Do  ; X Da.4A+B 
 
 <item>
-<rkts>353</rkts>
-<ref>Ch1.2</ref>
-<loc>ka 140b1-264a</loc>
-<tib>thabs mkhas pa chen po sangs rgyas drin lan bsab pa'i mdo</tib>
-<skttrans>da'i phang byan phhur po'u in kying sU phim de'i iyr</skttrans>
-<coloph></coloph>
-<note>Very end missing</note>
-<chap>1. gleng gzhi'i le'u ste damg po (152b3)</chap>
-<chap>2. sri shu'i le'u zhes bya ste gnyis pa (160b5)</chap>
-<chap>3. gnyen po'i le'i ste gsum pa (173b6)</chap>
-<chap>4. byang chub sems dpa'i le'u zhes bya ste bzhi pa (177a6)</chap>
-<chap>5. bstan chos kyi le'u zhes bya ste lnga pa (187a2</chap>
-<chap>6. ngan don gyi le'u zhes bya ste drug pa (206a3)</chap>
-<chap>7. snying rje'i le'u zhes bya ste bdun pa (220b5)</chap>
-<bampo>1. 140b1</bampo>
-<bampo>2. 160b5</bampo>
-<bampo>3. 177a7</bampo>
-<bampo>4. 187a3</bampo>
-<bampo>5. 206a4</bampo>
-<bampo>6. 120b5</bampo>
-<bampo>7. 246a1</bampo>
+<rkts>419</rkts>
+<ref>Cx01.2</ref>
+<loc>rgyud Ka 42a4-84b8</loc>
+<tib>'phags pa mkha' 'gro ma rdo rje gur zhes bya ba brgyud kyi rgyal po chen po'i brtag pa</tib>
+<skttrans>arya DA ki ni badz+ra paN+dza ra mahA tan+t+ra ra dza kal+pa nA mA</skttrans>
+<coloph>'phags pa mkha' 'gro ma'i dra ba rdo rje gur rgyud kyi rgyal po chen po'i brtag pa rdzogs s+ho//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
 </item>
+D 419, Nga.3 30a4-65b7; Mu Ka.2; Do ; X Cha.10
 
 <item>
-<rkts>107</rkts>
-<ref>Ch2.1</ref>
-<loc>Ka ? - Kha 34b</loc>
+<rkts>420</rkts>
+<ref>Cx01.3</ref>
+<loc>rgyad Ka 84b8-115b4</loc>
+<tib>dpal phyag rgya chen po'i thig le zhes bgyi rnal 'byor ma chen mo'i rgyud kyi rgyal po'i mnga' bdag</tib>
+<skttrans>shri mahA mu tra ti la kaM na ma maha yo gi ni tan tra ra dza a thIM ra dzaM</skttrans>
+<coloph>dpal phyag rgya chen po'i thig le rnal 'byor ma chen mo'i rgyud kyi rgyal po'i mnga' bdag zhes bya ba rdzogs s+ho// //rgya gar gyi slob dpon rnal 'byor gyi dbang phyug chen po shes rab dpal gsang ba'i zhal sngar/ kam chos kyi ye shes dang/ phyag mtshams dgra bcoM gyis dad cing gus pas zhus te bsgyur cing gtan la phab pa//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 420, Nga.4 66a1-90b7; Mu Ka.3; Do ; X Pa.0 1 fol, Ba.8
+
+<item>
+<rkts>421</rkts>
+<ref>Cx01.4</ref>
+<loc>rgyud Ka 115b4-122b3</loc>
+<tib>dpal ye shes snying po zhes bya ba rnal 'byor ma chen mo rgyud kyi rgyal po</tib>
+<skttrans>shrI dz+nya na gar b+ha nA mahA yo ki ni mahA tan t+ra rA dza ya de rA dza</skttrans>
+<coloph>dpal ye shes snying po zhes bya ba'i rnal 'byor ma chen mo'i rgyud kyi rgyal po'i rgyal po/ rdzogs s+ho// //rgya gar gyi mkhan po dpal shes rab gsang pa'i zhal lnga nas bsgyur ba'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 421, Nga.5 91a1-96b6; Mu Ka.4; Do; X Ba.9
+
+<item>
+<rkts>422</rkts>
+<ref>Cx01.5</ref>
+<loc>rgyud Ka 122b3-170b7</loc>
+<tib>dpal ye shes thig le rnal 'byor ma'i rgyud kyi rgyal po chen po mchog tu rmad du byung ba zhes bya ba</tib>
+<skttrans>shrI dz+nyA na ti la ka yo ki ni tan tra rA dza pa ra ma mahA aM b+hu taM na ma</skttrans>
+<coloph>dpal ye shes thig le rnal 'byor ma'i rgyud kyi rgyal po chen po rdzogs s+ho// //rgya gar gyi mkhan po chen po shri dz+nya gu pa tas bsgyur cing/ zhus te gtan la phab pa/ slad kyis dpal sa skya'i dben gnas su legs par zhus dag go/ /dge'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 422, Nga.6 96b6-136b4; Mu Ka.5; Do ; X Ba.17
+
+<item>
+<rkts>423</rkts>
+<ref>Cx01.6</ref>
+<loc>rgyud Ka 170b7-179a2</loc>
+<tib>dpal de kho na nyid kyi sgron ma zhes bya ba rnal 'byor chen mo'i rgyud kyi rgyal po</tib>
+<skttrans>shri twad pra ti paM na mahA yo gi tan tra ra dza</skttrans>
+<coloph>dpal rnal 'byor ma chen mo'i rgyud kyi rgyal po'i rgyal po mchog chen po rmad du byung zhing rmad du byung ba de kho na nyid kyi sgron ma zhes bya ba rdzogs s+ho// //rgya gar gyi mkhan po chen po prad nya shri g+hu pa tas bsgyur cing zhus te/ gtan la phab pa/ dus phyis dpal sa skya'i dben gnas su shAkya'i btsun pa slob dpon dpal rin grogs mched gnyis pos zhus te dag par byas so// //dge bo/ dag go//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 423, Nga.7 136b5-142b7; Mu Ka.6; Do ; X Na/Ba.3-4, A.3
+
+<item>
+<rkts>new</rkts>
+<rkts>382</rkts>
+<ref>Cx01.7</ref>
+<loc>rgyud Ka 179a2-316a8</loc>
+<tib>rgyud thams cad kyi gling bzhi gsang ba dpal yang dag par sbyor ba'i mtshan nyid zhes bya ba'i rgyud chen po</tib>
+<skttrans>sar+ba tan+t+ra ni dA na ra s+ye shri saM pu Ti ud b+ha ba lakA NaM na ma mahA tan tra</skttrans>
+<coloph>rgyud kyi rgyal po chen po chen po dpal yang dag par sbyor ba'i thig le zhes bya ba rdzogs s+ho// //rgya gar gyi mkhan po ka yasta bag+ha ya d+ha ra'i zhal snga nas dang/ bod kyi lo tsa ba dge slong shA kya yai shes kyis bsgyur cing zhus nas gtan la phab pa'o// slad nas yang bod kyi lo tsa ba gzhan rnams/ gzhan gyis sbgyur ba la zur mi 'dra bar bcos nas/ rang gi ming bcug cing gzhan gyi ming phye ba de dag dang/ mi shes pa de dag sun dbyung pa'i phyir/ slad nas yang rgya gar gyi rgyud bzhi dang/ dge slong shAkya ye shes de nyid kyis btugs nas/ bcos te gtan la phab pa'o// //dpal ldan sa skya dam pa'i chos 'byung ba'i gtsug lag khang du/ shAkya'i btsun pa dpal ldan rin chen gyis rnam yeng le 'e spangs nas dag par zhus pa lags so/ dge'o//</coloph>
+<bampo><p></p></bampo>
+<chap>rgyud thams cad kyi gleng gzhi gzang ba/ dpal yang dag par sbyor ba las byung ba'i rtag pa'i rgyal po ste dang po rdzogs s+ho//<p>191b1</p></chap>
+<chap>rgyud thams cad kyi gleng bzhi gsang ba dpal yang dag par sbyor ba las byung ba las/ brtag pa'i rgyal po gnyis pa'o//<p>202a3</p></chap>
+<chap>dpal yang dag par sbyor ba las byung ba ste/ brtag pa'i rgyal po gsum pa'o//<p>211b2</p></chap>
+<chap>rgyud thams cad kyi gsang pa dpal yang dag par sbyor ba las byung ba rdo rje mkha' 'gro ma'i brda' ste/ brtag pa'i rgyal po bzhi pa'o//<p>214b8</p></chap>
+<chap>dpal yang dag par sbyor ba las/ byung ba las spyod pa'i brtag pa ste lnga pa'o//<p>223a7</p></chap>
+<chap>yang dag par sbyor ba'i rgyud chen po las/ byung ba'i dpyid kyi thig le zhes bya ba'i rtag pa'i rgyal po ste/ drug pa'o//<p>233b2</p></chap>
+<chap>dpal yang dag par byung ba'i rgyud chen po las thams cad kyi bsam gtan 'byung ba zhes bya ba rtag pa'i rgyal po ste bdun pa rdzogs s+ho//<p>266a3</p></chap>
+<chap>dpal yang dag par sbyor ba las byung ba bya ba thams cad yang dag par 'byung ba'i rtag pa'i rgyal po ste brgyad pa rdzogs s+ho//<p>273b1</p></chap>
+<chap>dpal yang dag par sbyor ba las byung ba/ /bya ba bzhi'i de kho na'i rgyal po ste/ brtag pa dgu pa'o//<p>280a2</p></chap>
+<chap>rgyud thams cad kyi gleng gzhi dpal yang dag par sbyor ba las byung ba de kho na nyid thams cad kyi gleng bzhi brtag pa'i rgyal po chen po ste/ bcu pa rdzogs s+ho//<p>283b5</p></chap>
+<note>text divided in later times: chap 1-10 - preserved only in X Cha.5, and 283b5-end = rkts 382</note>
+</item>
+X Cha.5; 283b5-end = D 382, Ga 158b7-184a7 and X Ba.4 ca. gleich lang wie D; Mu Ka.7 ?
+283b/ph 266/4ff.: rgyud thams cad kyi gleng gzhi dpal yang dag par sbyor ba las byung ba de kho na nyid thams cad kyi gleng bzhi brtag pa'i 
+rgyal po chen po ste/ bcu pa rdzogs s+ho// 
+//de nas byang chub sems dpa' chen po rdo rje snying po lasogs pas yang mchod pa byas nas/ phyag 'tshal te/ 'di skad ces gsol to/ 
+/thig le thig le dag gi don/ /gtan phab yang dag gsal gsungs na/ ...
+X Ka.7 266b1ff.: Titel, ... phyag 'thsal lo; dann gleich - mit Varianten
+the colophon, except the last sentence,equals that of D382, X Ba.4 has only the first sentence; X Cha.5 ganz anders !!
+
+<item>
+<rkts>368</rkts>
+<ref>Cx02.1</ref>
+<loc>rgyud Kha 1b1-40b4</loc>
+<tib>rgyud kyi rgyal po bde mchog nyung ngu zhes bya ba</tib>
+<skttrans>tan t+ra rA dza sh+ri la gha sam bA ra na ma</skttrans>
+<coloph>rdzogs+ho// dge'o// //rgya gar gyi mkhan po pad ma ka ra bar ma dang/ zhu chen gyi lo tsa ba ban d+he rin chen bzang pos bsgyur cing zhus te gtan la phab pa/ slad kyis pan Ti ta chen po su ma ti kIr ti dang/ lo tsha ba mal ban d+he blo gros grags kyis zhus te gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap>dpal 'khor lo sdom pa zhes bya ba'i rnal 'byor chen po'i rgyud kyi rgyal po las/ le'u lnga bcu rtsa gcig pa'o// <p>40b2f.</p></chap>
+<note></note>
+</item>
+title chapter-ending: he ru ka mngon par brjod pa, dpal he ru ka mngon par brjod pa,
+dpal 'khor lo sdom pa, dpal 'khor lo sdom pa zhes bya ba'i rnal 'byor chen po'i rgyud kyi rgyal po, chap. 51
+	D368, Ka.9 213b1-246b7; Mu Kha.1; X Ka.1
+
+<item>
+<rkts>369</rkts>
+<ref>Cx02.2</ref>
+<loc>rgyud Kha 40b4-187b4</loc>
+<tib>nges par brjod pa'i rgyud bla ma'i bla ma zhes bya ba'i rgyud kyi rgyal po chen po</tib>
+<skttrans>a bi da nod ta ra tan t+ra nA ma mahA tan t+ra ra dza</skttrans>
+<coloph>nges par brjod pa'i rgyud bla ma'i bla ma zhes bya ba'i rgyud kyi rgyal po chen po rdzogs s+ho// sngon byung brnyas min bla ma'i bka' bskul phyir/ /mkhas mchog ku ma ra dang lo tsha ba/ /dge slong byang chub shes rab ces bya bas/ /bcos sgyur gtan la phab la mkhas/ /mchog 'di la ni bzod pa mdzod/ /rgya gar gyi mkhan po chen po dpal dz+nya ni sh+ri dang/ dge slong blo gros snying po dang/ dge slong rab bzhis bcos nas gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+title chapter-ending: nges par brjod pa'i rgyud bla ma'i bla ma, nges par brjod pa'i rgyud bla ma'i yang bla ma
+title gleich Mu, X, Ma
+D369, Ka.10 247a1-307a7; Mu Kha.2; X Ka.2
+Colphon!!
+
+<item>
+<rkts>375</rkts>
+<ref>Cx02.3</ref>
+<loc>rgyud Kha 187b5-200b4</loc>
+<tib>rnal 'byor ma kun du spyod pa</tib>
+<skttrans>yo gi ni san tsar+ya</skttrans>
+<coloph>rnal 'byor ma kun du spyod pa'i rgyud rdzogs s+ho//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item> 
+title chapter-ending: ... 'byor ma'i ... 5 mal von 17
+D375, Ga.2 34a1-44b5; Mu Kha.3; X Ka.10, Ga.7 ... 'byor ma'i ...
+
+<item>
+<rkts>374</rkts>
+<ref>Cx02.4</ref>
+<loc>rgyud Kha 200b4-239b</loc>
+<tib>dpal khrag 'thung mngon par 'byung ba zhes bya ba</tib>
+<skttrans>sh+ri he ru ka ya b+hud+h+ya ya na ma</skttrans>
+<coloph>dpal khrag 'thung mngon par 'byung ba/ rnal 'byor ma'i rgyud kyi rgyal po zhes bya ba rdzogs s+ho// //rgya gar gyi mkhan po pan Ti ta chen po a twa bdz+ra dang/ bod kyi lo tsha ba la bcings yon tan 'bar gyis zhus te/ gtan la phab pa'o// //dge'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D374, Ga.1 1b1-33b7; Mu Kha.4; X Ka.11
+
+<item>
+<rkts>372</rkts>
+<ref>Cx02.5</ref>
+<loc>rgyud Kha 240a1-398a8</loc>
+<tib>dpal mkha' 'gro rgya mtsho rnal 'byor ma'i rgyud kyi rgyal po chen po zhes bya ba</tib>
+<skttrans>shri DA kA r+N+N ba mahA yo gi nI tan tra ra dza nA ma</skttrans>
+<coloph>dpal mkha' 'gro rgya mtsho rnal 'byor ma'i rgyud kyi rgyal po chen po las/ /rgya mtsho drug lasogs pa la rnal 'byor dang/ shos dang sdom pa dang bya ba dang de kho na nyid rgya mtshor gyur pa dang mkha' 'gro rgya mtsho las/ 'di rnams mi mnyam pa'i rgyud kyi rgyal po chen po zhes bya ba rdzogs s+ho// dpal bal yul grub pa'i gnas chen yu tung lhun gyis grub pa'i gtsug lag khang chen por rgya gar gyi pan Ti ta chen po rdo rje slob dpon rtog ge pa rnams kyi gtsug gi nor bu dus ding sang 'gran zla med pa snying rje chen pos thugs brlan pa'i ngang tshul can phyogs sna tshogs nas 'dus pa'i skye 'gro rnams la chos dang zang zing gi char gyis tshim par mdzad pa dpal rdo rje phag mo'i zhabs kyi chu skyes kyi rdul la reg pa shA kya'i sras po rgyal ba'i zhal snga nas bod kyi lo tsha ba shAkya'i dge slong d+har+ma yon gyis mnyan cing bsgyur ba'o// //phyis gang zag chos kyi spyan can dpal mchog dang po'i rdo rje'i bka'i tshul dang yang btun te zhus gtugs legs par byas so/ /mkha' mnyam bde rdzogs sna tshogs sprul pa sangs rgyas rnams kyi sku/ /des gsungs dri med sna tshogs gdul bya'i bsam dbang gis/ /gsung gcig gis kyang sna tshogs don mang ston pas dpyad pa dka'/ /de ltar yin yang ji ltar mi bdag shing rta cher zhugs nas/ /g.yul ngor 'jug dus rkang gis bgrod rnams 'thab par mi brtson nam/ /de bzhin sngon gyi mkhas pa chen po rnams kyis rjes 'brangs nas/ /kho bos gzhan don nus min na'ang phan pa'i bsam pas bsgyur/ /'di la gzhung dang bla ma rang gi blo gros skyon gyis ni/ /sgra don 'gal 'gyur bcom ldan dpa' bo rnal 'byor ma rnams dang/ /mkha' 'gro'i tshogs dang bstan dga'i lha rnams mkhas pa rnams kyis bzod par rigs/ /'di las thob pa'i dge ba dri med cung zad des/ /'gro kun rdo rje 'chang gi go 'phang thob gyur cig/ bdag gis srol btod tsam 'di la/ /sgra don 'jug pa mkhyen rnams kyi/ /srang gnyis smra bas gzigs pa na/ /skyon du gyur snang bcos par zhu/ /phrag dog sgo nas mi bya zhing//rjesu yid rang ba yang mdzod//rdzogs s+h+yo// </coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>fol. 240a: space for 2 miniatures; 240b blank; Eimer 1999 gives D 370 !?</note>
+</item>
+D 372, Kha.2 137a1-264b7; S 337, Kha.1; Mu Ga.1; X Ga.1, Na.2; dupl. Ga.1
+col Na.2 kürzer und mit Abweichungen; not in D; F, V, Z leicht anders; alle checken
+
+<item>
+<rkts>372</rkts>
+<ref>Cx03.1</ref>
+<loc>rgyud Ga 1b1-138b5</loc>
+<tib>dpal mkha' 'gro rgya mtsho rnal 'byor ma'i rgyud kyi rgyal po zhes bya ba</tib>
+<skttrans>shrI DA kA r+N+N ba mahA yo gi ni tan tra rA dza nA ma</skttrans>
+<coloph>dpal mkha' 'gro rgya mtsho rnal 'byor ma'i rgyud kyi rgyal po chen po las/ /rgya mtsho drug las+wogs pa la rnal 'byor dang ye shes dang sdom pa dang bya ba dang mkha' de kho na nyid rgya 'tshor gyur ba dang mkha' 'gro rgya mtsho las/ 'di rnams mi mnyam pa'i rgyud kyi rgyal po chen po zhes bya ba// //rdzogs so// dpal bal yul grub pa'i gnas chen yu tung lhun gyis grub pa'i gtsug lag khang chen por rgya rag gyi paN Ti ta chen po rdo rje slob dpon rtog ge ba rnams kyi gtsug gi nor bu dus ding sang 'gran pa med pa snying rje chen pos thugs brlan pa'i ngang tshul can phyogs sna tshogs nas 'dus pa'i skye 'gro rnams la chos dang zang zing gi char gyis tshim par mdzad pa dpal rdo rje phag mo'i zhabs kyi chu skyes kyi rdul la reg pa shA kya'i sras po rgyal ba'i zhal mnga' nas// bod kyi lo tstsha ba shAkya'i dge slong d+ha rma yon tan gyis mnyan cing bsgyur ba'o// //phyis gang zag chos kyi spyan can dpal mchog dang po'i rdo rje'i bka'i tshul dang yang bstun te/ /zhus gtugs legs par byas so/ /mkha' mnyam bde rdzogs sna tshogs sprul pa sangs rgyas rnams kyi sku/ /des gsungs dri med sna tshogs gdul bya'i bsam dbang gis/ /gsung gcig gis kyang sna tshogs don mang ston pas dpyad pa dka'/ de ltar yin yang ji ltar mi bdag shing rta cher zhugs nas/ /g.yul ngor 'jug dus rkang gis bgrod rnams 'thab par mi brtson nam/ /de bzhin sngon gyi mkhas pa chen po rnams kyi rjes 'brangs nas/ /kho bos gzhan don dus min na'ang phan pa'i bsam pas bsgyur/ /'di la gzhung dang bla ma rang gi blo gros skyon gyis ni/ /sgra don 'gal 'gyur bcom ldan dpa' bo rnal 'byor ma rnams dang/ /mkha' 'gro'i tshogs dang bstan dga'i lha rnams mkhas pa rnams kyis bzod par rigs/ /'di las thob pa'i dge ba dri med cung zad des/ /'gro kun rdo rje 'chang gi go 'phang thob gyur cig/ /bdag gis srol btod tsam 'di la/ /sgra don 'jug pa mkhyen rnaMs kyi/ /skad gnyis smra bas gzigs pa na/ /skyon du gyur snang bcos par zhu/ /phrag dog sgo nas mi bya zhing/ /rjes su yid rang ba yang mdzod//  rdzogs so//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>Eimer 1999 gives D 370 !?</note>
+</item>
+D 372, Kha.2 137a1-264b7; S 337, Kha.1; Mu Ga.1; X Ga.1, Na.2; dupl. Kha.5
+
+<item>
+<rkts>373</rkts>
+<ref>Cx03.2</ref>
+<loc>rgyud Ga 138b5-185b8</loc>
+<tib>dpal bde mchog sdoM byung ba zhes bya ba</tib>
+<skttrans>shrI mahA saM b+ha rO dA ya tan+t+ra rA dza s+ya nA ma</skttrans>
+<coloph>dpal he ru ka mngon par brjod pa'i rgyud chen po 'bum phrag gsum pa las// lhan cig skyes pa 'byung ba'i rtog pa las btus pa rnal 'byor thams cad kyi gsang ba// klags pas 'grub pa dpal sdom pa 'byung ba'i rgyud kyi rgyal po rdzogs s+h+yo// //rgya gar gyi mkhan po gzhan la phan pa mtha' yas dang// rgyus ban de smon lam grags kyis bsgyur ba// shes rab dman zhing sbyangs pa chung mod kyi// rgyud kyi gzhung la dad pa brtan pa skyes pas// rang don tsaM du bsgyur b gang lags pa// 'phags dang mkhas pa rnams kyis bzod par mdzod// </coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 373, Kha.3 265a1-311a6; Mu Nga.1; X Ga.2
+
+<item>
+<rkts>380</rkts>
+<ref>Cx03.3</ref>
+<loc>186a1-186b7</loc>
 <tib></tib>
-<skttrans>-</skttrans>
-<coloph>'phags pa lang kar gshegs pa'i theg pa chen po'i mdo ci snyed pa ni// rdzos s+ho</coloph>
-<note>Beginning missing (2a).</note>
-<chap>1. 'bod grogs kyis gsol ba btab pa'i le'u ste dang po (9a6)</chap>
-<chap>2. chos thams cad bsdus pa zhes bya ba le'u gnyis pa (53a5)</chap>
-<chap>3. myi rtag pa'i le'u ste gsum pa (81a5)</chap>
-<chap>4. mngon par rtogs pa'i le'u ste bzhi pa (83b1)</chap>
-<chap>5. de bzhin gshegs pa rtag pa dang myi rtag par 'gyur ba zhes bya ba'i le'u ste lnga pa (84b3)</chap>
-<chap>5a. skad cig ma'i le'u ste lnga (92b7)</chap>
-<chap>6. sha myi bza' ba'i le'u ste drug (99a8)</chap>
-<bampo>2. 14b3</bampo>
-<bampo>3. 27a7</bampo>
-<bampo>4. 41b7</bampo>
-<bampo>5. 54b8</bampo>
-<bampo>6. 70b2</bampo>
-<bampo>7. 86b3</bampo>
-<bampo>9, 100a5</bampo>
-<bampo>10. 115a5</bampo>
+<skttrans></skttrans>
+<coloph>rig pa 'dzin ma'i rdo rje rnal 'byor ma'i sgrub pa'i thabs so// rgya gar mkhas pa chen po dza ya'i zhabs dang/ btsun pa dar ma yon tan gyis sgyur ba'o// me tris phyung ba yin gsunng ngo// las dang po pa yin zhes spros pa la dga' na/ oM shrI he ru ka zhes pa nas hri ta yaM zhes pa yan chad kyi sngags kyang bzlas// chang dang sha dang zan lasogs pa'i gtor ma yang bsham la lag pa g.yon pas reg la yig gsum ji tsaM 'dod par bzlas pas bdud tsir bsams la// mkha' 'gro ma rnams mngon gsum du dmigs la// sngags rnams kyis bdul gzhan du na mi dgos so// go cha yang de dang de'i gnas su reg cing brjod pa lam// yang na brjod pa tsam mo// metri ba/ mA ma a/ shakya rak+Shi te/ ka na ka shrI/ dza yA se na/ des phyis rgya gar du byon nas bla ma a/ nyid la gsan no gsung ngo// lo ke sh+wa ra/ sa ba ri/ ma tri ba/ ka ma la badz+ra li la badz+ra/ lo tstsha wa// khang gsar ba la grags pa rgyal mtshan gyis gnos so// rgyud tshig// sgrub thabs/ smin byad/ u ba d+he sha bzhugs// sngar brgyud 'di'i bshad pa// bla ma gnyis las thos pa la/ de'i phyis bla ma khang gsar bas bsil ba'i tshal tu rnal 'byor pa sku ba thogs pa thog dang 'byal nas/ mos par byung ste/ chos 'di'i rgyud cig thos te/ gdam ngag 'dra mkhyen ne zhus pas shes gsung/ 'o na zhu byas pas do nod 'dir byin kyis brlabs kyis// rten 'brel tshol la shog gsung/ der sha dang chang lsogs pa khyer phyin nas// byin brlabs dang sgrub thabs man ngag dang bcas pas gnang ngo gsung skad do des grags pa rgyal mtshan la// des chos rje sa skya pan+Ti ta la/ des bla ma mar pa grags pa byang chub la/ des kho bo la gnang pa'o// </coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>beginning /titles and formula of veneration/ missing; colophon to be proofread</note>
 </item>
+D 380, Ga.7 72b7-73a7; Mu Nga.2; X Ga.? - frag, Ba.16
+Colophon!!
 
 <item>
-<rkts>151</rkts>
-<ref>Ch2.2</ref>
-<loc>kha 35a1-45a6</loc>
-<tib>'phags pa spobs pa'i blo gros kyis zhus pa zhes bya ba theg pa chen po'i mdo'</tib>
-<skttrans>a rya pra ti bha na ma ti par ri bri tsa na ma ma ha yA na su tra</skttrans>
-<coloph>'phags pa spobs pa'i blo gros kyis zhus pa zhes bya ba theg pa chen po'i mdo'// //rdzogs s+ho// //rgya gar gyi mkhan po prad bar ma dang / zhu chen gyi lo tsha ba bad de ye shes sde las stsogs pas bsgyurd cing zhus te gtan la phab pa</coloph>
+<rkts>376</rkts>
+<ref>Cx03.4</ref>
+<loc>rgyud Ga 186b7-195a1</loc>
+<tib>rnal 'byor ma bzhi'i kha sbyor gyi rgyud ces bya ba</tib>
+<skttrans>tsa tur yo gi ni saM bu Ti tan t+ra na ma</skttrans>
+<coloph>rnal 'byor ma bzhi'i kha sbyor zhes bya ba// rgyud kyi rgyal po chen po/ rdzogs s+h+yo// //dpal o d+hi ya na las nges byung ba'i rnal 'byor ma'i rgyud chen po stong phrag bcu gnyis pa las// 'jig rten dang 'jig rten las 'das pa'i rgyal po chen po rdo rje slob dpon dpal/ in t+ra b+hu ti'i zhabs kyis bkol cing// gsal bar mdzad pa'o// //bod kyi lo tstsha ba la chings yon tan 'bar gnyis kyis bsgyur te// slad kyis paN TI ta gnyis pa la yang gtugs te// gtan la phab pa//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
 <note></note>
 </item>
+D 376, Ga.3 44b6-52b5; Mu Nga.3; X Ga.8
 
 <item>
-<rkts>165</rkts>
-<ref>Ch2.3</ref>
-<loc>kha 45a7-67b3</loc>
-<tib>'phags pa bde byed kyis zhus pa zhes bya ba theg pa chen po'i mdo</tib>
-<skttrans>-</skttrans>
-<coloph>'phags pa bde byed kyis zhus pa zhes bya ba theg pa chen po'i mdo'// //rdzogs s+hyo</coloph>
-<note></note>
-</item>
-
-<item>
-<rkts>225</rkts>
-<ref>Ch2.10</ref>
-<loc>kha 65a1-66a4</loc>
-<tib>'phags pa gsum la skyabs su 'gro ba zhes bya ba theg pa chen po'i mdo</tib>
-<skttrans>a rya dri shi ra na ga ma na ma ma ha ya na su tra</skttrans>
-<coloph>'phags pa gsum la skyabs su 'gro ba zhes bya ba theg pa chen po'i mdo// rdzogs s+ho</coloph>
-<note></note>
-</item>
-
-<item>
-<rkts>177</rkts>
-<ref>Ch2.11</ref>
-<loc>kha 66a5-66b7</loc>
-<tib>'phags pa 'jam dpal gyis bstan ba zhes bya ba theg pa chen po'i mdo'</tib>
-<skttrans>a rya man dzu shri ni rde shan nA ma ma hA yA na su tra</skttrans>
-<coloph>'phags pa 'jam dpal gyis bstan ba zhes bya ba theg pa chen po'i mdo'// rdzogs s+ho</coloph>
-<note></note>
-</item>
-
-<item>
-<rkts></rkts>
-<ref>Ch2.4</ref>
-<loc>kha 67b4-?</loc>
-<tib>dkon mchog gi snod theg pa chen po'i mdo'</tib>
-<skttrans>rad na ka ran ta ma hA yA na su tra</skttrans>
-<coloph></coloph>
-<note></note>
-</item>
-
-<item>
-<rkts></rkts>
-<ref>Ch2.5</ref>
-<loc>kha ?-89b2</loc>
-<tib>bsam gtan gsang ba'i mdo'</tib>
-<skttrans>-</skttrans>
-<coloph>bsam gtan gsang ba'i mdo'// rdzogs s+ho</coloph>
-<note></note>
-</item>
-
-<item>
-<rkts>982</rkts>
-<ref>Ch2.6</ref>
-<loc>kha 89b2-90a5</loc>
-<tib>sangs rgyas kyis za cig pa'i yon tan gsungs pa</tib>
-<skttrans>-</skttrans>
-<coloph>rdzogs s+ho</coloph>
-<note>No title, only beginning of the text</note>
-</item>
-
-<item>
-<rkts>803</rkts>
-<ref>Ch2.7</ref>
-<loc>kha 90a6-90b8</loc>
-<tib>'phags pa dgongs pa'i rgyud kyi phreng ba chen po byang chub sems dpa'i rnam par nges pa chen po bstan pa las nor bu chen po rin po che la mkhas pa bstan pa yongs su bsngo ba chen po'i rgyal po zhes bya ba</tib>
-<skttrans>a rya san dhi ma la ma hA su tra bo dhi sad tva ma hA bi ni shtsa ya nir de shad mA hA ma ni rad na ko'u sha lya nir dhe sha ma ha pa ri na ma na ma hA ra jA</skttrans>
-<coloph></coloph>
-<note>Text incomplete, end in the middle in the sentence and merges in kha 91a1 in the following text (rKTs 1127)</note>
-</item>
-
-<item>
-<rkts>1127</rkts>
-<ref>Ch2.8</ref>
-<loc>kha ?-ga 19a1</loc>
+<rkts>377</rkts>
+<ref>Cx03.5</ref>
+<loc>rgyud Ga 195a1-203b6</loc>
 <tib></tib>
-<skttrans>-</skttrans>
-<coloph>gser mdog gi rtogs pa brjod pa// //rdzogs so// //rgya gar gyi mkhan po dharma shri ba dra dang/ zhu chen gyi lo tsha ba dge slong rin chen bzang pos zhus te gtan la phab pa</coloph>
-<note>Beginning missing. The text starts in the middle of a sentence merging in kha 91a1 from the preceding text (rKTs 803)</note>
+<skttrans></skttrans>
+<coloph>bshad pa'i rgyud kyi phyi ma las phag mo mngon par 'byung ba zhes bya ba rdzogs s+ho//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>titles missing; Eimer 1999: D 378-79</note>
 </item>
+D 377, Ga.4 52b6-60a7; Mu Nga.4; X Ga.9?
 
 <item>
-<rkts>346</rkts>
-<ref>Ch2.9</ref>
-<loc>ga 19a3-?</loc>
-<tib>ma ga da bzang mo'i rtog pa brjod pa</tib>
-<skttrans>su ma ga dha a ba da nam</skttrans>
-<coloph></coloph>
-<note>End missing</note>
+<rkts>425</rkts>
+<ref>Cx03.6</ref>
+<loc>rgyud Ga 203b6-207b4</loc>
+<tib>dpal sgyu 'phrul chen mo'i rgyud kyi rgyal po zhes bya ba</tib>
+<skttrans>shrI maha ma ya tan+t tra rA dza nA ma</skttrans>
+<coloph>sgyu 'phrul chen mo zhes bya ba'i rgyud kyi rgyal po rdzogs s+ho// //rgya gar gyi mkhan po a t+yu la ta das badz+ra dang bod kyi lo tstsha ba chen po g+hos lhas bcas kyis bsgyur cing zhus te gtan la phab pa// slad du pan Ti ta chen po zhi ba bzang po dang/ klog skya shes rab brtsegs kyis gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>Indian translator different from D; second revision not in D</note>
 </item>
+D 425, Nga.8 167a6-171a1?; Mu Nga.5; X --
+Eimer 1999: no D equivalent, text identical
 
 <item>
-<rkts></rkts>
-<ref>Ch2.12</ref>
-<loc></loc>
-<tib></tib>
-<skttrans>-</skttrans>
-<coloph></coloph>
+<rkts>383</rkts>
+<ref>Cx03.7</ref>
+<loc>rgyud Ga 207b4-210a4</loc>
+<tib>gsang ba'i rdo rje'i rgyud kyi rgyal po</tib>
+<skttrans>gu h+ya badz+ra tan tra rA dza</skttrans>
+<coloph>gsang ba'i yang gsang ba rmad du byung ba'i gsang ba/ /rdo rje rgyud kyi rgyal po 'khor lo sdom pa'i rtog pa rdzogs s+ho//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
 <note></note>
 </item>
+D 383, Ga.10 184b1-187a1; Mu Nga.6; X --
+short version? colophon!!
 
 <item>
-<rkts></rkts>
-<ref>Ch2.1</ref>
-<loc></loc>
-<tib></tib>
-<skttrans>-</skttrans>
-<coloph></coloph>
+<rkts>384</rkts>
+<ref>Cx03.8</ref>
+<loc>rgyud Ga 210a4-218b8</loc>
+<tib>dpal gsang ba gcod pa'i rgyud kyi rgyal po</tib>
+<skttrans>shrI g+hu h+ya tshe d+ha tan tra rA dza</skttrans>
+<coloph>gsang ba gcod pa'i rgyud kyi rgyal po rdzogs s+ho// //rgya gar gyi mkhan po g+ha ya da ra dang// lo tstsha ba dge slong shAkya ye shes kyis bsgyur cing gtan la phab pa//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
 <note></note>
 </item>
+D 384, Ga.11 187a2-195b7; Mu Nga.7; X --
+
+<item>
+<rkts>385</rkts>
+<ref>Cx03.9</ref>
+<loc>rgyud Ga 218b8-222b1</loc>
+<tib>dpal 'khor lo sdom pa'i gsang ba bsam gyis mi khyab pa</tib>
+<skttrans>shri tsakra sa bA ra g+hu d+ha ya tsa ni d+ha</skttrans>
+<coloph>dpal 'khor lo sdom pa gsang ba bsam gyis mi khyab pa// bcom ldan 'das kyis gsungs pa rdzogs s+ho// //g+ha ya d+ha ra dang/ shAkya ye shes kyis bsgyur ba'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 385, Ga.12 196a1-199a7; Mu Nga.8; X Ga.3 /frag/, Ga.12
+
+<item>
+<rkts>386</rkts>
+<ref>Cx03.10</ref>
+<loc>rgyud Ga 222b2-225a6</loc>
+<tib>dpal nam mkha' mnyam pa'i rgyud kyi rgyal po zhes bya ba</tib>
+<skttrans>shri badzra ka sa ma ya rA dza tan tra nA ma</skttrans>
+<coloph>sku gsung thugs rang bzhin dpal nam mkha' mnyam pa'i rgyud kyi rgyal po rdzogs s+ho/ g+ha ya d+ha ra dang/ lo tstsha wa dge slong shAkya ye shes kyis bsgyur ba'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 386, Ga.13 199a7-202a1; Mu Nga.9; X Ga.4
+
+<item>
+<rkts>387</rkts>
+<ref>Cx03.11</ref>
+<loc>rgyud Ga 225a6-226b6</loc>
+<tib>dpal nam mkha' chen po'i rgyud kyi rgyal po</tib>
+<skttrans>shri mahA kha sa ma tan tra rA dza</skttrans>
+<coloph>dpal nam mkha' chen po'i rgyud kyi rgyal po rdzogs s+ho// //rgya gar gyi mkhan po h+ha ya d+ha ra dang/ dge slong shAkya ye shes kyis bsgyur ba'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 387, Ga.14 202a1-203b1; Mu Nga.10; X Ga.5 - variant title
+
+<item>
+<rkts>388</rkts>
+<ref>Cx03.12</ref>
+<loc>rgyud Ga 226b6-232a1</loc>
+<tib>dpal sku gsung thug+s kyi rgyud kyi rgyal po</tib>
+<skttrans>shrI ka ya wak tsi d+ta t+n+t+ra rA dza</skttrans>
+<coloph>mkha' 'gro ma'i dra ba sdom pa/ sku gsung thugs kyi rgyal po/ rdzogs s+ho// /rgya gar gyi mkhan po g+ha ya d+ha ra dang/ bod kyi lo tstsha wa dge slong shAkya ye shes kyis bsgyur cing zhus te gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 388, Ga.15 203b1-208b1; Mu Nga.11; X Ga.6
+
+<item>
+<rkts>389</rkts>
+<ref>Cx03.13</ref>
+<loc>rgyud Ga 232a1-237a4</loc>
+<tib>rin chen phreng ba'i rgyud kyi rgyal po</tib>
+<skttrans>rad+na ma le tan+t+ra rA dza</skttrans>
+<coloph>rgyud kyi rgyal po gsang ba'i yang gsang ba/ rang bzhin gsang ba/ /rdzogs s+h+yo// //rgya gar gyi mkhan po rin chen rdo rje dang/ dge slong shAkya ye shes kyis bsgyur ba'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 389, Ga.16 208b2-213b4; Mu Nga.12; X --
+
+<item>
+<rkts>390</rkts>
+<ref>Cx03.14</ref>
+<loc>rgyud Ga 237a4-239b3</loc>
+<tib>dam tshig chen po'i rgyud zhes bya ba</tib>
+<skttrans>mahA sa ma ya tan+t+ra nA ma</skttrans>
+<coloph>rgyud ni dam tshig chen po'i rgyud// //rdzogs s+h+yo// g+ha ya d+ha ra dang/ shAkya ye shes kyis bsgyur ba'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 390 Ga.17 213b4-216a3; Mu Nga.13; X --
+
+<item>
+<rkts>391</rkts>
+<ref>Cx03.15</ref>
+<loc>rgyud Ga 239b3-242b3</loc>
+<tib>dpal stobs po che'i rgyud zhes bya ba</tib>
+<skttrans>shrI mahA ba la tan+t+ra nA ma</skttrans>
+<coloph>dpal stobs po che'i rgyud// rdzogs s+h+yo// rgya gar gyi mkhan po rad+na badz+ra dang/ bod kyi lo tstsha wa dge slong shAkya ye shes kyis bsgyur cing zhus te gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 391 Ga.18 216a3-219a2; Mu Nga.14; X --
+
+<item>
+<rkts>399</rkts>
+<ref>Cx03.16</ref>
+<loc>rgyud Ga 242b3-244a6</loc>
+<tib>dpal rdo rje mkha' 'gro ma'i gsang ba'i rgyud kyi rgyal po</tib>
+<skttrans>shrI badz+ra Da ki gu hya tan+t+ra rA dza</skttrans>
+<coloph>dpal mkha' 'gro ma'i gsang ba'i rgyud kyi rgyal po// //rdzogs s+h+yo// //rgya gar gyi mkhan po g+ha ya d+ha ra dang/ lo tstsha wa dge slong shAkya ye shes kyis bsgyur ba'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D399 Ga.26 230a2-231b3; Mu Nga.15; X --
+
+<item>
+<rkts>393</rkts>
+<ref>Cx03.17</ref>
+<loc>rgyud Ga 244a7-245b6</loc>
+<tib>dpal ye shes phreng ba'i rgyud kyi rgyal po</tib>
+<skttrans>shrI dz+nya na ma le tan+t+ra rA dza</skttrans>
+<coloph>dpal ye shes phreng ba'i rgyud kyi rgyal po lta spyod rmad du byung ba// //rdzogs s+h+yo// //rnal 'byor ma tsan Da ma le dang// dge slong dge slong shAkya ye shes kyis bsgyur ba'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 393 Ga.20 220b1-221b7; Mu Nga.16; X --
+
+<item>
+<rkts>394</rkts>
+<ref>Cx03.18</ref>
+<loc>rgyud Ga 245b7-247a6</loc>
+<tib>dpal ye shes 'bar ba'i rgyud kyi rgyal po</tib>
+<skttrans>shrI dz+wa la dz+nyA na tan+t+ra ra dza</skttrans>
+<coloph>dpal ye shes 'bar ba'i rgyud kyi rgyal po// mkha' 'gro ma'i gsang ba las kyang ches gsang ba rmad du byung ba // //rdzogs s+h+yo// //sing ge ling gi rnal 'byor ma tsan Da ma le dang/ dge slong shAkya ye shes kyis bsgyur ba'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 394 Ga.21 222a1-223a7; Mu Nga.17; X --
+
+<item>
+<rkts>413</rkts>
+<ref>Cx03.19</ref>
+<loc>rgyud Ga 247a6-252b3</loc>
+<tib>dpal 'khor lo bsdom pa'i rgyud kyi rgyal po dur khrod kyi rgyan zhes bya ba</tib>
+<skttrans>shrI tsakra saM b+ha ra tan+t+ra rA dza</skttrans>
+<coloph>dpal 'khor lo sdom pa'i dur khrod rgyan rmad du byung ba rdzogs so// //rgya gar gyi mkhan po ga ya d+ha ra dang/ /lo tstsha ba shAkya ye shes kyis bsgyur ba'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>Eimer 1999 identifies D402</note>
+</item>
+D 413 Ga.40 254ab5-259b3; Mu Nga.18; cf. X Da.8 und Ba.10: dpal dgyes pa rdo rje'i rgyud sangs rgyas kyi sku gsung thugs kyi gsang ba'i mdzod ces bya ba - Übereinstimmungen + unidentifizierbare Passagen - Texte checken
+
+<item>
+<rkts>395</rkts>
+<ref>Cx03.20</ref>
+<loc>rgyud Ga 252b3-253b3</loc>
+<tib>dpal zla phreng ba'i rgyud kyi rgyal po</tib>
+<skttrans>shrI tsan+Da ma le tan t+ra rA dza</skttrans>
+<coloph>dpal zla ba'i phreng ba'i rgyud kyi rgyal po rdzogs s+ho</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 395 Ga.22 223a7-224b4; Mu Nga.19; X --
+
+<item>
+<rkts>396</rkts>
+<ref>Cx03.21</ref>
+<loc>rgyud Ga 253b3-256b5</loc>
+<tib>dpal rin po che 'bar ba'i rgyud kyi rgyal po zhes bya ba</tib>
+<skttrans>shri rad na dz+wa la tan t+ra rA dza na ma</skttrans>
+<coloph>rin po che 'bar ba'i rgyud kyi rgyal po rdzogs s+ho// rnal 'byor ma zla ba'i phreng pa ma dang/ bla ma shAkya ye shes kyis bsgyur cing zhus pa//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 396 Ga.23 224b4-227b2; Mu Nga.20; X --
+
+<item>
+<rkts>397</rkts>
+<ref>Cx03.22</ref>
+<loc>rgyud Ga 256b5-258a5</loc>
+<tib>dpal nyi ma'i 'khor lo'i rgyud kyi rgyal po zhes bya ba</tib>
+<skttrans>shrI mahA sUr+ya tsak+ra tan t+ra rA dza nA ma</skttrans>
+<coloph>dpal nyi ma'i 'khor lo'i rgyud kyi rgyal po rdzogs s+ho// rgya gar gyi mkhan po ga ya d+ha ra dang/ dge slong shAkya ye shes kyis bsgyur ba'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 397 Ga.24 227b3-229a2; Mu Nga.21; X --
+
+<item>
+<rkts>398</rkts>
+<ref>Cx03.23</ref>
+<loc>rgyud Ga 258a6-259a5</loc>
+<tib>dpal ye shes rgyal po'i rgyud kyi rgyal po</tib>
+<skttrans>shrI dz+nya na rA dza tan tra rA dza</skttrans>
+<coloph>dpal ye shes rgyal po'i rgyud kyi rgyal po rdzogs s+ho//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 398 Ga.25 229a2-230a2; Mu Nga.22; X --
+
+<item>
+<rkts>406</rkts>
+<ref>Cx03.24</ref>
+<loc>rgyud Ga 259a6-260b7</loc>
+<tib>dpal mkha' 'gro sdom pa'i rgyud kyi rgyal po zhes bya ba</tib>
+<skttrans>shrI Da ki ni sam b+ha ra tan tra rA dza na ma</skttrans>
+<coloph>dpal mkha' 'gro ma'i sdom pa'i rgyud kyi rgyal po rdzogs s+ho// //rgya gar gyi mkhan po g+hA ya d+ha ra dang/ lo tstsha ba dge slong shAkya ye shes kyis bsgyur ba'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 406 Ga.33 242b7-244a7; Mu Nga.23; X --
+
+<item>
+<rkts>400</rkts>
+<ref>Cx03.25</ref>
+<loc>rgyud Ga 260b7-262a8</loc>
+<tib>dpal gsang ba'i me 'bar ba'i rgyud kyi rgyal po</tib>
+<skttrans>shrI dz+wa la ag ni gu h+ya tan tra rA dza</skttrans>
+<coloph>dpal gsang ba me 'bar ba'i rgyud kyi rgyal po rdzogs s+ho// //rgya gar gyi mkhan po h+ha ya d+ha ra dang/ bod kyi lo tstsha wa shAkya ye shes kyis bsgur ba'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 400 Ga.27 231b4-233a5; Mu Nga.24; X --
+
+<item>
+<rkts>426</rkts>
+<ref>Cx03.26</ref>
+<loc>rgyud Ga 263b1-268a5</loc>
+<tib>rdo rje a ra li zhes bya ba'i rgyud kyi rgyal po chen po</tib>
+<skttrans>badz+ra a ra li mahA tan zra rA dza nA ma</skttrans>
+<coloph>rgya gar gyi mkhan po ga ya s+tha pa ga ya d+ha ra li zhal mnga' dang/ bod kyi lo tstsha wa dge slong shAkya ye shes kyis bsgyur cing zhus te gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap>do rje a ra li las rnal 'byor ma'i gong nas med pa'o zhes bya ba'i le'u ste bcu pa rdzogs s+h+yo//<p>268a5</p></chap>
+<note>262b and 263a blank, foliation "263" repeated on the verso side</note>
+</item>
+D 426 Nga.10 171a2-176a2; Mu Nga mentions ra li'i rgyud skor between Nga.24 and 25; X --; dup. Tha.9
+
+<item>
+<rkts>427</rkts>
+<ref>Cx03.27</ref>
+<loc>rgyud Ga 268a6-273b3</loc>
+<tib>ri gi a ra li rgyud kyi rgyal po zhes bya ba</tib>
+<skttrans>ri gi a ra li tan tra rA dza nA ma</skttrans>
+<coloph>ri gi a ra li'i rgyud kyi rgyal po rdzogs s+h+yo// //rgya gar gyi mkhan po ga ya s+tha pa ga ya d+ha ra'i zhal snga nas dang/ bod kyi lo tstsha ba dge slong shAkya ye shes kyis bsgyur cing zhus te gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 427 Nga.11 176a2-180b7; Mu Nga mentions ra li'i rgyud skor between Nga.24 and 25; X --; dup. Tha.10
+
+<item>
+<rkts>414</rkts>
+<ref>Cx03.28</ref>
+<loc>rgyud Ga 273b4-276a2</loc>
+<tib>rgyud kyi rgyal po rnyog pa med pa zhes bya ba</tib>
+<skttrans>a ni ba laM tan tra rA dza nA ma</skttrans>
+<coloph>dpal bde bar rtogs par byed pa dang ldan pa zhes bya ba rgyud kyi rgyal po byin gyis brlab pa'i rim pa chen po mkha' 'gro ma dra ba'i sdom pa'i brtag pa rnyog pa med pa rdzogs s+ho// //rgya gar gyi mkhan po ka ya s+tha pa ga ya d+ha ra'i zhal snga nas dang/ bod kyi lo tstsha ba dge slong shAkya ye shes kyis bsgyur cing zhus te gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 414 Ga.41 259b3-261b3; Mu Ja.11; X Ba 13; dup. Tha.11
+
+<item>
+<rkts>425</rkts>
+<ref>Cx03.29</ref>
+<loc>rgyud Ga 276a2-279b5</loc>
+<tib>sgyu 'phrul chen mo'i rgyud zhes bya ba</tib>
+<skttrans>mahA ya tan t+ra nA ma</skttrans>
+<coloph>rdo rje rnal 'byor ma rnams kyi dgongs pa mchog tu gsang ba chen po'i nye ba'i spyod pa'i sgrub pa'i thabs/ /sgyu 'phrul chen mo zhes bya ba'i gzhi rgyud kyi rgyal po rdzogs s+h+yo// //rgya gar gyi mkhan po a rgyu la da sa badz+ra dang/ bod kyi lo tstsha ba chen po g+mos lhas btsas gyis bsgyur cing zhus te gtan la phab pa/ /slad nas paN+Di ta chen po zhi ba bzang po dang/ klog skya shes rab brtsegs kyis gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item> 
+D 425 Nga.9 167a6-171a1; Mu Ja.12; X --; dup. Tha.12
+
+<item>
+<rkts>441</rkts>
+<ref>Cx03.30</ref>
+<loc>rgyud Ga 279b5-283a7</loc>
+<tib>ji bzhin brnyes pa nam mkha' dang mnyam pa zhes bya ba'i rgyud</tib>
+<skttrans>ya tha lab haM la sa maM tan tra nA ma</skttrans>
+<coloph>ji bzhin brnyes pa nam mkha' dang mnyam pa'i rgyud rdzogs s+ho// rgya gar gyi mkhan po chen po k+sha ka ga na dang/ lo tstsha ba mang po dge slong byang chub shes rab kyis bsgyur cing zhus te gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 441 Ca.10 86b1-89b7; Mu Ja.13; X --; dup. Tha.13
+
+<item>
+<rkts>476</rkts>
+<ref>Cx03.31</ref>
+<loc>rgyud Ga 283a7-286a8</loc>
+<tib>dpal bcom ldan 'das ral pa gcig pa'i brtag pa'i rgyud kyi rgyal po chen po zhes bya ba</tib>
+<skttrans>shrI b+ha ga wan e ka dza TA mahA kal pa tan tra rA dzA nA ma</skttrans>
+<coloph>dpal bcom ldan 'das ral pa gcig pa'i rgyud rdzogs s+ho// //rnal 'byor gyi dbang phyug cen po shrI dza ga ta mi tra A nan da'i bka' drin la brten nas/ rje btsun de nyid kyi sras/ rgya gar nub phyogs kyi paNDi ta shri kha la ru tra dang/ bod kyi lo tstsha ba byams pa'i dpal gyis bsgyur ba'o</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>colophon partly illegible</note>
+</item>
+D 476 Ja.23 245a1-247b4; Mu Ja.14; X Ja.25; dup. Tha.14
+
+<item>
+<rkts>431</rkts>
+<ref>Cx04.1</ref>
+<loc>rgyud Nga 1b1-48b5</loc>
+<tib>dpal gtum po khro bo chen po'i rgyud kyi rgyal po zhes bya ba</tib>
+<skttrans>shri tsaN+Da mahA ro sha Na tan+t+ra rA dza nA ma</skttrans>
+<coloph>dpal gtum po chen po/ khro bo chen po'i rgyud kyi rgyal po/ /rdzogs s+ho//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>2 miniatures on 1b</note>
+</item>
+D 431 Nga.12 304b1-343a1; Mu Nga.25; X Ba.11
+chapter-ending: dpal khro bo gtam po chen po'i rgyud, dpal gtum po chen po'i rgyud
+
+<item>
+<rkts>?</rkts>
+<ref>Cx04.2</ref>
+<loc>rgyud Nga 48b5-49a6</loc>
+<tib>bkra shis kyi tshigs su bcad pa</tib>
+<skttrans></skttrans>
+<coloph>bkra shis kyi tshigs su btsad pa// rdzogs s+ho//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>title mentioned only in the colophon</note>
+</item>
+to be checked
+
+<item>
+<rkts>367</rkts>
+<ref>Cx04.3</ref>
+<loc>rgyud Nga 49a6-70b5</loc>
+<tib>rtog pa thams cad 'dus pa zhes bya ba sangs rgyas thams cad dang mnyam par sbyor ba mkha' 'gro sgyu ma bde ba'i mchog rgyud phyi ma'i phyi ma</tib>
+<skttrans>sar+wa kal pas ma dza ya nA ma sar+wa bud d+ha sa ma yo gi Da ki dzA la ud d+ha ro u d+ha ra tan tra</skttrans>
+<coloph>sangs rgyas thams cad mnyam par sbyor ba yi// mkha' 'gro sgyu ma bde ba'i mchog ces bya ba khri brgyad stong pa las rtog pa thams cad kyi brgya bdun bcu pa// 'khor lo bsgyur ba bde ba chen po ni// //rgya gar gyi mkhan po smri ti dz+nyA na gi r+ti nyid kyi bsgyur// yon bdag bod kyi mkhan po lo gzhon nu grags pas zhus nas// bshad nas gtan la phab pa/ rdzogs so//</coloph>
+<bampo><p></p></bampo>
+<chap>sangs rgyas thams cad mnyam par sbyor ba/ mkha' 'gro sgyu ma bde ba'i mchog las/ /de kho na nyid thams cad nges tshig gi rtog pa ste/ /bcu brgyad pa'o//<p>49b8</p></chap>
+<chap>sangs rgyas thams cad mnyam sbyor ba/ /mkha' 'gro sgyu ma bde ba'i mchog las/ /chos kyi yi ge 'byung ba'i rtog pa ste bcu dgu pa'o<p>52b4</p></chap>
+<chap>sangs rgyas thams cad dang mnyam par sbyor ba'o/ /mkha' 'gro sgyu ma bde ba'i mchog las sngags thams cad 'byung ba'i rtog pa ste/ /nyi shu pa'o//<p>65a4</p></chap>
+<chap>sangs rgyas thams cad mnyam sbyor ba/ /mkha' 'gro sgyu ma bde ba'i mchog las/ /gsang ba sgrub pa'i rtog pa ste/ /nyi shu rtsa gcig pa'o//<p>67a4</p></chap>
+<chap>sangs rgyas thams cad mnyam par sbyor ba/ /mkha' 'gro sgyu ma bde ba'i mchog rjes su sbyor ba dang ldan pa'i// sgrub pa'i rtog pa ste nyi shu rtsa gnyis pa'o//<p>69b7</p></chap>
+<chap>dag pa rjes su sgrub pa'i rang bzhin kho na so sor rjes su grub pa bde ba las/ dam pa'i gsang chen rgyud phyi ma'i phyi ma yongs su rdzogs s+ho//<p>70a1</p></chap>
+<note></note>
+</item>
+D 367 Ka.8 193a6-212a7; Mu Ca.1; X Nga.3 /cf. 2/;  dupl. Nga.15
+
+<item>
+<rkts>424</rkts>
+<ref>Cx04.4</ref>
+<loc>rgyud Nga 70b5-96a6</loc>
+<tib>dpal sangs rgyas thod pa zhes bya ba rnal 'byor ma'i rgyud kyi rgyal po</tib>
+<skttrans>shrI bud+d+ha ka pA la na ma yo gi Ni taN+Ta rA dza</skttrans>
+<coloph>sangs rgyas thod pa zhes bya ba'i rgyud/ rnal 'byor ma chen mos gsungs pa mchog tu gsang pa rdzogs s+ho/ rgya gar gyi mkhan po chen po shri g+ha ya d+ha ra dang/ bod kyi lo tstsha ba gyi jo zla ba'i 'od zer gyis bsgyur cing zhus te gtan la phab pa//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 424 Nga.8 143a1-167a5; Mu Ca.2; X --
+chapter-ending: sangs rgyas thod pa'i rgyud rnal 'byor ma'i gong na med pa gsang ba'i yang gsang ba zhes bya ba;
+... gong na med pa'i shin du gsang ba zhes bya ba; ... gsang ba'i yang shin du gsang ba ...; ... bla na med pa gsang ba'i yang shin du gsang ba
+
+<item>
+<rkts>435</rkts>
+<ref>Cx04.5</ref>
+<loc>rgyud Nga 96a6-107b3</loc>
+<tib>rdo rje bdud rtsi'i rgyud</tib>
+<skttrans>badz+ra a mri ta tan tra</skttrans>
+<coloph></coloph>
+<bampo><p></p></bampo>
+<chap>rdo rje bdud rtsi bde ba chen po'i rgyud las/ bdud rtsi lnga sgrub pa'i thabs bstan pa zhes bya ba'i le'u ste bcu gcig pa rdzogs so//<p>107b3</p></chap>
+<note></note>
+</item>
+D 435 Ca.4 16b5-27a6; Mu Ca.3; X Ba.3
+rdo rje bdud rtsi rgyud chen po; rdo rje bdud rtsi bde ba chen po'i rgyud; rdo rje bdud rtsi bde ba chen po yi/ rdo rje bdud rtsi chen po
+
+<item>
+<rkts>477</rkts>
+<ref>Cx04.6</ref>
+<loc>rgyud Nga 107b3-172b5</loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph>rgyud kyi rgyal po zla gsang thig le zhes bya ba'i rgyud kyi rgyal po chen po mchog tu gsang ba yongs su rdzogs s+h+yo// //gsung rabs don rtogs slob dpon gyis// lhag par bkrol te bstan pa la/ /ci rigs bsgyur ba'i bsod nams kyis/ /sems can bde ba thob par smon//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+chap. 1 VERY similar to D 840, chap. 1
+D 477 Ja.24 247b4-303a7; Mu Ca.4; X Ca.8, Da.3
+
+<item>
+<rkts>440</rkts>
+<ref>Cx04.7</ref>
+<loc>rgyud Nga 172b5-221b4</loc>
+<tib>dpal mgon po nag po mngon par 'byung ba zhes bya ba'i rgyud kyi rgyal po</tib>
+<skttrans>shrI mahA kA la a b+h+yu d+ha ya tan+t+ra ra dza nA ma</skttrans>
+<coloph>dpal mgon po nag po mngon par 'byung ba zhes bya ba'i rgyud kyi rgyal po chen po/ rdzogs s+h+yo// //rgya gar gyi mkhan po a tsa r+ya a nan+ta dang/ bod kyi lo tstsha wa dge slong rdo rje grags kyis bsgyur ba'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 440 Ca.9 45b6-86a7; Mu Ca.5; X --
+chap-ending: nag po chen po'i rgyud; -dpal- mngon po nag po'i rgyud
+
+<item>
+<rkts>434</rkts>
+<ref>Cx04.8</ref>
+<loc>rgyud Nga 221b4-224a2</loc>
+<tib>'phags pa mi g.yo ba'i rgyud gsang ba chen po</tib>
+<skttrans>ar+ya a tsa la ma hA gu ha tan tra</skttrans>
+<coloph>'phags pa mi g.yo ba'i rgyud kyi rgyal po/ rdzogs so/</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 434 Ca.8 14b4-16b5; Mu Ca.6; X Cha.3, Cha.12, cf. Ba.3?
+
+<item>
+<rkts>454</rkts>
+<ref>Cx04.9</ref>
+<loc>rgyud Nga 224a2-226a1</loc>
+<tib>'phags pa lag na rdo rje gos sngon po can drag po gsum 'joms pa zhes bya ba'i rgyud kyi gzungs zhes bya ba</tib>
+<skttrans>a r+ya ni laM b+ha ra d+ha ra badz+ra pa ni ru tra bi tri tan tra na d+hi ni na ma</skttrans>
+<coloph>bcom ldan 'das dpal phyag na rdo rje drag po gsum 'dul ba zhes bya ba'i rgyud/ rdzogs so// //u dyan  gyi mkhan po ri khrod pa la mkha' 'gro ma seng ge gdong gis byin gyis brlabs pa'o/ /des slob dpon dza ba ri pa'i rnal 'byor pa la'o des bal po su na ma ti la'o/ /bal po'i mkhan po dge ba'i blo gros lha dang / lo tstsha ba dge slong chos kyi bzang pas bsgyur ba'o/</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 454 Ja.1 1b1-3b2; Mu Ca.7; X Ba.7
+
+<item>
+<rkts>465</rkts>
+<ref>Cx04.10</ref>
+<loc>rgyud Nga 226a1-230a2</loc>
+<tib>rdo rje bde 'khros kyi rgyud kyi rgyal po</tib>
+<skttrans>badz+ra su kha ta tan tra rA dzA</skttrans>
+<coloph>rdo rje bde 'khros kyi rgyud las dum bu gsum pa bstan pa rdzogs so// /gzhan la ma spel rang la gnod/ /man ngag yin gyi dam du chongs/ /dz+nya na ka ras bsgyur ba'o/ /ye d+ha rmA he tu pra b+ha wA he tun+ti ShAn ta thA ga to h+ya wa dat te ShAny+tsa yo ni ro d+ha e waM bA dI ma hA shr ma NaH/ /bkra shis par gyur cig/</coloph>
+<bampo><p></p></bampo> 
+<chap><p></p></chap>
+<note></note>
+</item>
+D 465 Ja.12 90b4-93b7; Mu Ca.8, X Ka.8
+rdo rje bde 'khros kyi rgyud, rdo rje bde ba'i rgyud, rdo rje bde chen gyi rgyud, rdo rje bde ba khros pa'i rgyud, rdo rje mkhros pa'i rgyud
+
+<item>
+<rkts>401</rkts>
+<ref>Cx04.11</ref>
+<loc>230a2-232b3</loc>
+<tib>dpal gsang ba'i bdud rtsi'i rgyud kyi rgyal po</tib>
+<skttrans>shrI a mri ta gu h+ya tan tra rA dzA</skttrans>
+<coloph>dpal gsang ba'i rgyud kyi rgyal po rdzogs so// //pan Ti tA g+ha ya d+ha ra dang/ dge slong shAkya ye shes kyis bsgyur cing zhus pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 401 Ga.28 233a5-235a5; Mu Ca.9; X --
+
+<item>
+<rkts>405</rkts>
+<ref>Cx04.12</ref>
+<loc>rgyud Nga 232b3-235b4</loc>
+<tib>dpal chags pa'i rgyud</tib>
+<skttrans>shri ra ka ta na tra rA dzA</skttrans>
+<coloph>dpal chags pa'i rgyud kyi rgyal po rdzogs s+ho// //rnal 'byor ma rad+Na ma le dang/ lo tstsha wa shAkya ye shes kyis bsgyur ba'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 405 Ga.32 240a1-242b7; Mu Ca.10; X --
+
+<item>
+<rkts>408</rkts>
+<ref>Cx04.13</ref>
+<loc>rgyud Nga 235b4-237a2</loc>
+<tib>dpal mkha' 'gro ma gsang ba'i rgyud kyi rgyal po</tib>
+<skttrans>shri d+ha ki ni g+hu hya tan+t+ra rA dza</skttrans>
+<coloph>dpal mkha' 'gro ma gsang ba'i rgyud kyi rgyal po rdzogs s+ho//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 408 Ga.35 245b6-247a4; Mu Ca.11; X --
+
+<item>
+<rkts>366</rkts>
+<ref>Cx04.14</ref>
+<loc>rgyud Nga 237a2-284a4</loc>
+<tib>sangs rgyas thams cad dang mnyam par sbyor ba mkha' 'gro sgyu ma bde ba'i mchog ces bya ba'i rgyud phyi ma</tib>
+<skttrans>sar+wa bud+dha sam yo ka Da ki ni dzA la sham bar na ma u d+ha ra tan+t+ra</skttrans>
+<coloph>sangs rgyas thams cad mnyam sbyor ba// mkha' 'gro sgyu ma bde ba'i mchog ces bya ba'i rtog pa rtog pa thams cad kyi 'khor lo bskor ba chen po rdzogs s+h+yo//</coloph>
+<bampo><p></p></bampo>
+<chap>sangs rgyas thams cad dang mnyam par sbyor ba// mkha' 'gro sgyu ma bde ba'i mchog las// de kho na nyid snang ba dam pa'i yul la 'jug pa ye shes kyi phyag rgya brtag pa ste/ dang po'o//<p>238a4</p></chap>
+<chap>sangs rgyas thams cad dang mnyam par sbyor ba// mkha' 'gro sgyu ma bde ba'i mchog las// dpal rdo rje sems par kun du sbyor ba'i brtag pa ste gnyis pa'o//<p>239a4</p></chap>
+<chap>sangs rgyas thams cad mnyam par sbyor ba mkha' 'gro sgyu ma bde ba'i mchog las// lha mo thams cad mnyam par sbyor ba// bskal pa bzang po dpal rgo rje dam tshig gi rtag pa ste gsum pa'o//<p>240a5</p></chap>
+<chap>sangs rgyas thams cad mnyam par sbyor ba mkha' 'gro sgyu ma bde ba'i mchog l+sa sna tshogs thams cad kyi bskal pa bzang po mchog gi dngos grub ces bya ste// dpal dam tshig gi brtag pa ste bzhi pa'o//<p>241a6</p></chap>
+<chap>sangs rgyas thams cad mnyam par sbyor ba mkha' 'gro sgyu ma bde ba'i mchog las// gtam gyi phyag rgya zhes bya ba'i brtag pa ste// //lnga pa'o//<p>248b6</p></chap>
+<chap>sangs rgyas thams cad mnyam sbyor ba/ /mkha' 'gro sgyu ma bde ba'i mchog/ sangs rgyas thams cad mnyam sbyor ba mkha' 'gro sgyu ma'i dkyil 'khor rtog pa ste// //drug pa'o//<p>251a2</p></chap>
+<chap>sangs rgyas thams cad mnyam par sbyor ba/ mkha' 'gro sgyu ma bde ba'i mchog las// dkyil 'khor thams cad kyi phyag rgya shes pa'i rtog pa ste/ /bdun pa'o//<p>254a5</p></chap>
+<chap>sangs rgyas thams cad mnyam par sbyor ba mkha' 'gro sgyu ma bde ba'i mchog las// mchod pa thams cad mnyam par sbyor ba dpal bskal pa bzang po'i dam tshig gi rtog pa ste// brgyad pa'o//<p>255b7</p></chap>
+<chap>kun tu sna tshogs kyi dam tshig rtog pa ste dgu pa'o//<p>283a4</p></chap>
+<note>284a2: le'u bcu pa'o - D 193a , S 295a6 - not indicated</note>
+</item>
+D 366 Ka.7 151b1-193a6; Mu Cha.1; X Nga.2; Hg 15.1; dupl. Nga.3
+
+<item>
+<rkts>367</rkts>
+<ref>Cx04.15</ref>
+<loc>rgyud Nga 284a4-305a8</loc>
+<tib>rtog pa thams cad bsdus pa zhes bya ba sangs rgyas thams cad dang mnyam par sbyor ba mkha' 'gro ma sgyu ma bde ba'i rgyud mchog gi rgyud phyi ma</tib>
+<skttrans>sar+wa kal pa sa mu dza ya nA ma sar+wa bud d+ha sa ma yo ga DA ki ni dzal saM b+ha rO da ra u da ra tan tra</skttrans>
+<coloph>sangs rgyas thams cad dang mnyam par sbyor ba/ mkha' 'gro sgyu ma bde ba'i mchog ces bya ba// //khri brgyad stong pa rtog pa thams cad kyi rgyal po// //'khor lo bsgyur ba'i bde ba chen po 'di rdzogs s+ho// //rgya gar gyi mkhan po smri ti dz+nyA na g+hir tis bsgyur cing/ bshad nas gtan la phab pa rdzogs s+ho//</coloph>
+<bampo><p></p></bampo>
+<chap>sangs rgyas thams cad dang mnyam par sbyor ba mkha' 'gro sgyu ma'i bde mchog las// de kho na nyid thams cad nges tshig gi rtog pa ste// //bco brgyad pa'o//<p>284b8</p></chap>
+<chap>sangs rgyas thams cad dang mnyam par sbyor ba mkha' 'gro sgyu ma bde ba'i mchog las// chos kyi yi ge 'byung ba'i rtog pa'i le'u ste// bcu dgu pa'o//<p>287b7</p></chap>
+<chap>sangs rgyas thams cad dang mnyam par sbyor ba mkha' 'gro sgyu ma'i bde ba'i mchog las/ sngags thams cad 'byung ba'i rtog pa ste nyi shu pa'o//<p>299b6</p></chap>
+<chap>sangs rgyas thams cad dang mnyam par sbyor ba// mkha' 'gro sgyu ma bde ba'i mchog las/ gsang ba sgrub pa'i rtog pa ste// nyi shu rtsa gcig pa'o//<p>301b3</p></chap>
+<chap>sangs rgyas thams cad dang mnyam par sbyor ba mkha' 'gro sgyu ma bde ba'i mchog las rjes su sbyor ba dang ldan pa'i bsgrub pa'i rtog pa ste nyi shu rtsa gnyis pa'o//<p>304a6</p></chap>
+<chap>dag pas rjes su 'grub pa'i rang bzhin kho na so sor rjes su 'grub pa bde ba las// //dam pa'i gsang chen rgyud phyi ma'i phyi ma yongs su rdzogs s+ho//<p>304b1</p></chap>
+<note></note>
+</item>
+D 367 Ka.8 193a6-212a7, Mu Ca.1; X Nga.3; Hg 15.2; Ts04.3 col.!
+
+<item>
+<rkts>428</rkts>
+<ref>Cx05.1</ref>
+<loc>rgyud Ca 1b1-64b4</loc>
+<tib>rnal 'byor ma'i rgyud kyi rgyal po dpal gdan bzhi pa zhes bya ba</tib>
+<skttrans>shrI tsa tur pi tha mahA yo gi ni tan+t+ra rA dza</skttrans>
+<coloph>dpal gdan bzhi pa zhes bya ba rnal 'byor ma'i rgyud kyi rgyal po/ /bcom ldan 'das rdo rje 'dzin pas/ /'bum phrag bco brgyad pa las snying po lta bur gsungs pa rdzogs s+ho// //rgya gar gyi mkhan po ga ya d+ha ra dang/ zhu chen gyi lo tstsha ba 'gos lha tsas gyis bsgrub cing zhus te gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>dedication-leaf at the beginning of the volume</note>
+</item>
+D 428 Nga.15 181a1-231b5; Mu Cha.3; X Ca.4, Ba.5 ?
+
+<item>
+<rkts>429</rkts>
+<ref>Cx05.2</ref>
+<loc>rgyud Ca 64b4-92b7</loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph>gdan bzhi pa las yang dag pat btus pa/ /sbyor ba'i dkyil 'khor zhes bya rdzogs s+h+yo// //rgya gar gyi mkhan po g+ha ya d+ha ra dang / /zhu chen gyi lo tstsha ba mgos lhA btsas gyis bsgyur te gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>titles and veneration missing, also the part of the colophon that gives the actual title</note>
+</item>
+D 429 Nga.16 231b6-260a2; Mu Cha.4; X Nga.1, Ca.7, Da.11
+
+<item>
+<rkts>new?</rkts>
+<ref>Cx05.3</ref>
+<loc>rgyud Ca 92b7-111b8</loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph>dkyil 'khor cho ga zhes bya ba'i le'u ste/ gsum pa'o rdzogs s+ho//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>titles and beginning of veneration missing</note>
+</item>
+Mu Ca.5; X --; cf. D 1613 - nach Eimer; Anfang ziemlich gleich, dann nicht mehr - genau checken
+
+<item>
+<rkts>360</rkts>
+<ref>Cx05.4</ref>
+<loc>rgyud Ca 112a1-124a7</loc>
+<tib>'phags pa 'jam dpal gyi mtshan yang dag par brjod pa</tib>
+<skttrans>Arya many+dzu shrI nA ma sang gi ti</skttrans>
+<coloph>bcom ldan 'das 'jam dpal ye shes sems dpa'i don dam pa'i mtshan yang dag par brjod pa/ /bcom ldan 'das de bzhin gshegs pa shAkya thub pas gsungs pa rdzogs+ho//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>apparently the same text as D 360, but a different translation - s. Eimer 1999: n.75</note>
+</item>
+D 360 Ka.1; Mu Ja.1; X Ma.1
+translator acc. D and X: Blo gros brtan pa; D dkar chags acc. Eimer: Kamalagupta + Rin chen bzang po
+Ts und X genau vergleichen
+
+<item>
+<rkts>362</rkts>
+<ref>Cx05.5</ref>
+<loc>rgyud Ca 124a8-243b5</loc>
+<tib>dpal dus kyi 'khor lo'i bsdus pa'i rgyud kyi rgyal po</tib>
+<skttrans>shrI kA la tsakra la gu tan tra rA dza nA ma</skttrans>
+<coloph>dpal dus kyi 'khor lo rgyud kyi rgyal po rdzogs s+ho// //rgya gar gyi paN+Di ta mkhas pa chen po sa man ta shri dang/ sgra bsgyur bla ma rwa lo tstsha ba dge slong chos rab kyis bsgyur cing zhus te gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap>dpal chen po'i sangs rgyas las btus pa/ /dpal chen po dus kyi 'khor lo zhes bya ba las/ 'jig rten khams kyi rnam par dgod pa ste/ le'u dang po'o// //rdzogs s+ho//<p>143b8</p></chap>
+<chap>de ltar dpal chen dang po'i sangs rgyas las bdus pa'i dpal chen po dus kyi 'khor lo nang gi bdag nyid gtan la phab pa'i le'u ste/ gnyis pa rdzogs s+ho//<p>165a6</p></chap>
+<chap>dbang gi le'u gsum pa'o// rdzogs s+ho//<p>188a1</p></chap>
+<chap>de ltar dpal chen po'i sangs rgyas las bdus pa'i dpal chen po dus kyi 'khor lo'i sgrub pa'i le'u bzhi pa/ /rdzogs s+ho//<p>214a3</p></chap>
+<chap>de ltar dang po'i sangs rgyas stong phrag bcu gnyis pa las/ /bsdud pa dpal chen po dus kyi 'khor lo ye shes kyi le'u ste lnga pa'o//<p>243b4</p></chap>
+<note></note>
+</item>
+D 362 Ka.3 Ka 22b1-128b7; Mu Ja.2; X Ka.4 -no chap.-, Tsha.1; dup. Tha.2
+Col + Übersetzer anders als S=X~D
+
+<item>
+<rkts>363</rkts>
+<ref>Cx05.6</ref>
+<loc>rgyud Ca 243b5-259b5</loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph>dpal dus kyi 'khor lo'i rgyud phyi ma'i rgyud kyi snying po rdzogs s+ho// //shAkya'i dge slong dar ma grags kyis bsgyur ba'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 363 Ka.4 129a1-144a7; Mu Ja.3; X Ka.13, Tsha.2; dup. Tha.3
+
+<item>
+<rkts>361</rkts>
+<ref>Cx05.7</ref>
+<loc>rgyud Ca 259b5-266a7</loc>
+<tib>dbang mdor bstan pa</tib>
+<skttrans>se ka u de sha</skttrans>
+<coloph>'jig rten khams la sogs pa le'u lnga pa las// mchog tu mi 'gyur ba'i dbang gi bsgrub pa'i mdor bstus kyi le'u zhes bya ba rdzogs s+h+yo// kha che'i mahA paN+Di ta so man tha dang/ bod kyi lo tstsha wa chen po 'bro dge slong dge ba shes rab grags kyis bsgyur pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 361 Ka.2 14a1-21a6; Mu Ja.4; X --; dup. Tha.4
+
+<item>
+<rkts>365</rkts>
+<ref>Cx05.8</ref>
+<loc>rgyud Ca 266a7-270a8</loc>
+<tib>dbang gi rab tu byed pa</tib>
+<skttrans>she ka pra kri ya</skttrans>
+<coloph>dpal dus kyi 'khor lo'i tshig su bcad pa/ sum bcu lhag pa'i stong phrag gcig pa las mdor bsdus pa dbang du byed pa rdzogs so// //rgya gar gyi paN+Di ta mkhas pa chen po sa man ta shri dang/ lo tstsha ba dge slong chos rab kyis bsgyur cing zhus te gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 365 Ka.6 146a7-150a7; Mu Ja.5; X --; dup. Tha.5
+
+<item>
+<rkts>T65</rkts>
+<ref>Cx05.9</ref>
+<loc>rgyud Ca 270b1-288b6</loc>
+<tib>don dam pa'i bsnyen pa</tib>
+<skttrans>pa ra ma ar+tha se ba</skttrans>
+<coloph>pad ma dkar po'i zhal snga nas kyis gsung pa rdzogs s+ho// //don dam pa bsnyen pa/ sa mA pA//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 1348 rgyud 'grel, Na 1b1-20a3; Mu Ja.6; X --; dup. Tha.6
+
+<item>
+<rkts>364</rkts>
+<ref>Cx05.10</ref>
+<loc>rgyud Ca 288b7-291a1</loc>
+<tib>dpal dus kyi 'khor lo zhe bya ba'i rgyud kyi snying po</tib>
+<skttrans>shrI kA la tsa kra nA ma tan tra</skttrans>
+<coloph>dpal dam pa dang po'i sangs rgyas/ /stong phrag bcu gnyis pa las gsungs pa/ /dpal dus kyi 'khor lo zhes bya ba las/ thabs dang shes rab gnyis su med pa'i sbyor ba'i yan lag drug gi sgrub thabs/ bkol pa'i dum bu'o// //rgya gar gyi mkhan po shri b+ha dra b+ho d+hi'i zhal snga nas dang/ /bod kyi lo tstsha ba gyi jo ban de zla ba'i 'od gser gyis 'bro dge slong gi phyir bsgyur cing zhus te gtan la phab pa'o// //sangs rgyas mya ngan 'das 'og tu/ /byang chub sems dpa'i sprul pa rnams/ /sham pa la'i yul du 'khrungs/ /sbas pa'i sdus don dus 'khor lo/ /bram ze srog chags rnams la bstan/ /'phags pa'i yul pa rnams la sbas/ /yi ge bdun gsum tshig bshad ni/ /bdag gi bde blag rtogs bya'i phyir/ /yi ge bdun bdun tshigs bshad sdebs/ /nongs na mkhas rnams bzod par mdzod/ /de ltar 'bad de bsgyur byas pas/ /'gro rnams de nyid la 'jug shog//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 364 Ka.5 144b1-146a7; Mu Ja.7; X --; dup. Tha.7; nicht in Them spangs ma
+Kol. abschl Verse nicht in D
+
+<item>
+<rkts>1258</rkts>
+<ref>Cx05.11</ref>
+<loc>rgyud Ca 291a2-314a6</loc>
+<tib>gtsor bla ma'i yon tan bzung ba'i rgyud</tib>
+<skttrans>gu ru gu na d+ha na ma tan tra</skttrans>
+<coloph></coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>colophon incl. concluding verses illegible</note>
+</item>
+D --; Mu Ja.8; X --; dup. Tha.8
+
+<item>
+<rkts>442</rkts>
+<ref>Cx06.1</ref>
+<loc>rgyud Cha 1b1-86a8</loc>
+<tib>dpal gsang ba 'dus pa</tib>
+<skttrans>shrI gu hya sa mA dza nA ma</skttrans>
+<coloph>de bzhin gshegs pa thams cad kyi sku dang / gsung dang / thugs gsang zhing rab tu gsang ba zhes bya ba rtog pa chen po'i rgyal po rdzogs s+ho//</coloph>
+<bampo><p></p></bampo>
+<chap>de bzhin gshegs pa thams cad kyi sku dang / gsung dang / thugs kyi gsang ba gsang ba 'dus pa las/ de bzhin gshegs pa thams cad kyi dam tshig dang sdom pa rdo rje byin gyi brlabs kyi rgyal po zhes bya ba'i le'u ste bcu bdun pa'o//<p>74b6</p></chap>
+<chap>de bzhin gshegs pa thams cad kyi sku dang gsung dang thugs kyi gsang ba chen po/ /gsang ba 'dus pa las gsang ba thams cad ston pa/ rdo rje'i ye shes byin gyis brlab pa zhes bya ba/ le'u bcwo brgyad pa rdzogs s+ho// //rgya gar gyi mkhan po a tsa rya shrA d+ha ka ra war+ma dang / zhu chen gyi lo tstsha wa dge slong rin chen bzang pos bsgyur cing bcos te gtan la phab pa'o//<p>86a8</p></chap>
+<note>A first colophon appears after chap. 17, cf. Skorupski 1985, a second one refers to chap. 18</note>
+</item>
+D 442 Ca.11 90a1-148a6; Mu Nya.1; X Ja.18, 19?
+de bzhin gshegs pa thams cad kyi sku dang gsung dang thugs kyi gsang ba/ /gsang ba 'dus pa
+
+
+<item>
+<rkts>444</rkts>
+<ref>Cxa06.2</ref>
+<loc>rgyud Cha 86a8-146b7</loc>
+<tib>dgongs pa lung bstan pa zhes bya ba'i rgyud</tib>
+<skttrans>sad d+h+ya byA ka ra tan+t+ra na ma</skttrans>
+<coloph>dgongs pa lung bstan pa zhes bya ba'i rgyud chen po rdzogs so// //rgya gar gyi mkhan po d+ha rma shri b+ha tra dang/ zhu chen gyi lo tstsha ba dge slong rin chen bzang pos/ /bsgyur cing zhus te gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 444 Ca.13 158a1-207b7; Mu Nya.3; X --
+131b1: thob pa'i phyir na le'ur 'gyur// = chap. 11 - "not found" by Skorupski ??
+
+<item>
+<rkts>445</rkts>
+<ref>Cx06.3</ref>
+<loc>rgyud Cha 207b8-231a3</loc>
+<tib>rnal 'byor chen po'i rgyud dpal rdo rje phreng ba mngon par brjod pa rgyud thams cad kyi snying po gsang ba rnam par phye ba zhes bya ba</tib>
+<skttrans>shrI badz+ra mA la a b+hi sa ma yA ma hA yo ga tantra sar+wa tantra hri da ya ra ha sya b+he da kang i te</skttrans>
+<coloph>rnal 'byor chen po'i rgyud dpal rdo rje phreng ba'i mngon par brjod pa rgyud thams cad kyi snying po gsang ba rnam par phye ba zhes bya ba rdzogs so// //thugs dam sa'i snying pa tho ling dpal dpe med lhun gyis grub pa'i gtsug lhag khang du/ rgya gar gyi mkhan po su dza na shri gnya' na dang/ sgra bsgyur gyi lo tstsha ba chen po/ bod kyi lha btsan po bla ma dge slong zhi ba 'od kyi zhal nas bsgyur cing zhus te gtan la phab pa/ rgya gar dang kha che gang na yang dpe 'di mi bzhugs/ jo bo mantra ka la shal/ gser gug srang brgya tham pa phul nas yul dbu rgyen nas btsal ba lags// //rdo rje phreng ba dang dpal mchog gnyis ka bla ma de nyid dang bsgyur/ bshad pa'i rgyud la rdo rje phreng ba las bzang ba/ bod yul du sngar ma 'gyur lags so/ /lan gsum zhus nas shin du dag go// //Ithi//</coloph> 
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 445 Ca.14 208a1-277b3; Mu Nya.4; X Ja.1
+rnal 'byor chen po'i rgyud dpal rdo rje phreng ba mngon par brjod pa
+
+<item>
+<rkts>446</rkts>
+<ref>Cx06.4</ref>
+<loc>rgyud Cha 231a3-235b8</loc>
+<tib>lha mo bzhis yongs su zhus pa</tib>
+<skttrans>tsa tur dewi ra pri tsa</skttrans>
+<coloph>thams cad kyi gsang ba mchog dam pa/ gsang chen zhes bya ba'i rgyud/ lha mo bzhis yongs su zhus pa/ dpal u rgyan gyi yul nas byung ba rnal 'byor ma'i de kho na nyid rdzogs so// //rgya gar gyi mkhan po smri ti  dz+nyA na kIrti nyid kyis bsgyur cing zhus te/ bshad nas gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 446 Ca.15 277b3-281b7; Mu Nya.5; X Ja.27
+
+<item>
+<rkts>447</rkts>
+<ref>Cx06.5</ref>
+<loc>rgyud Cha 236a1-240b3</loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<bampo><p></p></bampo>
+<chap>ye shes rdo rje kun las btus pa zhes bya ba rnal 'byor chen po'i rgyud las/ bde ba chen po'i le'u ste// //rim pa gnyis pa'o// //rdzogs s+ho//<p>240b3</p></chap> 
+<note>titles and colophon missing</note>
+</item>
+D 447 Ca.16 282a1-286a6; Mu Nya.6; X Ka.12
+
+<item>
+<rkts>451</rkts>
+<ref>Cx06.6</ref>
+<loc>rgyud Cha 240b4-267a8</loc>
+<tib>dpal rdo rje snying po rgyan gyi rgyud ces bya ba</tib>
+<skttrans>shrI badzra shrId a lang ka ra tan tra nA ma</skttrans>
+<coloph>dpal rdo rje snying po rgyan gyi rgyud las/ rnal 'byor chen po'i de kho na nyid nges pa zhes bya ba// //dpal dbu brgyan gyi gsang ba'i dgon pa nas byang ba rdzogs so// // rgya gar gyi mkhan po ka ma la gu tya dang/ bod gyi lo tstsha ba chen po/ /mnga' bdag lha ye shes rgyal mtshan gyis/ bsgyur cing zhus te gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 451 Cha.2 36a1-58b3; Mu Ta.1; X Tha.3
+
+<item>
+<rkts>452</rkts>
+<ref>Cx06.7</ref>
+<loc>rgyud Cha 267a8-315a8</loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph>'phags pa gnyis su med pa mnyam pa nyid rnam par rgyal ba zhes bya ba'i rtag pa'i rgyal po chen po rdzogs so// //mkhan chen thar pa lo tstsha ba'i phyag dpe'i gseb nas/ /shog yar lnga byung ba snga bsgyur ba las/ /phyis nyang bstod smon gro'i gtsug lag khang nas/ /rgya dpe lhag ma rnams rnyed nas bsgyur bar rtsom  pa na/ dpal dus kyi 'khor lo'i phyi nang gsang gsum gyi tshul la mi 'jigs pa'i spobs pa thob pa'i bla ma yang dag pa'i dge ba'i bshes gnyen chen po/ legs par sbyar ba'i skad kyi brda sprod pa'i tshul la blo gros shin tu byang ba'i 'jig rten gyi mig chos grags dpal bzang po'i bkas bskul zhing/ sbyin bdag mdzad nas/ /bu ston gyis bsgyur ba'o// //rgyud min rgyud ltar bcos pa yi/ chos min sun dbyung bya phyir dang/ dam chos snang ba spel ba'i phyir/ ji ltar nus bzhin bsgyur ba lags/ /'di don 'byed pa'i 'brel pa dang / /rgya dpe'i dpe yang ma rnyed cing / /don zab sgra ni rtogs dka' la/ /saMskri ta las ma byang bas/ /sgra don ji bzhin ma 'byor pa'i/ /nongs de mkhas rnams bzod mdzad cing// //phyis 'byung skad gnyis smra rnams kyis/ ma dag shes na bcos par zhu// brgyud chen 'di ni sgyur ba las/ /dge ba bdag gis gang thob pa/ /de'i mtha' yas 'gro ba kun/ /rdo rje 'chang chen nyid gyur cig// //dge 'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>titles missing</note>
+</item>
+D 452 Cha.3 58b3-103a3; Mu Ta.2; X Ka.13, Tha.1 
+gnyis su med pa mnyam pa nyid rnam par rgyal ba'i rtog pa/'i rgyal po/ chen po
+
+<item>
+<rkts>439</rkts>
+<ref>Cx07.1</ref>
+<loc>rgyud Ja 1b1-5b8</loc>
+<tib>rdo rje phur pa rtsa ba'i rgyud kyi dum bu</tib>
+<skttrans>badzra ki la ya mu la tan+t+ra</skttrans>
+<coloph>rdo rje phur pa rtsa ba'i rgyud kyi dum bu/ slob dpon pad ma 'byung gnas/ dngos kyi rgya dpe dang mthun par/ dpal ldan sa skya paN+Di tas/ g.yas ru'i sa'i cha shangs kyi sreg shing du sgyur cing zhus te/ gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 439 Ca 43b7-45b6; Mu Na.1; X --
+
+<item>
+<rkts>489</rkts>
+<ref>Cx07.2</ref>
+<loc>rgyud Ja 6a1-103b8</loc>
+<tib>dpal rdo rje snying po rgyan ces bya ba'i rgyud kyi rgyal po chen po</tib>
+<skttrans>shri badzra maN+Da a laM kA ra na ma ma hA tan tra rA dza</skttrans>
+<coloph>dpal rdo rje snying po rgyan gyi rgyud du ji ltar snyed pa yongs su/ rdzogs s+ho// //rigs gzugs bskal bzang mang thos blo 'byor sogs/ phun tshogs ldan pa dpal ldan chos rje yis/ /rgyud 'di bsgyur las cung zad ma rdzogs pa/ /dpal ldan blo gros brtan pas rdzogs par bsgyur// //mkhas pa'i dbang phyug dam pa mkhen chen bu ston pa'i phyag dpe la phyi mo byas te/ sum zhus legs par bgyis bdog pas/ slan chad bri ba rnams kyis kyang 'di kho na bzhin 'dri bar zhu/ bsgyur thabs gnyis las yongs rdzogs rgyud 'di yi/ zhu dag mkhas par grags pas mang zhus na'ang/ /kho bo skar mas bltas tshe nor pa'i rigs/ /'ga' yar mngon rnams legs par bcos de dag/ dge/ //</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 490 Tha.1 1b1-82a7; Mu Na.2; X Tha.3
+
+<item>
+<rkts>491</rkts>
+<ref>Cx07.3</ref>
+<loc>rgyud Ja 104a1-146b5</loc>
+<tib>de bzhin gshegs pa thams cad kyi sku dang gsung dang thugs kyi gsang ba rgyan gyi bkod pa zhes bya ba'i rgyud kyi rgyal po</tib>
+<skttrans>sarba thA ta ga tA kA yA bA ka tsit ta guh+ya a lang ka b+h+ya ha tan trA rA dza nA ma</skttrans>
+<coloph>de bzhin gshegs pa thams cad kyi sku dang gsung dang thugs gsang ba rgyan gyi bkod pa zhes bya ba'i rgyud kyi rgyal po chen po yongs su rdzogs s+ho// //rgya gar gyi mkhan po brda' sprod pa chen po bde bar gshegs pa'i dpal zhes bya ba dang/ sgyur byed kyi mkhas pa sgra'i gzhung lugs la blo gros dkar ba kun dga' rgyal mtshan gyis dpal sa skya'i dben gnas dam par sgyur/ /mda' lnga'i gtsug ldan yid kyi srub shing gi/ /dregs pa'i dra ba rnam par dral ba'i phyir/ /rgyud rgyal rgya mtsho'i rgyal po ltar zab 'di/ /bsgyur la 'gal gang 'di la 'phags rnams dgongs//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 492 Tha.2 83b1-119b5; Mu Na.3; X ?
+
+<item>
+<rkts>492</rkts>
+<ref>Cx07.4</ref>
+<loc>rgyud Ja 146b5-186a7</loc>
+<tib>'phags pa gsang ba nor bu'i thig le zhes bya ba'i mdo</tib>
+<skttrans>a r+ya gu h+ya ma ni ti la ka nA ma sUtra</skttrans>
+<coloph>mchog tu gsang ba'i mdzod ces bya ba theg pa chen po'i mdo las/ gsang ba de kho na nyid sbas pa'i mchog gi thig le zhes bya ba'i gsang ba'i 'byung gnas rdzogs so// dam pa'i rgyud 'di gsang can 'di na sngon/ /rnam pa kun du bsgyur ba ma rnyed nas/ /mkhas pa bde bar gshegs pa'i dpal dang ni/ /sgra rig kun dga' rgyal mtshan bdag g+si bsgyur// dam pa'i bka' yis bskul nas gus pa yis/ /dpaldan sa skya'i gtsug lag khang du bsgyur/ /dge ba de las sems can thams cad kyis / /gsang don rtogs nas sangs rgyas sar 'gro shog//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 493 Tha.3 119b5-151b1; Mu Na.4; X Ja.?
+
+<item>
+<rkts>501</rkts>
+<ref>Cx07.5</ref>
+<loc>rgyud Ja 186a7-273a7</loc>
+<tib>dam tshig gsum bkod pa'i rgyal po zhes bya ba'i rgyud</tib>
+<skttrans>tri sa ma yA rU dzU na ma tan tra</skttrans>
+<coloph>dam tshig gsum bkod pa'i rgyal po'i rgyud/ rtog pa'i rgyal po chen po las thun mong gi cho ga rdzogs s+ho// //rgya gar gyi mkhan po kri sna pan TI ta dang/ lo tstsha ba dge slong tshul khrims rgyal bas bsgyur cing zhus te/ gtan la phab pa//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>the passage: rtog pa'i ... cho ga is probably to be deleted, as it is a repedition of the last chapter title</note>
+</item>
+D 502 Da.7 181a2-247a7; Mu Pa.3; X --; dup. Ta/Tha.3
+
+<item>
+<rkts>456</rkts>
+<ref>Cx07.6</ref>
+<loc>rgyud Ja 273a8-278a8</loc>
+<tib>lag na rdo rje gos sngon po can gyi rgyud</tib>
+<skttrans>badz+ra pa ni ni lam ba ra tan tra</skttrans>
+<coloph>'phags pa lag na rdo rje gos sngon po can gyi cho ga rdo rje be con gyi rgyud// //rdzogs s+ho//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 456 Ja.3 8a4-12a5; Mu Pa.7; X Ka.16, Ba.6 ?? Text checken
+
+<item>
+<rkts>461</rkts>
+<ref>Cx07.7</ref>
+<loc>rgyud Ja 278a8-310a8</loc>
+<tib>phyag na rdo rje gos sngon po can gnod sbyin drag po'i rje me lce'i rgyud ces bya ba</tib>
+<skttrans>ni lam b+ha ra d+ha ra badz+ra pa ni ya k+Sha ma hA ru'u dra badz+ra b+han ni tan tra na ma</skttrans>
+<coloph>bcom ldan 'das dpal phyag na rdo rje gos sngon po can/ gnod sbyin gtum po grag po rdo rje me lce'i rgyud kyi rgyal po// //rdzogs s+ho// dge'o// su pra ti Ta badz+ra ya s+wA hA//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 461 Ja.8 40a1-65b6; Mu Pa.8; X Ka.6
+lag na rdo rje gos sngon po can rdo rje me lce'i rgyud
+
+<item>
+<rkts>479</rkts>
+<ref>Cx08.1</ref>
+<loc>rgyud Nya 1b1-181a6</loc>
+<tib>de bzhin gshegs pa thams cad kyi de kho na nyid bsdus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans>sar+wa ta thA ga ta t+wad t+wa sang gra ha ma hA yA na na ma sU tra</skttrans>
+<coloph>de bzhin gshegs pa thams cad kyi de kho na nyid bsdus pa zhes bya ba theg pa chen po'i mdo// rdzogs s+ho//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 479 Nya.1 1b1-142a7; Mu Pa.1"rnal 'byor kyi rgyud"; X Ta.1
+de bzhin ghegs pa thams cad kyi las kyi dam tshig brtag pa'i rgyal po chen po
+
+<item>
+<rkts>480</rkts>
+<ref>Cx08.2</ref>
+<loc>rgyud Nya 181a6-340a7</loc>
+<tib>gsang ba rnal 'byor chen po'i rgyud rdo rje rtse mo</tib>
+<skttrans>badz+re shi ga ra mahA gu h+ya yo ga tan tra</skttrans>
+<coloph>rdo rje rtse mo zhes bya ba'i rgyud/ rdzogs s+ho// //rgya gar gyi mkhan po rdo rje slob dpon chen po karma badz+ra'i zhal snga nas dang / lo tstsha dge slong gzhon nu tshul khrims kyis bsgyur cing zhus pa'o// //ye d+ha rma he tu ...//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 480 Nya.2 142b1-274a5; Mu Da.1; X Ta.2
+
+<item>
+<rkts>482</rkts>
+<ref>Cx09.1</ref>
+<loc>rgyud Ta/Tha 1b1-55b8</loc>
+<tib>'jig rten gsum las rnam par rgyal ba rtog pa'i rgyal po chen po</tib>
+<skttrans>trai lo kya pi dza ya mahA kal pa rA dza</skttrans>
+<coloph>'jig rten gsum las rnam par rgyal ba zhes bya ba'i rtog pa chen po'i rgyal po las kun rdzogs s+ho//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 482 Ta.2 10a1-58a7; Mu Pa.1; X Nga.4, Dza.5
+
+<item>
+<rkts>481</rkts>
+<ref>Cx09.2</ref>
+<loc>rgyud Ta/Tha 55b8-?</loc>
+<tib>thams cad gsang ba zhes bya ba'i rgyud kyi rgyal po</tib>
+<skttrans>sar+ba ra ha s+ya nA ma tan tra rA dzA</skttrans>
+<coloph></coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>ph. 67-81 = fol. 58b-72a demaged</note>
+</item>
+D 481 Ta.1 1b1-10a1; Mu Pa.2; X Ma.6; dup. Tha.15
+
+<item>
+<rkts>501</rkts>
+<ref>Cx09.3</ref>
+<loc>rgyud Ta/Tha ?-142a4</loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph>dam tshig gsum bkod pa'i rgyal po'i rgyud/ rtog pa'i rgyal po chen po las thun mong gi cho ga rdzogs s+ho// //rgya gar gyi mkhan po kri Sh+Na paN Di ta dang/ lo tsa ba dge slong tshul khrims rgyal bas bsgyur cing zhus te gtan la phab pAo//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>ph. 67-81 = fol. 58b-72a demaged</note>
+</item>
+D 502 Da.7 181a2-247a7; Mu Pa.3; X --; dup. Ja.5
+dam tshig gsum gyi rgyal po
+
+<item>
+<rkts>486</rkts>
+<ref>Cx09.4</ref>
+<loc>rgyud Ta/Tha 142a4-146b3</loc>
+<tib>rab tu gnas pa mdor bstus pa'i cho ga'i rgyud</tib>
+<skttrans>saM k+She pa pra ti Sh+Tha bi d+hi tan tra</skttrans>
+<coloph>rab tu gnas pa mdor bstus pa'i cho ga'i mdo rdzogs s+ho// //kha che'i paN+Di ta chen po dz+nyA na badz+ra dang/ lo tsa ba 'bro dge slong shes rab grags pas bsgyur ba'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 486 Ta.6 146b1-150a7; Mu Pa.4; X Ja.1, Dza.6
+
+<item>
+<rkts>720</rkts>
+<ref>Cx09.5</ref>
+<loc>rgyud Ta/Tha 146b3-163b4</loc>
+<tib>de bzhing gshegs pa thams cad kyi yum sgrol ma las sna tshogs 'byung ba zhes bya ba'i rgyud</tib>
+<skttrans>sar+ba ta thA ga ta mA tri tA rA bi shwa karma b+ha ba tan tra nA ma</skttrans>
+<coloph>bcom ldan 'das ma sgrol ma las sna tshogs ston pa zhes bya ba'i rgyud/ rdzogs s+ho// //rgya gar gyi mkhan po d+ha r+m+ma shrI dang/ bod kyi dge slong chos kyi bzang pos bsgyur ba las// //ma phyi 'phar mangs dang dus dbang g+si/ ma dag gyur pas dag par gyis shig ces/ sprul pa'i chos rgyal bkra shis mgon po yis// bka' bstsal dang du blang dang bstan pa'i phyir// lo chen thugs rje'i mtshan can bka' drin gyis// skad dod sdeb sbyor ka tsan bzhu ba las// byings rkyen nyer bsgyur rnam dbye lus 'gyur dang// dag pa'i dpe dpang rnam dpyod chu rgyun gyis// nor 'phrul dri ma ma lus dag bdog p+sa// phyi 'bud 'bri klog 'di bzhin mdzad par zhu//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 726 Tsha.3 202a1-217a2; Mu Pa.5; X Dza 1
+
+<item>
+<rkts>437</rkts>
+<ref>Cx09.6</ref>
+<loc>rgyud Ta/Tha 163b4-178b3</loc>
+<tib>'phags ma sgrol ma ku ru kul+le rtog pa</tib>
+<skttrans>Ar+ya tA ra ku ru kul+le kal+pa</skttrans>
+<coloph>'phags ma sgrol ma ku ru kul+le'i rtog pa rdzogs s+ho// //rgya gar gyi mkhan po kriSh+Na paN+Di ta dang/ lo tsa ba dge slong tshul khrims rgyal bas bsgyur cing zhus te gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 437 Ca.6 29b1-42b3; Mu Pa.6; X Dza.3
+
+<item>
+<rkts>461</rkts>
+<ref>Cx09.7</ref>
+<loc>rgyud Ta/Tha 183b3-212a7</loc>
+<tib>lag na rdo rje gos sngon po can gyi rgyud</tib>
+<skttrans>badz+ra pA Ni ni lAm ba ra tan tra</skttrans>
+<coloph>bcom ldan 'das dpal phyag na rdo rje gos sngon po can gnod sbyin gtum po drag po rdo rje me lce'i rgyud kyi rgyal po rdzogs so// sdigs rnams/ phyi mo 'phar dang dus kyis nyams pa rnams// snyigs dus 'grol bkra shis mgon sstol ba// sprul pa'i chos rgyal bka' bzhin shab lo tsas// sgras bsgrubs skad dod mdzes pa'i lus 'gyur bstan// phyi nas 'bri klog phul byung 'di bzhin zhu//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>colophon hardly legible, to be re-checked</note>
+</item>
+D 461 Ja.8 40a1-65b6; Mu Pa.8; X Ka.5, Ka.20-frag
+lag na rdo rje gos sngon po can rdo rje me lce'i rgyud
+
+<item>
+<rkts>360</rkts>
+<ref>Cx10.1</ref>
+<loc>rgyud Tha 1b1-17a2</loc>
+<tib>'phags pa 'jam dpal gyi mtshan yang dag par brjod pa</tib>
+<skttrans>Ar+ya many+dzu shrI nA ma sang gi ti</skttrans>
+<coloph>bcom ldan 'das 'jam dpal ye shes sems dpa'i don dam pa'i mtshan yang dag par brjod pa/ bcom ldan 'das de bzhin gshegs pa shAkya thub pas gsungs pa/ rdzogs+ho//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D Ka.1 1b1-13b7; Mu --; X --
+
+<item>
+<rkts>362</rkts>
+<ref>Cx10.2</ref>
+<loc>rgyud Tha 17a3-145a6</loc>
+<tib>dpal dus kyi 'khor lo'i bsdus pa'i rgyud kyi rgyal po zhes bya ba</tib>
+<skttrans>shrI kA la tsakra la gu tan tra rA dzA nA ma</skttrans>
+<coloph>dpal dus kyi 'khor lo rgyud kyi rgyal po rdzogs s+ho// //rgya gar gyi pan Di ta mkhas pa chen po sa man ta shri dang/ sgra bsgyur bla ma ra lo tstsha ba dge slong chos rab kyis bsgyur cing zhus te gtan la phab pa'o// //ye d+harmA he tu ...//</coloph>
+<bampo><p></p></bampo>
+<chap>dpal chen po'i sangs rgyas las btus pa/ dpal chen po dus kyi 'khor lo zhes bya ba las/ /'jig rten khams kyi rnam par dgod pa ste// //le'u dang po'o// //rdzogs s+ho//<p>38a1</p></chap>
+<chap>de ltar dpal chen dang po'i sangs rgyas las bdus pa'i dpal chen po dus kyi 'khor lo nang gi bdag nyid gtan la phab pa'i le'u ste// //gnyis pa rdzogs s+ho//<p>59a1</p></chap>
+<chap>dbang gi le'u gsum pa'o// //rdzogs s+ho//<p>83a3</p></chap>
+<chap>de ltar dpal chen po'i sangs rgyas las bdus pas dpal chen po dus kyi 'khor lo'i bsgrub pa'i le'u bzhi pa/ rdzogs s+ho//<p>111b6</p></chap>
+<chap>de ltar dang po'i sangs rgyas stong phrag bcu gnyis pa las// //bsdud pa dpal chen po dus kyi 'khor lo ye shes kyi le'u ste lnga pa'o//<p>145a4</p></chap>
+<note></note>
+</item>
+D 362 Ka.3 Ka 22b1-128b7; Mu Ja.2; X Ka.4 -no chap.-, Tsha.1; dup. Ca.5
+
+<item>
+<rkts>363</rkts>
+<ref>Cx10.3</ref>
+<loc>rgyud Tha 145a7-163a8</loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph>dpal dus kyi 'khor lo'i rgyud phyi ma'i rgyud kyi snying po// //rdzogs s+ho// //shAkya'i dge slong dar ma grags kyis bsgyur ba'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 363 Ka.4 129a1-144a7; Mu Ja.3; X Ka.13, Tsha.2; dup. Ca.6
+
+<item>
+<rkts>361</rkts>
+<ref>Cx10.4</ref>
+<loc>rgyud Tha 163b1-171b5</loc>
+<tib>dbang mdor bstan pa</tib>
+<skttrans>se ka u de sha</skttrans>
+<coloph>'jig rten khams lasogs pa le'u lnga pa las/ /mchog tu mi 'gyur ba'i dbang gi bsgrub pa'i mdor bstus kyi le'u zhes bya ba rdzogs s+h+yo// //kha che'i ma hA paN+Di ta so man tha dang/ bod kyi lo tstsha ba chen po 'bro dge slong dge ba rab grags kyis bsgyur ba'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 361 Ka.2 14a1-21a6; Mu Ja.4; X --; dup. Ca.7
+
+<item>
+<rkts>365</rkts>
+<ref>Cx10.5</ref>
+<loc>rgyud Tha 171b5-176b2</loc>
+<tib>dbang gi rab tu byed pa</tib>
+<skttrans>she ka pra kri ya</skttrans>
+<coloph>dpal dus kyi 'khor lo'i tshig su bcad pa/ sum bcu lhag pa'i stong phrag gcig pa las mdor bsdus pa dbang du byed pa rdzogs so// //rgya gar gyi paN+Di ta mkhas pa chen po sa man ta shri dang/ lo tstsha ba dge slong chos rab kyis bsgyur cing zhus te gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 365 Ka.6 146a7-150a7; Mu Ja.5; X --; dup. Ca.8
+
+<item>
+<rkts>T65</rkts>
+<ref>Cx10.6</ref>
+<loc>rgyud Tha 176b2-197a5</loc>
+<tib>don dam pa'i bsnyen pa</tib>
+<skttrans>pa ra ma ar+tha se ba</skttrans>
+<coloph>pad ma dkar po'i zhal snga nas kyis gsung pa rdzogs s+ho// //don dam pa bsnyen pa// sa mA pA//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 1348 rgyud 'grel, Na.1 1b1-20a3; Mu Ja.6; X --; dup. Ca.9
+
+<item>
+<rkts>364</rkts>
+<ref>Cx10.7</ref>
+<loc>rgyud Tha 197a5-199b4</loc>
+<tib>dpal dus kyi 'khor lo zhe bya ba'i rgyud kyi snying po</tib>
+<skttrans>shrI kA la tsa kra na ma tan tra</skttrans>
+<coloph>dpal dam pa dang po'i sangs rgyas/ /stong phrag bcu gnyis pa las gsungs pa/ /dpal dus kyi 'khor lo zhes bya ba las/ thabs dang shes rab gnyis su med pa'i sbyor ba'i yan lag drug gi sgrub thabs/ bkol ba'i dum bu'o// //rgya gar gyi mkhan po shri b+ha dra b+ho d+hi'i zhal snga nas dang/ /bod kyi lo tstsha ba gyi cho ban de zla ba'i 'od gser gyis 'bro dge slong gyi phyir bsgyur cing zhus te gtan la phab pa'o// //sangs rgyas mya ngan 'das 'og tu/ /byang chub sems dpa'i sprul pa rnams/ /sham pa'i la'i yul du 'khrungs/ /sbas pa'i sdus don dus 'khor lo/ /bram ze srog chags rnams la bstan/ /'phags pa'i yul pa rnams la sbas/ /yi ge bdun gsum tshig bshad ni/ /bdag gi bde blag rtogs bya'i phyir/ /yi ge bdun bdun tshigs bshad sdebs/ /nongs na mkhas rnams bzod par mdzod/ /de ltar 'bad de sgyur byas pas// //'gro rnams de nyid la 'jug shog//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 364 Ka.5 144b1-146a7; Mu Ja.7; X --; dup. Ca.10; nicht in Them spangs ma
+Kol. abschl Verse nicht in D
+
+<item>
+<rkts>1258</rkts>
+<ref>Cx10.8</ref>
+<loc>rgyud Tha 199b4-?</loc>
+<tib>gtsor bla ma'i yon tan bzung ba'i rgyud</tib>
+<skttrans>g+hu ru g+hu na d+ha ra na ma tan tra</skttrans>
+<coloph></coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>fols 200a-225a missing</note>
+</item>
+D --; Mu Ja.8; X --; dup. Ca.11
+
+<item>
+<rkts>426</rkts>
+<ref>Cx10.9</ref>
+<loc>rgyud Tha ?-231a3</loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph>rgya gar gyi mkhan po ga ya s+tha pa ga ya d+ha ras zhal lnga dang/ /bod kyi lo tstsha wa dge slong shAkya ye shes kyis sgyur cing zhus te gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap>do rje a ra li las rnal 'byor ma'i gong nas med pa'o zhes bya ba'i le'u ste bcu pa rdzogs s+h+yo//<p>231a2</p></chap>
+<note>fols 200a-225a missing, less than one fol. - acc. D - of this text</note>
+</item>
+D 426 Nga.10 171a2-176a2; Mu Nga mentions ra li'i rgyud skor between Nga.24 and 25; X --; dup. Ga.26
+
+<item>
+<rkts>427</rkts>
+<ref>Cx10.10</ref>
+<loc>rgyud Tha 231a3-237a2</loc>
+<tib>ri gi a ra li rgyud kyi rgyal po zhes bya ba</tib>
+<skttrans>ri gi a ra li tan tra ra tsa na ma</skttrans>
+<coloph>ri gi a ra li'i rgyud kyi rgyal po rdzogs s+h+yo// //rgya gar gyi mkhan po g+ha ya s+tha pa g+ha ya d+ha ra'i zhal snga nas dang// bod kyi lotstsha ba dge slong shAkya ye shes kyis bsgyur cing zhus te gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 427 Nga.11 176a2-180b7; Mu Nga mentions ra li'i rgyud skor between Nga.24 and 25; X --; dup. Ga.27
+
+<item>
+<rkts>414</rkts>
+<ref>Cx10.11</ref>
+<loc>rgyud Tha 237a2-239b3</loc>
+<tib>rgyud kyi rgyal po rnyog pa med pa zhes bya</tib>
+<skttrans>a ni ba laM tan tra rA dza na ma</skttrans>
+<coloph>dpal bde bar rtogs par byed pa dang ldan pa zhes bya ba rgyud kyi rgyal po byin gyis brlab pa'i rim pa chen po mkha' 'gro ma dra ba'i sdom pa'i brtag pa rnyog pa med pa/ rdzogs s+ho// //rgya gar gyi mkhan po ka ya s+tha pa ga ya d+ha ra'i zhal snga nas dang/ bod kyi lotstsha ba dge slong shAkya ye shes kyis sgyur cing zhus te gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 414 Ga.41 259b3-261b3; Mu Ja.11; X Ba.13; dup. Ga.28
+
+<item>
+<rkts>425</rkts>
+<ref>Cx10.12</ref>
+<loc>rgyud Tha 239b3-243b7</loc>
+<tib>sgyu 'phrul chen mo'i rgyud zhes bya ba</tib>
+<skttrans>mahA ma ya tan t+ra na ma</skttrans>
+<coloph>rdo rje rnal 'byor ma rnams kyi dgongs pa mchog tu gsang pa chen po'i nye ba'i spyod pa'i sgrub pa'i thabs/ /sgyu 'phrul chen mo zhes bya ba gzhi rgyud kyi rgyal po rdzogs s+h+yo// //rgya gar gyi po a rgyu la da sa badz+ra dang/ bod kyi lo tstsha ba chen po g+hos lhas bcas gyis bsgyur cing zhus te gtan la phab pa/ /slad nas pan Ti ta chen po zhi ba bzang po dang/ klog skya shes rab brtsegs kyis gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item> 
+D 425 Nga.9 167a6-171a1; Mu Ja.12; X --; dup. Ga.29
+
+<item>
+<rkts>441</rkts>
+<ref>Cx10.13</ref>
+<loc>rgyud Tha 243b7-247b7</loc>
+<tib>ji bzhin brnyes pa nam mkha' dang mnyam pa zhes bya ba'i rgyud</tib>
+<skttrans>ya tha lab haM la sa maM tan tra na ma</skttrans>
+<coloph>ji bzhin brnyes pa nam mkha' dang mnyam pa'i rgyud rdzogs s+ho// rgya gar gyi mkhan po chen po k+sha ka ga na dang/ lo tstsha ba mang po dge slong byang chub shes rab kyis bsgyur cing zhus te gtan la phab pa'o//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 441 Ca.10 86b1-89b7; Mu Ja.13; X --; dup. Ga.30
+
+<item>
+<rkts>476</rkts>
+<ref>Cx10.14</ref>
+<loc>rgyud Tha 247b7-251a5</loc>
+<tib>dpal bcom ldan 'das ral pa gcig pa'i brtag pa'i rgyud kyi rgyal po chen po zhes bya ba</tib>
+<skttrans>shrI b+ha ga wan e ka dza TA mahA kal pa tan tra ra dzA nA</skttrans>
+<coloph>dpal bcom ldan 'das ral pa gcig pa'i rgyud rdzogs s+ho// //rnal 'byor gyi dbang phyug chen po shrI dza ga ta mi tra a nan da'i bka' drin la brten nas/ rje btsun de nyid kyi sras/ rgya gar nub phyogs kyi paN Di ta shri kha ru tra dang/ bod kyi lo tstsha ba byams pa'i dpal gyis bsgyur ba'o</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note></note>
+</item>
+D 476 Ja.23 245a1-247b4; Mu Ja.14; X Ja.25; dup. Ga.31
+
+<item>
+<rkts>481</rkts>
+<ref>Cx10.15</ref>
+<loc>rgyud Tha 251a5-261a7</loc>
+<tib>thams cad gsang ba zhes bya ba'i rgyud kyi rgyal po</tib>
+<skttrans>sar+ba ra ha s+ya nA ma tan tra rA dzA</skttrans>
+<coloph>thams cad gsang ba zhes bya ba'i rgyud kyi rgyal po rdzogs s+ho// //rgya gar gyi mkhan po pad ma ka ra bar ma dang/ zhu chen gyi lotstsha ba dge slong rin chen bzang pos bsgyur cing zhu te gtan la phab po//</coloph>
+<bampo><p></p></bampo>
+<chap><p></p></chap>
+<note>room for 2 miniatures on 261a</note>
+</item>
+D 481 Ta.1 1b1-10a1; Mu Pa.2; X Ma.6; dup. T/Tha.2
+
+<item>
+<rkts>718</rkts>
+<ref>Cx10.16</ref>
+<loc>rgyud Tha 261b1-331a8</loc>
+<tib>ral pa gyen brdzes kyi rtog chen po byang chub sems dpa' sems dpa' chen po'i rnam par 'phrul pa'i le'u rab 'byams las bcom ldan 'das ma 'phags ma sgrol ba'i rtsa ba'i rtog pa zhes bya ba</tib>
+<skttrans>u r+d+h+t+wa dza TA mahA kal+pa mahA bo d+hi sat+wa bi ku r+b+ba Na pa Ta la bi sa rAt b+h ga ba ti aryA tA rA mU la kal+pa na ma</skttrans>
+<coloph></coloph>
+<bampo><p></p></bampo>
+<chap>ral pa gyen brdzes kyi rtog pa chen po byang chub sems dpa' sems dpa' chen po'i rnam par 'phrul pa le'u rab 'byams las bcom ldan 'das ma 'phags ma sgrol ba'i rtsa ba'i rtog pa las 'dus pa'i le'u ste dang po'o//<p>289a2</p></chap>
+<chap>byang chub sems dpa'i sde snod bcom ldan 'das ma 'phags ma sgrol ma ral pa gyen brdzes kyi rtsa ba'i cho ga las/ dkyil 'khor cho ga rab 'byam gyi le'u ste/ gnyis pa rdzogs s+ho//<p>315a3</p></chap>
+<chap>byang chub sems dpa'i sde snod dang ldan pa theg pa chen po'i mdo sde/ bcom ldan 'das ma 'phags ma sgrol ma/ ral pa gyen brdzes kyi rtsa ba'i cho ga las sgrub thabs kyi cho ga dang/ dkyil 'khor gyi cho ga rab 'byam gyi le'u ste// gsum pa rdzogs s+ho//<p>316b3</p></chap>
+<chap >byang chub sems dpa'i sde snod phal po che/ /theg pa chen po'i mdo sde las/ /bcom ldan 'das ma 'phags ma sgrol ma ral pa gyen du brdzes pa'i rtsa ba'i cho ga rab 'byam gyi bris sku dang po rdzogs s+ho//<p>326a1</p></chap>
+<chap>theg pa chen po shin tu rgyas pa'i mdo sde las/ bcom ldan 'das ma 'phags ma sgrol ma ral pa gyen du brdzes pa'i rtsa ba'i cho ga rab 'byam las/ /le'u gsum pa yongs su rdzogs s+ho//<p>238a4</p></chap>
+<chap>byang chub sems dpa'i sde snod phal po che theg pa chen po/ /shin tu rgyas pa'i mdo sde las bcom ldan 'das ma 'phags ma sgrol ma'i rtsa ba'i cho ga bzhi pa/ ras ris kyi cho ga rab 'byam yongs su rdzogs s+ho//<p>329a8</p></chap>
+<note>room for 2 miniatures on 261b; to be continued in next vol.</note>
+</item>
+D 724 Tsa.38 205b1-Tsha.1 200a7; Mu Dza-A, 3 vols; X --
+
 
 </outline>
