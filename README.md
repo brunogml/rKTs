@@ -16,7 +16,7 @@ The tags used in the xml files of the `Kanjur/`, `Tanjur/` and `Tantra/` folder 
    * `<vol>` volume name (ex:'dul ba, ka)
    * `<voln>` volume number in the collection 
    * `<json>` json volume number (correspond to BDRC Volume number
-   * `<psection>` section in the json which corresponds to the text
+   * `<psection>` section in the paginations-json which corresponds to the text
    * `<p>` begin-end (ex: 1b1-462a8)
 - `<tib>` is the Tibetan title indicated in the incipit of the text in the edition, transliterated in EWTS
 - `<skttrans>` idem with the Sanskrit title
