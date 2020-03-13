@@ -15,7 +15,8 @@ The tags used in the xml files of the `Kanjur/`, `Tanjur/` and `Tantra/` folder 
    * `<loc>`
    * `<vol>` volume name (ex:'dul ba, ka)
    * `<voln>` volume number in the collection 
-   * `<volBDRC>` BDRC volume number
+   * `<json>` json volume number (correspond to BDRC Volume number
+   * `<psection>` section in the json which corresponds to the text
    * `<p>` begin-end (ex: 1b1-462a8)
 - `<tib>` is the Tibetan title indicated in the incipit of the text in the edition, transliterated in EWTS
 - `<skttrans>` idem with the Sanskrit title
@@ -44,7 +45,14 @@ The tags used in the xml files of the `Kanjur/`, `Tanjur/` and `Tantra/` folder 
 
 #### Kernel
 
-TODO
+- `<rkts>` (resp. `rktst`, `rktsg`), Reference Number of the text
+- `<StandardTibetan>` Standardized form of the Tibetan Title (with `<source>` for this standard)
+- `<StandardSanskrit>` Standardized form of the Sanskrit Title (with `<source>` for this standard)
+- `<StandardMongolian>` Standardized form of the Mongolian Title (with `<source>` for this standard)
+- `<Tibetan>` all variants of the Tibetan title as found in the various editions
+- `<Sanskrit>` all variants of the Sanskrit title as found in the various editions
+- `<Mongolian>` all variants of the Mongolian title as found in the various editions
+
 
 ### Policy choices
 
