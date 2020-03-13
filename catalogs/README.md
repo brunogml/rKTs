@@ -1,4 +1,4 @@
 # Catalogs
 
-These catalogs of the collections in xml files
+Catalogs of the collections in xml files
 
