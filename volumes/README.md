@@ -6,6 +6,7 @@ The json files give the repartition of the volumes in the different collections:
 - 1KG13126 = Peking Tanjur
 - 1PD96684 = Peking Kanjur
 - 1PD127393 = Shey Kanjur
+- 22083 = Stog Kanjur
 - 22084 = Derge Kanjur (par phud)
 - 22703 = Narthang Kanjur
 - 23702 = Golden Tanjur
