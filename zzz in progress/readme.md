@@ -1,1 +1,5 @@
-The files in this folder are in progress 
+#To do list
+
+**Phugbrag Kanjur (1KG13607)
+Chapters and Bampos
+
