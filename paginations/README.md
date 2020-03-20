@@ -9,4 +9,5 @@ The json files give the correlation between the paginations and the scans in the
 - 22084 = Derge Kanjur
 - 22703 = Narthang Kanjur
 - 26071 = Lhasa Kanjur
+- 29468 = Urga Kanjur
 
