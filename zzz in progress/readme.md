@@ -1,5 +1,5 @@
-#To do list
+# To do list
 
-**Phugbrag Kanjur (1KG13607)
+### Phugbrag Kanjur (1KG13607)
 Chapters and Bampos
 
