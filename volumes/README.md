@@ -13,6 +13,7 @@ The json files give the repartition of the volumes in the different collections:
 - 23702 = Golden Tanjur
 - 23703 = Derge Tanjur
 - 26071 = Lhasa Kanjur
+- 29468= Urga Kanjur
 - 30532 = Derge Kanjur
 - 3CN20612 = Derge Kanjur (mtshal par spus legs)
 - 4CZ5369 = Derge Kanjur
