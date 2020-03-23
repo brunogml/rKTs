@@ -9,3 +9,4 @@ Catalogs of the collections in xml files
 - 22084 = Derge Kanjur
 - 22703 = Narthang Kanjur
 - 26071 = Lhasa Kanjur
+- 29468 = Urga Kanjur
