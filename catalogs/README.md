@@ -3,6 +3,7 @@
 Catalogs of the collections in xml files
 
 - 1KG13607 = Phugbrag Kanjur
+- 1PD127393 = Shey Kanjur
 - 1PD96684 = Peking Kanjur
 - 1PD96684 = Cone Kanjur
 - 22083 = Stog Kanjur
