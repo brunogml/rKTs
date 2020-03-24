@@ -2,6 +2,7 @@
 
 Catalogs of the collections in xml files
 
+- 1KG12671 = Egoo Collection
 - 1KG13607 = Phugbrag Kanjur
 - 1PD127393 = Shey Kanjur
 - 1PD96684 = Peking Kanjur
