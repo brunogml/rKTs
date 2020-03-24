@@ -3,6 +3,7 @@
 The json files give the repartition of the volumes in the different collections:
 
 - 1GS66030 = Cone Tanjur
+- 1KG12671 = Egoo Collection
 - 1KG13126 = Peking Tanjur
 - 1KG13607 = Phugbrag Kanjur
 - 1PD96684 = Peking Kanjur
