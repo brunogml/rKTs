@@ -11,6 +11,7 @@ The json files give the repartition of the volumes in the different collections:
 - 22083 = Stog Kanjur
 - 22084 = Derge Kanjur (par phud)
 - 22703 = Narthang Kanjur
+- 22704 = Narthang Tanjur
 - 23702 = Golden Tanjur
 - 23703 = Derge Tanjur
 - 26071 = Lhasa Kanjur
