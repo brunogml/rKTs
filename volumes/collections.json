@@ -17,7 +17,7 @@
 "16":{"sigla":"Dd", "name":"Dodedrak Kanjur", "BDRC":"bdr:WEAP570-5-1", "abbreviated":"dodedrak", "digitizedBy":"EAP", "outline":"1", "integratedrKTs":"0", "location":""},
 "17":{"sigla":"Dk", "name":"Dongkarla Kanjur", "BDRC":"bdr:WEAP570-1-1", "abbreviated":"dongkarla", "digitizedBy":"EAP", "outline":"1", "integratedrKTs":"0", "location":""},
 "18":{"sigla":"Dt", "name":"Do Tarap Collection", "BDRC":"-", "abbreviated":"dotarap", "digitizedBy":"-", "outline":"0", "integratedrKTs":"0", "location":""},
-"19":{"sigla":"Eg", "name":"Egoo Collection", "BDRC":"-", "abbreviated":"egoo", "digitizedBy":"rKTs", "outline":"1", "integratedrKTs":"0", "location":"33°54'28.8N-77°48'40.2E"},
+"19":{"sigla":"Eg", "name":"Egoo Collection", "BDRC":"bdr:W1KG12671", "abbreviated":"egoo", "digitizedBy":"rKTs", "outline":"1", "integratedrKTs":"0", "location":"33°54'28.8N-77°48'40.2E"},
 "20":{"sigla":"F", "name":"Phugbrag Kanjur", "BDRC":"bdr:W1KG13607", "abbreviated":"phugbrag", "digitizedBy":"rKTs", "outline":"1", "integratedrKTs":"0", "location":""},
 "21":{"sigla":"F", "name":"Phugbrag Kanjur", "BDRC":"-", "abbreviated":"phugbrag2", "digitizedBy":"LTWA", "outline":"1", "integratedrKTs":"0", "location":""},
 "22":{"sigla":"Go", "name":"Gondhla Collection", "BDRC":"bdr:W1PD128753", "abbreviated":"gondhla", "digitizedBy":"rKTs", "outline":"1", "integratedrKTs":"0", "location":"32°30'33.4N-77°01'14.1E"},
@@ -82,7 +82,7 @@
 "81":{"sigla":"U", "name":"Urga Kanjur", "BDRC":"bdr:W29468", "abbreviated":"urga", "digitizedBy":"BDRC", "outline":"1", "integratedrKTs":"0", "location":""},
 "82":{"sigla":"V", "name":"Ulaanbaatar Kanjur", "BDRC":"bdr:W1KG14700", "abbreviated":"ulaanbaatar", "digitizedBy":"BDRC", "outline":"1", "integratedrKTs":"0", "location":""},
 "83":{"sigla":"X", "name":"Basgo Kanjur", "BDRC":"bdr:W4CZ45303", "abbreviated":"basgo", "digitizedBy":"rKTs", "outline":"1", "integratedrKTs":"0", "location":"34°13'26.5N-77°16'33.9E"},
-"84":{"sigla":"Xg", "name":"Bsagon Golden Kanjur", "BDRC":"-", "abbreviated":"basgogolden", "digitizedBy":"-", "outline":"0", "integratedrKTs":"0", "location":""},
+"84":{"sigla":"Xg", "name":"Basgo Golden Kanjur", "BDRC":"-", "abbreviated":"basgogolden", "digitizedBy":"-", "outline":"0", "integratedrKTs":"0", "location":""},
 "85":{"sigla":"Z", "name":"Shey Kanjur", "BDRC":"bdr:W1PD127393", "abbreviated":"shey", "digitizedBy":"rKTs", "outline":"1", "integratedrKTs":"1", "location":"34°04'18.3N-77°37'58.7E"},
 "86":{"sigla":"Zd", "name":"Taktsang Zangdopelri Kanjur", "BDRC":"-", "abbreviated":"taktsang", "digitizedBy":"-", "outline":"0", "integratedrKTs":"0", "location":""},
 "87":{"sigla":"Zl", "name":"Zangla Collection", "BDRC":"-", "abbreviated":"zangla", "digitizedBy":"rKTs", "outline":"0", "integratedrKTs":"0", "location":"33°39'31.3N-76°59'29.0E"}
