@@ -9,6 +9,9 @@ The json files give the repartition of the volumes in the different collections:
 - 1PD96684 = Peking Kanjur
 - 1PD127393 = Shey Kanjur
 - 3CN1302 = Mustang Tsarang Kanjur
+- 3CN20612 = Derge Kanjur (mtshal par spus legs)
+- 4CZ5369 = Derge Kanjur
+- 4CZ45313 = Hemis I Kanjur
 - 22083 = Stog Kanjur
 - 22084 = Derge Kanjur (par phud)
 - 22703 = Narthang Kanjur
@@ -18,6 +21,3 @@ The json files give the repartition of the volumes in the different collections:
 - 26071 = Lhasa Kanjur
 - 29468= Urga Kanjur
 - 30532 = Derge Kanjur
-- 3CN20612 = Derge Kanjur (mtshal par spus legs)
-- 4CZ5369 = Derge Kanjur
-- 4CZ45313 = Hemis I Kanjur
