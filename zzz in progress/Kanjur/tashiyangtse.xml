@@ -1169,15 +1169,147 @@
 <item>
 <rkts>857</rkts>
 <ref>Ty021-002</ref>
-<loc><vol>mdo sde ga</vol><voln>21</voln><json>2KG209883</json><psection>mdo sde</psection><p>32b6-</p></loc>
+<loc><vol>mdo sde ga</vol><voln>21</voln><json>2KG209883</json><psection>mdo sde</psection><p>32b6-148a2</p></loc>
 <tib>'phags pa sa bcu pa zhes bya ba theg pa chen po'i mdo</tib>
 <skttrans>Ar+ya da sha b+hU mi kan nA ma ma hA yA na sU tra</skttrans>
 <bampo>1.<loc><vol>mdo sde ga</vol><voln>21</voln><json>2KG209883</json><psection>mdo sde</psection><p>32b7-49a6</p></loc></bampo>
 <bampo>2.<loc><vol>mdo sde ga</vol><voln>21</voln><json>2KG209883</json><psection>mdo sde</psection><p>49a6-64b1</p></loc></bampo>
 <bampo>3.<loc><vol>mdo sde ga</vol><voln>21</voln><json>2KG209883</json><psection>mdo sde</psection><p>64b1-82a2</p></loc></bampo>
 <bampo>4.<loc><vol>mdo sde ga</vol><voln>21</voln><json>2KG209883</json><psection>mdo sde</psection><p>82a2-102a1</p></loc></bampo>
-<bampo>5.<loc><vol>mdo sde ga</vol><voln>21</voln><json>2KG209883</json><psection>mdo sde</psection><p>102a1-</p></loc></bampo>
-<coloph></coloph>
+<bampo>5.<loc><vol>mdo sde ga</vol><voln>21</voln><json>2KG209883</json><psection>mdo sde</psection><p>102a1-118a5</p></loc></bampo>
+<bampo>6.<loc><vol>mdo sde ga</vol><voln>21</voln><json>2KG209883</json><psection>mdo sde</psection><p>118a5-132b4</p></loc></bampo>
+<bampo>7.<loc><vol>mdo sde ga</vol><voln>21</voln><json>2KG209883</json><psection>mdo sde</psection><p>132b4-148a2</p></loc></bampo>
+<coloph>'phags pa sa bcu pa zhes bya ba theg pa chen po'i mdo rdzogs so</coloph>
+<note></note>
+</item>
+
+<item>
+<rkts>275</rkts>
+<ref>Ty021-003</ref>
+<loc><vol>mdo sde ga</vol><voln>21</voln><json>2KG209883</json><psection>mdo sde</psection><p>148a3-160a4</p></loc>
+<tib>'phags pa sangs rgyas kyi sa zhes bya ba theg py chen po'i mdo</tib>
+<skttrans>Ar+ya bud d+ha b+hU mi nA ma ma hA yA na sU tra</skttrans>
+<bampo></bampo>
+<coloph>'phags pa sangs rgyas kyi sa zhes bya ba theg py chen po'i mdo rdzogs so// //sngon rgya las 'gyur ba rnying po brda ma bcos pa'o</coloph>
+<note></note>
+</item>
+
+<item>
+<rkts>301</rkts>
+<ref>Ty021-004</ref>
+<loc><vol>mdo sde ga</vol><voln>21</voln><json>2KG209883</json><psection>mdo sde</psection><p>160a5-335b7</p></loc>
+<tib>mngon par byung ba'i mdo</tib>
+<skttrans>a b+hi ni skra ma na sU tra</skttrans>
+<bampo></bampo>
+<coloph>mngon par 'byung ba'i mdo rdzogs so// //rgya gar gyi mkhan po A tsar+ya d+harma shrI b+hA dra dang/ zhu chen gyi lo tsa va dge slong rin chen bzang pos bsgyur cing zhus te gtan la phab pa</coloph>
+<note></note>
+</item>
+
+<item>
+<rkts>186</rkts>
+<ref>Ty021-005</ref>
+<loc><vol>mdo sde ga</vol><voln>21</voln><json>2KG209883</json><psection>mdo sde</psection><p>335b7-355a7</p></loc>
+<tib>'phags pa sangs rgyas kyi stobs bskyed pa'i chos phrul gyi yul rnam par 'phrul pa bstan pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans>Ar+ya bud+d+ha ba lA d+ha na pra ti ha r+ya bi ku rbab bu ra de sha nA ma ma hA ya na sU tra</skttrans>
+<bampo></bampo>
+<coloph>sangs rgyas kyi stobs bskye pa'i chos 'phrul rnam par 'phrul pa bstan pa zhes bya ba theg pa chen po'i mdo rdzogs so</coloph>
+<note></note>
+</item>
+
+<item>
+<rkts>325</rkts>
+<ref>Ty021-006</ref>
+<loc><vol>mdo sde ga</vol><voln>21</voln><json>2KG209883</json><psection>mdo sde</psection><p>355a7-360b6</p></loc>
+<tib>klu'i rgyal po rnga sgra'i tshigs su bcad pa</tib>
+<skttrans>nA gA rA dza da rA ga thA</skttrans>
+<bampo></bampo>
+<coloph>klu'i rgyal po rnga sgra'i tshigs su bcad pa rdzogs so</coloph>
+<note></note>
+</item>
+
+<item>
+<rkts>302</rkts>
+<ref>Ty021-007</ref>
+<loc><vol>mdo sde ga</vol><voln>21</voln><json>2KG209883</json><psection>mdo sde</psection><p>360b6-362b4</p></loc>
+<tib>dge slong la rab tu gces pa'i mdo zhes bya ba</tib>
+<skttrans>b+hik+ShU pra ti dzu sU tra nA ma</skttrans>
+<bampo></bampo>
+<coloph>dge slong la rab tu gces pa zhes bya ba'i mdo rdzogs so</coloph>
+<note></note>
+</item>
+
+<item>
+<rkts>1120</rkts>
+<ref>Ty021-008</ref>
+<loc><vol>mdo sde ga</vol><voln>21</voln><json>2KG209883</json><psection>mdo sde</psection><p>362b5-364a7</p></loc>
+<tib>sangs rgyas dbang bskur ba zhes bya ba'i bstod pa</tib>
+<skttrans>bud+d+ha a b+hi Shi kam nA ma sto tra ma</skttrans>
+<bampo></bampo>
+<coloph>sangs rgyas dbang bskur ba zhes bya ba'i bstod pa rdzogs so// //rgya gar gyi  mkhan po bi ma la ka ra war ma dang/ lo tsa ba ban d+he rin chen bzang pos bsgyur cing zhus pa/ gcug zhus</coloph>
+<note></note>
+</item>
+
+<item>
+<rkts>112</rkts>
+<ref>Ty022-001</ref>
+<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>1b1-245b3</p></loc>
+<tib>'phags pa snying rje pad+ma dkar po zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans>Ar+ya kA ru NA pun Da rI ka nA ma ma hA yA na sU tra</skttrans>
+<bampo>1.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>1b1-17b1</p></loc></bampo>
+<bampo>2.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>17b1-32a7</p></loc></bampo>
+<bampo>3.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>32a7-49a1</p></loc></bampo>
+<bampo>4.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>49a1-64a5</p></loc></bampo>
+<bampo>5.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>64a5-80b7</p></loc></bampo>
+<bampo>6.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>80b7-97a3</p></loc></bampo>
+<bampo>7.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>97a3-112b3</p></loc></bampo>
+<bampo>8.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>112b3-130a4</p></loc></bampo>
+<bampo>9.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>130a4-144a7</p></loc></bampo>
+<bampo>10.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>144a7-160b1</p></loc></bampo>
+<bampo>11.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>160b1-175a4</p></loc></bampo>
+<bampo>12.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>175a4-194b4</p></loc></bampo>
+<bampo>13.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>194b4-210b4</p></loc></bampo>
+<bampo>14.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>210b4-230b4</p></loc></bampo>
+<bampo>15.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>230b4-245b1</p></loc></bampo>
+<coloph>'phags pa snying rje pad+ma dkar po zhes bya ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi  mkhan po dzi na mi tra dang/ shI len dra bo d+he dang/ pradz+nyA bar ma dang/ zhu chen gyi lo ts+tsha ba ban d+he ye shes sdes la sogs pas bsgyur cin gzhus te gtan la phab pa</coloph>
+<note></note>
+</item>
+
+<item>
+<rkts>111</rkts>
+<ref>Ty022-002</ref>
+<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>245b3-347b3</p></loc>
+<tib>snying rje chen po pad+ma dkar po zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans>ma hA kA ru NA puN+Da ri ka nA ma ma hA ya na sU tra</skttrans>
+<bampo>1.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>245b4-259b7</p></loc></bampo>
+<bampo>2.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>259b7-275a5</p></loc></bampo>
+<bampo>3.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>275a5-291b5</p></loc></bampo>
+<bampo>4.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>291b5-310a4</p></loc></bampo>
+<bampo>5.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>310a4-328b3</p></loc></bampo>
+<bampo>6.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>328b3-347b2</p></loc></bampo>
+<coloph>snying rje chen po pad+ma dkar po zhes bya ba theg pa chen po'i mdo rdzogs so</coloph>
+<note></note>
+</item>
+
+<item>
+<rkts>311</rkts>
+<ref>Ty022-003</ref>
+<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>347b3-348a3</p></loc>
+<tib>'phags pa 'du shes bcu gcig bstan pa'i mdo</tib>
+<skttrans></skttrans>
+<bampo></bampo>
+<coloph>'du shes bcu gcig bstan pa bccom ldan 'das kyi zhal chems rdzogs so</coloph>
+<note></note>
+</item>
+
+<item>
+<rkts>502</rkts>
+<ref>Ty022-004</ref>
+<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>348a3-381a8</p></loc>
+<tib>'phags pa de bzhin gshegs pa bdun gyi sngon gyi smon lam gyi khyad par rgyas pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans>Ar+ya sa pa ta ta thA ga ta pU rba pra Ni d+ha na bi she Sha bastA ra nA ma ma hA yA na sU tra</skttrans>
+<bampo>1.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>348a3-365a4</p></loc></bampo>
+<bampo>2.<loc><vol>mdo sde nga</vol><voln>22</voln><json>2KG209884</json><psection>mdo sde</psection><p>365a4-381a5</p></loc></bampo>
+<coloph>'phags pa de bzhin gshegs pa bdun gyi sngon gyi smon lam gyi khyad par rgyas pa zhes bya ba theg pa chen po'i mdo brgyad brgya pa rdzogs so// //rgya gar gyi mkhan po dzi na mi tra dang/ shi len dra bo d+hi dang/ zhu chen gyi lo tsa ba ban d+he ye shes sdes bsgyur cing zhus te/ skad gsar cad kyis kyang bcos te gtan la phab pa// //bya ba'i rgyud du gtogs so</coloph>
 <note></note>
 </item>
 
@@ -1185,8 +1317,8 @@
 ###
 <item>
 <rkts></rkts>
-<ref>Ty021-001</ref>
-<loc><vol>mdo sde ga</vol><voln>21</voln><json>2KG209883</json><psection>mdo sde</psection><p>1b1-</p></loc>
+<ref>Ty023-001</ref>
+<loc><vol>mdo sde ca</vol><voln>23</voln><json>2KG209885</json><psection>mdo sde</psection><p>1b1-</p></loc>
 <tib></tib>
 <skttrans></skttrans>
 <bampo></bampo>
