@@ -5,6 +5,7 @@ The json files give the correlation between the paginations and the scans in the
 - 1GS66030 = Cone Tanjur
 - 1KG12671 = Egoo Collection
 - 1KG13126 = Peking Tanjur
+- 1KG13607 = Phugbrag Kanjur
 - 1PD127393 = Shey Kanjur
 - 1PD96684 = Peking Kanjur
 - 1PD96685 = Cone Kanjur
