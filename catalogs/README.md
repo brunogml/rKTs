@@ -12,5 +12,6 @@ Catalogs of the collections in xml files
 - 22083 = Stog Kanjur
 - 22084 = Derge Kanjur
 - 22703 = Narthang Kanjur
+- 23703 = Derge Tanjur
 - 26071 = Lhasa Kanjur
 - 29468 = Urga Kanjur
