@@ -22,3 +22,8 @@ The json files give the correlation between the paginations and the scans in the
 - 26071 = Lhasa Kanjur
 - 29468 = Urga Kanjur
 
+TODO:
+
+- the content of 1KG13607/1KG14011.json and 1KG13607/1KG14015.json, one of them is wrong
+- same for 1GS66030/1GS66180.json and 1GS66030/1GS66181.json
+- 22084/0891.json is missing the new files that were reimported (see https://github.com/buda-base/library-issues/issues/259)
