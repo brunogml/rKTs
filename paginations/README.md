@@ -31,3 +31,6 @@ TODO:
 - the following have the same pagination multiple times, they should be split in different pagination sections:
    * 4CZ7445/1KG9975.json
    * 1KG13607/1KG14057.json
+- in NT's file, when there is a duplicate and the note has "འོག", it should be indicated as a duplicate in the pagination (ex: 23702/1PD31557.json, 132a / 132b)
+- files that were marked with !!!:
+   * 4CZ7445/1KG9899.json
