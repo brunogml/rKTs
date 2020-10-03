@@ -34,3 +34,34 @@ TODO:
 - in NT's file, when there is a duplicate and the note has "འོག", it should be indicated as a duplicate in the pagination (ex: 23702/1PD31557.json, 132a / 132b)
 - files that were marked with !!!:
    * 4CZ7445/1KG9899.json
+
+
+This sequence is bizarre (duplicate before main?):
+
+"572":{"pagination":"287a","tibetanpg":"གཉིས་བརྒྱ་ གྱ་བདུན་","psection":"mngon pa","file":"bdr:I1GS66175::I1GS661750579.tif","note":"ཉིས་བརྒྱ་གྱ་བདུན་འོག་མ།"},
+"573":{"pagination":"287b","tibetanpg":"","psection":"mngon pa","file":"bdr:I1GS66175::I1GS661750580.tif","note":"None"},
+"574":{"pagination":"287a","tibetanpg":"གཉིས་བརྒྱ་ གྱ་བདུན་","psection":"mngon pa","file":"bdr:I1GS66175::I1GS661750581.tif","note":"ཉིས་བརྒྱ་གྱ་བདུན།"},
+"575":{"pagination":"287b","tibetanpg":"","psection":"mngon pa","file":"bdr:I1GS66175::I1GS661750582.tif","note":"None"},
+
+same pattern here:
+
+"100":{"pagination":"51a","tibetanpg":"ང་གཅིག་","psection":"dkar chag","file":"bdr:I1GS66240::I1GS662400105.tif","note":"ང་གཅིག་འོག་མ།"},
+"101":{"pagination":"51b","tibetanpg":"","psection":"dkar chag","file":"bdr:I1GS66240::I1GS662400106.tif","note":"None"},
+"102":{"pagination":"51a","tibetanpg":"ང་གཅིག་","psection":"dkar chag","file":"bdr:I1GS66240::I1GS662400107.tif","note":"ང་གཅིག།"},
+"103":{"pagination":"51b","tibetanpg":"","psection":"dkar chag","file":"bdr:I1GS66240::I1GS662400108.tif","note":"None"},
+
+and here:
+
+"697":{"pagination":"350a","tibetanpg":"གསུམ་བརྒྱ་ ལྔ་བཅུ་","psection":"rgyud 'grel","file":"bdr:I1PD31378::I1PD313780699.tif","note":"སུམ་བརྒྱ ལྔ་བཅུ་འོག"},
+"698":{"pagination":"350b","tibetanpg":"","psection":"rgyud 'grel","file":"bdr:I1PD31378::I1PD313780700.tif","note":"None"},
+"699":{"pagination":"350a","tibetanpg":"གསུམ་བརྒྱ་ ལྔ་བཅུ་","psection":"rgyud 'grel","file":"bdr:I1PD31378::I1PD313780701.tif","note":"None"},
+"700":{"pagination":"350b","tibetanpg":"","psection":"rgyud 'grel","file":"bdr:I1PD31378::I1PD313780702.tif","note":"None"},
+
+even more strange:
+
+"727":{"pagination":"363a","tibetanpg":"གསུམ་བརྒྱ་ རེ་གསུམ་","psection":"mdo 'grel","file":"bdr:I1PD31437::I1PD314370729.tif","note":"སུམ་བརྒྱ རེ་གསུམ་འོག"},
+"728":{"pagination":"363b","tibetanpg":"","psection":"mdo 'grel","file":"bdr:I1PD31437::I1PD314370730.tif","note":"None"},
+"729":{"pagination":"363a","tibetanpg":"གསུམ་བརྒྱ་ རེ་གསུམ་","psection":"mdo 'grel","file":"bdr:I1PD31437::I1PD314370731.tif","note":"None"},
+"730":{"pagination":"363b","tibetanpg":"","psection":"mdo 'grel","file":"bdr:I1PD31437::I1PD314370732.tif","note":"None"},
+"731":{"pagination":"363a","tibetanpg":"གསུམ་བརྒྱ་ རེ་གསུམ་","psection":"mdo 'grel","file":"bdr:I1PD31437::I1PD314370733.tif","note":"སུམ་བརྒྱ རེ་གསུམ གོང་།"},
+"732":{"pagination":"363b","tibetanpg":"","psection":"mdo 'grel","file":"bdr:I1PD31437::I1PD314370734.tif","note":"None"},
