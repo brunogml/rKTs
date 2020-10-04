@@ -21,6 +21,7 @@ The json files give the correlation between the paginations and the scans in the
 - 23703 = Derge Tanjur
 - 26071 = Lhasa Kanjur
 - 29468 = Urga Kanjur
+- 4CZ7445 = Lithang Kangyur
 
 TODO:
 - missing files:
