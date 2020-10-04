@@ -23,15 +23,14 @@ The json files give the correlation between the paginations and the scans in the
 - 29468 = Urga Kanjur
 
 TODO:
-
-- the content of 1KG13607/1KG14011.json and 1KG13607/1KG14015.json, one of them is wrong
-- same for 1GS66030/1GS66180.json and 1GS66030/1GS66181.json
-- 22084/0891.json is missing the new files that were reimported (see https://github.com/buda-base/library-issues/issues/259)
+- missing files:
+   * 1KG13607/1KG14011.json
+   * 1GS66030/1GS66181.json
+- 22084/0891.json should be checked against the new files that were reimported (see https://github.com/buda-base/library-issues/issues/259), some default values have been applied
 - 1KG13126/I1KG13246.json is very weird (for images > 1000)
 - the following have the same pagination multiple times, they should be split in different pagination sections:
    * 4CZ7445/1KG9975.json
    * 1KG13607/1KG14057.json
-- in NT's file, when there is a duplicate and the note has "འོག", it should be indicated as a duplicate in the pagination (ex: 23702/1PD31557.json, 132a / 132b)
 - files that were marked with !!!:
    * 4CZ7445/1KG9899.json
 
