@@ -28,7 +28,10 @@ TODO:
    * 1KG13607/1KG14011.json
    * 1GS66030/1GS66181.json
 - the volumes of the outline of 4CZ7445 seem not to be in sync with the json file names, for instance the transition khri brgyad / khri pa happens in 1KG9899 in the json files while it happens in 1KG9903 in the outline
-- 22084/0891.json should be checked against the new files that were reimported (see https://github.com/buda-base/library-issues/issues/259), some default values have been applied
-- 1KG13126/I1KG13246.json should be rechecked
-- files that were marked with !!!:
+- files that should be checked:
    * 4CZ7445/1KG9899.json
+   * 1KG13607/1KG14011.json
+   * 1GS66030/1GS66181.json
+   * 1KG13126/I1KG13246.json
+   * 22084/0891.json
+
