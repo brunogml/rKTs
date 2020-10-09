@@ -24,10 +24,6 @@ The json files give the correlation between the paginations and the scans in the
 - 4CZ7445 = Lithang Kangyur
 
 TODO:
-- missing files:
-   * 1KG13607/1KG14011.json
-   * 1GS66030/1GS66181.json
-- the volumes of the outline of 4CZ7445 seem not to be in sync with the json file names, for instance the transition khri brgyad / khri pa happens in 1KG9899 in the json files while it happens in 1KG9903 in the outline
 - files that should be checked:
    * 4CZ7445/1KG9899.json
    * 1KG13607/1KG14011.json
