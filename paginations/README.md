@@ -26,6 +26,9 @@ The json files give the correlation between the paginations and the scans in the
 TODO:
 - files that should be checked:
    * 4CZ7445/1KG9899.json
+   * 4CZ7445/1KG9869.json
+   * 4CZ7445/1KG9870.json
+   * 4CZ7445/1KG9871.json
    * 1KG13607/1KG14011.json
    * 1GS66030/1GS66181.json
    * 1KG13126/I1KG13246.json
