@@ -12,6 +12,7 @@ The json files give the repartition of the volumes in the different collections:
 - 3CN1302 = Mustang Tsarang Kanjur
 - 3CN20612 = Derge Kanjur (mtshal par spus legs)
 - 4CZ5369 = Derge Kanjur
+- 4CZ5370 = Mongolian printed Kanjur
 - 4CZ7445 = Lithang Kanjur
 - 4CZ45313 = Hemis I Kanjur
 - 22083 = Stog Kanjur
