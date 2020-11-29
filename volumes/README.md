@@ -6,6 +6,7 @@ The json files give the repartition of the volumes in the different collections:
 - 1KG12671 = Egoo Collection
 - 1KG13126 = Peking Tanjur
 - 1KG13607 = Phugbrag Kanjur
+- 1PD96682 = dPebsdurma Kanjur
 - 1PD96684 = Peking Kanjur
 - 1PD127393 = Shey Kanjur
 - 2KG210298 = Hemis II Kanjur
