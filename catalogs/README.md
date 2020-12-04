@@ -20,6 +20,8 @@ Catalogs of the collections in xml files
 - 23703 = Derge Tanjur
 - 26071 = Lhasa Kanjur
 - 29468 = Urga Kanjur
+- EAP039-1-1 = Gangteng Kanjur
+- EAP570-1-1 = Dongkarla Kanjur
 - EAP570-4-1 = Chizhi kanjur
 - EAP570-5-1 = Dodedrak kanjur
 
