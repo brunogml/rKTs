@@ -9,6 +9,7 @@ Catalogs of the collections in xml files
 - 1PD96685 = Cone Kanjur
 - 1PD127393 = Shey Kanjur
 - 2KG209840 = Tashiyangtse Kanjur
+- 2PD17098 = Ragya Kanjur
 - 3CN981 = London Kanjur
 - 3CN1302 = Mustang Tsarang Kanjur
 - 4CZ7445 = Lithang Kanjur
