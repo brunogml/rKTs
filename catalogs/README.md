@@ -25,5 +25,6 @@ Catalogs of the collections in xml files
 - EAP570-1-1 = Dongkarla Kanjur
 - EAP570-4-1 = Chizhi kanjur
 - EAP570-5-1 = Dodedrak kanjur
-- EAP570-6-1 ? Phajoding 1 Kanjur
+- EAP570-6-1 = Phajoding 1 Kanjur
+- EAP570-7-1 = Phajoding 2 Kanjur
 
