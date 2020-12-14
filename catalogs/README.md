@@ -4,6 +4,7 @@ Catalogs of the collections in xml files
 
 - 1KG12671 = Egoo Collection
 - 1KG13607 = Phugbrag Kanjur
+- 1KG14700 = Ulaanbaatar Kanjur
 - 1PD96682 = dPe bsdur ma Kanjur
 - 1PD96684 = Peking Kanjur
 - 1PD96685 = Cone Kanjur
@@ -22,6 +23,7 @@ Catalogs of the collections in xml files
 - 26071 = Lhasa Kanjur
 - 29468 = Urga Kanjur
 - EAP039-1-1 = Gangteng Kanjur
+- EAP310-2-1 = Neyphug Kanjur
 - EAP570-1-1 = Dongkarla Kanjur
 - EAP570-4-1 = Chizhi kanjur
 - EAP570-5-1 = Dodedrak kanjur
