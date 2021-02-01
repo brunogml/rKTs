@@ -53,7 +53,13 @@ The tags used in the xml files of the `Kanjur/`, `Tanjur/` and `Tantra/` folder 
 - `<Tibetan>` all variants of the Tibetan title as found in the various editions
 - `<Sanskrit>` all variants of the Sanskrit title as found in the various editions
 - `<Mongolian>` all variants of the Mongolian title as found in the various editions
-
+- `<cmp>` records relationships with other works, they can be of the following nature:
+	* `parallel`: the text is parallel with a part of another text
+	* `parallel-part`: a part of the text is parallel with a part of another text
+	* `SameTitle`: the two texts have the same title
+	* `SimilarTitle`: the two texts have similar titles
+	* `translation-taisho`: the text is a translation from Chinese, we indicate the Taisho number of the Chinese text
+	* `extract`: the text is an extract from another text
 
 ### Policy choices
 
