@@ -3,6 +3,7 @@
 Catalogs of the collections in xml files
 
 - 1KG12671 = Egoo Collection
+- 1KG13126 = Peking Tanjur
 - 1KG13607 = Phugbrag Kanjur
 - 1KG14700 = Ulaanbaatar Kanjur
 - 1PD96682 = dPe bsdur ma Kanjur
