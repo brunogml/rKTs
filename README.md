@@ -61,7 +61,7 @@ The tags used in the xml files of the `Kanjur/`, `Tanjur/` and `Tantra/` folder 
 	* `translation-taisho`: the text is a translation from Chinese, we indicate the Taisho number of the Chinese text
 	* `extract`: the text is an extract from another text
   * `source`: source text of a commentary
-  * `coomentary`: commentary of a text
+  * `commentary`: commentary of a text
 
 ### Policy choices
 
