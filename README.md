@@ -1,6 +1,6 @@
 # rKTs
 
-These files are the database of the [resources for Kangyur and Tengyur studies project](https://www.istb.univie.ac.at/kanjur/rktsneu/sub/index.php) based in Vienna.
+These files are the database of the [resources for Kanjur and Tanjur studies project](https://www.istb.univie.ac.at/kanjur/rktsneu/sub/index.php) based in Vienna.
 
 ### Tags
 
