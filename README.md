@@ -13,7 +13,8 @@ The tags used in the xml files of the `Kanjur/`, `Tanjur/` and `Tantra/` folder 
 - `<loc>` indicates the location of the text in the edition. Its format varies a bit from file to file (TBD)
  (will be adapted to the following pattern 
    * `<loc>`
-   * `<vol>` volume name (ex:'dul ba, ka)
+   * `<set>` set ID (ex: MW22084 for bka' 'gyur (sde dge par phud) = BDRC ID) 
+   * `<vol>` volume name (ex: 'dul ba, ka)
    * `<voln>` volume number in the collection 
    * `<json>` json volume number (correspond to BDRC Volume number
    * `<psection>` section in the paginations-json which corresponds to the text
