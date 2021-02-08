@@ -60,8 +60,8 @@ The tags used in the xml files of the `Kanjur/`, `Tanjur/` and `Tantra/` folder 
 	* `SimilarTitle`: the two texts have similar titles
 	* `translation-taisho`: the text is a translation from Chinese, we indicate the Taisho number of the Chinese text
 	* `extract`: the text is an extract from another text
-  * `source`: source text of a commentary
-  * `commentary`: commentary of a text
+  * `SourceText`: source text of a commentary
+  * `Commentary`: commentary of a text
 
 ### Policy choices
 
