@@ -10,6 +10,7 @@ The json files give the correlation between the paginations and the scans in the
 - 1PD96684 = Peking Kanjur
 - 1PD96685 = Cone Kanjur
 - 22083 = Stog Kanjur
+- 2PD17098 = Ragya Kanjur
 - 3CN1302 = Mustang Charang Kanjur
 - 3CN20612 = Derge Kanjur Reprint
 - 4CZ5369 = Derge Kanjur LOC
