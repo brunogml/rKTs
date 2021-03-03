@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list>
 Note for conventions of standard titles:
-- Standard titles are given as found in the respective published catalogues; priority is given to D; then Q, then S.
+- Standard titles are given as found in the respective published catalogues; priority is given to D, Ui 1934; then Q, Suzuki 1962, then S, Skorupski 1985. The Tibetan is given according to EWTS. No capitalization of titles.
 - Hyphenation is an issue; generally, hyphens are reproduced as found in the published catalogues; only in cases of hyphens that serve a mere graphic these are not reproduced. If hyphens were added to separate words, then these are reproduced, also the many hyphens found in Q.
+- Sanskrit anusvara is rendered with a dot below m, as found in Q, not with dot above m, as found in D.
 
 <item>
 <rktst>1</rktst>
@@ -25781,27 +25782,27 @@ Note for conventions of standard titles:
 <skt>sastutisragdharāsādhana</skt>
 <skt>sragdharāsādhana sastuti</skt>
 </item>
-####
+
 <item>
 <rktst>2515</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>'phags ma sgrol ma la bstod pa<source>D</source></StandardTibetan>
+<StandardSanskrit>ārya-tārāstotra<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>'phags ma sgrol ma la bstod pa</tib>
 </item>
 
 <item>
 <rktst>2516</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>'phags ma sgrol ma la bstod pa<source>D</source></StandardTibetan>
+<StandardSanskrit>ārya-tārāstotra<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>'phags ma sgrol ma la bstod pa</tib>
 </item>
 
 <item>
 <rktst>2517</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>'phags ma lha mo sgrol ma la bstod pa<source>D</source></StandardTibetan>
+<StandardSanskrit>ārya-tārādevīstotra<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>'phags ma lha mo sgrol ma la bstod pa</tib>
 <skt>ārya-tārādevīstotra</skt>
@@ -25809,8 +25810,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2518</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>'phags ma sgrol ma sgrub pa'i thabs<source>D</source></StandardTibetan>
+<StandardSanskrit>ārya-tārāsādhana<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>'phags ma sgrol ma sgrub pa'i thabs</tib>
 <skt>ārya-tārāsādhana</skt>
@@ -25818,16 +25819,16 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2519</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>dbyangs can ma'i sgrub thabs<source>D</source></StandardTibetan>
+<StandardSanskrit>sarasvatīsādhana<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>dbyangs can ma'i sgrub thabs</tib>
 </item>
 
 <item>
 <rktst>2520</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>tshangs pa'i bu mo dbyangs can ma la bstod pas grub pa ngag gi 'od zer zhes bya ba<source>D</source></StandardTibetan>
+<StandardSanskrit>brahmaputrīsarasvatīstotrasiddhivākyaprabhā-nāma<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>tshangs pa'i bu mo dbyangs can ma la bstod pas grub pa ngag gi 'od zer zhes bya ba</tib>
 <tib>tshangs pa'i bu mo dbyangs can ma la bstod pas 'grub pa gang gi 'od zer zhes bya ba</tib>
@@ -25838,8 +25839,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2521</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>dpal lha mo rdo rje dbyangs can ma'i sgrub thabs<source>D</source></StandardTibetan>
+<StandardSanskrit>śrī-vajrasarasvatīdevīsādhana<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>dpal lha mo rdo rje dbyangs can ma'i sgrub thabs</tib>
 <tib>dpal rdo rje lha mo dbyangs can ma'i sgrub thabs</tib>
@@ -25849,8 +25850,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2522</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>dpal nor rgyun ma'i sgrub thabs<source>D</source></StandardTibetan>
+<StandardSanskrit>śrī-vasudhārāsādhana<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>dpal nor rgyun ma'i sgrub thabs</tib>
 <skt>śrī-vasudhārāsādhana</skt>
@@ -25858,8 +25859,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2523</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>nor rgyun ma'i mtshan brgya rtsa brgyad<source>D</source></StandardTibetan>
+<StandardSanskrit>ārya-vasudhārā-nāma-aṣṭottaraśataka<source>Q</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>nor rgyun ma'i mtshan brgya rtsa brgyad pa</tib>
 <tib>'phags ma nor rgyun ma'i mtshan brgya rtsa brgyad pa</tib>
@@ -25868,8 +25869,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2524</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>nor rgyun ma'i smon lam<source>D</source></StandardTibetan>
+<StandardSanskrit>śrī-vasudhārā-praṇidhāna<source>Q</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>nor rgyun ma'i smon lam</tib>
 <tib>dpal nor rgyun ma'i smon lam</tib>
@@ -25878,8 +25879,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2525</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>dpal nor rgyun ma'i bstod pa<source>Q</source></StandardTibetan>
+<StandardSanskrit>śrī-vasudhārā-stotra<source>Q</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>dpal nor rgyun ma'i bstod pa</tib>
 <skt>śrīvasudhārāstotra</skt>
@@ -25887,8 +25888,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2526</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>mkha' lding grub pa'i bstan bcos<source>D</source></StandardTibetan>
+<StandardSanskrit>siddhagaruḍaśāstra<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>mkha' lding sgrub pa'i bstan bcos</tib>
 <tib>mkha' lding grub pa'i bstan bcos</tib>
@@ -25898,8 +25899,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2527</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>dkyil 'khor gyi chos mdor bsdus pa<source>D</source></StandardTibetan>
+<StandardSanskrit>dharmamaṇḍalasūtra<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>dkyil 'khor gyi chos mdor bsdus pa</tib>
 <skt>dharmamaṇḍalasūtra</skt>
@@ -25907,8 +25908,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2528</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>gzhal yas khang gsal bar byed pa'i mngon rtogs mun sel sgron ma<source>D</source></StandardTibetan>
+<StandardSanskrit>vimāna-prakāśābhisamaya-tamohara-pradīpa-nāma<source>Q</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>gzhal yas khang gsal bar byed pa'i mngon rtogs mun sel sgron ma</tib>
 <tib>gzhal yas khang gsal ba'i mngon rtogs mun sel sgron ma zhes bya ba</tib>
@@ -25917,8 +25918,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2529</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>tshul gsum gyi sgron ma<source>D</source></StandardTibetan>
+<StandardSanskrit>nayatrayapradīpa<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>tshul gsum gyi sgron ma</tib>
 <tib>tshul gsum gyi sgrol ma</tib>
@@ -25927,8 +25928,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2530</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>de kho na nyid grub pa zhes bya ba'i rab tu byed pa<source>D</source></StandardTibetan>
+<StandardSanskrit>tattvasiddhi-nāma-prakaraṇa<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>de kho na nyid grub pa zhes bya ba'i rab tu byed pa</tib>
 <skt>tattvasiddhi-nāma-prakaraṇa</skt>
@@ -25936,8 +25937,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2531</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>de kho na nyid la 'jug pa zhes bya ba bde bar gshegs pa'i bka' ma lus pa mdor bsdus te bshad pa'i rab tu byed pa<source>D</source></StandardTibetan>
+<StandardSanskrit>tattvāvatārākhyāsakalasugatavācasaṃkṣiptavyākhyāprakaraṇa<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>de kho na nyid la 'jug pa zhes bya ba bde bar gshegs pa'i bka' ma lus pa mdor bsdus te bshad pa'i rab tu byed pa</tib>
 <tib>de kho na nyid la 'jugs pa zhes bya ba bde bar gshegs pa'i bka' ma lus pa mdor bsdus te bshad pa'i rab tu byed pa</tib>
@@ -25947,8 +25948,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2532</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>gsang sngags kyi tshul gyi snang ba<source>D</source></StandardTibetan>
+<StandardSanskrit>mantranayāloka<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>gsang sngags kyi tshul gyi snang ba</tib>
 <skt>mantranayāloka</skt>
@@ -25956,8 +25957,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2533</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>de kho na nyid kyi snying po bsdus pa<source>D</source></StandardTibetan>
+<StandardSanskrit>tattvasārasaṃgraha<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>de kho na nyid kyi snying po bsdus pa</tib>
 <skt>tattvasārasaṃgraha</skt>
@@ -25965,8 +25966,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2534</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>theg pa gsum rnam par gzhag pa zhes bya ba<source>D</source></StandardTibetan>
+<StandardSanskrit>triyānavyavasthāna-nāma<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>theg pa gsum rnam par gzhag pa zhes bya ba</tib>
 <tib>theg pa gsum rnam par bzhag pa zhes bya ba</tib>
@@ -25975,8 +25976,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2535</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>rnal 'byor bla na med pa'i rgyud kyi don la 'jug pa bsdus pa zhes bya ba<source>D</source></StandardTibetan>
+<StandardSanskrit>yogānuttaratantārthāvatārasaṃgraha-nāma<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>rnal 'byor bla na med pa'i rgyud kyi don la 'jug pa bsdus pa zhes bya ba</tib>
 <skt>yogānuttaratantrāthāvatārasaṃgraha-nāma</skt>
@@ -25985,8 +25986,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2536</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>rdo rje theg pa'i mtha' gnyis sel ba<source>D</source></StandardTibetan>
+<StandardSanskrit>vajrayāna-koṭi-dvayāpoha-nāma<source>Q</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>rdo rje theg pa'i mtha' gnyis sel ba</tib>
 <tib>rdo rje theg pa'i mtha' gnyis sel ba zhes bya ba</tib>
@@ -25995,8 +25996,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2537</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>de nyid mthong ba'i lam zhes bya ba<source>D</source></StandardTibetan>
+<StandardSanskrit>tattvamārgadarśana-nāma<source>Q</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>de nyid mthong ba'i lam zhes bya ba</tib>
 <skt>tattvamārgadarśana-nāma</skt>
@@ -26004,8 +26005,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2538</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>bla ma brgyud pa'i rim pa'i man ngag ces bya ba<source>D</source></StandardTibetan>
+<StandardSanskrit>guruparaṃparakramopadeśa-nāma<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>bla ma brgyud pa'i rim pa'i man ngag</tib>
 <tib>bla ma brgyud pa'i rim pa'i man ngag ces bya ba</tib>
@@ -26015,8 +26016,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2539</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>theg pa chen po'i lam gyi rim pa<source>D</source></StandardTibetan>
+<StandardSanskrit>mahāyānapathakrama<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>theg pa chen po'i lam gyi rim pa</tib>
 <skt>mahāyānapathakrama</skt>
@@ -26024,8 +26025,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2540</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>gsang sngags la 'jug pa<source>D</source></StandardTibetan>
+<StandardSanskrit>mantrāvatāra<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>gsang sngags la 'jug pa</tib>
 <skt>mantrāvatāra</skt>
@@ -26033,8 +26034,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2541</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>gsang sngags la 'jug pa'i 'grel pa<source>D</source></StandardTibetan>
+<StandardSanskrit>mantrāvatāravṛtti<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>gsang sngags la 'jug pa'i 'grel pa</tib>
 <skt>mantrāvatāravṛtti</skt>
@@ -26042,8 +26043,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2542</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>theg pa chen po bsdus pa'i sgron ma<source>D</source></StandardTibetan>
+<StandardSanskrit>mahāyānamelāyanapradīpa<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>theg pa chen po bsdus pa'i sgron ma</tib>
 <skt>mahāyānamelāyanapradīpa</skt>
@@ -26052,8 +26053,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2543</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>bla ma lnga bcu pa<source>D</source></StandardTibetan>
+<StandardSanskrit>gurupañcāśikā<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>bla ma lnga bcu pa</tib>
 <skt>gurupañcāśikā</skt>
@@ -26061,8 +26062,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2544</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>spyi'i dam tshig mdor bsdus pa<source>D</source></StandardTibetan>
+<StandardSanskrit>sāmānya-samaya-saṃgraha<source>Q</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>spyi'i dam tshig mdor bsdus pa</tib>
 <skt>sāmānyasamayasaṃgraha</skt>
@@ -26070,8 +26071,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2545</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>tshul khrims dang sdom pa dang dam tshig mi 'gal pa zhes bya ba<source>D</source></StandardTibetan>
+<StandardSanskrit>śīlasaṃvarasamayāvirodha-nāma<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>tshul khrims dang sdom pa dang dam tshig mi 'gal ba zhes bya ba</tib>
 <tib>tshul khrims dang sdom pa dang dam tshig mi 'gal pa zhes bya ba</tib>
@@ -26080,8 +26081,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2546</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>dam tshig thams cad bsdus pa zhes bya ba<source>D</source></StandardTibetan>
+<StandardSanskrit>sarvasamaya-saṃgraha-nāma<source>Q</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>dam tshig thams cad bsdus pa zhes bya ba</tib>
 <skt>sarvasamayasaṃgraha-nāma</skt>
@@ -26089,8 +26090,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2547</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>las dang po pa'i dam tshig mdor bsdus pa<source>D</source></StandardTibetan>
+<StandardSanskrit>prathama-karma-samaya-sūtra-saṃgraha<source>Q</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>las dang po pa'i dam tshig mdor bsdus pa</tib>
 <skt>prathamakarmasamayasūtrasaṃgraha</skt>
@@ -26098,8 +26099,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2548</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>sdom gsum 'od kyi phreng ba zhes bya ba<source>D</source></StandardTibetan>
+<StandardSanskrit>trisaṃvaraprabhāmālā-nāma<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>sdom gsum 'od kyi phreng ba zhes bya ba</tib>
 <skt>trisaṃvaraprabhāmālā-nāma</skt>
@@ -26108,8 +26109,8 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2549</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>rdo rje theg pa rtsa ba'i ltung ba'i las kyi cho ga<source>D</source></StandardTibetan>
+<StandardSanskrit>vajrayānamūlāpattikarmavidhi<source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>rdo rje theg pa rtsa ba'i ltung ba'i las kyi cho ga</tib>
 <skt>vajrayānamūlāpattikarmaśāstra</skt>
@@ -26118,14 +26119,14 @@ Note for conventions of standard titles:
 
 <item>
 <rktst>2550</rktst>
-<StandardTibetan><source>D</source></StandardTibetan>
-<StandardSanskrit><source>D</source></StandardSanskrit>
+<StandardTibetan>zhen log sgron ma<source>D</source></StandardTibetan>
+<StandardSanskrit>avamāna-pradīpa-nāma<source>Q</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>zhen log sgron ma</tib>
 <tib>zhen log sgron ma zhes bya ba</tib>
 <skt>avamānapradīpa-nāma</skt>
 </item>
-
+###
 <item>
 <rktst>2551</rktst>
 <StandardTibetan><source>D</source></StandardTibetan>
