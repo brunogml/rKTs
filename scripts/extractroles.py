@@ -32,7 +32,9 @@ def get_info_tan(fname, res={}, isKangyur=False):
 mappingcsv = {
     "ma": "author",
     "pa": "translatorPandita",
-    "tr": "translator"
+    "tr": "translator",
+    "re": "revisor",
+    "sc": "scribe"
 }
 
 def getcsv(fname):
