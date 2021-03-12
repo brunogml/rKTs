@@ -26,7 +26,7 @@
 <rkts>362</rkts>
 <ref>C3</ref>
 <tib>mchog gi dang po'i sangs rgyas las phyung ba rgyud kyi rgyal po dpal dus kyi 'khor lo zhes bya ba</tib>
-<skttrans>pa ra ma A di bud+d+ha u d+d+h-i ta shrI lA öa tsa kra nA ma tan+t+ra rA dzA</skttrans>
+<skttrans>pa ra ma A di bud+d+ha u d+d+h-i ta shrI lA la tsa kra nA ma tan+t+ra rA dzA</skttrans>
 <loc><set>1PD96685</set><vol>rgyud, ka</vol><voln>1</voln><json>1PD105064</json><psection>rgyud</psection><p>24a7-147a4</p></loc>
 <coloph>mchog gi dang po'i sangs rgyas las phyung ba rgyud kyi rgyal po dpal dus kyi 'khor lo zhes bya ba rdzogs so/ /kha che'i paN+Di ta so ma nA tha dang/ bod kyi lo ts+tsha ba 'bro dge slong shes rab grags kyis bsgyur cing zhus te gtan la phab pa las/ dus phyis yon tan phul du byung ba dpag tu med pas spras pa'i bla ma dam pa chos kyi rgyal po'i bka' lung dang/ dpon chen shAkya bzang po'i gsung bzhin du mkhas pa chen po zhang ston mdo sde dpal dang / dus kyi 'khor lo'i tshul khong du chud pa'i dge slong tshul khrims dar gyis don gyi cha la legs par dpyad cing bskul te/ legs par sbyar gyi brda sprod pa'i bstan bcos rig pa'i dge slong shong ston gyis/ dpal sa skya'i gtsug lag khang chen por yul dbus kyi rgya dpe gnyis la gtugs shing legs par bcos te gtan la phab pa'o/ /gang gis thugs dgongs rnam par dag pa yis/ /'di la bskul zhing mthun rkyen bsgrubs pa dang/ /bdag gis 'bad las bsod nams gang thob des/ /kun gyis 'di rtogs sangs rgyas sar gnas shog/</coloph>
 <chap>1. 'jig rten gyi khams rnam par bkod pa'i le'u ste dang po<p>44b8</p></chap>
@@ -9525,6 +9525,449 @@
 <skttrans></skttrans>
 <loc><set>1PD96685</set><vol>khri pa, ga</vol><voln>81</voln><json>1PD105144</json><psection>khri pa</psection><p>1b1-242b8</p></loc>
 <loc><set>1PD96685</set><vol>khri pa, nga</vol><voln>82</voln><json>1PD105145</json><psection>khri pa</psection><p>1b1-363b8</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>45</rkts>
+<ref>C1029(1)</ref>
+<tib>'phags pa dkon mchog brtsegs pa chen po'i chos kyi rnam grangs stong phrag brgya pa las sdom pa gsum bstan pa'i le'u zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ka</vol><voln>83</voln><json>1PD105146</json><psection>dkon brtsegs</psection><p>1b1-51a3</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>46</rkts>
+<ref>C1029(2)</ref>
+<tib>'phags pa sgo mtha' yas pa rnam par sbyong ba bstan pa'i le'u zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ka</vol><voln>83</voln><json>1PD105146</json><psection>dkon brtsegs</psection><p>51a3-112b6</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>47</rkts>
+<ref>C1029(3)</ref>
+<tib>'phags pa de bzhin gshegs pa'i gsang ba bsam gyis mi khyab pa bstan pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ka</vol><voln>83</voln><json>1PD105146</json><psection>dkon brtsegs</psection><p>112b6-234b1</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>48</rkts>
+<ref>C1029(4)</ref>
+<tib>'phags pa rmi lam bstan pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ka</vol><voln>83</voln><json>1PD105146</json><psection>dkon brtsegs</psection><p>234b1-271b6</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>49</rkts>
+<ref>C1029(5)</ref>
+<tib>'phags pa 'od dpag med kyi bkod pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ka</vol><voln>83</voln><json>1PD105146</json><psection>dkon brtsegs</psection><p>271b6-311a5</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>50</rkts>
+<ref>C1029(6)</ref>
+<tib>'phags pa de bzhin gshegs pa mi 'khrugs pa'i bkod pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, kha</vol><voln>84</voln><json>1PD105147</json><psection>dkon brtsegs</psection><p>1b1-79a6</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>51</rkts>
+<ref>C1029(7)</ref>
+<tib>'phags pa go cha'i bkod pa bstan pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, kha</vol><voln>84</voln><json>1PD105147</json><psection>dkon brtsegs</psection><p>79a6-165a6</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>52</rkts>
+<ref>C1029(8)</ref>
+<tib>'phags pa chos kyi dbyings kyi rang bzhin dbyer med pa bstan pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, kha</vol><voln>84</voln><json>1PD105147</json><psection>dkon brtsegs</psection><p>165a6-192b7</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>53</rkts>
+<ref>C1029(9)</ref>
+<tib>'phags pa chos bcu pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, kha</vol><voln>84</voln><json>1PD105147</json><psection>dkon brtsegs</psection><p>192b7-216b5</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>54</rkts>
+<ref>C1029(10)</ref>
+<tib>'phags pa kun nas sgo'i le'u zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, kha</vol><voln>84</voln><json>1PD105147</json><psection>dkon brtsegs</psection><p>216b5-228a5</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>55</rkts>
+<ref>C1029(11)</ref>
+<tib>'phags pa 'od zer kun du bkye ba bstan pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, kha</vol><voln>84</voln><json>1PD105147</json><psection>dkon brtsegs</psection><p>228a5-299a5</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>56</rkts>
+<ref>C1029(12)</ref>
+<tib>'phags pa byang chub sems dpa'i sde snod ces bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, kha</vol><voln>84</voln><json>1PD105147</json><psection>dkon brtsegs</psection><p>299a5-346a6</p></loc>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ga</vol><voln>85</voln><json>1PD105148</json><psection>dkon brtsegs</psection><p>1b1-244a4</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>57</rkts>
+<ref>C1029(13)</ref>
+<tib>'phags pa dga' bo la mngal na gnas pa bstan pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ga</vol><voln>85</voln><json>1PD105148</json><psection>dkon brtsegs</psection><p>244a4-280b7</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>58</rkts>
+<ref>C1029(14)</ref>
+<tib>'phags pa tshe dang ldan pa dga' bo la mngal du 'jug pa bstan pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ga</vol><voln>85</voln><json>1PD105148</json><psection>dkon brtsegs</psection><p>280b7-294a3</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>59</rkts>
+<ref>C1029(15)</ref>
+<tib>'phags pa 'jam dpal gyi sangs rgyas kyi zhing gi yon tan bkod pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ga</vol><voln>85</voln><json>1PD105148</json><psection>dkon brtsegs</psection><p>294a3-349a3</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>60</rkts>
+<ref>C1029(16)</ref>
+<tib>'phags pa yab dang sras mjal ba zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, nga</vol><voln>86</voln><json>1PD105149</json><psection>dkon brtsegs</psection><p>1b1-193a4</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>61</rkts>
+<ref>C1029(17)</ref>
+<tib>'phags pa gang pos zhus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, nga</vol><voln>86</voln><json>1PD105149</json><psection>dkon brtsegs</psection><p>193a4-262a8</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>62</rkts>
+<ref>C1029(18)</ref>
+<tib>'phags pa yul 'khor skyong gis zhus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, nga</vol><voln>86</voln><json>1PD105149</json><psection>dkon brtsegs</psection><p>262a8-296b2</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>63</rkts>
+<ref>C1029(19)</ref>
+<tib>'phags pa khyim bdag drag shul can gyis zhus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, nga</vol><voln>86</voln><json>1PD105149</json><psection>dkon brtsegs</psection><p>296b3-332a6</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>64</rkts>
+<ref>C1029(20)</ref>
+<tib>'phags pa glog thob kyis zhus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ca</vol><voln>87</voln><json>1PD105150</json><psection>dkon brtsegs</psection><p>1b1-21b4</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>65</rkts>
+<ref>C1029(21)</ref>
+<tib>'phags pa sgyu ma mkhan bzang po lung bstan pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ca</vol><voln>87</voln><json>1PD105150</json><psection>dkon brtsegs</psection><p>21b4-42a4</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>66</rkts>
+<ref>C1029(22)</ref>
+<tib>'phags pa cho 'phrul chen po bstan pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ca</vol><voln>87</voln><json>1PD105150</json><psection>dkon brtsegs</psection><p>42a4-77b6</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>67</rkts>
+<ref>C1029(23)</ref>
+<tib>'phags pa byams pa'i seng ge'i sgra chen po zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ca</vol><voln>87</voln><json>1PD105150</json><psection>dkon brtsegs</psection><p>77b6-132b1</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>68</rkts>
+<ref>C1029(24)</ref>
+<tib>'phags pa 'dul ba rnam par gtan la dbab pa nye bar 'khor gyis zhus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ca</vol><voln>87</voln><json>1PD105150</json><psection>dkon brtsegs</psection><p>132b1-151a5</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>69</rkts>
+<ref>C1029(25)</ref>
+<tib>'phags pa lhag pa'i bsam pa bskul ba zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ca</vol><voln>87</voln><json>1PD105150</json><psection>dkon brtsegs</psection><p>151a5-175a3</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>70</rkts>
+<ref>C1029(26)</ref>
+<tib>'phags pa lag bzangs kyis zhus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ca</vol><voln>87</voln><json>1PD105150</json><psection>dkon brtsegs</psection><p>175a3-206a8</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>71</rkts>
+<ref>C1029(27)</ref>
+<tib>'phags pa nges pas zhus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ca</vol><voln>87</voln><json>1PD105150</json><psection>dkon brtsegs</psection><p>206a8-223a3</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>72</rkts>
+<ref>C1029(28)</ref>
+<tib>'phags pa khyim bdag dpas byin gyis zhus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ca</vol><voln>87</voln><json>1PD105150</json><psection>dkon brtsegs</psection><p>223a3-234b3</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>73</rkts>
+<ref>C1029(29)</ref>
+<tib>'phags pa bad sa'i rgyal po 'char byed kyis zhus pa zhes bya ba'i le'u</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ca</vol><voln>87</voln><json>1PD105150</json><psection>dkon brtsegs</psection><p>234b3-246b8</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>74</rkts>
+<ref>C1029(30)</ref>
+<tib>'phags pa bu mo blo gros bzang mos zhus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ca</vol><voln>87</voln><json>1PD105150</json><psection>dkon brtsegs</psection><p>246b8-253b3</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>75</rkts>
+<ref>C1029(31)</ref>
+<tib>'phags pa gang gA'i mchog gis zhus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ca</vol><voln>87</voln><json>1PD105150</json><psection>dkon brtsegs</psection><p>253b3-258a3</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>76</rkts>
+<ref>C1029(32)</ref>
+<tib>'phags pa mya ngan med kyis byin pa lung bstan pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ca</vol><voln>87</voln><json>1PD105150</json><psection>dkon brtsegs</psection><p>258a3-275a3</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>77</rkts>
+<ref>C1029(33)</ref>
+<tib>'phags pa dri ma med kyis byin pas zhus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ca</vol><voln>87</voln><json>1PD105150</json><psection>dkon brtsegs</psection><p>275a3-298a2</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>78</rkts>
+<ref>C1029(34)</ref>
+<tib>'phags pa yon tan rin chen me tog kun tu rgyas pas zhus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ca</vol><voln>87</voln><json>1PD105150</json><psection>dkon brtsegs</psection><p>298a2-302b6</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>79</rkts>
+<ref>C1029(35)</ref>
+<tib>'phags pa sangs rgyas kyi yul bsam gyis mi khyab pa bstan pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ca</vol><voln>87</voln><json>1PD105150</json><psection>dkon brtsegs</psection><p>302b6-322a7</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>80</rkts>
+<ref>C1029(36)</ref>
+<tib>'phags pa lha'i bu blo gros rab gnas kyis zhus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, ca</vol><voln>87</voln><json>1PD105150</json><psection>dkon brtsegs</psection><p>322a7-349a8</p></loc>
+<loc><set>1PD96685</set><vol>dkon brtsegs, cha</vol><voln>88</voln><json>1PD105151</json><psection>dkon brtsegs</psection><p>1b1-27b7</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>81</rkts>
+<ref>C1029(37)</ref>
+<tib>'phags pa seng ges zhus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, cha</vol><voln>88</voln><json>1PD105151</json><psection>dkon brtsegs</psection><p>27b7-30b4</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>82</rkts>
+<ref>C1029(38)</ref>
+<tib>'phags pa sangs rgyas thams cad kyi gsang chen thabs la mkhas pa byang chub sems dpa' ye shes dam pas zhus pa'i le'u zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, cha</vol><voln>88</voln><json>1PD105151</json><psection>dkon brtsegs</psection><p>30b4-75a1</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>83</rkts>
+<ref>C1029(39)</ref>
+<tib>'phags pa tshong dpon bzang skyong gis zhus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, cha</vol><voln>88</voln><json>1PD105151</json><psection>dkon brtsegs</psection><p>75a1-100b8</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>84</rkts>
+<ref>C1029(40)</ref>
+<tib>'phags pa bu mo rnam dag dad pas zhus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, cha</vol><voln>88</voln><json>1PD105151</json><psection>dkon brtsegs</psection><p>100b8-110b3</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>85</rkts>
+<ref>C1029(41)</ref>
+<tib>'phags pa byams pas zhus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, cha</vol><voln>88</voln><json>1PD105151</json><psection>dkon brtsegs</psection><p>110b3-123a1</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>86</rkts>
+<ref>C1029(42)</ref>
+<tib>'phags pa byams pas zhus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, cha</vol><voln>88</voln><json>1PD105151</json><psection>dkon brtsegs</psection><p>123a1-125b8</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>87</rkts>
+<ref>C1029(43)</ref>
+<tib>'phags pa 'od srung gi le'u zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, cha</vol><voln>88</voln><json>1PD105151</json><psection>dkon brtsegs</psection><p>125b8-161a3</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>88</rkts>
+<ref>C1029(44)</ref>
+<tib>'phags pa rin po che'i phung po zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, cha</vol><voln>88</voln><json>1PD105151</json><psection>dkon brtsegs</psection><p>161a3-186b4</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>89</rkts>
+<ref>C1029(45)</ref>
+<tib>'phags pa blo gros mi zad pas zhus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, cha</vol><voln>88</voln><json>1PD105151</json><psection>dkon brtsegs</psection><p>186b4-193b6</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>24</rkts>
+<ref>C1029(46)</ref>
+<tib>'phags pa shes rab kyi pha rol tu phyin pa bdun brgya pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, cha</vol><voln>88</voln><json>1PD105151</json><psection>dkon brtsegs</psection><p>193b6-222a8</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>91</rkts>
+<ref>C1029(47)</ref>
+<tib>'phags pa gtsug na rin po ches zhus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, cha</vol><voln>88</voln><json>1PD105151</json><psection>dkon brtsegs</psection><p>222a8-273a1</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>92</rkts>
+<ref>C1029(48)</ref>
+<tib>'phags pa lha mo dpal phreng gi seng ge'i sgra zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, cha</vol><voln>88</voln><json>1PD105151</json><psection>dkon brtsegs</psection><p>273a1-298b1</p></loc>
+<coloph></coloph>
+</item>
+
+<item>
+<rkts>93</rkts>
+<ref>C1029(49)</ref>
+<tib>'phags pa drang srong rgyas pas zhus pa zhes bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<loc><set>1PD96685</set><vol>dkon brtsegs, cha</vol><voln>88</voln><json>1PD105151</json><psection>dkon brtsegs</psection><p>298b1-322a5</p></loc>
 <coloph></coloph>
 </item>
 
