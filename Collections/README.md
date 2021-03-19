@@ -13,24 +13,23 @@
 | Ch | Chharang | Collection | |  |  |  |
 | Cr | Chemre | Collection | |  |  |  |
 | Cx | Charang | Kanjur | bdr:MW3CN1302 | ✓ |  |  |
-| Cz | Chizhi | Kanjur | bdr:MWEAP570-4-1 |  |  |  |
+| Cz | Chizhi | Kanjur | bdr:MWEAP570-4-1 | ✓ |  |  |
 | D | Derge | Kanjur | bdr:MW22084 | ✓ | ✓ | ✓ |
 | D | Derge | Kanjur | bdr:MW4CZ5369 | ✓ | ✓ | ✓ |
 | D | Derge | Kanjur | bdr:MW30532 | ✓ | ✓ |  |
 | D | Derge | Kanjur | bdr:MW3CN20612 | ✓ | ✓ | ✓ |
-| D | Derge | **Tanjur** | bdr:MW23703 |  |  |  |
-| D | Derge | **Tanjur** | bdr:MW2KG209989 |  |  |  |
-| Dd | Dodedrak | Kanjur | bdr:MWEAP570-5-1 |  |  |  |
-| Dk | Dongkarla | Kanjur | bdr:MWEAP570-1-1 |  |  |  |
+| D | Derge | **Tanjur** | bdr:MW23703 | ✓ |  |  |
+| D | Derge | **Tanjur** | bdr:MW2KG209989 | ✓ |  |  |
+| Dd | Dodedrak | Kanjur | bdr:MWEAP570-5-1 | ✓ |  |  |
+| Dk | Dongkarla | Kanjur | bdr:MWEAP570-1-1 | ✓ |  |  |
 | Do | Do Tarap | Collection | |  |  |  |
 | Eg | Egoo | Collection | bdr:MW1KG12671 | ✓ |  |  |
 | F | Phugbrag | Kanjur | bdr:MW1KG13607 | ✓ |  |  |
-| F | Phugbrag | Kanjur |  |  |  |  |
-| g | golden | **Tanjur** | bdr:MW23702 |  |  |  |
+| G | golden | **Tanjur** | bdr:MW23702 | ✓ |  |  |
 | Go | Gondhla | Collection | bdr:MW1PD128753 |  |  |  |
 | Go | Gondhla | Collection | bdr:W2KG5016 |  |  |  |
-| Gt | Gangteng | Kanjur | bdr:MWEAP039-1-1 |  |  |  |
-| H | Lhasa | Kanjur | bdr:MW26071 |  |  |  |
+| Gt | Gangteng | Kanjur | bdr:MWEAP039-1-1 | ✓ |  |  |
+| H | Lhasa | Kanjur | bdr:MW26071 | ✓ |  |  |
 | Ha | Hanle | Collection | bdr:MW1PD127348 |  |  |  |
 | He | Hemis I | Kanjur | bdr:MW4CZ45313 | ✓ |  |  |
 | Hg | Hemis golden | Kanjur | bdr:MW4CZ45315 |  |  |  |
@@ -53,13 +52,13 @@
 | Mg | Mongar | Kanjur | |  |  |  |
 | Mt | Matho | Collection | |  |  |  |
 | Mx | Mustang | Collection | |  |  |  |
-| N | Narthang | Kanjur | bdr:MW22703 |  |  |  |
-| N | Narthang | Kanjur | bdr:MW2KG210297 |  |  |  |
-| N | Narthang | **Tanjur** | bdr:MW22704 |  |  |  |
-| Ne | Narthang | Kanjur | bdr:MW3CN1317 |  |  |  |
+| N | Narthang | Kanjur | bdr:MW22703 | ✓ |  |  |
+| N | Narthang | Kanjur | bdr:MW2KG210297 | ✓ |  |  |
+| N | Narthang | **Tanjur** | bdr:MW22704 | ✓ |  |  |
+| Ne | Newark | Kanjur | bdr:MW3CN1317 |  |  |  |
 | Ng | Namgyal | Collection | |  |  |  |
 | Nk | Nubra Kumik | Collection | |  |  |  |
-| Np | Neyphug | Kanjur | bdr:MWEAP310-2-1 |  |  |  |
+| Np | Neyphug | Kanjur | bdr:MWEAP310-2-1 | ✓ |  |  |
 | Nr | Neruk | Collection | |  |  |  |
 | Ns | Nesar | Collection | |  |  |  |
 | Ny | Namgyal II | Collection | |  |  |  |
@@ -67,13 +66,13 @@
 | Ok | 'On ke ru | Collection | |  |  |  |
 | Pa | Padum | Collection | |  |  |  |
 | Ph | Phukthar | Collection | |  |  |  |
-| Pj | Phajoding Ogmin | Kanjur | bdr:MWEAP570-6-1 |  |  |  |
+| Pj | Phajoding Ogmin | Kanjur | bdr:MWEAP570-6-1 | ✓ |  |  |
 | Pt | Pelliot Tibétain | Collection |  |  |  |  |
 | Py | Phyang | Collection | |  |  |  |
-| Pz | Phajoding Khangzang | Kanjur | bdr:MWEAP570-7-1 |  |  |  |
+| Pz | Phajoding Khangzang | Kanjur | bdr:MWEAP570-7-1 | ✓ |  |  |
 | R | Ragya | Kanjur | bdr:MW2PD17098 | ✓ |  |  |
 | Re | Reruk | Collection | |  |  |  |
-| S | Stog | Kanjur | bdr:MW22083 |  |  |  |
+| S | Stog | Kanjur | bdr:MW22083 | ✓ |  |  |
 | Sb | Skyurbuchan | Collection | |  |  |  |
 | Sd | Stongde | Collection | |  |  |  |
 | Sk | Serkhang | Collection | |  |  |  |
@@ -90,7 +89,7 @@
 | Tl | Talakha | Kanjur | |  |  |  |
 | Ts | Tashichho | Kanjur | |  |  |  |
 | Ty | Tashiyangtse | Kanjur | bdr:MW2KG209840 | ✓ |  |  |
-| U | Urga | Kanjur | bdr:MW29468 |  |  |  |
+| U | Urga | Kanjur | bdr:MW29468 | ✓ |  |  |
 | V | Ulaanbaatar | Kanjur | bdr:MW1KG14700 | ✓ |  |  |
 | X | Basgo | Kanjur | bdr:MW4CZ45303 |  |  |  |
 | Xg | Basgo golden | Kanjur |  |  |  |  |
