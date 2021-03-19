@@ -7,7 +7,7 @@
 | Ba | Basgo Fragments | Collection | bdr:MW4CZ45308 |  |  |  |
 | Bd | Bardan | Collection | bdr:MW8LS15931 |  |  |  |
 | Br | Trakthok | Collection | |  |  |  |
-| C | Cone | Kanjur | bdr:MW1PD96685 |  |  |  |
+| C | Cone | Kanjur | bdr:MW1PD96685 | ✓ |  |  |
 | C | Cone | **Tanjur** | bdr:MW1GS66030 |  |  |  |
 | Cd | Chab mdo | Kanjur | bdr:MW1GS54155 |  |  |  |
 | Ch | Chharang | Collection | |  |  |  |
