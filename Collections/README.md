@@ -20,6 +20,7 @@
 | D | Derge | Kanjur | bdr:MW3CN20612 | ✓ | ✓ | ✓ |
 | D | Derge | **Tanjur** | bdr:MW23703 | ✓ | ✓ | ✓ |
 | D | Derge | **Tanjur** | bdr:MW2KG209989 | ✓ |  |  |
+| D | Derge | **Tanjur** | bdr:MW2KG5013 | ✓ |  |  |
 | Dd | Dodedrak | Kanjur | bdr:MWEAP570-5-1 | ✓ |  |  |
 | Dk | Dongkarla | Kanjur | bdr:MWEAP570-1-1 | ✓ |  |  |
 | Do | Do Tarap | Collection | |  |  |  |
