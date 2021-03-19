@@ -1,13 +1,13 @@
 
 | Sigla | Collection |type | set | Catalog | Vol. list | Images |
 | --- | --- | --- | --- | --- | --- | --- |
-| A | dPe bsdur ma | Kanjur | bdr:MW1PD96682 | ✓ |  |  |
+| A | dPe bsdur ma | Kanjur | bdr:MW1PD96682 |  |  |  |
 | A | dPe bsdur ma | **Tanjur** | bdr:MW1PD95844 |  |  |  |
 | Ak | Ablai-Kit | Kanjur | |  |  |  |
 | Ba | Basgo Fragments | Collection | bdr:MW4CZ45308 |  |  |  |
 | Bd | Bardan | Collection | bdr:MW8LS15931 |  |  |  |
 | Br | Trakthok | Collection | |  |  |  |
-| C | Cone | Kanjur | bdr:MW1PD96685 | ✓ |  |  |
+| C | Cone | Kanjur | bdr:MW1PD96685 |  |  |  |
 | C | Cone | **Tanjur** | bdr:MW1GS66030 |  |  |  |
 | Cd | Chab mdo | Kanjur | bdr:MW1GS54155 |  |  |  |
 | Ch | Chharang | Collection | |  |  |  |
@@ -15,18 +15,18 @@
 | Cx | Charang | Kanjur | bdr:MW3CN1302 |  |  |  |
 | Cz | Chizhi | Kanjur | bdr:MWEAP570-4-1 |  |  |  |
 | D | Derge | Kanjur | bdr:MW22084 | ✓ | ✓ | ✓ |
-| D | Derge | Kanjur | bdr:MW4CZ5369 | ✓ |  |  |
-| D | Derge | Kanjur | bdr:MW30532 | ✓ |  |  |
-| D | Derge | Kanjur | bdr:MW3CN20612 | ✓ |  |  |
+| D | Derge | Kanjur | bdr:MW4CZ5369 | ✓ | ✓ | ✓ |
+| D | Derge | Kanjur | bdr:MW30532 | ✓ | ✓ |  |
+| D | Derge | Kanjur | bdr:MW3CN20612 | ✓ | ✓ | ✓ |
 | D | Derge | **Tanjur** | bdr:MW23703 |  |  |  |
 | D | Derge | **Tanjur** | bdr:MW2KG209989 |  |  |  |
-| Dd | Dodedrak | Kanjur | bdr:MWEAP570-5-1 | ✓ |  |  |
-| Dk | Dongkarla | Kanjur | bdr:MWEAP570-1-1 | ✓ |  |  |
+| Dd | Dodedrak | Kanjur | bdr:MWEAP570-5-1 |  |  |  |
+| Dk | Dongkarla | Kanjur | bdr:MWEAP570-1-1 |  |  |  |
 | Do | Do Tarap | Collection | |  |  |  |
 | Eg | Egoo | Collection | bdr:MW1KG12671 |  |  |  |
-| F | Phugbrag | Kanjur | bdr:MW1KG13607 | ✓ |  |  |
-| F | Phugbrag | Kanjur | bdr:MW1KG13607 | ✓ |  |  |
-| g | golden | **Tanjur** | bdr:MW23702 | ✓ |  |  |
+| F | Phugbrag | Kanjur | bdr:MW1KG13607 |  |  |  |
+| F | Phugbrag | Kanjur | bdr:MW1KG13607 |  |  |  |
+| g | golden | **Tanjur** | bdr:MW23702 |  |  |  |
 | Go | Gondhla | Collection | bdr:MW1PD128753 |  |  |  |
 | Go | Gondhla | Collection | bdr:W2KG5016 |  |  |  |
 | Gt | Gangteng | Kanjur | bdr:MWEAP039-1-1 |  |  |  |
