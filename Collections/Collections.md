@@ -1,7 +1,7 @@
 
 | Sigla | Collection |type | set | Catalog | Vol. list | Images |
 | --- | --- | --- | --- | --- | --- | --- |
-| A | dPe bsdur ma | Kanjur | bdr:MW1PD96682 |  |  |  |
+| A | dPe bsdur ma | Kanjur | bdr:MW1PD96682 | ✓ | ✓ |  |
 | A | dPe bsdur ma | **Tanjur** | bdr:MW1PD95844 |  |  |  |
 | Ak | Ablai-Kit | Kanjur | |  |  |  |
 | Ba | Basgo Fragments | Collection | bdr:MW4CZ45308 |  |  |  |
