@@ -906,11 +906,434 @@
 </item>
 
 <item>
-<rktsg></rktsg>
+<rktsg>67</rktsg>
 <ref>XXX007.014</ref>
-<loc><set>1KG14783</set><vol>ja</vol><voln>7</voln><json>1KG21612</json><psection>rnying rgyud</psection><p>287a1-</p></loc>
+<loc><set>1KG14783</set><vol>ja</vol><voln>7</voln><json>1KG21612</json><psection>rnying rgyud</psection><p>287a1-299a3</p></loc>
+<tib>byang chub kyi sems ye shes rdzogs pa'i rgyud ces bya ba</tib>
+<skttrans>bo d+hi tsit+ta dz+nyA na saM pUr+N+Na tan+t+ra nA ma</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>68</rktsg>
+<ref>XXX007.015</ref>
+<loc><set>1KG14783</set><vol>ja</vol><voln>7</voln><json>1KG21612</json><psection>rnying rgyud</psection><p>299a3-312b4</p></loc>
+<tib>rdzogs pa chen po byang chub kyi sems / kun la 'jug pa rnam dag ston pa'i rgyud ces bya ba</tib>
+<skttrans>ma hA san+ti bod+hi tsit+ta sarba a ba tA ra bi shud+d+hod+diSh+ta tan+t+ra nA ma</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>69</rktsg>
+<ref>XXX007.016</ref>
+<loc><set>1KG14783</set><vol>ja</vol><voln>7</voln><json>1KG21612</json><psection>rnying rgyud</psection><p>313a1-320a3</p></loc>
+<tib>byang chub kyi sems rdo rje 'od 'phro ba'i rgyud kyi rim pa zhes bya ba</tib>
+<skttrans>bod+hi tsit+ta badzra pra b+hA s+phar Na tan+t+ra pa Ta la nA ma</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>10</rktsg>
+<ref>XXX008.001</ref>
+<loc><set>1KG14783</set><vol>nya</vol><voln>8</voln><json>1KG21613</json><psection>rnying rgyud</psection><p>1b1-118a2</p></loc>
+<tib>chos thams cad rdzogs pa chen po byang chub kyi sems kun byed rgyal po</tib>
+<skttrans>sarba d+harma ma hA san+ti bo d+hi tsit+ta ku la ya rA dza</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>13</rktsg>
+<ref>XXX008.002</ref>
+<loc><set>1KG14783</set><vol>nya</vol><voln>8</voln><json>1KG21613</json><psection>rnying rgyud</psection><p>118a2-185a4</p></loc>
+<tib>chos thams cad rdzogs pa chen po byang chub kyi sems su 'dus pa'i mdo</tib>
+<skttrans>sarba d+harma ma hA san+ti bo d+hi tsit+ta sa mu dA ya sU tra</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>25</rktsg>
+<ref>XXX008.003</ref>
+<loc><set>1KG14783</set><vol>nya</vol><voln>8</voln><json>1KG21613</json><psection>rnying rgyud</psection><p>185b1-191b6</p></loc>
+<tib>chos thams cad byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa nam mkha' dang mnyam pa'i yi ge med pa'i rgyud</tib>
+<skttrans>sarba d+harmA ma hA san+ti bo d+hi tsit+ta saM sa ra mU lats+tshe da A ka sha sa mA na k+Sha ra tan+t+ra</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>26</rktsg>
+<ref>XXX008.004</ref>
+<loc><set>1KG14783</set><vol>nya</vol><voln>8</voln><json>1KG21613</json><psection>rnying rgyud</psection><p>192a1-200b2</p></loc>
+<tib>chos thams cad rdzogs pa chen po byang chub kyi sems 'khor ba rtsad nas gcod pa rgya mtsho dang mnyam pa rnyog pa med pa'i rgyud</tib>
+<skttrans>sarba d+harmA ma hA san+ti bo d+hi tsit+ta saM sA ra mU lats+tshe da na sa mu dra sa mA bi la tan+t+ra</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>27</rktsg>
+<ref>XXX008.005</ref>
+<loc><set>1KG14783</set><vol>nya</vol><voln>8</voln><json>1KG21613</json><psection>rnying rgyud</psection><p>200b2-207a3</p></loc>
+<tib>chos thams cad byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa nyi zla dang mnyam pa dri ma med pa'i rgyud</tib>
+<skttrans>sarba d+harmA ma hA san+ti bo d+hi tsit+ta saM sA ra mU lats+tshe da na sUr+ya tsan+d+ra sa mA ma la tan+t+ra</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>28</rktsg>
+<ref>XXX008.006</ref>
+<loc><set>1KG14783</set><vol>nya</vol><voln>8</voln><json>1KG21613</json><psection>rnying rgyud</psection><p>207a3-210b3</p></loc>
+<tib>spyod pa nyi zla dang mnyam pa'i rgyud ky-i dka' 'grel</tib>
+<skttrans>tsar+ya sUr+ya tsan+d+ra sa ma tan+t+ra s+ya pany+dzi ka</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>29</rktsg>
+<ref>XXX008.007</ref>
+<loc><set>1KG14783</set><vol>nya</vol><voln>8</voln><json>1KG21613</json><psection>rnying rgyud</psection><p>210b3-218b1</p></loc>
+<tib>chos thams cad byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa rin po che dang mnyam pa skye ba med pa'i rgyud</tib>
+<skttrans>sarba d+harmA ma hA san+ti b+ho d+hi tsit+ta saM sA ra mU la ts+tshe da na rat+na sa mAnya dzA tan+t+ra</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>1</rktsg>
+<ref>XXX008.008</ref>
+<loc><set>1KG14783</set><vol>nya</vol><voln>8</voln><json>1KG21613</json><psection>rnying rgyud</psection><p>218b1-224a3</p></loc>
+<tib>byang chub sems rtsal chen gyi rgyud</tib>
+<skttrans>bo d+hi tsit+ta ma hA pa rA kra ma tan+t+ra</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>2</rktsg>
+<ref>XXX008.009</ref>
+<loc><set>1KG14783</set><vol>nya</vol><voln>8</voln><json>1KG21613</json><psection>rnying rgyud</psection><p>224a3-234b3</p></loc>
 <tib></tib>
 <skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>3</rktsg>
+<ref>XXX008.010</ref>
+<loc><set>1KG14783</set><vol>nya</vol><voln>8</voln><json>1KG21613</json><psection>rnying rgyud</psection><p>234b3-249b5</p></loc>
+<tib>rdo rje sems dpa' nam mkha' che rgyas pa yi ge med pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>30</rktsg>
+<ref>XXX008.011</ref>
+<loc><set>1KG14783</set><vol>nya</vol><voln>8</voln><json>1KG21613</json><psection>rnying rgyud</psection><p>250a1-267b1</p></loc>
+<tib>rgyud kyi rgyal po gser gyi rus sbal rdo rje theg pa rtsa ba'i rgyud</tib>
+<skttrans>tan+t+ra rA dza swar+N+Na kUr+m+ma badzra ya na mU la tan+t+ra</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>31</rktsg>
+<ref>XXX008.012</ref>
+<loc><set>1KG14783</set><vol>nya</vol><voln>8</voln><json>1KG21613</json><psection>rnying rgyud</psection><p>267b1-270b4</p></loc>
+<tib>byang chub kyi sems bsgom pa</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>32</rktsg>
+<ref>XXX008.013</ref>
+<loc><set>1KG14783</set><vol>nya</vol><voln>8</voln><json>1KG21613</json><psection>rnying rgyud</psection><p>270b4-271b4</p></loc>
+<tib>byang chub kyi sems bsgom pa yi ge med pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>33</rktsg>
+<ref>XXX008.014</ref>
+<loc><set>1KG14783</set><vol>nya</vol><voln>8</voln><json>1KG21613</json><psection>rnying rgyud</psection><p>272a1-282b2</p></loc>
+<tib>byang chub kyi sems rdzogs pa chen po ye shes bdun 'byung ba'i rgyud</tib>
+<skttrans>bo d+hi tsit+ta ma hA san+ti dz+nyA na sap+tA ka ra tan+t+ra</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>34</rktsg>
+<ref>XXX008.015</ref>
+<loc><set>1KG14783</set><vol>nya</vol><voln>8</voln><json>1KG21613</json><psection>rnying rgyud</psection><p>282b3-314a3</p></loc>
+<tib>rdzogs pa chen po chos nyid byang chub kyi sems bkra shis mi 'gyur bar gsal bar gnas pa'i rgyud ces bya ba</tib>
+<skttrans>ma hA san+ti d+harma tA bo d+hi tsit+ta mang+ga la ni yA ma pra ka Ta s+thi ta tan+t+ra na ma</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>35</rktsg>
+<ref>XXX008.016</ref>
+<loc><set>1KG14783</set><vol>nya</vol><voln>8</voln><json>1KG21613</json><psection>rnying rgyud</psection><p>314a3-348b6</p></loc>
+<tib>byang chub sems kyi man ngag rin po che'i phreng ba bang mdzod 'phrul gyi lde mig ces bya ba</tib>
+<skttrans>bo d+hi tsit+ta u pa de sha rat+na mA lA / phe Ta ka ko Sha kuny+tsi kA nA ma</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>36</rktsg>
+<ref>XXX008.017</ref>
+<loc><set>1KG14783</set><vol>nya</vol><voln>8</voln><json>1KG21613</json><psection>rnying rgyud</psection><p>349a1-364b4</p></loc>
+<tib>yang 'byed 'phrul gyi lde'u mig ces bya ba</tib>
+<skttrans>a ti b+hed nirma Na kuny+tsi kA nA ma</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>37</rktsg>
+<ref>XXX008.018</ref>
+<loc><set>1KG14783</set><vol>nya</vol><voln>8</voln><json>1KG21613</json><psection>rnying rgyud</psection><p>364b4-372a1</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>38</rktsg>
+<ref>XXX008.019</ref>
+<loc><set>1KG14783</set><vol>nya</vol><voln>8</voln><json>1KG21613</json><psection>rnying rgyud</psection><p>372a1-379a5</p></loc>
+<tib>'khor lo rdo rje</tib>
+<skttrans>tsakra badzra</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>39</rktsg>
+<ref>XXX009.001</ref>
+<loc><set>1KG147843</set><vol>ta</vol><voln>9</voln><json>1KG21614</json><psection>rnying rgyud</psection><p>1b1-14a1</p></loc>
+<tib>byang chub kyi sems rin chen 'khor lo zhes bya ba'i rgyud</tib>
+<skttrans>bo d+hi satwa rat+na tsakra tan+t+ra nA ma</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>40</rktsg>
+<ref>XXX009.002</ref>
+<loc><set>1KG147843</set><vol>ta</vol><voln>9</voln><json>1KG21614</json><psection>rnying rgyud</psection><p>14a1-36a4</p></loc>
+<tib>rdo rje sems dpa' nam mkha' che rgyas pa zhes bya ba rnal 'byor ma yi rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>41</rktsg>
+<ref>XXX009.003</ref>
+<loc><set>1KG147843</set><vol>ta</vol><voln>9</voln><json>1KG21614</json><psection>rnying rgyud</psection><p>36a4-52a4</p></loc>
+<tib>rin po che 'khor lo brtsegs pa'i rgyud ces bya ba</tib>
+<skttrans>rat+na tsakra kU Ta tan+t+ra nA ma</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>42</rktsg>
+<ref>XXX009.004</ref>
+<loc><set>1KG147843</set><vol>ta</vol><voln>9</voln><json>1KG21614</json><psection>rnying rgyud</psection><p>52a4-68a2</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>43</rktsg>
+<ref>XXX009.005</ref>
+<loc><set>1KG147843</set><vol>ta</vol><voln>9</voln><json>1KG21614</json><psection>rnying rgyud</psection><p>68a2-72a3</p></loc>
+<tib>rin po che snang byed kyi rgyud ces bya ba</tib>
+<skttrans>rat+nA d+hA ska ra tan+t+ra nA ma</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>44</rktsg>
+<ref>XXX009.006</ref>
+<loc><set>1KG147843</set><vol>ta</vol><voln>9</voln><json>1KG21614</json><psection>rnying rgyud</psection><p>72a3-80b5</p></loc>
+<tib>byang chub kyi sems rma bya mjing bsnol gyi rgyud las / 'bras bu bla na med pa'i theg pa</tib>
+<skttrans>bo d+hi tsit+ta ma yU ra grI bA gran+tha tan+t+ra pha la ma nut+ta ra yA na</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>45</rktsg>
+<ref>XXX009.007</ref>
+<loc><set>1KG147843</set><vol>ta</vol><voln>9</voln><json>1KG21614</json><psection>rnying rgyud</psection><p>80b5-104b1</p></loc>
+<tib>chos chen po rmad du byung ba</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>46</rktsg>
+<ref>XXX009.008</ref>
+<loc><set>1KG147843</set><vol>ta</vol><voln>9</voln><json>1KG21614</json><psection>rnying rgyud</psection><p>104b2-123b6</p></loc>
+<tib>rdzogs pa chen po chos nyid byang chub kyi sems / rin chen bkod pa rnam par dbye ba'i rgyud ces bya ba</tib>
+<skttrans>ma hA san+ti d+harma tA bo d+hi tsit+ta rat+na byU ha bi b+he da tan+t+ra nA ma</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>47</rktsg>
+<ref>XXX009.009</ref>
+<loc><set>1KG147843</set><vol>ta</vol><voln>9</voln><json>1KG21614</json><psection>rnying rgyud</psection><p>124a1-134a5</p></loc>
+<tib>byang chub kyi sems rmad du byung ba</tib>
+<skttrans>bo d+hi tsit+tAd+b+hu ta </skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>48</rktsg>
+<ref>XXX009.010</ref>
+<loc><set>1KG147843</set><vol>ta</vol><voln>9</voln><json>1KG21614</json><psection>rnying rgyud</psection><p>134a5-151b1</p></loc>
+<tib>byang chub kyi sems rmad du byung ba'i rgyud</tib>
+<skttrans>bo d+hi tsit+ta Ash+tsap+Ya tan+t+ra</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>49</rktsg>
+<ref>XXX009.011</ref>
+<loc><set>1KG147843</set><vol>ta</vol><voln>9</voln><json>1KG21614</json><psection>rnying rgyud</psection><p>151b1-162b6</p></loc>
+<tib>bkra shis pa'i dpal rig pa'i khu byug</tib>
+<skttrans>swasti shrI bid+yA ko ki la</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>50</rktsg>
+<ref>XXX009.012</ref>
+<loc><set>1KG147843</set><vol>ta</vol><voln>9</voln><json>1KG21614</json><psection>rnying rgyud</psection><p>163a1-181a1</p></loc>
+<tib>rdzogs pa chen po lta ba ye shes gting rdzogs kyi rgyud ces bya ba</tib>
+<skttrans>ma hA san+ti dr-iSh+ti dz+nyA na nim+na pUr+NU tan+t+ra nA ma</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>51</rktsg>
+<ref>XXX009.012</ref>
+<loc><set>1KG147843</set><vol>ta</vol><voln>9</voln><json>1KG21614</json><psection>rnying rgyud</psection><p>181a1-193a2</p></loc>
+<tib>rdo rje sems dpa' nam mkha' che gsang ba'i snying po rnal ma don gyi rgyud</tib>
+<skttrans>badzra satwA: kA sha bi pu la guh+ya gar+b+ha pra kr-it+yar+tha tan+t+ra</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>52</rktsg>
+<ref>XXX009.013</ref>
+<loc><set>1KG147843</set><vol>ta</vol><voln>9</voln><json>1KG21614</json><psection>rnying rgyud</psection><p>193a2-204b5</p></loc>
+<tib>byang chub kyi sems sgom pa'i rgyud</tib>
+<skttrans>bo d+hi tsit+ta b+hA ba na tan+t+ra</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>53</rktsg>
+<ref>XXX009.014</ref>
+<loc><set>1KG147843</set><vol>ta</vol><voln>9</voln><json>1KG21614</json><psection>rnying rgyud</psection><p>205a1-208b1</p></loc>
+<tib>rdzogs pa chen po kun tu bzang po ye shes gsal ba ston pa/ gsang sngags kyi lam mchog 'dus pa'i rgyud ces bya ba</tib>
+<skttrans>ma hA san+ti sa man+ta b+ha dra dz+nyA na pra krA sha ni rdiSh+Ta man+t+ra su pa thas mu dA ya tan+t+ra nA ma</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>54</rktsg>
+<ref>XXX009.015</ref>
+<loc><set>1KG147843</set><vol>ta</vol><voln>9</voln><json>1KG21614</json><psection>rnying rgyud</psection><p>208b1-213a5</p></loc>
+<tib>byang chub sems sgom pa rdo la gser zhun</tib>
+<skttrans>bo d+hi tsit+ta b+hA ba no pa la su war+N+Na dru ta</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>55</rktsg>
+<ref>XXX009.016</ref>
+<loc><set>1KG147843</set><vol>ta</vol><voln>9</voln><json>1KG21614</json><psection>rnying rgyud</psection><p>213a6-221b4</p></loc>
+<tib>thugs kyi rgyud rin po che spungs pa'i rgyan zhes bya ba</tib>
+<skttrans>tsit+ta tan+t+ra rat+na ku TA laM kA ra nA ma</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>56</rktsg>
+<ref>XXX009.017</ref>
+<loc><set>1KG147843</set><vol>ta</vol><voln>9</voln><json>1KG21614</json><psection>rnying rgyud</psection><p>222a1-240b1</p></loc>
+<tib>gsang ba spyi rgyud ces bya</tib>
+<skttrans>gu h+ya sA mA mya tan tra nA ma</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>57</rktsg>
+<ref>XXX009.018</ref>
+<loc><set>1KG147843</set><vol>ta</vol><voln>9</voln><json>1KG21614</json><psection>rnying rgyud</psection><p>240b1-291b2</p></loc>
+<tib>rin po che rgyas pa chen po'i rgyud</tib>
+<skttrans>rat+na puSh+ta ma hA tan+t+ra</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>479</rktsg>
+<ref>XXX009.019</ref>
+<loc><set>1KG147843</set><vol>ta</vol><voln>9</voln><json>1KG21614</json><psection>rnying rgyud</psection><p>291b3-445b4</p></loc>
+<tib>de bzhin gshegs pa thams cad kyi thugs gsang ba'i ye shes don gyi snying po khro bo rdo rje'i rigs kun 'dus rig pa'i mdo rnal 'byor grub pa'i rgyud ces bya ba theg pa chen po'i mdo</tib>
+<skttrans>sarba ta thA ga ta tsit+ta gu h+ya dz+nyA na a r+tha ga r+b+ha kro d+ha badzra ku la tan+t+ra piN+DAr+tha bid+yI yo ga sad+d+hi na ma ma hA yA na sU tra</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>480</rktsg>
+<ref>XXX010.001</ref>
+<loc><set>1KG147843</set><vol>tha</vol><voln>10</voln><json>1KG21615</json><psection>rnying rgyud</psection><p>1b1-286b6</p></loc>
+<tib>de bzhin gshegs pa thams cad kyi thugs gsang ba'i ye shes don gyi snying po rdo rje bkod pa'i rgyun rnal 'byor grub pa'i lung kun 'dus rig pa'i mdo theg pa chen po mngon par rtogs pa chos kyi rnam grangs rnam par bkod par zhes bya ba'i mdo</tib>
+<skttrans>sarba ta thA ga ta tsit+ta dz+nyA na gu h+ya ar+tha gar+b+ha b+hu ha na tan+t+ra / sid+d+hi yo ga A ga ma sa mA dza sarba bid+yA sU tra ma hA yA na a b+hi sa ma ya d+harmA par+ya ya bi sh+yU ha nA ma sU tra~M</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>481</rktsg>
+<ref>XXX010.002</ref>
+<loc><set>1KG147843</set><vol>tha</vol><voln>10</voln><json>1KG21615</json><psection>rnying rgyud</psection><p>287a1-374b4</p></loc>
+<tib>de bzhin gshegs pa thams cad kyi gsang ba / gsang ba'i mdzod chen po mi zad pa gter gyi sgron ma // brtul zhugs chen po bsgrub pa'i rgyud</tib>
+<skttrans>sarba ta thA ga ta gu h+ya ma hA gup+ta ko Sha ak+Sha ya ni d+hi dI ba ma hA pra ta sA d+ha na tan+t+ra dz+nyA nA sh+tsar+ya d+yu ti tsakra nA ma ma hA yA na sU tra</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>482</rktsg>
+<ref>XXX010.003</ref>
+<loc><set>1KG147843</set><vol>tha</vol><voln>10</voln><json>1KG21615</json><psection>rnying rgyud</psection><p>374b4-395b1</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>483</rktsg>
+<ref>XXX011.001</ref>
+<loc><set>1KG147843</set><vol>da</vol><voln>11</voln><json>1KG21616</json><psection>rnying rgyud</psection><p>1b1-51a2</p></loc>
+<tib>de bzhin gshegs pa thams cad kyi sku dang / gsung dang / thugs kyi gsang ba dur khrod khu byug rol pa'i rgyud ces bya ba theg pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>484</rktsg>
+<ref>XXX011.002</ref>
+<loc><set>1KG147843</set><vol>da</vol><voln>11</voln><json>1KG21616</json><psection>rnying rgyud</psection><p>51a2-107a1</p></loc>
+<tib>byang chub sems 'di gsan yig na sems lung chen po dpe ma rnyed gsungs pa de yin nam 'dra lung rnal 'byor chen po'i rgyud theg pa chen po'i mdo</tib>
+<skttrans>bo d+hi tsit+tA\u0f85ga ma ma hA ye ga ma hA yA na sU tra</skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>485</rktsg>
+<ref>XXX011.003</ref>
+<loc><set>1KG147843</set><vol>da</vol><voln>11</voln><json>1KG21616</json><psection>rnying rgyud</psection><p>107a1-</p></loc>
+<tib>lta ba thams cad kyi rgyal po / kun tu bzang po che ba rang la gnas pa'i rgyud</tib>
+<skttrans>sarba dr-iSh+ti rA dza sa man+ta b+ha drA d+hi mA tra swA sti tan+t+ra</skttrans>
 <coloph></coloph>
 </item>
 
@@ -919,8 +1342,8 @@
 
 <item>
 <rktsg></rktsg>
-<ref>XXX007.001</ref>
-<loc><set>1KG14783</set><vol>ja</vol><voln>7</voln><json>1KG21612</json><psection>rnying rgyud</psection><p></p></loc>
+<ref>XXX011.001</ref>
+<loc><set>1KG147843</set><vol>da</vol><voln>11</voln><json>1KG21616</json><psection>rnying rgyud</psection><p></p></loc>
 <tib></tib>
 <skttrans></skttrans>
 <coloph></coloph>
