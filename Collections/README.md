@@ -99,3 +99,6 @@
 | Z | Shey | Kanjur | bdr:MW1PD127393 | ✓ | ✓ | ✓ |
 | Zd | Taktsang Zangdopelri | Kanjur |  |  |  |  |
 | Zl | Zangla | Collection | |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Gaz | a 'dzom par ma | rnying rgyud | |  |  |  |
+
