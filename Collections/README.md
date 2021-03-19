@@ -100,5 +100,19 @@
 | Zd | Taktsang Zangdopelri | Kanjur |  |  |  |  |
 | Zl | Zangla | Collection | |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Gaz | a 'dzom par ma | rnying rgyud | |  |  |  |
+| Gaz | a 'dzom par ma | rnying rgyud | bdr:MW1KG11703 |  |  |  |
+| Gbc | rnying ma rgyud 'bum dbu can bris ma | rnying rgyud | bdr:MW2PD19896 |  |  |  |
+| Gbm | rnying rgyud bris ma | rnying rgyud | bdr:MW2PD19897 |  |  |  |
+| Gbr | bai ro'i rgyud 'bum | rnying rgyud | bdr:MW21519 |  |  |  |
+| Gcd | rnying ma rgyud bcu bdun | rnying rgyud | bdr:MW21520 |  |  |  |
+| Gdg | sde dge par ma | rnying rgyud | bdr:MW21939 |  |  |  |
+| Ggb | rnying ma rgyud 'bum | rnying rgyud | bdr:MW3CN3207 |  |  |  |
+| Gkk | rnying ma rgyud 'bum gyi kha skong | rnying rgyud | bdr:MW25815 |  |  |  |
+| Gmb | mtshams brag dgon pa'i bris ma | rnying rgyud | bdr:MW1KG16449 |  |  |  |
+| Gmb | mtshams brag dgon pa'i bris ma | rnying rgyud | bdr:MW21521 |  |  |  |
+| Gpb | snga 'gyur rgyud 'bum phyogs bsgrigs | rnying rgyud | bdr:MW1KG11703 |  |  |  |
+| Gtb | rnying ma rgyud 'bum thor bu pod lnga | rnying rgyud | bdr:MW20150 |  |  |  |
+| Gtk | gting skyes | rnying rgyud | bdr:MW21518 |  |  |  |
+| Gyp | rgyal po g.yu 'phreng sngon po'i rgyud | rnying rgyud | bdr:MW1NLM219 |  |  |  |
+| Gzc | bris ma/ gzhi chen dgon | rnying rgyud | bdr:MW2PD17382 |  |  |  |
 
