@@ -26,6 +26,7 @@
 | Do | Do Tarap | Collection | |  |  |  |
 | Eg | Egoo | Collection | bdr:MW1KG12671 | ✓ | ✓ | ✓ |
 | F | Phugbrag | Kanjur | bdr:MW1KG13607 | ✓ | ✓ | ✓ |
+| F | Phugbrag | Kanjur | bdr:MW2KG210295 | ✓ |  |  |
 | G | golden | **Tanjur** | bdr:MW23702 | ✓ | ✓ | ✓ |
 | Go | Gondhla | Collection | bdr:MW1PD128753 |  |  |  |
 | Go | Gondhla | Collection | bdr:W2KG5016 |  |  |  |
