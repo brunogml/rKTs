@@ -1,5 +1,5 @@
 
-| Sigla | Collection |type | set | Catalog | Vol. list | Images |
+| Sigla | Collection |type | set | Cat. | Vol. list | Images |
 | --- | --- | --- | --- | --- | --- | --- |
 | A | dPe bsdur ma | Kanjur | bdr:MW1PD96682 | ✓ |  |  |
 | Ak | Ablai-Kit | Kanjur | - |  |  |  |
