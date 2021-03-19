@@ -19,4 +19,4 @@
 | Dd | Dodedrak | Kanjur | bdr:MWEAP570-5-1 | ✓ |  |  |
 | Dk | Dongkarla | Kanjur | bdr:MWEAP570-1-1 | ✓ |  |  |
 | Do | Do Tarap | Collection | - |  |  |  |
-| Eg | Egoo | Collection | - | bdr:MW1KG12671 |  |  |
+| Eg | Egoo | Collection | bdr:MW1KG12671 |  |  |  |
