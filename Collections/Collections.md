@@ -2,11 +2,13 @@
 | Sigla | Collection |type | set | Cat. | Vol. list | Images |
 | --- | --- | --- | --- | --- | --- | --- |
 | A | dPe bsdur ma | Kanjur | bdr:MW1PD96682 | ✓ |  |  |
+| A | dPe bsdur ma | Tanjur | bdr:MW1PD95844 |  |  |  |
 | Ak | Ablai-Kit | Kanjur | - |  |  |  |
 | Ba | Basgo Fragments | Collection | bdr:MW4CZ45308 |  |  |  |
 | Bd | Bardan | Collection | bdr:MW8LS15931 |  |  |  |
 | Br | Trakthok | Collection | - |  |  |  |
 | C | Cone | Kanjur | bdr:MW1PD96685 | ✓ |  |  |
+| C | Cone | Tanjur | bdr:MW1GS66030 |  |  |  |
 | Cd | Chab mdo | Kanjur | bdr:MW1GS54155 |  |  |  |
 | Ch | Chharang | Collection | - |  |  |  |
 | Cr | Chemre | Collection | - |  |  |  |
@@ -16,12 +18,15 @@
 | D | Derge | Kanjur | bdr:MW4CZ5369 | ✓ |  |  |
 | D | Derge | Kanjur | bdr:MW30532 | ✓ |  |  |
 | D | Derge | Kanjur | bdr:MW3CN20612 | ✓ |  |  |
+| D | Derge | Tanjur | bdr:MW23703 |  |  |  |
+| D | Derge | Tanjur | bdr:MW2KG209989 |  |  |  |
 | Dd | Dodedrak | Kanjur | bdr:MWEAP570-5-1 | ✓ |  |  |
 | Dk | Dongkarla | Kanjur | bdr:MWEAP570-1-1 | ✓ |  |  |
 | Do | Do Tarap | Collection | - |  |  |  |
 | Eg | Egoo | Collection | bdr:MW1KG12671 |  |  |  |
 | F | Phugbrag | Kanjur | bdr:MW1KG13607 | ✓ |  |  |
 | F | Phugbrag | Kanjur | bdr:MW1KG13607 | ✓ |  |  |
+| g | golden | Tanjur | bdr:MW23702 | ✓ |  |  |
 | Go | Gondhla | Collection | bdr:MW1PD128753 |  |  |  |
 | Go | Gondhla | Collection | bdr:W2KG5016 |  |  |  |
 | Gt | Gangteng | Kanjur | bdr:MWEAP039-1-1 |  |  |  |
@@ -37,6 +42,7 @@
 | Kb | Berlin | Kanjur |  |  |  |  |
 | Kd | Dragon | Kanjur |  |  |  |  |
 | Kq | Peking 1737 | Kanjur | bdr:MW3CN1094 |  |  |  |
+| Kq | Peking 1737 | Tanjur | bdr:MW1KG13126 |  |  |  |
 | Ku | Peking Ulaanbaatar | Kanjur | bdr:MW1KG26108 |  |  |  |
 | Kw | Wanli | Kanjur | bdr:MWSBB_WKG |  |  |  |
 | Ky | Yongle | Kanjur |  |  |  |  |
@@ -48,6 +54,7 @@
 | Mx | Mustang | Collection | |  |  |  |
 | N | Narthang | Kanjur | bdr:MW22703 |  |  |  |
 | N | Narthang | Kanjur | bdr:MW2KG210297 |  |  |  |
+| N | Narthang | Tanjur | bdr:MW22704 |  |  |  |
 | Ne | Narthang | Kanjur | bdr:MW3CN1317 |  |  |  |
 | Ng | Namgyal | Collection | |  |  |  |
 | Nk | Nubra Kumik | Collection | |  |  |  |
