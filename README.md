@@ -51,9 +51,9 @@ The tags used in the xml files of the `Kanjur/`, `Tanjur/` and `Tantra/` folder 
 - `<StandardTibetan>` Standardized form of the Tibetan Title (with `<source>` for this standard)
 - `<StandardSanskrit>` Standardized form of the Sanskrit Title (with `<source>` for this standard)
 - `<StandardMongolian>` Standardized form of the Mongolian Title (with `<source>` for this standard)
-- `<Tibetan>` all variants of the Tibetan title as found in the various editions
-- `<Sanskrit>` all variants of the Sanskrit title as found in the various editions
-- `<Mongolian>` all variants of the Mongolian title as found in the various editions
+- `<tib>` all variants of the Tibetan title as found in the various editions
+- `<skt>` all variants of the Sanskrit title as found in the various editions
+- `<mng>` all variants of the Mongolian title as found in the various editions
 - `<cmp>` records relationships with other works, they can be of the following nature:
 	* `parallel`: the text is parallel with a part of another text
 	* `parallel-part`: a part of the text is parallel with a part of another text
