@@ -2,11 +2,11 @@
 
 | Collection | Source | completed |
 | --- | --- | --- | 
-| Kanjur | --- | --- | 
+| **Kanjur** | |  | 
 | D | Esukhia | ✓ |
 | H | Adarsha | ✓ |
 | J | Adarsha | ✓ |
 | S | Esukhia |  |
-| Tanjur | --- | --- |
+| **Tanjur** |  |  |
 | D | Esukhia |  |
-| Old Tantra | --- | --- |
+| **Old Tantra** |  |  |
