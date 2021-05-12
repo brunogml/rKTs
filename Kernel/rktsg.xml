@@ -914,6 +914,7 @@
 <section>rnying</section>
 <StandardTibetan>chos thams cad byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa nam mkha' dang mnyam pa'i yi ge med pa'i rgyud<source>Gpb</source></StandardTibetan>
 <tib>chos thams cad byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa nam mkha' dang mnyam pa'i yi ge med pa'i rgyud</tib>
+<tib>chos thaMd byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa namkha' dang mnyam pa ye ge med pa'i rgyud</tib>
 <tib>khor ba rtsad nas gcod pa nam mkha' dang mnyam pa'i yi ge med pa'i rgyud</tib>
 <tib>chos thams cad byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa nam mkha' dang mnyam pa yi ge med pa'i rgyud</tib>
 <tib>chos tham.d byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa namkha' dang mnyam pa yi ge med pa'i rgyud</tib>
@@ -924,6 +925,7 @@
 <section>rnying</section>
 <StandardTibetan>chos thams cad rdzogs pa chen po byang chub kyi sems 'khor ba rtsad nas gcod pa rgya mtsho dang mnyam pa rnyog pa med pa'i rgyud<source>Gpb</source></StandardTibetan>
 <tib>chos thams cad rdzogs pa chen po byang chub kyi sems 'khor ba rtsad nas gcod pa rgya mtsho dang mnyam pa rnyog pa med pa'i rgyud</tib>
+<tib>chos thams cad byang chub kyi sems rdzogs pa chen po 'khor brtsad nas gcod pa rgya mtsho dang mnyam pa rnyogs pa med pa'i rgyud</tib>
 <tib>khor ba rtsad nas gcod pa rgya mtsho dang mnyam pa rnyog ma med pa'i rgyud</tib>
 <tib>chos thams cad byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa rgya mtsho dang mnyam pa rnyeg pa med pa'i rgyud</tib>
 <tib>chos thams cad byang chub kyi sems rdzogs pa chen po 'khor brtsad nas gcod pa rgya mtsho dang mnyam pa rnyogs pa med pa'i rgyud</tib>
@@ -968,8 +970,8 @@
 <section>rnying</section>
 <StandardTibetan>byang chub kyi sems khyung chen gyi rgyud<source>xxx</source></StandardTibetan>
 <tib>byang chub kyi sems khyung chen gyi rgyud</tib>
-<tib>khyung chen gyi rgyud rgyas pa chen po'i mtha'</tib>
 <tib>byang chub kyi sems khyung chen</tib>
+<tib>khyung chen gyi rgyud rgyas pa chen po'i mtha'</tib>
 </item>
 
 <item>
@@ -986,8 +988,6 @@
 <section>rnying</section>
 <StandardTibetan>rgyud kyi rgyal po gser gyi rus sbal rdo rje theg pa rtsa ba'i rgyud<source>Gpb</source></StandardTibetan>
 <tib>rgyud kyi rgyal po gser gyi rus sbal rdo rje theg pa rtsa ba'i rgyud</tib>
-<tib>rgyud kyi rgyal po gser gyi rus sbal rdo rje thig pa rtsa ba'i rgyud</tib>
-<tib>rgyud kyi rgyal po gser gyi rus sbal rdo rje theg pa rtsa ba'i rgyud</tib>
 </item>
 
 <item>
@@ -996,6 +996,7 @@
 <StandardTibetan>byang chub kyi sems bsgom pa<source>Gpb</source></StandardTibetan>
 <tib>byang chub kyi sems bsgom pa</tib>
 <tib>byang chub sems bsgom pa</tib>
+<tib>byang chub sems bsgom rdo la gser zhun</tib>
 <tib>byang chub sems sgom pa</tib>
 </item>
 
@@ -1013,6 +1014,8 @@
 <section>rnying</section>
 <StandardTibetan>byang chub kyi sems rdzogs pa chen po ye shes bdun 'byung ba'i rgyud<source>Gpb</source></StandardTibetan>
 <tib>byang chub kyi sems rdzogs pa chen po ye shes bdun 'byung ba'i rgyud</tib>
+<tib>byang chub sems rdzogs pa chen po ye shes bdun gyi rgyud</tib>
+<tib>ye shes bdun 'byung gi rgyud</tib>
 <tib>byang chub kyi sems rdzogs pa chen po ye shes bdun gyi rgyud</tib>
 <tib>byang chub sems rdzogs pa chen po ye shes bdun gyi rgyud</tib>
 </item>
@@ -1022,6 +1025,8 @@
 <section>rnying</section>
 <StandardTibetan>rdzogs pa chen po chos nyid byang chub kyi sems bkra shis mi 'gyur bar gsal bar gnas pa'i rgyud ces bya ba<source>Gpb</source></StandardTibetan>
 <tib>rdzogs pa chen po chos nyid byang chub kyi sems bkra shis mi 'gyur bar gsal bar gnas pa'i rgyud ces bya ba</tib>
+<tib>rdzogs pa chen po chos nyid byang chub kyi sems bkra shis mi 'gyur ba gsal bar gnas pa'i rgyud ces bya ba</tib>
+<tib>bkra shis mi 'gyur gsal bar gnas pa'i rgyud</tib>
 <tib>rdzogs pa chen po chos nyid byang chub kyi sems bkra shis mi 'gyur ba gsal bar gnas pa'i rgyud</tib>
 <tib>rdzogs pa chen po chos nyid byang chub kyi sems bkra shis mi 'gyur ba gsal bar gnas pa'i rgyud ces bya ba</tib>
 </item>
@@ -1046,7 +1051,7 @@
 <item>
 <rktsg>120</rktsg>
 <section>rnying</section>
-<StandardTibetan>bang mdzod 'phrul gyi me long<source>xxx</source></StandardTibetan>
+<StandardTibetan>bang mdzod 'phrul gyi me long<source>Gpb</source></StandardTibetan>
 <tib>bang mdzod 'phrul gyi me long</tib>
 <tib>bang mdzod 'phrul gyi me long rgyud phyi ma'i phyi ma byas pa ma tshang ba kha bskang pa</tib>
 </item>
@@ -1063,8 +1068,8 @@
 <section>rnying</section>
 <StandardTibetan>byang chub kyi sems rin chen 'khor lo zhes bya ba'i rgyud<source>Gpb</source></StandardTibetan>
 <tib>byang chub kyi sems rin chen 'khor lo zhes bya ba'i rgyud</tib>
-<tib>byang chub kyi sems rin chen 'khor lo zhes bya ba'i rgyud</tib>
 <tib>byang chub kyis sems rin po che 'khor lo zhes bya ba'i rgyud</tib>
+<tib>byang chub kyi sems rin chen 'khor lo zhes bya ba'i rgyud</tib>
 </item>
 
 <item>
@@ -1072,6 +1077,8 @@
 <section>rnying</section>
 <StandardTibetan>rdo rje sems dpa' nam mkha' che rgyas pa zhes bya ba rnal 'byor ma yi rgyud<source>Gpb</source></StandardTibetan>
 <tib>rdo rje sems dpa' nam mkha' che rgyas pa zhes bya ba rnal 'byor ma yi rgyud</tib>
+<tib>rdo rje sems dpa' nam mkha' che rgyas pa zhes bya ba rnal/ 'byor ma yi rgyud</tib>
+<tib>rdo rje sems dpa' namkha' che rgyas pa zhes bya ba</tib>
 <tib>rdo rje sems dpa' nam mkha' che rgyas pa zhes bya ba rnal 'byor ma'i rgyud</tib>
 <tib>rdo rje sem.da' namkha' che rgyas pa zhes bya ba rnal 'byor ma'i rgyud</tib>
 </item>
@@ -1152,7 +1159,7 @@
 <section>rnying</section>
 <StandardTibetan>bkra shis pa'i dpal rig pa'i khu byug<source>Gpb</source></StandardTibetan>
 <tib>bkra shis pa'i dpal rig pa'i khu byug</tib>
-<tib>bkra shis pa'i dpal rig pa'i khu byug</tib>
+<tib>bkra shis pa'i dpal rig pa'i khu byug gi rgyud</tib>
 <tib>bkra shis pa'i dpal</tib>
 </item>
 
@@ -3382,6 +3389,7 @@ rkts834
 <section>rnying</section>
 <StandardTibetan>chos thams cad sems nyid ye shes rgyal po zhes dngos grub rang byung dbang bskur ba'i rgyud<source>Gpb</source></StandardTibetan>
 <tib>chos thams cad sems nyid ye shes rgyal po zhes dngos grub rang byung dbang bskur ba'i rgyud</tib>
+<tib>chos thams cad sems nyid ye shes kyi rgyal po dngos grub rang byung du spyod par dbang bskur</tib>
 <tib>chos thams cad sems nyid ye shes rgyal po zhes dngos grub rang byung du dbang bskur ba'i rgyud</tib>
 </item>
 
@@ -3479,6 +3487,7 @@ rkts834
 <section>rnying</section>
 <StandardTibetan>byang chub sems nam mkha'i rgyal po<source>Gpb</source></StandardTibetan>
 <tib>byang chub sems nam mkha'i rgyal po</tib>
+<tib>namkha' rgyal po</tib>
 </item>
 
 <item>
@@ -3870,6 +3879,7 @@ rkts834
 <section>rnying</section>
 <StandardTibetan>thag ring du 'gro ba nam mkha'i mtha' dang mnyam pa'i rgyud<source>Gpb</source></StandardTibetan>
 <tib>thag ring du 'gro ba nam mkha'i mtha' dang mnyam pa'i rgyud</tib>
+<tib>thag ring du 'gro ba namkha'i mtha' dang mnyam pa'i rgyud</tib>
 <tib>thag ring du 'gro ba mtha' dang mnyam pa'i rgyud</tib>
 <tib>thag ring du 'gro ba namkha'i mtha' dang mnyam pa'i rgyud</tib>
 </item>
@@ -7316,6 +7326,7 @@ rkts834
 <section>rnying</section>
 <StandardTibetan>rdo rje sems dpa'i lta ba<source>Gpb</source></StandardTibetan>
 <tib>rdo rje sems dpa'i lta ba</tib>
+<tib>rdo rje sems dpa'i lta ba/ rdo rje sems dpa' namkha' che</tib>
 </item>
 
 <item>
@@ -7479,13 +7490,80 @@ rkts834
 <tib>bde bar gshegs pa'i bstan pa thams cad kyi snying po rig pa 'dzin pa'i sde snod rdo rje theg pa snga 'gyur rgyud 'bum rin po che'i rtogs par brjod pa lha'i bu'i gtam</tib>
 </item>
 
+<item>
+<rktsg>955</rktsg>
+<section>rnying</section>
+<StandardTibetan>byang chub kyi sems sgom pa don grub pa zhes bya ba<source>Gbc</source></StandardTibetan>
+<tib>byang chub kyi sems sgom pa don grub pa zhes bya ba</tib>
+</item>
+
+<item>
+<rktsg>956</rktsg>
+<section>rnying</section>
+<StandardTibetan>rtsal chen sprug pa<source>Gpb</source></StandardTibetan>
+<tib>rtsal chen sprug pa</tib>
+</item>
+
+<item>
+<rktsg>957</rktsg>
+<section>rnying</section>
+<StandardTibetan>byang chub sems rtse mo byung rgyal zhes bya ba bsam gtan<source>Gbc</source></StandardTibetan>
+<tib>byang chub sems rtse mo byung rgyal zhes bya ba bsam gtan</tib>
+<tib>rtse mo byung rgyal</tib>
+</item>
+
+<item>
+<rktsg>958</rktsg>
+<section>rnying</section>
+<StandardTibetan>srog gi 'khor lo<source>Gbc</source></StandardTibetan>
+<tib>srog gi 'khor lo</tib>
+</item>
+
+<item>
+<rktsg>959</rktsg>
+<section>rnying</section>
+<StandardTibetan>byang chub kyi sems bde ba'i myu gu<source>Gbc</source></StandardTibetan>
+<tib>byang chub kyi sems bde ba'i myu gu</tib>
+<tib>byang chub sems bde ba chen po'i myu gu</tib>
+</item>
+
+<item>
+<rktsg>960</rktsg>
+<section>rnying</section>
+<StandardTibetan>bde ba 'phra bkod<source>Gbc</source></StandardTibetan>
+<tib>bde ba 'phra bkod</tib>
+<tib>byang chub sems bde ba 'phra bkod pa</tib>
+</item>
+
+<item>
+<rktsg>961</rktsg>
+<section>rnying</section>
+<StandardTibetan>skye med ti ka<source>Gbc</source></StandardTibetan>
+<tib>skye med ti ka</tib>
+</item>
+
+<item>
+<rktsg>962</rktsg>
+<section>rnying</section>
+<StandardTibetan>rdo rje sems dpa' nam mkha' che bram ze rgyas pa'i rgyud<source>Gbc</source></StandardTibetan>
+<tib>rdo rje sems dpa' nam mkha' che bram ze rgyas pa'i rgyud</tib>
+<tib>rdo rje sems dpa' namkha' che bram ze rgyas pa'i rgyud</tib>
+</item>
+
+<item>
+<rktsg>963</rktsg>
+<section>rnying</section>
+<StandardTibetan>dpal kun tu bzang po bde chen po'i man ngag<source>Gbc</source></StandardTibetan>
+<tib>dpal kun tu bzang po bde chen po'i man ngag</tib>
+</item>
+
 
 
 
 <item>
 <rktsg></rktsg>
 <section>rnying</section>
-<StandardTibetan><source>Gpb</source></StandardTibetan>
+<StandardTibetan><source>Gbc</source></StandardTibetan>
 </item>
 
 
