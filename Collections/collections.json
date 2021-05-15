@@ -530,8 +530,19 @@
 "N2":{
 	"sigla":"N", 
 	"name":"Narthang Kanjur", 
-	"BDRC":"bdr:MW2KG210297", 
+	"BDRC":"bdr:MW2KG5014", 
 	"abbreviated":"narthang2", 
+	"digitizedBy":"CIHTS", 
+	"outline":"0", 
+	"integratedrKTs":"0", 
+	"location":""
+	},
+
+"N3":{
+	"sigla":"N", 
+	"name":"Narthang Kanjur", 
+	"BDRC":"bdr:MW2KG210297", 
+	"abbreviated":"narthang3", 
 	"digitizedBy":"LTWA", 
 	"outline":"0", 
 	"integratedrKTs":"0", 
