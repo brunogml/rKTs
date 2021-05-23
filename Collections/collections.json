@@ -1,5 +1,6 @@
 {
 "A":{
+	"dupl":"0",
 	"sigla":"A", 
 	"name":"dPe bsdur ma Kanjur", 
 	"BDRC":"bdr:MW1PD96682", 
@@ -11,6 +12,7 @@
 	},
 
 "Ak":{
+	"dupl":"0",
 	"sigla":"Ak", 
 	"name":"Ablai-Kit Kanjur", 
 	"BDRC":"-", 
@@ -22,6 +24,7 @@
 	},
 
 "Ba":{
+	"dupl":"0",
 	"sigla":"Ba", 
 	"name":"Basgo Fragments", 
 	"BDRC":"bdr:MW4CZ45308", 
@@ -33,6 +36,7 @@
 	},
 
 "Bd":{
+	"dupl":"0",
 	"sigla":"Bd", 
 	"name":"Bardan Collection", 
 	"BDRC":"bdr:MW8LS15931", 
@@ -44,6 +48,7 @@
 	},
 
 "Br":{
+	"dupl":"0",
 	"sigla":"Br", 
 	"name":"Trakthok Collection", 
 	"BDRC":"-", 
@@ -55,6 +60,7 @@
 	},
 
 "C":{
+	"dupl":"0",
 	"sigla":"C", 
 	"name":"Cone Kanjur", 
 	"BDRC":"bdr:MW1PD96685", 
@@ -66,6 +72,7 @@
 	},
 
 "Cd":{
+	"dupl":"0",
 	"sigla":"Cd", 
 	"name":"Chab mdo Kanjur", 
 	"BDRC":"bdr:MW1GS54155", 
@@ -77,6 +84,7 @@
 	},
 
 "Ch":{
+	"dupl":"0",
 	"sigla":"Ch", 
 	"name":"Chharang Collection", 
 	"BDRC":"-", 
@@ -88,6 +96,7 @@
 	},
 
 "Cr":{
+	"dupl":"0",
 	"sigla":"Cr", 
 	"name":"Chemre Collection", 
 	"BDRC":"-", 
@@ -99,6 +108,7 @@
 	},
 
 "Cx":{
+	"dupl":"0",
 	"sigla":"Cx", 
 	"name":"Charang Collection", 
 	"BDRC":"bdr:MW3CN1302", 
@@ -110,6 +120,7 @@
 	},
 
 "Cz":{
+	"dupl":"0",
 	"sigla":"Cz", 
 	"name":"Chizhi Kanjur", 
 	"BDRC":"bdr:MWEAP570-4-1", 
@@ -121,6 +132,7 @@
 	},
 
 "D":{
+	"dupl":"0",
 	"sigla":"D", 
 	"name":"Derge Kanjur", 
 	"BDRC":"bdr:MW22084", 
@@ -132,39 +144,43 @@
 	},
 
 "D2":{
+	"dupl":"1",
 	"sigla":"D", 
 	"name":"Derge Kanjur", 
 	"BDRC":"bdr:MW4CZ5369", 
 	"abbreviated":"derge2", 
 	"digitizedBy":"BDRC", 
-	"outline":"0", 
+	"outline":"1", 
 	"integratedrKTs":"0", 
 	"location":""
 	},
 
 "D3":{
+	"dupl":"1",
 	"sigla":"D", 
 	"name":"Derge Kanjur", 
 	"BDRC":"bdr:MW30532", 
 	"abbreviated":"derge3", 
 	"digitizedBy":"BDRC", 
-	"outline":"0", 
+	"outline":"1", 
 	"integratedrKTs":"0", 
 	"location":""
 	},
 
 "D4":{
+	"dupl":"1",
 	"sigla":"D", 
 	"name":"Derge Kanjur", 
 	"BDRC":"bdr:MW3CN20612", 
 	"abbreviated":"derge4", 
 	"digitizedBy":"BDRC", 
-	"outline":"0", 
+	"outline":"1", 
 	"integratedrKTs":"0", 
 	"location":""
 	},
 
 "Dd":{
+	"dupl":"0",
 	"sigla":"Dd", 
 	"name":"Dodedrak Kanjur", 
 	"BDRC":"bdr:MWEAP570-5-1", 
@@ -176,6 +192,7 @@
 	},
 
 "Dk":{
+	"dupl":"0",
 	"sigla":"Dk", 
 	"name":"Dongkarla Kanjur", 
 	"BDRC":"bdr:MWEAP570-1-1", 
@@ -187,6 +204,7 @@
 	},
 
 "Dt":{
+	"dupl":"0",
 	"sigla":"Dt", 
 	"name":"Do Tarap Collection", 
 	"BDRC":"-", 
@@ -198,6 +216,7 @@
 	},
 
 "Eg":{
+	"dupl":"0",
 	"sigla":"Eg", 
 	"name":"Egoo Collection", 
 	"BDRC":"bdr:MW1KG12671", 
@@ -209,6 +228,7 @@
 	},
 
 "F":{
+	"dupl":"0",
 	"sigla":"F", 
 	"name":"Phugbrag Kanjur", 
 	"BDRC":"bdr:MW1KG13607", 
@@ -220,6 +240,7 @@
 	},
 
 "F2":{
+	"dupl":"0",
 	"sigla":"F", 
 	"name":"Phugbrag Kanjur", 
 	"BDRC":"-", 
@@ -231,6 +252,7 @@
 	},
 
 "Go":{
+	"dupl":"0",
 	"sigla":"Go", 
 	"name":"Gondhla Collection", 
 	"BDRC":"bdr:MW1PD128753", 
@@ -242,6 +264,7 @@
 	},
 
 "Go1":{
+	"dupl":"0",
 	"sigla":"Go", 
 	"name":"Gondhla Collection", 
 	"BDRC":"bdr:W2KG5016", 
@@ -253,6 +276,7 @@
 	},
 
 "Gt":{
+	"dupl":"0",
 	"sigla":"Gt", 
 	"name":"Gangteng Kanjur", 
 	"BDRC":"bdr:MWEAP039-1-1", 
@@ -264,6 +288,7 @@
 	},
 
 "H":{
+	"dupl":"0",
 	"sigla":"H", 
 	"name":"Lhasa Kanjur", 
 	"BDRC":"bdr:MW26071", 
@@ -275,6 +300,7 @@
 	},
 
 "Ha":{
+	"dupl":"0",
 	"sigla":"Ha", 
 	"name":"Hanle Collection", 
 	"BDRC":"bdr:MW1PD127348", 
@@ -286,6 +312,7 @@
 	},
 
 "He":{
+	"dupl":"0",
 	"sigla":"He", 
 	"name":"Hemis I Kanjur", 
 	"BDRC":"bdr:MW4CZ45313", 
@@ -297,6 +324,7 @@
 	},
 
 "Hg":{
+	"dupl":"0",
 	"sigla":"Hg", 
 	"name":"Hemis Golden Kanjur", 
 	"BDRC":"bdr:MW4CZ45315", 
@@ -308,6 +336,7 @@
 	},
 
 "Hi":{
+	"dupl":"0",
 	"sigla":"Hi", 
 	"name":"Hemis II Kanjur", 
 	"BDRC":"bdr:MW4CZ45314", 
@@ -319,6 +348,7 @@
 	},
 
 "Hu":{
+	"dupl":"0",
 	"sigla":"Hu", 
 	"name":"Hundar Collection", 
 	"BDRC":"-", 
@@ -330,39 +360,43 @@
 	},
 
 "J":{
+	"dupl":"0",
 	"sigla":"J", 
 	"name":"Lithang Kanjur", 
 	"BDRC":"bdr:MW4CZ7445", 
 	"abbreviated":"Lithang", 
-	"digitizedBy":"rKTs", 
+	"digitizedBy":"BDRC", 
 	"outline":"1", 
 	"integratedrKTs":"1", 
 	"location":""
 	},
 
 "J2":{
+	"dupl":"1",
 	"sigla":"J", 
 	"name":"Lithang Kanjur", 
 	"BDRC":"", 
 	"abbreviated":"lithang2", 
-	"digitizedBy":"Adarsha ?", 
-	"outline":"0", 
+	"digitizedBy":"rKTs", 
+	"outline":"1", 
 	"integratedrKTs":"0", 
 	"location":""
 	},
 
 "J3":{
+	"dupl":"1",
 	"sigla":"J", 
 	"name":"Lithang Kanjur", 
 	"BDRC":"bdr:MW4PD3142", 
 	"abbreviated":"Lithang3", 
-	"digitizedBy":"-", 
-	"outline":"0", 
+	"digitizedBy":"Adarsha", 
+	"outline":"1", 
 	"integratedrKTs":"0", 
 	"location":""
 	},
 
 "K":{
+	"dupl":"0",
 	"sigla":"K", 
 	"name":"Peking 1684/1692 Kanjur", 
 	"BDRC":"-", 
@@ -374,6 +408,7 @@
 	},
 
 "Kb":{
+	"dupl":"0",
 	"sigla":"Kb", 
 	"name":"Berlin Kanjur", 
 	"BDRC":"-", 
@@ -385,6 +420,7 @@
 	},
 
 "Kd":{
+	"dupl":"0",
 	"sigla":"Kd", 
 	"name":"Peking Dragon Kanjur", 
 	"BDRC":"-", 
@@ -396,6 +432,7 @@
 	},
 
 "Kq":{
+	"dupl":"0",
 	"sigla":"Kq", 
 	"name":"Peking 1737 Kanjur", 
 	"BDRC":"bdr:MW1PD96684", 
@@ -407,17 +444,19 @@
 	},
 
 "Kq2":{
+	"dupl":"1",
 	"sigla":"Kq", 
 	"name":"Peking 1737 Kanjur", 
 	"BDRC":"bdr:MW3CN1094", 
 	"abbreviated":"peking", 
 	"digitizedBy":"rKTs", 
-	"outline":"0", 
+	"outline":"1", 
 	"integratedrKTs":"0", 
 	"location":""
 	},
 
 "Ku":{
+	"dupl":"0",
 	"sigla":"Ku", 
 	"name":"Peking Ulaanbaatar Kanjur", 
 	"BDRC":"bdr:MW1KG26108", 
@@ -429,6 +468,7 @@
 	},
 
 "Kw":{
+	"dupl":"0",
 	"sigla":"Kw", 
 	"name":"Peking Wanli Supplement", 
 	"BDRC":"bdr:MWSBB_WKG", 
@@ -440,6 +480,7 @@
 	},
 
 "Ky":{
+	"dupl":"0",
 	"sigla":"Ky", 
 	"name":"Peking Yongle Kanjur", 
 	"BDRC":"-", 
@@ -451,6 +492,7 @@
 	},
 
 "L":{
+	"dupl":"0",
 	"sigla":"L", 
 	"name":"London Kanjur", 
 	"BDRC":"bdr:MW3CN981", 
@@ -462,6 +504,7 @@
 	},
 
 "Lg":{
+	"dupl":"0",
 	"sigla":"Lg", 
 	"name":"Glang dgon pa Collection", 
 	"BDRC":"bdr:MW2KG210299", 
@@ -473,6 +516,7 @@
 	},
 
 "Lt":{
+	"dupl":"0",
 	"sigla":"Lt", 
 	"name":"Longtso Kanjur", 
 	"BDRC":"-", 
@@ -484,6 +528,7 @@
 	},
 
 "Mg":{
+	"dupl":"0",
 	"sigla":"Mg", 
 	"name":"Mongar Kanjur", 
 	"BDRC":"-", 
@@ -495,6 +540,7 @@
 	},
 
 "Mt":{
+	"dupl":"0",
 	"sigla":"Mt", 
 	"name":"Matho Collection", 
 	"BDRC":"-", 
@@ -506,6 +552,7 @@
 	},
 
 "Mx":{
+	"dupl":"0",
 	"sigla":"Mx", 
 	"name":"Mustang single volume", 
 	"BDRC":"-", 
@@ -517,6 +564,7 @@
 	},
 
 "N":{
+	"dupl":"0",
 	"sigla":"N", 
 	"name":"Narthang Kanjur", 
 	"BDRC":"bdr:MW22703", 
@@ -528,28 +576,31 @@
 	},
 
 "N2":{
+	"dupl":"1",
 	"sigla":"N", 
 	"name":"Narthang Kanjur", 
 	"BDRC":"bdr:MW2KG5014", 
 	"abbreviated":"narthang2", 
 	"digitizedBy":"CIHTS", 
-	"outline":"0", 
+	"outline":"1", 
 	"integratedrKTs":"0", 
 	"location":""
 	},
 
 "N3":{
+	"dupl":"1",
 	"sigla":"N", 
 	"name":"Narthang Kanjur", 
 	"BDRC":"bdr:MW2KG210297", 
 	"abbreviated":"narthang3", 
 	"digitizedBy":"LTWA", 
-	"outline":"0", 
+	"outline":"1", 
 	"integratedrKTs":"0", 
 	"location":""
 	},
 
 "Ne":{
+	"dupl":"0",
 	"sigla":"Ne", 
 	"name":"Newark Kanjur", 
 	"BDRC":"bdr:MW3CN1317", 
@@ -561,6 +612,7 @@
 	},
 
 "Ng":{
+	"dupl":"0",
 	"sigla":"Ng", 
 	"name":"Namgyal I Collection", 
 	"BDRC":"-", 
@@ -572,6 +624,7 @@
 	},
 
 "Nk":{
+	"dupl":"0",
 	"sigla":"Nk", 
 	"name":"Nubra Kumik Collection", 
 	"BDRC":"-", 
@@ -583,6 +636,7 @@
 	},
 
 "Np":{
+	"dupl":"0",
 	"sigla":"Np", 
 	"name":"Neyphug Kanjur", 
 	"BDRC":"bdr:MWEAP310-2-1", 
@@ -594,6 +648,7 @@
 	},
 
 "Nr":{
+	"dupl":"0",
 	"sigla":"Nr", 
 	"name":"Neruk Collection", 
 	"BDRC":"-", 
@@ -605,6 +660,7 @@
 	},
 
 "Ns":{
+	"dupl":"0",
 	"sigla":"Ns", 
 	"name":"Nesar Collection", 
 	"BDRC":"-", 
@@ -616,6 +672,7 @@
 	},
 
 "Ny":{
+	"dupl":"0",
 	"sigla":"Ny", 
 	"name":"Namgyal II Collection", 
 	"BDRC":"-", 
@@ -627,6 +684,7 @@
 	},
 
 "O":{
+	"dupl":"0",
 	"sigla":"O", 
 	"name":"Tawang Kanjur", 
 	"BDRC":"bdr:MW3CN1328", 
@@ -638,6 +696,7 @@
 	},
 
 "Ok":{
+	"dupl":"0",
 	"sigla":"Ok", 
 	"name":"'on ke ru Collection", 
 	"BDRC":"-", 
@@ -649,6 +708,7 @@
 	},
 
 "Pa":{
+	"dupl":"0",
 	"sigla":"Pa", 
 	"name":"Padum Collection", 
 	"BDRC":"-", 
@@ -660,6 +720,7 @@
 	},
 
 "Ph":{
+	"dupl":"0",
 	"sigla":"Ph", 
 	"name":"Phukthar Collection", 
 	"BDRC":"", 
@@ -671,6 +732,7 @@
 	},
 
 "Pj":{
+	"dupl":"0",
 	"sigla":"Pj", 
 	"name":"Phajoding Ogmin Kanjur", 
 	"BDRC":"bdr:MWEAP570-6-1", 
@@ -682,6 +744,7 @@
 	},
 
 "Pt":{
+	"dupl":"0",
 	"sigla":"Pt", 
 	"name":"Pelliot Tibétains", 
 	"BDRC":"-", 
@@ -693,6 +756,7 @@
 	},
 
 "Py":{
+	"dupl":"0",
 	"sigla":"Py", 
 	"name":"Phyang Collection", 
 	"BDRC":"-", 
@@ -704,6 +768,7 @@
 	},
 
 "Pz":{
+	"dupl":"0",
 	"sigla":"Pz", 
 	"name":"Phajoding Khangzang Kanjur", 
 	"BDRC":"bdr:MWEAP570-7-1", 
@@ -715,6 +780,7 @@
 	},
 
 "R":{
+	"dupl":"0",
 	"sigla":"R", 
 	"name":"Ragya Kanjur", 
 	"BDRC":"bdr:MW2PD17098", 
@@ -726,6 +792,7 @@
 	},
 
 "Re":{
+	"dupl":"0",
 	"sigla":"Re", 
 	"name":"Reruk Collection", 
 	"BDRC":"-", 
@@ -737,6 +804,7 @@
 	},
 
 "S":{
+	"dupl":"0",
 	"sigla":"S", 
 	"name":"Stog Kanjur", 
 	"BDRC":"bdr:MW22083", 
@@ -748,6 +816,7 @@
 	},
 
 "Sb":{
+	"dupl":"0",
 	"sigla":"Sb", 
 	"name":"Skyurbuchan Collection", 
 	"BDRC":"-", 
@@ -759,6 +828,7 @@
 	},
 
 "Sd":{
+	"dupl":"0",
 	"sigla":"Sd", 
 	"name":"Stongde collection", 
 	"BDRC":"-", 
@@ -770,6 +840,7 @@
 	},
 
 "Sk":{
+	"dupl":"0",
 	"sigla":"Sk", 
 	"name":"Gser khang Collection", 
 	"BDRC":"-", 
@@ -781,6 +852,7 @@
 	},
 
 "Sl":{
+	"dupl":"0",
 	"sigla":"Sl", 
 	"name":"Saldang Collection", 
 	"BDRC":"-", 
@@ -792,6 +864,7 @@
 	},
 
 "Sm":{
+	"dupl":"0",
 	"sigla":"Sm", 
 	"name":"Semtokha Kanjur", 
 	"BDRC":"-", 
@@ -803,6 +876,7 @@
 	},
 
 "Sr":{
+	"dupl":"0",
 	"sigla":"Sr", 
 	"name":"Shel ri' dgon Collection", 
 	"BDRC":"-", 
@@ -814,6 +888,7 @@
 	},
 
 "St":{
+	"dupl":"0",
 	"sigla":"St", 
 	"name":"Stagrimo Collection", 
 	"BDRC":"-", 
@@ -825,6 +900,7 @@
 	},
 
 "T":{
+	"dupl":"0",
 	"sigla":"T", 
 	"name":"Tokyo Kanjur", 
 	"BDRC":"-", 
@@ -836,6 +912,7 @@
 	},
 
 "Ta":{
+	"dupl":"0",
 	"sigla":"Ta", 
 	"name":"Tabo Collection", 
 	"BDRC":"bdr:MW3CN895", 
@@ -847,6 +924,7 @@
 	},
 
 "Td":{
+	"dupl":"0",
 	"sigla":"Td", 
 	"name":"Thadrak Kanjur", 
 	"BDRC":"bdr:MWEAP310-1-1", 
@@ -858,6 +936,7 @@
 	},
 
 "Tg":{
+	"dupl":"0",
 	"sigla":"Tg", 
 	"name":"Tango Kanjur", 
 	"BDRC":"-", 
@@ -869,6 +948,7 @@
 	},
 
 "Th":{
+	"dupl":"0",
 	"sigla":"Th", 
 	"name":"Tholing Collection", 
 	"BDRC":"bdr:MW3CN965", 
@@ -880,6 +960,7 @@
 	},
 
 "Tk":{
+	"dupl":"0",
 	"sigla":"Tk", 
 	"name":"Tsugolskiy Datsan Kanjur", 
 	"BDRC":"-", 
@@ -891,6 +972,7 @@
 	},
 
 "Tl":{
+	"dupl":"0",
 	"sigla":"Tl", 
 	"name":"Talakha Kanjur", 
 	"BDRC":"-", 
@@ -902,6 +984,7 @@
 	},
 
 "Ts":{
+	"dupl":"0",
 	"sigla":"Ts", 
 	"name":"Tashichho Kanjur", 
 	"BDRC":"-", 
@@ -913,6 +996,7 @@
 	},
 
 "Ty":{
+	"dupl":"0",
 	"sigla":"Ty", 
 	"name":"Tashiyangtse Kanjur", 
 	"BDRC":"bdr:MW2KG209840", 
@@ -924,6 +1008,7 @@
 	},
 
 "U":{
+	"dupl":"0",
 	"sigla":"U", 
 	"name":"Urga Kanjur", 
 	"BDRC":"bdr:MW29468", 
@@ -935,6 +1020,7 @@
 	},
 
 "V":{
+	"dupl":"0",
 	"sigla":"V", 
 	"name":"Ulaanbaatar Kanjur", 
 	"BDRC":"bdr:MW1KG14700", 
@@ -946,6 +1032,7 @@
 	},
 
 "X":{
+	"dupl":"0",
 	"sigla":"X", 
 	"name":"Basgo Kanjur", 
 	"BDRC":"bdr:MW4CZ45303", 
@@ -957,6 +1044,7 @@
 	},
 
 "Xg":{
+	"dupl":"0",
 	"sigla":"Xg", 
 	"name":"Basgo Golden Kanjur", 
 	"BDRC":"-", 
@@ -968,6 +1056,7 @@
 	},
 
 "Z":{
+	"dupl":"0",
 	"sigla":"Z", 
 	"name":"Shey Kanjur", 
 	"BDRC":"bdr:MW1PD127393", 
@@ -979,6 +1068,7 @@
 	},
 
 "Zd":{
+	"dupl":"0",
 	"sigla":"Zd", 
 	"name":"Taktsang Zangdopelri Kanjur", 
 	"BDRC":"-", 
@@ -990,6 +1080,7 @@
 	},
 
 "Zl":{
+	"dupl":"0",
 	"sigla":"Zl", 
 	"name":"Zangla Collection", 
 	"BDRC":"-", 
