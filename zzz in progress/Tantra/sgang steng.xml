@@ -11,6 +11,10 @@ dzny = dz+ny
 ngh = ng+h
 ˆ = N
 ∂ = D
+† = T
+ndh = n+d+h
+ndr = n+d+r
+dh = d+h
 
 <item>
 <rktsg>103</rktsg>
@@ -27,7 +31,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>91b-94b</p></loc>
 <tib>kun byed rgyal po'i skabs sbyor</tib>
 <skttrans></skttrans>
-<coloph>kun byed rgyal po’i skabs sbyor lnga bcu rtsa bdun bshad pa rdzogs so</coloph>
+<coloph>kun byed rgyal po'i skabs sbyor lnga bcu rtsa bdun bshad pa rdzogs so</coloph>
 </item>
 
 <item>
@@ -45,14 +49,14 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>107a-124b</p></loc>
 <tib>kun byed rgyal po'i rgyud phyi ma'i phyi ma</tib>
 <skttrans></skttrans>
-<coloph>byang chub kyi sems kun byed rgyal po/ lta ba nam mkha’ ltar mtha’ dbus med pa’i rgyud/ nam mkha’ snying po mchog gi don/ gsang ba mchog gi mdo lung brgyad cu rtsa bzhi pa rdzogs so// // rgya gar gyi mkhan po dpal gyi seng ge dang/ dge slong bai ro tsa nas bsgyur cing zhus te gtan la phab pa’o</coloph>
+<coloph>byang chub kyi sems kun byed rgyal po/ lta ba nam mkha' ltar mtha' dbus med pa'i rgyud/ nam mkha' snying po mchog gi don/ gsang ba mchog gi mdo lung brgyad cu rtsa bzhi pa rdzogs so// // rgya gar gyi mkhan po dpal gyi seng ge dang/ dge slong bai ro tsa nas bsgyur cing zhus te gtan la phab pa'o</coloph>
 </item>
 
 <item>
 <rktsg>398</rktsg>
 <ref>Ggi001.005</ref>
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>124b-137b</p></loc>
-<tib>la zlo gsang ba'i 'khor lo zhes bya ba’i rgyud</tib>
+<tib>la zlo gsang ba'i 'khor lo zhes bya ba'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
 </item>
@@ -63,7 +67,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>137b-169a</p></loc>
 <tib>shes bya mtha' gcod kyi rgyud</tib>
 <skttrans></skttrans>
-<coloph>byang chub kyi sems shes bya mtha’ gcod kyi rgyud ces bya ba rdzogs so</coloph>
+<coloph>byang chub kyi sems shes bya mtha' gcod kyi rgyud ces bya ba rdzogs so</coloph>
 </item>
 
 <item>
@@ -72,7 +76,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>169a-178b</p></loc>
 <tib>byang chub kyi sems su 'dus pa'i mdo</tib>
 <skttrans></skttrans>
-<coloph>byang chub kyi sems kyi mdo dang ‘grel pa rdzogs so</coloph>
+<coloph>byang chub kyi sems kyi mdo dang 'grel pa rdzogs so</coloph>
 </item>
 
 <item>
@@ -89,7 +93,7 @@ ngh = ng+h
 <ref>Ggi001.009</ref>
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>182a-186a</p></loc>
 <tib>phun sum tshogs pa'i mdo dang 'grel pa</tib>
-<skttrans>ces phun sum tshogs pa’i mdo dang ‘grel pa rdzogs so</skttrans>
+<skttrans>ces phun sum tshogs pa'i mdo dang 'grel pa rdzogs so</skttrans>
 <coloph></coloph>
 </item>
 
@@ -108,7 +112,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>188b-193a</p></loc>
 <tib>khyad par 'phags pa'i mdo dang 'grel pa</tib>
 <skttrans></skttrans>
-<coloph>ces khyad par ‘phags pa’i mdo las/ don gyi ‘grel pa bstan pa ste/ khyad par ‘phags pa’i mdo rdzogs so// lnga pa’o</coloph>
+<coloph>ces khyad par 'phags pa'i mdo las/ don gyi 'grel pa bstan pa ste/ khyad par 'phags pa'i mdo rdzogs so// lnga pa'o</coloph>
 </item>
 
 <item>
@@ -117,7 +121,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>193a-202b</p></loc>
 <tib>gol sgrib ston pa'i mdo dang 'grel pa</tib>
 <skttrans></skttrans>
-<coloph>ces gol sgrib bstan pa’i mdo rdzogs so// drug pa’o</coloph>
+<coloph>ces gol sgrib bstan pa'i mdo rdzogs so// drug pa'o</coloph>
 </item>
 
 <item>
@@ -135,7 +139,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>216a-226a</p></loc>
 <tib>nges par ston pa'i mdo dang 'grel pa</tib>
 <skttrans></skttrans>
-<coloph>nges par ston pa’i mdo las/ man ngag brgyad pa dang don gyi ‘grel pa bstan pa rdzogs so// //brgyad pa’o</coloph>
+<coloph>nges par ston pa'i mdo las/ man ngag brgyad pa dang don gyi 'grel pa bstan pa rdzogs so// //brgyad pa'o</coloph>
 </item>
 
 <item>
@@ -162,7 +166,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>239b-241b</p></loc>
 <tib>don gyi 'grel pa lnga po</tib>
 <skttrans></skttrans>
-<coloph>yongs su gcod pa’i mdo dang don gyi ‘grel pa lnga pa’o// //rdzogs so</coloph>
+<coloph>yongs su gcod pa'i mdo dang don gyi 'grel pa lnga pa'o// //rdzogs so</coloph>
 </item>
 
 <item>
@@ -171,16 +175,16 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>241b-242b</p></loc>
 <tib>bstan pa yongs su gtad pa</tib>
 <skttrans></skttrans>
-<coloph>don gyi ‘grel pa lnga po ‘dis/ /ma bshad skyon yang lnga yod de// theg pa kun gyi ‘grel pa ‘bum sder bzhugs pa las/ byang chub sems kyi mdo ‘grel chen po bcu dang/ don gyi ‘grel pa lnga bstan pa rdzogs so</coloph>
+<coloph>don gyi 'grel pa lnga po 'dis/ /ma bshad skyon yang lnga yod de// theg pa kun gyi 'grel pa 'bum sder bzhugs pa las/ byang chub sems kyi mdo 'grel chen po bcu dang/ don gyi 'grel pa lnga bstan pa rdzogs so</coloph>
 </item>
 
 <item>
 <rktsg>132</rktsg>
 <ref>Ggi001.019</ref>
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>242b-254a</p></loc>
-<tib>bkra shis pa’i dpal</tib>
+<tib>bkra shis pa'i dpal</tib>
 <skttrans></skttrans>
-<coloph>bkra shis pa’i rgyud rdzogs so// //rgya gar gyi mkhan po shrI sing+ha dang/ bod kyi lo tsa ba bee ro tsa nas bsgyur ba’o</coloph>
+<coloph>bkra shis pa'i rgyud rdzogs so// //rgya gar gyi mkhan po shrI sing+ha dang/ bod kyi lo tsa ba bee ro tsa nas bsgyur ba'o</coloph>
 </item>
 
 <item>
@@ -189,7 +193,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>254a-259b</p></loc>
 <tib>rtsal chen gyi rgyud</tib>
 <skttrans></skttrans>
-<coloph>byang chub kyi sems thig pa ltar spyod/ dam tshig ting nge ‘dzin rtsal sprugs pa’i rtsal chen rdzogs so// //mtshan la rgya gar gyi skad smos pa bod du bsgyur ba/ byang chub kyi sems rtsal chen gyi rgyud ces bya ste spyir zhabs su bsgyur ro/ /rgya gar gyi mkhan po shrI sing+ha dang/ bod kyi lo tsa ba chen po bee ro tsa nas bsgyur ba’o</coloph>
+<coloph>byang chub kyi sems thig pa ltar spyod/ dam tshig ting nge 'dzin rtsal sprugs pa'i rtsal chen rdzogs so// //mtshan la rgya gar gyi skad smos pa bod du bsgyur ba/ byang chub kyi sems rtsal chen gyi rgyud ces bya ste spyir zhabs su bsgyur ro/ /rgya gar gyi mkhan po shrI sing+ha dang/ bod kyi lo tsa ba chen po bee ro tsa nas bsgyur ba'o</coloph>
 </item>
 
 <item>
@@ -198,7 +202,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>259b-270a</p></loc>
 <tib>khyung chen gyi rgyud</tib>
 <skttrans></skttrans>
-<coloph>rgyas pa chen po sha bu rgyas pa’i sgo bkag ste/ rgyas pa bag yangs bde bar gzhag pa’i khyung chen gyi rgyud rgyas pa chen po’i mtha’ rdzogs so// //rgya gar gyi mkhan po shrI sing+ha dang/ bod kyi lo tsa ba bee ro tsa nas bsgyur ba’o</coloph>
+<coloph>rgyas pa chen po sha bu rgyas pa'i sgo bkag ste/ rgyas pa bag yangs bde bar gzhag pa'i khyung chen gyi rgyud rgyas pa chen po'i mtha' rdzogs so// //rgya gar gyi mkhan po shrI sing+ha dang/ bod kyi lo tsa ba bee ro tsa nas bsgyur ba'o</coloph>
 </item>
 
 <item>
@@ -216,7 +220,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>274b-282a</p></loc>
 <tib>byang chub sems rdo rje 'od 'phro ba'i rgyud kyi rim pa zhes bya ba</tib>
 <skttrans></skttrans>
-<coloph>rgyud kyi rgyal po mi nub rgyal mtshan rje btsan dam pa rdo rje ‘od ‘phro ba’i rgyud rdzogs so</coloph>
+<coloph>rgyud kyi rgyal po mi nub rgyal mtshan rje btsan dam pa rdo rje 'od 'phro ba'i rgyud rdzogs so</coloph>
 </item>
 
 <item>
@@ -225,7 +229,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>282a-284b</p></loc>
 <tib>rdo rje sems dpa' nam mkha' che rgyas pa'i yi ge med pa'i rgyud</tib>
 <skttrans></skttrans>
-<coloph>bod kyi dge slong bee ro tsa na dang/ rgya gar gyi mkhan po dznyå na gar bhas bsgyur cing zhus te gtan la phab pa’o</coloph>
+<coloph>bod kyi dge slong bee ro tsa na dang/ rgya gar gyi mkhan po dznyA na gar bhas bsgyur cing zhus te gtan la phab pa'o</coloph>
 </item>
 
 <item>
@@ -234,7 +238,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>284b-285a</p></loc>
 <tib>rje btsan dam pa</tib>
 <skttrans></skttrans>
-<coloph>lung dang man nag gi don yi ge nyung yang don rgya chen bsdus te/ ma lus ‘grel cing theg pa mtha’ dag gi don bkod pa/ byang chub kyi sems bsam gtan nges pa’i rgyal po/ rje btsan dam pa rdzogs so</coloph>
+<coloph>lung dang man nag gi don yi ge nyung yang don rgya chen bsdus te/ ma lus 'grel cing theg pa mtha' dag gi don bkod pa/ byang chub kyi sems bsam gtan nges pa'i rgyal po/ rje btsan dam pa rdzogs so</coloph>
 </item>
 
 <item>
@@ -243,7 +247,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>285a-287a</p></loc>
 <tib>mi 'gyur ba'i thig le tig</tib>
 <skttrans></skttrans>
-<coloph>byang chub kyi sems mi ‘gyur ba’i thig le tig rdzogs so</coloph>
+<coloph>byang chub kyi sems mi 'gyur ba'i thig le tig rdzogs so</coloph>
 </item>
 
 <item>
@@ -252,7 +256,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>287a-288b</p></loc>
 <tib>srog gi 'khor lo</tib>
 <skttrans></skttrans>
-<coloph>srog gi ‘khor lo rdzogs so</coloph>
+<coloph>srog gi 'khor lo rdzogs so</coloph>
 </item>
 
 <item>
@@ -261,7 +265,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>288b-290b</p></loc>
 <tib>nam mkha'i rgyal po</tib>
 <skttrans></skttrans>
-<coloph>byang chub sems nam mkha’i rgyal po rdzogs so</coloph>
+<coloph>byang chub sems nam mkha'i rgyal po rdzogs so</coloph>
 </item>
 
 <item>
@@ -279,7 +283,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>296a-297b</p></loc>
 <tib>bde 'jam</tib>
 <skttrans></skttrans>
-<coloph>klong gi dkyil ‘khor chen po bde ‘jam rdzogs so</coloph>
+<coloph>klong gi dkyil 'khor chen po bde 'jam rdzogs so</coloph>
 </item>
 
 <item>
@@ -297,7 +301,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>298b-299b</p></loc>
 <tib>kun 'dus</tib>
 <skttrans></skttrans>
-<coloph>byang chub kyi sems kun ‘dus rdzogs so</coloph>
+<coloph>byang chub kyi sems kun 'dus rdzogs so</coloph>
 </item>
 
 <item>
@@ -306,16 +310,16 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>299b-300b</p></loc>
 <tib>byang chub kyi sems gnam spar 'debs</tib>
 <skttrans></skttrans>
-<coloph>byang chub sems mi ‘gyur ba’i rdo rje thug rje chen po’i ‘od/ gnam spar ‘debs rdzogs so</coloph>
+<coloph>byang chub sems mi 'gyur ba'i rdo rje thug rje chen po'i 'od/ gnam spar 'debs rdzogs so</coloph>
 </item>
 
 <item>
 <rktsg>959</rktsg>
 <ref>Ggi001.034</ref>
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>300b-303b</p></loc>
-<tib>byang chub kyi sems bde ba chen po gsal bar byed pa’i myu gu</tib>
+<tib>byang chub kyi sems bde ba chen po gsal bar byed pa'i myu gu</tib>
 <skttrans></skttrans>
-<coloph>byang chub kyi sems bde ba chen po’i myu gu rdzogs so</coloph>
+<coloph>byang chub kyi sems bde ba chen po'i myu gu rdzogs so</coloph>
 </item>
 
 <item>
@@ -342,7 +346,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>304b-315b</p></loc>
 <tib>byang chub sems bsgom pa'i rgyud</tib>
 <skttrans></skttrans>
-<coloph>byang chub kyi sems sgom pa’i rgyud las/ theg pa’i snying po rdzogs so</coloph>
+<coloph>byang chub kyi sems sgom pa'i rgyud las/ theg pa'i snying po rdzogs so</coloph>
 </item>
 
 <item>
@@ -351,25 +355,25 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>315b-322a</p></loc>
 <tib>chos thams cad byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa nam mkha' dang mnyam pa'i yi ge med pa'i rgyud</tib>
 <skttrans></skttrans>
-<coloph>chos thams cad nam mkha’i mtha’ dang mnyam pa yi ge med pa’i rgyud/ bcom ldan ‘das kun rig rgyal pos gsung pa rdzogs so// //rgya gar gyi mkhan po shr¥ singha dang/ bod kyi lo tsa ba bee ro tsa nas bsgyur ba’o</coloph>
+<coloph>chos thams cad nam mkha'i mtha' dang mnyam pa yi ge med pa'i rgyud/ bcom ldan 'das kun rig rgyal pos gsung pa rdzogs so// //rgya gar gyi mkhan po shrI singha dang/ bod kyi lo tsa ba bee ro tsa nas bsgyur ba'o</coloph>
 </item>
 
 <item>
 <rktsg>106</rktsg>
 <ref>Ggi001.039</ref>
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>322b-331b</p></loc>
-<tib>chos thams cad byang chub kyi sems rdzogs pa chen po ‘khor ba rtsad nas gcod pa rgya mtsho dang mnyam pa rnyog ma med pa'i rgyud</tib>
+<tib>chos thams cad byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa rgya mtsho dang mnyam pa rnyog ma med pa'i rgyud</tib>
 <skttrans></skttrans>
-<coloph>chos thams cad rgya mtsho mtha’ dang mnyam pa rnyog ma med pa’i rgyud las/ bcom ldan ‘das kun rig rgyal pos gsung pa rdzogs so// //rgya gar gyi mkhan po shr¥ singha dang/ bod kyi lo tsa ba bee ro tsa nas bsgyur ba’o</coloph>
+<coloph>chos thams cad rgya mtsho mtha' dang mnyam pa rnyog ma med pa'i rgyud las/ bcom ldan 'das kun rig rgyal pos gsung pa rdzogs so// //rgya gar gyi mkhan po shrI singha dang/ bod kyi lo tsa ba bee ro tsa nas bsgyur ba'o</coloph>
 </item>
 
 <item>
 <rktsg>107</rktsg>
 <ref>Ggi001.040</ref>
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>331b-338b</p></loc>
-<tib>chos thams cad byang chub kyi sems rdzogs pa chen po ‘khor ba rtsad nas gcod pa nyi zla dang mnyam pa dri ma med pa'i rgyud</tib>
+<tib>chos thams cad byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa nyi zla dang mnyam pa dri ma med pa'i rgyud</tib>
 <skttrans></skttrans>
-<coloph>chos thams cad rig pa nyi zla mtha’ dang mnyam pa dri ma med pa’i rgyud/ bcom ldan ‘das kun rig rgyal pos gsungs pa rdzogs so// //rgya gar gyi mkhan po shr¥ singha dang/ bod kyi lo tsa ba bee ro tsa nas bsgyur ba’o</coloph>
+<coloph>chos thams cad rig pa nyi zla mtha' dang mnyam pa dri ma med pa'i rgyud/ bcom ldan 'das kun rig rgyal pos gsungs pa rdzogs so// //rgya gar gyi mkhan po shrI singha dang/ bod kyi lo tsa ba bee ro tsa nas bsgyur ba'o</coloph>
 </item>
 
 <item>
@@ -378,7 +382,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>338b-346b</p></loc>
 <tib>chos thams cad byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa rin po che dang mnyam pa skye ba med pa'i rgyud</tib>
 <skttrans></skttrans>
-<coloph>chos thams cad rin po che dang mnyam pa skye ba med pa’i rgyud/ bcom ldan ‘das kun rig rgyal pos gsungs pa rdzogs so// //rgya gar gyi mkhan po shr¥ singha dang/ bod kyi lo tsa ba bee ro tsa nas bsgyur ba’o// //snga ‘gyur lnga dang phyir ‘gyur bcu gsum gyi rgyud la gnyi ba’i ban chub nyi ma rdo rjes byas pa</coloph>
+<coloph>chos thams cad rin po che dang mnyam pa skye ba med pa'i rgyud/ bcom ldan 'das kun rig rgyal pos gsungs pa rdzogs so// //rgya gar gyi mkhan po shrI singha dang/ bod kyi lo tsa ba bee ro tsa nas bsgyur ba'o// //snga 'gyur lnga dang phyir 'gyur bcu gsum gyi rgyud la gnyi ba'i ban chub nyi ma rdo rjes byas pa</coloph>
 </item>
 
 <item>
@@ -387,7 +391,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>346b-372b</p></loc>
 <tib>ye shes gsang ba'i rgyud</tib>
 <skttrans></skttrans>
-<coloph>ye shes gsang ba’i rgyud chen po/ theg pa yang rtse’i don dgos don man ngag tu phyug ba shin tu gang/ mi spel lo/ /rdzogs so// //sandhi mahå dz+nyag+h+yahayanamatan+t+ra/ rgya gar gyi mkhan po shr¥ singha dang/ bod kyi lo tsha ba pa gor bee ro tsa nas/ yul dha ho na’i ‘du khang du bsgyur cing zhus te gtan la phab pa’o</coloph>
+<coloph>ye shes gsang ba'i rgyud chen po/ theg pa yang rtse'i don dgos don man ngag tu phyug ba shin tu gang/ mi spel lo/ /rdzogs so// //sandhi mahA dz+nyag+h+yahayanamatan+t+ra/ rgya gar gyi mkhan po shrI singha dang/ bod kyi lo tsha ba pa gor bee ro tsa nas/ yul dha ho na'i 'du khang du bsgyur cing zhus te gtan la phab pa'o</coloph>
 </item>
 
 <item>
@@ -396,7 +400,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>372b-384b</p></loc>
 <tib>ye shes rdzogs pa'i rgyud</tib>
 <skttrans></skttrans>
-<coloph>rin chen ‘khor lo ye shes rdzogs pa’i rgyud don man ngag tu bya ba mthar thug pa rdzogs so// //rgya gar gyi mkhan po shr¥ singha dang/ bod kyi lo tsa ba bee ro tsa nas dha he na’i ‘du khang du bsgyur ba’o</coloph>
+<coloph>rin chen 'khor lo ye shes rdzogs pa'i rgyud don man ngag tu bya ba mthar thug pa rdzogs so// //rgya gar gyi mkhan po shrI singha dang/ bod kyi lo tsa ba bee ro tsa nas dha he na'i 'du khang du bsgyur ba'o</coloph>
 </item>
 
 <item>
@@ -405,7 +409,7 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>384b-396b</p></loc>
 <tib>ye shes gsang ba sgron ma'i rgyud</tib>
 <skttrans></skttrans>
-<coloph>ye shes gsang ba sgron ma rin po che’i rgyud ces bya ba rdzogs so// //paˆ∂ita shr¥ singha dang/ zhu chen gyi lo tsa ba bee ro tsa nas man ngag gi rgyud gtan la phab pa’o</coloph>
+<coloph>ye shes gsang ba sgron ma rin po che'i rgyud ces bya ba rdzogs so// //paˆ∂ita shrI singha dang/ zhu chen gyi lo tsa ba bee ro tsa nas man ngag gi rgyud gtan la phab pa'o</coloph>
 </item>
 
 <item>
@@ -414,49 +418,49 @@ ngh = ng+h
 <loc><set>MWxxx</set><vol>ka</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>396b-409a</p></loc>
 <tib>rin po che 'phags lam bkod pa'i rgyud</tib>
 <skttrans></skttrans>
-<coloph>rin po che ‘phags lam bkod pa’i rgyud ces bya ba rdzogs so// //rgya gar gyi paˆ∂ita shr¥ singha dang/ bod kyi lo tsa ba chen po bee ro tsa nas bsgyur cing gtan la phab pa’o// /’di khams lugs kyi rgyud gsang ba sgron ma’i gzhug la bris shig</coloph>
+<coloph>rin po che 'phags lam bkod pa'i rgyud ces bya ba rdzogs so// //rgya gar gyi paˆ∂ita shrI singha dang/ bod kyi lo tsa ba chen po bee ro tsa nas bsgyur cing gtan la phab pa'o// /'di khams lugs kyi rgyud gsang ba sgron ma'i gzhug la bris shig</coloph>
 </item>
 
 <item>
 <rktsg>96</rktsg>
 <ref>Ggi002.001</ref>
-<loc><set>MWxxx</set><vol>kha</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>1b-128a</p></loc>
+<loc><set>MWxxx</set><vol>kha</vol><voln>2</voln><json>Ixxx</json><psection>1</psection><p>1b-128a</p></loc>
 <tib>rdo rje sems dpa' nam mkha'i mtha' dang mnyam pa'i rgyud chen po</tib>
 <skttrans></skttrans>
-<coloph>’das pa dang/ ma byon pa dang/ da ltar phyogs bcu dus bzhi’i de bzhin gshegs pa’i dgongs pa chos thams cad nam mkha’i ngo bo/ nam mkha’i mtha’ dang mnyam par sbyor ba zhes bya ba’i rgyud chen po rdzogs so// //rgya gar gyi mkhan po shr¥ shingha dang/ dge slong bee ro tsa nas bsgyur cing gtan la phab pa’o// //zhung tshad bam po bcu gcig pa’o</coloph>
+<coloph>'das pa dang/ ma byon pa dang/ da ltar phyogs bcu dus bzhi'i de bzhin gshegs pa'i dgongs pa chos thams cad nam mkha'i ngo bo/ nam mkha'i mtha' dang mnyam par sbyor ba zhes bya ba'i rgyud chen po rdzogs so// //rgya gar gyi mkhan po shrI shingha dang/ dge slong bee ro tsa nas bsgyur cing gtan la phab pa'o// //zhung tshad bam po bcu gcig pa'o</coloph>
 </item>
 
 <item>
 <rktsg>96</rktsg>
 <ref>Ggi002.002</ref>
-<loc><set>MWxxx</set><vol>kha</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>128a-192b</p></loc>
+<loc><set>MWxxx</set><vol>kha</vol><voln>2</voln><json>Ixxx</json><psection>1</psection><p>128a-192b</p></loc>
 <tib>rdo rje sems dpa' nam mkha'i mtha' dang mnyam pa'i rgyud chen po</tib>
 <skttrans></skttrans>
-<coloph>rgyud kyi rgyal po rdo rje sems dpa’ nam mkha’ mtha’ dang mnyam par sbyor ba zhes bya ba/ byang chub kyi sems rdzogs pa chen po’i rgyud rdzogs so/ /kha sa månta chen po rdzogs so// //rgya gar gyi mkhan po shr¥ singha dang/ bod kyi dge slong bee ro tsa nas dha he na’i ‘du khang du bsgyur ro</coloph>
+<coloph>rgyud kyi rgyal po rdo rje sems dpa' nam mkha' mtha' dang mnyam par sbyor ba zhes bya ba/ byang chub kyi sems rdzogs pa chen po'i rgyud rdzogs so/ /kha sa mAnta chen po rdzogs so// //rgya gar gyi mkhan po shrI singha dang/ bod kyi dge slong bee ro tsa nas dha he na'i 'du khang du bsgyur ro</coloph>
 </item>
 
 <item>
 <rktsg>134</rktsg>
 <ref>Ggi002.003</ref>
-<loc><set>MWxxx</set><vol>kha</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>192b-204b</p></loc>
+<loc><set>MWxxx</set><vol>kha</vol><voln>2</voln><json>Ixxx</json><psection>1</psection><p>192b-204b</p></loc>
 <tib>rdo rje sems dpa' nam mkha' che gsang ba'i snying po rnal ma don gyi rgyud</tib>
 <skttrans></skttrans>
-<coloph>rdo rje sems dpa’ nam mkha’ che snying po rnal ma don gyi rgyud rdzogs so</coloph>
+<coloph>rdo rje sems dpa' nam mkha' che snying po rnal ma don gyi rgyud rdzogs so</coloph>
 </item>
 
 <item>
 <rktsg>981</rktsg>
 <ref>Ggi002.004</ref>
-<loc><set>MWxxx</set><vol>kha</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>204b-243b</p></loc>
+<loc><set>MWxxx</set><vol>kha</vol><voln>2</voln><json>Ixxx</json><psection>1</psection><p>204b-243b</p></loc>
 <tib>rdo rje sems dpa' nam mkha' che kun tu bzang po gsang ba snying po'i rgyud</tib>
 <skttrans></skttrans>
-<coloph>rgya gar gyi mkhan po shr¥ singha dang/ bod kyi lo tsa ba bee ro tsa nas bsgyur ba’o</coloph>
+<coloph>rgya gar gyi mkhan po shrI singha dang/ bod kyi lo tsa ba bee ro tsa nas bsgyur ba'o</coloph>
 </item>
 
 <item>
 <rktsg>962</rktsg>
 <ref>Ggi002.005</ref>
-<loc><set>MWxxx</set><vol>kha</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>243b-257a</p></loc>
+<loc><set>MWxxx</set><vol>kha</vol><voln>2</voln><json>Ixxx</json><psection>1</psection><p>243b-257a</p></loc>
 <tib>rdo je sems dpa' nam mkha' che bram ze rgyas pa'i rgyud</tib>
 <skttrans></skttrans>
 <coloph>bram ze rgyas pa rdzogs so</coloph>
@@ -465,7 +469,7 @@ ngh = ng+h
 <item>
 <rktsg>112</rktsg>
 <ref>Ggi002.006</ref>
-<loc><set>MWxxx</set><vol>kha</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>257a-273a</p></loc>
+<loc><set>MWxxx</set><vol>kha</vol><voln>2</voln><json>Ixxx</json><psection>1</psection><p>257a-273a</p></loc>
 <tib>rdo rje sems dpa' nam mkha' che rgyas pa zhes bya ba rnal 'byor pa'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -474,61 +478,61 @@ ngh = ng+h
 <item>
 <rktsg>123</rktsg>
 <ref>Ggi002.007</ref>
-<loc><set>MWxxx</set><vol>kha</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>273a-295b</p></loc>
+<loc><set>MWxxx</set><vol>kha</vol><voln>2</voln><json>Ixxx</json><psection>1</psection><p>273a-295b</p></loc>
 <tib>rdo rje sems dpa' nam mkha' che rgyas pa zhes bya ba rnal 'byor ma'i rgyud</tib>
 <skttrans></skttrans>
-<coloph>de bzhin gshegs pa thams cad kyi rang bzhin nam mkha’ che rgyas pa zhes bya ba ste/ man ngag gi snying po zhes bya ba rnal ‘byor ma’i rgyud/ rdzogs pa’i yang rdzogs pa/ zab mo’i yang zab mo/ shin tu rnal ‘byor gyi don mthar thug pa nam mkha’ che’i rgyud rdzogs so// //rgya gar gyi mkhan po dznyå na garbha dang/ bod kyi dge slong bee ro tsa nas bsgyur cing gtan la phab pa/ phyis skad gsar bcad kyis kyang bcos pa’o</coloph>
+<coloph>de bzhin gshegs pa thams cad kyi rang bzhin nam mkha' che rgyas pa zhes bya ba ste/ man ngag gi snying po zhes bya ba rnal 'byor ma'i rgyud/ rdzogs pa'i yang rdzogs pa/ zab mo'i yang zab mo/ shin tu rnal 'byor gyi don mthar thug pa nam mkha' che'i rgyud rdzogs so// //rgya gar gyi mkhan po dznyA na garbha dang/ bod kyi dge slong bee ro tsa nas bsgyur cing gtan la phab pa/ phyis skad gsar bcad kyis kyang bcos pa'o</coloph>
 </item>
 
 <item>
 <rktsg>422</rktsg>
 <ref>Ggi002.008</ref>
-<loc><set>MWxxx</set><vol>kha</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>295b-299b</p></loc>
+<loc><set>MWxxx</set><vol>kha</vol><voln>2</voln><json>Ixxx</json><psection>1</psection><p>295b-299b</p></loc>
 <tib>byang chub sems bsgom pa yi ge med pa'i rgyud</tib>
 <skttrans></skttrans>
-<coloph>byang chub kyi sems bsgom pa yi ge med pa’i rgyud ces bya ba/ man ngag gi snying po don dam pa’i don dam pa las/ thams cad yi ge med par gyur ba’i skabs shin tu brtag dka’ ba’i don rdzogs so// //rgya gar gyi mkhan po shr¥ shingha dang/ dznyå na gar+b+ha zer ba ‘dug/ bod kyi lo tsa ba dge slong bee ro tsa nas bsgyur ba’o</coloph>
+<coloph>byang chub kyi sems bsgom pa yi ge med pa'i rgyud ces bya ba/ man ngag gi snying po don dam pa'i don dam pa las/ thams cad yi ge med par gyur ba'i skabs shin tu brtag dka' ba'i don rdzogs so// //rgya gar gyi mkhan po shrI shingha dang/ dznyA na gar+b+ha zer ba 'dug/ bod kyi lo tsa ba dge slong bee ro tsa nas bsgyur ba'o</coloph>
 </item>
 
 <item>
 <rktsg>131</rktsg>
 <ref>Ggi002.009</ref>
-<loc><set>MWxxx</set><vol>kha</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>299b-316a</p></loc>
+<loc><set>MWxxx</set><vol>kha</vol><voln>2</voln><json>Ixxx</json><psection>1</psection><p>299b-316a</p></loc>
 <tib>byang chub kyi sems rmad du byung ba'i rgyud</tib>
 <skttrans></skttrans>
-<coloph>rgyud kyi rgyal po chos thams cad kyi rmad du byung ba rdzogs so// //byang chub kyi sems rmad du byung ba phyi ma ta ma nyid dang gsum bzhugs pa las/ zab mo pu ti’i lha khang du bu gnyis lus so/ slob dpon buddha kuptas snums par gzheng nas/ lan gcig gzigs pas/ gnod sbyin kha rtsal gyi ‘gram du thal lcag gcig brgyab nas brgyal bar gyur to/ brgyal sangs pa dang/ srin po lta bu’i tshul du ‘dug pas smras pa/ gnas khang brgyal bar gyur pa ‘di nyid kyi/ rgyal po me ‘od khyod kyi me khyer ro/ gal te khyer na khyod nyid gsad par bya/ zhes smras pas/ bred nas sdangs nas/ ma ni gong du spyan gzhan zhig tu drangs/ bu gnyis der lus so/ gang du de nyid rnam par ‘grel ba las/ dgos don gsal tshad don la ‘char ba ni/ ma bu gsum nas drangs gtan la phab/ phyi nas blo’i zer la bskyod nas bya bzod na/ ‘phags thugs ‘gal dang ‘phral du gnod sbyin mos/ bar chad byed phyir blo’i gzer la bskyod/ las stod mkhas pa mgon po la/ /myang stod lce nag bdud rtsis zhus</coloph>
+<coloph>rgyud kyi rgyal po chos thams cad kyi rmad du byung ba rdzogs so// //byang chub kyi sems rmad du byung ba phyi ma ta ma nyid dang gsum bzhugs pa las/ zab mo pu ti'i lha khang du bu gnyis lus so/ slob dpon buddha kuptas snums par gzheng nas/ lan gcig gzigs pas/ gnod sbyin kha rtsal gyi 'gram du thal lcag gcig brgyab nas brgyal bar gyur to/ brgyal sangs pa dang/ srin po lta bu'i tshul du 'dug pas smras pa/ gnas khang brgyal bar gyur pa 'di nyid kyi/ rgyal po me 'od khyod kyi me khyer ro/ gal te khyer na khyod nyid gsad par bya/ zhes smras pas/ bred nas sdangs nas/ ma ni gong du spyan gzhan zhig tu drangs/ bu gnyis der lus so/ gang du de nyid rnam par 'grel ba las/ dgos don gsal tshad don la 'char ba ni/ ma bu gsum nas drangs gtan la phab/ phyi nas blo'i zer la bskyod nas bya bzod na/ 'phags thugs 'gal dang 'phral du gnod sbyin mos/ bar chad byed phyir blo'i gzer la bskyod/ las stod mkhas pa mgon po la/ /myang stod lce nag bdud rtsis zhus</coloph>
 </item>
 
 <item>
 <rktsg>402</rktsg>
 <ref>Ggi002.010</ref>
-<loc><set>MWxxx</set><vol>kha</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>316a-352a</p></loc>
+<loc><set>MWxxx</set><vol>kha</vol><voln>2</voln><json>Ixxx</json><psection>1</psection><p>316a-352a</p></loc>
 <tib>bde ba chen po byang chub kyi sems rmad du byung ba'i le'u</tib>
 <skttrans></skttrans>
-<coloph>rgya gar gyi mkhan po shr¥ singha dang/ bod kyi lo tsa ba bee ro tsa nas bsgyur ba’o</coloph>
+<coloph>rgya gar gyi mkhan po shrI singha dang/ bod kyi lo tsa ba bee ro tsa nas bsgyur ba'o</coloph>
 </item>
 
 <item>
 <rktsg>130</rktsg>
 <ref>Ggi002.011</ref>
-<loc><set>MWxxx</set><vol>kha</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>352a-383b</p></loc>
+<loc><set>MWxxx</set><vol>kha</vol><voln>2</voln><json>Ixxx</json><psection>1</psection><p>352a-383b</p></loc>
 <tib>byang chub kyi sems rmad du byung ba/ byang chub sems rmad du byung ba'i le'u</tib>
 <skttrans></skttrans>
-<coloph>rmad du byung ba rdzogs so// //rgya gar gyi mkhan po bi ma la mi tra dang/ lo tsa ba gnyags dznyå na ku (ma) ras bsgyur nas gtan la phab pa’o// shr¥ singha dang/ bee ro tsa nas sngar yang bsgyur</coloph>
+<coloph>rmad du byung ba rdzogs so// //rgya gar gyi mkhan po bi ma la mi tra dang/ lo tsa ba gnyags dznyA na ku (ma) ras bsgyur nas gtan la phab pa'o// shrI singha dang/ bee ro tsa nas sngar yang bsgyur</coloph>
 </item>
 
 <item>
 <rktsg>98</rktsg>
 <ref>Ggi002.012</ref>
-<loc><set>MWxxx</set><vol>kha</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>383b-390a</p></loc>
+<loc><set>MWxxx</set><vol>kha</vol><voln>2</voln><json>Ixxx</json><psection>1</psection><p>383b-390a</p></loc>
 <tib>rin po che 'khor lo zhes bya ba'i rgyud</tib>
 <skttrans></skttrans>
-<coloph>rin po che ‘khor lo’i rgyud rdzogs so</coloph>
+<coloph>rin po che 'khor lo'i rgyud rdzogs so</coloph>
 </item>
 
 <item>
 <rktsg>30</rktsg>
 <ref>Ggi002.013</ref>
-<loc><set>MWxxx</set><vol>kha</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>390a-391a</p></loc>
+<loc><set>MWxxx</set><vol>kha</vol><voln>2</voln><json>Ixxx</json><psection>1</psection><p>390a-391a</p></loc>
 <tib>ye shes 'khor lo'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -537,82 +541,1154 @@ ngh = ng+h
 <item>
 <rktsg>423</rktsg>
 <ref>Ggi003.001</ref>
-<loc><set>MWxxx</set><vol>ga</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>1b-17a</p></loc>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>1b-17a</p></loc>
 <tib>rdzogs pa chen po ye shes gsang ba'i rgyud</tib>
 <skttrans></skttrans>
-<coloph>rgya gar dga’ rab rdo rjes/ bram ze bde mchog la/ bde ldan gyi yang thog tu rin po che gser gyi glegs bam la bee dËrya zhun mas bris pa’i bla dpe gnang ste/ gdung rabs lngar bla dpe las mi bzhugs so/ /rdzogs pa chen po ye shes gsang ba’i rgyud rdzogs so// //bu la gtad do pha yi btsas/ snod med rnam la shor ra re/ /rdzogs pa chen po klong dgu bam po ‘bum sde las ‘di las zab ma mi bzhugs so/ /rdo rje mkha’ ‘gros srungs shig/ /sa ma ya/ rgya gar gyi mkhan po sha ri sing ha pra ba ta dang/ bod kyi lo tsa ba å tsa rya bee ro tsa nas bsgyur cing gtan la phab pa’o</coloph>
+<coloph>rgya gar dga' rab rdo rjes/ bram ze bde mchog la/ bde ldan gyi yang thog tu rin po che gser gyi glegs bam la bee dËrya zhun mas bris pa'i bla dpe gnang ste/ gdung rabs lngar bla dpe las mi bzhugs so/ /rdzogs pa chen po ye shes gsang ba'i rgyud rdzogs so// //bu la gtad do pha yi btsas/ snod med rnam la shor ra re/ /rdzogs pa chen po klong dgu bam po 'bum sde las 'di las zab ma mi bzhugs so/ /rdo rje mkha' 'gros srungs shig/ /sa ma ya/ rgya gar gyi mkhan po sha ri sing ha pra ba ta dang/ bod kyi lo tsa ba A tsa rya bee ro tsa nas bsgyur cing gtan la phab pa'o</coloph>
 </item>
 
 <item>
 <rktsg>424</rktsg>
 <ref>Ggi003.002</ref>
-<loc><set>MWxxx</set><vol>ga</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>17a-37a</p></loc>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>17a-37a</p></loc>
 <tib>byang chub kyi sems rdzogs pa chen po ye shes gsang ba bshad pa'i rgyud gsal ba mtha' dang mnyams pa</tib>
 <skttrans></skttrans>
-<coloph>gsang ba gsal ba mtha’ dang mnyam pa’i rgyud ces bya ba/ bcom ldan ‘das phyag na rdo rjes gsungs pa rdzogs so</coloph>
+<coloph>gsang ba gsal ba mtha' dang mnyam pa'i rgyud ces bya ba/ bcom ldan 'das phyag na rdo rjes gsungs pa rdzogs so</coloph>
 </item>
 
 <item>
 <rktsg>425</rktsg>
 <ref>Ggi003.003</ref>
-<loc><set>MWxxx</set><vol>ga</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>37a-52b</p></loc>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>37a-52b</p></loc>
 <tib>rdo rje sems dpa' nam mkha' che rtsa ba'i rgyud skye ba med pa/</tib>
 <skttrans></skttrans>
-<coloph>lung rtsa ba’i rgyud rje’u’i don du bstan pa yin/ /rdzogs so</coloph>
+<coloph>lung rtsa ba'i rgyud rje'u'i don du bstan pa yin/ /rdzogs so</coloph>
 </item>
 
 <item>
 <rktsg>426</rktsg>
 <ref>Ggi003.004</ref>
-<loc><set>MWxxx</set><vol>ga</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>52b-73a</p></loc>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>52b-73a</p></loc>
 <tib>rdo rje sems dpa' nam mkha' che rgyal po rgyas pa'i rgyud</tib>
 <skttrans></skttrans>
-<coloph>rgyal po rgyas rgyud snying por gyur pa’o// rdzogs so</coloph>
+<coloph>rgyal po rgyas rgyud snying por gyur pa'o// rdzogs so</coloph>
 </item>
 
 <item>
 <rktsg>427</rktsg>
 <ref>Ggi003.005</ref>
-<loc><set>MWxxx</set><vol>ga</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>73a-84b</p></loc>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>73a-84b</p></loc>
 <tib>rdo rje sems dpa' nam mkha' che'i rgyud</tib>
 <skttrans></skttrans>
-<coloph>rdo rje sems dpa’ nam mkha’ che’i rgyud rdzogs so</coloph>
+<coloph>rdo rje sems dpa' nam mkha' che'i rgyud rdzogs so</coloph>
 </item>
 
 <item>
 <rktsg>428</rktsg>
 <ref>Ggi003.006</ref>
-<loc><set>MWxxx</set><vol>ga</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>84b-157a</p></loc>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>84b-157a</p></loc>
 <tib>byang chub kyi sems rdzogs pa chen po mkha' mnyam klong gi rgyud kyi rgyal po</tib>
 <skttrans></skttrans>
-<coloph>byang chub kyi sems rdzogs pa chen po/ rdo rje sems dpa mkha’ mnyam klong gi rgyud ces bya ba rdzogs so// //’da’ he na yi ‘du khang du/ /sprul pa’i sku shr¥ sing ha dang/ /dge slong bee ro tsa na yis/ /rgyud ‘di legs par bsgyur byas pas/ /mtha’ yas sems can thams cad kun/ /rang grol bde ba thob par shog/ /rgyud kyi rgyal po chen po mkha’ mnyam klong gi rgyud ‘di/ rgyud kyi man ngag yin te/ kun la med pas gsang bar bya’o/ /sa brgyad pa’i byang chub sems dpa’ las ‘phro skal bar ldan la gnas so/ /i ti</coloph>
+<coloph>byang chub kyi sems rdzogs pa chen po/ rdo rje sems dpa mkha' mnyam klong gi rgyud ces bya ba rdzogs so// //'da' he na yi 'du khang du/ /sprul pa'i sku shrI sing ha dang/ /dge slong bee ro tsa na yis/ /rgyud 'di legs par bsgyur byas pas/ /mtha' yas sems can thams cad kun/ /rang grol bde ba thob par shog/ /rgyud kyi rgyal po chen po mkha' mnyam klong gi rgyud 'di/ rgyud kyi man ngag yin te/ kun la med pas gsang bar bya'o/ /sa brgyad pa'i byang chub sems dpa' las 'phro skal bar ldan la gnas so/ /i ti</coloph>
 </item>
 
 <item>
 <rktsg>429</rktsg>
 <ref>Ggi003.007</ref>
-<loc><set>MWxxx</set><vol>ga</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>157a-159a</p></loc>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>157a-159a</p></loc>
 <tib>ye shes mdzod chen chos kyi dbyings</tib>
 <skttrans></skttrans>
-<coloph>ye shes mdzod chen chos kyi dbyings/ /rdo rje sems dpas gsungs pa’o/ /rdzogs so</coloph>
+<coloph>ye shes mdzod chen chos kyi dbyings/ /rdo rje sems dpas gsungs pa'o/ /rdzogs so</coloph>
 </item>
 
 <item>
-<rktsg></rktsg>
+<rktsg>430</rktsg>
 <ref>Ggi003.008</ref>
-<loc><set>MWxxx</set><vol>ga</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p>159a-161a</p></loc>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>159a-161a</p></loc>
 <tib>ye shes gsal ba chos kyi dbyings</tib>
 <skttrans></skttrans>
-<coloph>ye shes gsal ba chos kyi dbyings/ /rdo rje sems dpas gsungs pa’o// rdzogs so</coloph>
+<coloph>ye shes gsal ba chos kyi dbyings/ /rdo rje sems dpas gsungs pa'o// rdzogs so</coloph>
 </item>
-67
 
+<item>
+<rktsg>431</rktsg>
+<ref>Ggi003.009</ref>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>161a-162a</p></loc>
+<tib>ye shes 'bar ba chos kyi dbyings</tib>
+<skttrans></skttrans>
+<coloph>ye shes 'bar ba chos kyi dbyings/ /rdo rje sems dpas gsungs pa'o/ /rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>432</rktsg>
+<ref>Ggi003.010</ref>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>162a-164a</p></loc>
+<tib>ye shes sa gcig chos kyi dbyings</tib>
+<skttrans></skttrans>
+<coloph>ye shes sa gcig chos kyi dbyings/ /rdo rje sems dpas gsungs pa'o// rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>433</rktsg>
+<ref>Ggi003.011</ref>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>164a-184b</p></loc>
+<tib>byang chub kyi sems kyi rgya mtsho klong dgu'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>slob dpon chen po shrI sing ha dang/ dge slong bee ro tsa nas bsgyur ba'o/ /rdzogs pa chen po rin chen klong dgu'i rgyud gsang ba rdzogs so// //rgyud 'di'i snod mdo byang bdun par ltos shig</coloph>
+</item>
+
+<item>
+<rktsg>434</rktsg>
+<ref>Ggi003.012</ref>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>184b-195a</p></loc>
+<tib>byang chub kyi sems kun 'dus 'od kyi rgyud</tib>
+<skttrans></skttrans>
+<coloph>byang chub kyi sems kun 'dus 'od kyi tan tra rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>435</rktsg>
+<ref>Ggi003.013</ref>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>195a-210b</p></loc>
+<tib>ye shes rin chen 'od kyi rgyud</tib>
+<skttrans></skttrans>
+<coloph>rin po che 'od kyi rgyud ces bya ba rdzogs so// //rgya gar gyi mkhan po shrI sing ha dang/ lo tsa ba bee ro tsa nas dha he na'i 'du khang du bsgyur ba'o</coloph>
+</item>
+
+<item>
+<rktsg>436</rktsg>
+<ref>Ggi003.014</ref>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>210b-234b</p></loc>
+<tib>byang chub sems nya mo 'khor lo'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>byang chub kyi sems rdzogs pa chen po kun 'dus gser gyi nya mo 'khor lo bskor ba'i rgyud chen po rdzogs so// //dgon phug gi bka' rgyud 'di rnam kyang bstan pa'i yang snying gyi yang snying yin pas/ spel na mkha' 'gro shrI dza mun tas mngon sum du snying 'byin no</coloph>
+</item>
+
+<item>
+<rktsg>437</rktsg>
+<ref>Ggi003.015</ref>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>235a-254b</p></loc>
+<tib>yi ge 'bru bshad las kyi 'khor lo</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>438</rktsg>
+<ref>Ggi003.016</ref>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>254b-257a</p></loc>
+<tib>byang chub kyi sems thig pa nya mo bag la nyal</tib>
+<skttrans></skttrans>
+<coloph>byang chub kyi sems thig pa nya mo bag la nyal rdzogs so// /rgya gar gyi mkhan po shrI sing ha dang/ bod kyi lo tsa ba bee ro tsa nas bsgyur ba'o</coloph>
+</item>
+
+<item>
+<rktsg>439</rktsg>
+<ref>Ggi003.017</ref>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>257a-262a</p></loc>
+<tib>rig pa nam mkha' ltar gsal ba zhes bya ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>rig pa nam mkha' ltar gsal ba'i rgyud rdzogs so// //rgya gar gyi paˆ∂i ta shrI singha dang/ bod kyi lo tsa ba dge slong bee ro tsa nas bsgyur zhing zhus te gtan la phab pa'o/ /ye shes gsang ba'i rgyud ces bya'o</coloph>
+</item>
+
+<item>
+<rktsg>440</rktsg>
+<ref>Ggi003.018</ref>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>262a-285b</p></loc>
+<tib>thams cad nam mkha'i ngo bo skye ba med pa'i byang chub kyi sems bsgom pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>gsang/ gsang ba'i rgyud sa pa'i byang chub sems dpa'i rigs can/ dad pa dang spur ldan pa la sbyin pa las/ gzhan du ma gsungs so/ /byang chub sems dpa'i rigs la sbyin no/ /'di 'dod dus su rgyud gnyis sbyin mi bya/ /'di ster ba yi mtshan ldan skyes bu la/ /nang rgyud 'ga' zung rmad 'byung rgyas pa dang/ /byang chub sems sgoms gshin rje gnam rgyud rnams/ /skyes chen rnams kyi thob skal yin pas sbyin/ /mi 'gal tshul du sbyin lugs man ngag bstan/ /slob dpon slob bus 'di gzhung ma snyegs na/ /'bras bu mi thob myal rgyu sogs pa mang/ /'di gzhung snyegs na 'di gzhung kho nas 'grub/ /'phags pa 'jam dpal rdzun med nyid kyi gsungs/ /dus med rtag tu byang chub sems dang spyad/ /rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>441</rktsg>
+<ref>Ggi003.019</ref>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>285b-289a</p></loc>
+<tib>byang chub kyi sems bsgom pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>byang chub kyi sems bsgom pa'i rgyud rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>442</rktsg>
+<ref>Ggi003.020</ref>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>289a-292b</p></loc>
+<tib>de bzhin gshegs pa thams cad rang bzhin byang chub kyi sems bsgom pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>byang chub kyi sems bsgom pa zhes bya ba'i rgyud rnal 'byor dam pa rdzogs so// //rgya gar gyi mkhan po dznya na garba dang/ bod kyi lo tsa ba bee ro tsa nas bsgyur cing zhus te gtan la phab pa'o</coloph>
+</item>
+
+<item>
+<rktsg>443</rktsg>
+<ref>Ggi003.021</ref>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>292b-295b</p></loc>
+<tib>rang bzhin gyi rgyud rgyas pa yi ge med pa/de bzhin gshegs pa thams cad kyi sku gsung thugs las byung ba mthong bar dka' ba'i don</tib>
+<skttrans></skttrans>
+<coloph>rang bzhin gyi rgyud rgyas pa yi ge med pa/ de bzhin gshegs pa thams cad kyi sku gsung thugs las byung ba mthong bar dka' ba'i don rdzogs so// //rgya gar gyi mkhan po dznyA na garbha dang/ bod kyi dge slong bee ro tsa bas bsgyur cing zhus te gtan la phab pa/ skar sar bas kyang bsabs pa'o</coloph>
+</item>
+
+<item>
+<rktsg>444</rktsg>
+<ref>Ggi003.022</ref>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>295b-299a</p></loc>
+<tib>byang chub sems bsgom pa</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>445</rktsg>
+<ref>Ggi003.023</ref>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>299a-308b</p></loc>
+<tib>rdzogs pa chen po lta ba dmar 'byam lta ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>446</rktsg>
+<ref>Ggi003.023</ref>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>308b-320a</p></loc>
+<tib>chos thams cad byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa nam mkha' dang mnyam pa ye shes 'od kyi rgyud</tib>
+<skttrans></skttrans>
+<coloph>nam mkha' dang mnyam pa ye shes 'od kyi rgyud rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>447</rktsg>
+<ref>Ggi003.024</ref>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>320a-416b</p></loc>
+<tib>chos thams cad rdzogs pa chen po nam mkha'i mtha' dang mnyam pa'i rgyud chen po</tib>
+<skttrans></skttrans>
+<coloph>ma ha a ti yo ga ghu hya pra de sha /kha sa man ta nam mkha'i mtha' dang mnyam pa'i rgyud rdzogs so// //rgya gar gyi mkhan po dpal seng ge'i 'od can gyi zhal snga nas dang/ zhu chen gyi lo tsa ba dge slong gan 'jags rnam par snang mdzad kyi zhal gzigs pa des/ yul dha he na'i 'du khang du bsgyur cing zhus te gtan la phab pa'o</coloph>
+</item>
+
+<item>
+<rktsg>448</rktsg>
+<ref>Ggi003.025</ref>
+<loc><set>MWxxx</set><vol>ga</vol><voln>3</voln><json>Ixxx</json><psection>1</psection><p>416b-444a</p></loc>
+<tib>byang chub kyi sems nam mkha' rgya mtsho rdzogs pa chen po gsang ba rgyud kyi rgyal po</tib>
+<skttrans></skttrans>
+<coloph>byang chub kyi sems rdzogs pa chen po klong chen rab 'byams/ rgya ba gang gA'i klung gi bye ma snyed/ nam mkha' rgya mtsho rol pa chen po'i snang ba chen po'i rgyud kyi rgyal po rdzogs so// //rgyas btab pa'o</coloph>
+</item>
+
+<item>
+<rktsg>93</rktsg>
+<ref>Ggi004.001</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>1b-13a</p></loc>
+<tib>byang chub kyi sems kun tu bzang po rig pa rang rtsal shar ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>kun tu bzang po rang gi rtsal shar ba'i rgyud le'u bcu bzhi pa rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>116</rktsg>
+<ref>Ggi004.002</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>13a-23b</p></loc>
+<tib>byang chub kyi sems rdzogs pa chen po ye shes bdun gyi rgyud</tib>
+<skttrans></skttrans>
+<coloph>ye shes bdun 'byung ba'i rgyud sems kyi me long chen po rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>92</rktsg>
+<ref>Ggi004.003</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>24a-37b</p></loc>
+<tib>kun tu bzang po nam mkha' che rtsa ba bsdus pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>kun tu bzang po nam mkha' che rtsa ba bsdus pa'i rgyud rdzogs so// //dga' rab rdo rje la zhus pa'o/ /man ngag rtsa ba bsdus pa'i rgyud/ /chos nyid mi 'gyur rgyas btab bzhag/ /ban chung 'khyams po bdag gis drangs/ /bod nas rgya gar yul gyi bar/ /dka' ba bco brgyad spyad pa las/ /de'u shi lnga bcu rtsa bzhi byung/ /man ngag rgyal po'i phyag tu gdams/ /rgya gar gyi mkhas pa shrI singha dang/ bod kyi bandhe bee ro tsa nas bsgyur ba'o</coloph>
+</item>
+
+<item>
+<rktsg>31</rktsg>
+<ref>Ggi004.004</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>37b-49a</p></loc>
+<tib>rdzogs pa chen po ye shes 'khor lo gsang ba thugs kyi rgyud</tib>
+<skttrans></skttrans>
+<coloph>rdzogs pa chen po ye shes 'khor lo gsang ba thugs kyi rgyud ces bya ba rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>449</rktsg>
+<ref>Ggi004.005</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>49a-65a</p></loc>
+<tib>srog gi 'byung ba rgyud kyi rgyal po chen po</tib>
+<skttrans></skttrans>
+<coloph>srog gi 'byung ba zhes bya ba'i rgyud kyi rgyal po chen po rdzogs so// //rgya gar gyi mkhan po gzhon nu bum pa'i zhabs kyis bsgyur ba'o</coloph>
+</item>
+
+<item>
+<rktsg>127</rktsg>
+<ref>Ggi004.006</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>65a-74a</p></loc>
+<tib>rma bya 'jing bsnol gyi rgyud las/ 'bras bu bla na med pa'i theg pa</tib>
+<skttrans></skttrans>
+<coloph>'bras bu bla na yod pa'i theg pa la bgrod du yod/ gzhi'am/ lam/ 'bras bu/ byang chub sems dpa' la snang ngo/ /paˆ∂i ta zla ba bzang po'i zhal snga nas kyang/ yang dag yang dag rdzogs 'dod na/ yang dag yang dag nyid la ltos/ zhes gsungs te/ byang chub kyi snying pos byang chub nyid la ltos zhes pa'o/ /'bras bu bla na med pa'i theg pa bya btsal las 'das pa'o/ rang bzhin lhun grub kyis sangs rgyas/ rten med kyi ye shes/ rang byung gi ye shes/ gzhi dang snying po me tog can/ rtog pa mngon du gyur pa'i sangs rgyas sems la dbang thob pa'o/ /sangs rgyas nyag gcig la snang ngo</coloph>
+</item>
+
+<item>
+<rktsg>450</rktsg>
+<ref>Ggi004.007</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>74a-82a</p></loc>
+<tib>byang chub kyi sems rma bya mjing bsnol zhes bya ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>byang chub kyi sems rma bya mjing bsnol zhes bya ba'i rgyud/ 'jam dpal snying pos/ byang chub sems dpa' ro langs bde ba la gdams pa rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>407</rktsg>
+<ref>Ggi004.008</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>82a-88a</p></loc>
+<tib>byang chub kyi sems rma bya mjing bsnol rgyud las/ mtha'i mun sel chen po/zhes bya ba/nam mkha' rnam par dag par byed pa</tib>
+<skttrans></skttrans>
+<coloph>rgyud dag pa'i rdo rje 'chang chen po dang/ sprul pa'i sangs rgyas re res mdzad pa so so'i don bstan pa'o/ /rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>408</rktsg>
+<ref>Ggi004.009</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>88a-114b</p></loc>
+<tib>lta ba thams cad kyi rgyal po kun tu bzang po che ba la rang gnas pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>lta ba thams cad kyi rgyal po kun tu bzang po che ba rang la gnas pa'i rgyud chen po rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>151</rktsg>
+<ref>Ggi004.010</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>114b-131b</p></loc>
+<tib>spyod pa thams cad kyi rgyal po brtson pa don ldan gyi rgyud</tib>
+<skttrans></skttrans>
+<coloph>spyod pa thams cad kyi rgyal po brtson pa don ldan gyi rgyud gsungs pa med pa'i mdzod/ sems kyi 'bras bu'i mchog rdzogs so// //sa skya'i rgyud las bskyar zhus dag</coloph>
+</item>
+
+<item>
+<rktsg>982</rktsg>
+<ref>Ggi004.011</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>131b-153a</p></loc>
+<tib>'phrin las thams cad kyi rgyal po skabs sbyor bdun pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>de bzhin gshegs pa thams cad kyi sku dang/ gsung dang/ thugs la sogs pa'i 'phrin las kyi rgyal po skabs sbyor bdun pa'i rgyud/ nges par bstan pa'i 'bras bu bkod pa rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>149</rktsg>
+<ref>Ggi004.012</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>153a-168b</p></loc>
+<tib>rgyud kyi rgyal po ting nge 'dzin mchog gi rgyud</tib>
+<skttrans></skttrans>
+<coloph>de skad ces yid byed pa po kun tu bzang pos/ ci yang ma gsungs par bka' stsal pas/ rdo rje sems dpa' la sogs pa rigs lnga'i sangs rgyas yab yum dang/ zhi khro'i lha brgya rtsa brgyad kyi dkyil 'khor gyis/ rgyud kyi rgyal po ting nge 'dzin mchog gi rgyud kyi don rtogs so/ /rgyud kyi rgyal po ting nge 'dzin mchog gi rgyud las/ 'bras bu nges par bskor ba rdzogs so// i thi</coloph>
+</item>
+
+<item>
+<rktsg>451</rktsg>
+<ref>Ggi004.013</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>168b-207b</p></loc>
+<tib>dam tshig chen po'i rgyal po dam tshig bkod pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>dam tshig thams cad kyi rgyal po sa ma ya bkod pa'i rgyud rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>148</rktsg>
+<ref>Ggi004.014</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>207b-234a</p></loc>
+<tib>dbang gi rgyal po dbang bskur rgyal po'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>de bzhin gshegs pa thams cad kyi spyi dbang/ rgyud kyi rgyal po dbang bskur rgyal po'i rgyud/ rgyud kyi rgyal po de dag gi 'khor lo bskor bas sems kyi 'bras bu'i mchog thob/ rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>452</rktsg>
+<ref>Ggi004.015</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>234a-236b</p></loc>
+<tib>rdzogs pa chen po bar do gsang ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>rdzogs pa chen po bar do gsang ba'i rgyud ces bya ba rdzogs so// //gu ru shrI sing ha ba tas rdo rje yang dbang gter la dur khrod gsang lung du gnang ba'o</coloph>
+</item>
+
+<item>
+<rktsg>453</rktsg>
+<ref>Ggi004.016</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>236b-237b</p></loc>
+<tib>bar do gsang ba phyi ma'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>bar do gsang ba'i rgyud phyi ma zhes bya ba rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>454</rktsg>
+<ref>Ggi004.017</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>237b-244a</p></loc>
+<tib>rdzogs pa chen po byang chub kyi sems rin po che spungs pa gsang ba man ngag gi rgyud</tib>
+<skttrans></skttrans>
+<coloph>rdzogs pa chen po byang chub kyi sems rin po che spungs pa gsang ba man ngag gi rgyud ces bya ba rdzogs so// //chos grwa'i slob dpon chen po shrI sing ha dang/ rdo rje yang dbang gter gyis bsgyur cing zhus te gtan la phab pa'o</coloph>
+</item>
+
+<item>
+<rktsg>27</rktsg>
+<ref>Ggi004.018</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>244a-250a</p></loc>
+<tib>rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>dus gsum sangs rgyas thams cad kyi dgongs pa gcig tu dril ba'i rgyud ces bya ba rdzogs so// [in smaller letters :] //phyi rabs rnal 'byor pas rgyud 'di dbyung ba'i du ni/ dpyid zla ra ba dang ston zla ra ba la sngags srung e ka dza †i la gtor ma btang/ tshogs dang mchod pa byas te dbyung ngo/ /de ltar ma byas na shin tu zab pa yin pas bar chad du 'gyur bas snod dang ngang tshul bzang ba dam la gnas pa rnams la sbyin pa las/ rmongs la 'char ba la byin na tshe'i 'du byed bskul bar gsungs so/ /bdag 'dra sangs rgyas ye shes kyi/ /gu shrI singha la/ /dad pas mnyes byas rgyud 'di gnang/ /su la'ang ma byin gter du sbas/ /lan cig rtags tsam 'dzin dus su/ /mtha' khob yul du skyes pa yi/ skal ldan nga yi sprul pa cig/ /dad ldan dam tshig ldan pa yi/ /'gro ba 'dul ba'i rang bzhin can/ /de dang rgyud 'di phrad par shog/ /de nas gang zag skal ba can/ /'ga' dang phrad nas grol bar shog</coloph>
+</item>
+
+<item>
+<rktsg>28</rktsg>
+<ref>Ggi004.019</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>250a-251b</p></loc>
+<tib>rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa'i rgyud phyi ma</tib>
+<skttrans></skttrans>
+<coloph>dus gsum gyi sangs rgyas thams cad kyi bka' bgros pa'i rgyud/ kun tu bzang po ye shes gsal bar ston pa'i rgyud phyi ma zhes bya ba rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>12</rktsg>
+<ref>Ggi004.020</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>251b-252b</p></loc>
+<tib>thig le mthong brtol gyi rgyud</tib>
+<skttrans></skttrans>
+<coloph>thig le mthong brtol gyi rgyud/ rig pa bcur 'byung gi bdra'/ srog gi mchan pa/ yang ti nag po'i rgyud rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>29</rktsg>
+<ref>Ggi004.021</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>252b-254a</p></loc>
+<tib>rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa'i rgyud phyi ma'i phyi ma</tib>
+<skttrans></skttrans>
+<coloph>rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa'i rgyud phyi ma'i phyi ma zhes bya ba rdzogs so// //rgya gar gyi slob dpon shrI sing ha pra ba ta dang/ bod kyi lo tsha ba gnubs yang dbang gter gyis bsgyur cing zhus te gtan la phab pa'o/ /rgyud 'di yang dben du ma hA kA la bka' bsrungs gtad de/ sbas nas yon tan rgya mtsho skye ba bdun pa cig dang phrad de/ bstan pa'i snying po 'dzugs par gyur cig</coloph>
+</item>
+
+<item>
+<rktsg>387</rktsg>
+<ref>Ggi004.022</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>254a-255a</p></loc>
+<tib>rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa phyi ma gsang ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>rgya gar gyi mkhan po gu ru shrI sing ha dang/ lo tsa ba rdo rje yang dbang gter gyis bsgyur ba'o</coloph>
+</item>
+
+<item>
+<rktsg>385</rktsg>
+<ref>Ggi004.023</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>255a-256b</p></loc>
+<tib>rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa'i rgyud phyi ma'i phyi ma</tib>
+<skttrans></skttrans>
+<coloph>mthar thug pa'i rgyud ces bya ba rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>136</rktsg>
+<ref>Ggi004.024</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>256b-260a</p></loc>
+<tib>rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa/ gsang sngags kyi lam mchog 'dus pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa/ gsang sngags thabs kyi lam mchog 'dus pa'i rgyud ces bya ba rdzogs so// //rgya gar gyi mkhan po shrI sing ha dang/ rdo rje yang dbang gter gyis bsgyur cing zhus te gtan la phab pa'o</coloph>
+</item>
+
+<item>
+<rktsg>89</rktsg>
+<ref>Ggi004.025</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>260a-270a</p></loc>
+<tib>lha rgyud rin po che dbang 'khor lo</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>77</rktsg>
+<ref>Ggi004.026</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>270a-281b</p></loc>
+<tib>rin po che srid pa bar do rang snang ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>rin po che srid pa bar ma do snang ba'i rgyud ces bya ba/ rdo rje sems dpa'i rgyud rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>78</rktsg>
+<ref>Ggi004.027</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>281b-304b</p></loc>
+<tib>lha ma yin g.yul ngo bzlog pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>chos las 'das pa'i rgyud ces bya ba rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>79</rktsg>
+<ref>Ggi004.028</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>304b-308b</p></loc>
+<tib>ro bsreg thal ba nag po thams cad rdzogs par 'dus pa'i rgyud kyi rgyal po chen po</tib>
+<skttrans></skttrans>
+<coloph>mya ngan las 'das pa'i dgongs pa bstan pa rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>983</rktsg>
+<ref>Ggi004.029</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>308b-310a</p></loc>
+<tib>'jig rten gyis 'phrin las spros pa bsod nams chen po rdzogs par byed la shes rab chen po rgyud pa</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>984</rktsg>
+<ref>Ggi004.030</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>310a-316a</p></loc>
+<tib>chos rdzogs par byed pa'i ngo sprod</tib>
+<skttrans></skttrans>
+<coloph>ro bsreg pa thal ba nag po'i rgyud rdzogs so// //gsang sngags me dang 'dra ba'i sbyor ba 'di/ /thugs la btags nas bla ma nyid la gtad/ /kun la bstan pa'i snod nyung gi/ /za 'tshol byed kyang rgyud 'di byin mi bya/ /gsang sngags ma spel dngos grub 'byung/ /spel na dam tshig nyams par 'gyur/ /dad pa che la mos gus ldan/ /gtong phod che la blo rtsal che/ /chad pa don du 'dzin pa dang/ /'chi ba 'jigs pa kun la yang/ /'tsho bas sbyangs la byin par bya'o</coloph>
+</item>
+
+<item>
+<rktsg>80</rktsg>
+<ref>Ggi004.031</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>316a-340b</p></loc>
+<tib>lha rgyud rin chen spungs pa</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>393</rktsg>
+<ref>Ggi004.032</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>340b-343a</p></loc>
+<tib>sku gsum gyi snang ba gsal bar ngo sprad pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>11</rktsg>
+<ref>Ggi004.033</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>343a-344a</p></loc>
+<tib>kun bzang srog gi thigs pa 'bras bu ye grol chen po'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>kun tu bzang po'i srog gi thigs pa/ /'bras bu ye grol chen po'i rgyud rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>8</rktsg>
+<ref>Ggi004.034</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>344a-345a</p></loc>
+<tib>srog gi 'khor lo'i rgyud pa</tib>
+<skttrans></skttrans>
+<coloph>bsgom pa srog gi sprul pa'i'o [sic !]/ /srog gi 'khor lo'i rgyud rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>917</rktsg>
+<ref>Ggi004.035</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>345a-346b</p></loc>
+<tib>dam tshig bkod pa sa gzhi'i rgyud rin po che spungs pa'i rgyan</tib>
+<skttrans></skttrans>
+<coloph>tshig gsum rgyud pas sangs rgyas kyi chos brgyud pa bar ma chad pa/ dam tshig bkod pas gzhi'i rgyud rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>121</rktsg>
+<ref>Ggi004.036</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>346b-354a</p></loc>
+<tib>'khor lo rdo rje</tib>
+<skttrans></skttrans>
+<coloph>'khor lo rdo rje zhes bya ba'i rgyud/ rgya gar gyis paˆ∂i ta dznyA na garbha dang/ bod kyi dge slong bee ro tsa nas bsgyur cing zhus te gtan la phab pa rdzogs so// //phyis skad gsar bcad kyis kyang lo tsa bas bcos so</coloph>
+</item>
+
+<item>
+<rktsg>122</rktsg>
+<ref>Ggi004.037</ref>
+<loc><set>MWxxx</set><vol>nga</vol><voln>4</voln><json>Ixxx</json><psection>1</psection><p>354a-366a</p></loc>
+<tib>byang chub kyi sems rin chen 'khor lo zhes bya ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>byang chub kyi sems rin chen 'khor lo zhes bya ba'i rgyud rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>117</rktsg>
+<ref>Ggi005.001</ref>
+<loc><set>MWxxx</set><vol>ca</vol><voln>5</voln><json>Ixxx</json><psection>1</psection><p>1b-33b</p></loc>
+<tib>rdzogs pa chen po chos nyid byang chub kyi sems bkra shis mi 'gyur ba gsal bar gnas pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>rdzogs pa chen po chos nyid byang chub kyi sems bkra shis mi 'gyur ba gsal bar gnas pa'i rgyud ces bya ba rdzogs// //rgya gar gyi mkhan po bi ma la mi tra dang/ sgra bsgyur gyi lo tsa ba chen po g.yu sgra snying pos bsgyur ba'i 'grel pa dang bcas par bshad pa'o</coloph>
+</item>
+
+<item>
+<rktsg>101</rktsg>
+<ref>Ggi005.002</ref>
+<loc><set>MWxxx</set><vol>ca</vol><voln>5</voln><json>Ixxx</json><psection>1</psection><p>33b-47a</p></loc>
+<tib>rdzogs pa chen po byang chub kyi sems kun la 'jug pa rnam dag ston pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>rdzogs pa chen po chos nyid byang chub kyi sems kun la 'jug pa rnam dag ston pa'i rgyud ces bya ba rdzogs so// //rgya gar gyi mkhan po bi ma la mi tra dang/ bod kyi sgra bsgyur gyi lo tsa ba g.yu sgra snying pos bsgyur cing gtan la phab pa'o</coloph>
+</item>
+
+<item>
+<rktsg>404</rktsg>
+<ref>Ggi005.003</ref>
+<loc><set>MWxxx</set><vol>ca</vol><voln>5</voln><json>Ixxx</json><psection>1</psection><p>47a-59b</p></loc>
+<tib>rdzogs pa chen po chos nyid byang chub kyi sems thig le rgya mtsho gnas la 'jug pa zhes bya ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>rdzogs pa chen po chos nyid byang chub kyi sems thig le rgya mtsho gnas la 'jug pa'i rgyud ces bya ba rdzogs so// //rgya gar gyi mkhan po bi ma la mi tra dang/ sgra sgyur gyi lo tsa ba chen po g.yu sgras zhus shing gtan la phab pa'o</coloph>
+</item>
+
+<item>
+<rktsg>129</rktsg>
+<ref>Ggi005.004</ref>
+<loc><set>MWxxx</set><vol>ca</vol><voln>5</voln><json>Ixxx</json><psection>1</psection><p>59b-80a</p></loc>
+<tib>rdzogs pa chen po chos nyid byang chub kyi sems rin chen bkod pa rnam par dbye ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>rdzogs pa chen po chos nyid byang chub kyi sems rin chen bkod pa rnam par dbye ba'i rgyud ces bya ba rdzogs so// //rgya gar gyi mkhan po shrI lendra mi tra dang/ bod kyi lo tsa ba 'jings gsal 'bar gyis bsgyur cing zhus te gtan la phab pa'o</coloph>
+</item>
+
+<item>
+<rktsg>139</rktsg>
+<ref>Ggi005.005</ref>
+<loc><set>MWxxx</set><vol>ca</vol><voln>5</voln><json>Ixxx</json><psection>1</psection><p>80a-99a</p></loc>
+<tib>gsang ba spyi rgyud</tib>
+<skttrans></skttrans>
+<coloph>gsang ba spyi rgyud rdzogs so// //paˆ∂i ta dri me bshes gnyen dang/ zhu chen gyi lo tsa ba gnyags ku mA ras/ rgyal po yon mchod don du u tshal gser khang du zhus shing gtan la phab pa'o</coloph>
+</item>
+
+<item>
+<rktsg>126</rktsg>
+<ref>Ggi005.006</ref>
+<loc><set>MWxxx</set><vol>ca</vol><voln>5</voln><json>Ixxx</json><psection>1</psection><p>99a-103a</p></loc>
+<tib>rin po che snang byed kyi rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>455</rktsg>
+<ref>Ggi005.007</ref>
+<loc><set>MWxxx</set><vol>ca</vol><voln>5</voln><json>Ixxx</json><psection>1</psection><p>103a-119a</p></loc>
+<tib>rin po che snang byed kyi rgyud</tib>
+<skttrans></skttrans>
+<coloph>rin po che snang byed ces bya ba'i rgyud rdzogs so// //slob dpon bi ma la mi tra dang/ lo tsa ba gnyags dznyA na ku mA ras sgyur zhing gtan la phab pa'o/ /khri srong lde btsan byang chub sems dpa'i rigs/ /ting 'dzin bzang po snod dang skal bar ldan/ /'khrul rtsa chod nas lod pa'i thabs dang ldan/ /lta ba rtogs nas sgro 'dogs chod pa'i tshe/ /snyan brgyud gdams pa skal ldan dag la brgyud/ /rtsa rgyud bshad rgyud ma bu la sogs rnams/ /snang dang mi snang bdag med dbyings su sba/ / skal ldan las 'phro can gyis rnyed par smon lam gdab/ /ces gdams so/ /nam zhig skal ldan gang zag gis/ /snyan brgyud bshad rgyud 'dzom par shog/ /ithi/ dngos grub dam pa sems la chongs</coloph>
+</item>
+
+<item>
+<rktsg>456</rktsg>
+<ref>Ggi005.008</ref>
+<loc><set>MWxxx</set><vol>ca</vol><voln>5</voln><json>Ixxx</json><psection>1</psection><p>119a-123a</p></loc>
+<tib>rin po che snang byed kyi rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>457</rktsg>
+<ref>Ggi005.009</ref>
+<loc><set>MWxxx</set><vol>ca</vol><voln>5</voln><json>Ixxx</json><psection>1</psection><p>123a-155a</p></loc>
+<tib>byang chub sems kyi man ngag/rin po che sgron ma 'bar ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>rin po che sgron ma 'bar ba'i rgyud rdzogs so// //rgya gar gyi mkhan po bi ma la mi tra dang / zhu chen gyi lo tsa ba gnyags dznyA nas dbu tshal gser khang du rgyal po yon mchod kyi don du bsgyur cing gtan la phab pa'o</coloph>
+</item>
+
+<item>
+<rktsg>458</rktsg>
+<ref>Ggi005.010</ref>
+<loc><set>MWxxx</set><vol>ca</vol><voln>5</voln><json>Ixxx</json><psection>1</psection><p>155a-167b</p></loc>
+<tib>rin po che sgron ma zhes bya ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>rin po che sgron ma zhes bya ba'i rgyud rdzogs so// //slob dpon bi ma la mi tra dang/ lo tsa ba gnyags ku mA ras rgyal po yon mchod kyi don du dbu tshal gser khang du bsgyur ba'o/ /chos skor mda' 'ug 'dod pa dang/ /rgyal po grong sprang byed pa dang/ /chos gos 'og tu gri 'dzugs dang/ /che btsun dug la spyod pa'i tshe/ nyi zla'i 'od ltar 'byung bar 'gyur</coloph>
+</item>
+
+<item>
+<rktsg>459</rktsg>
+<ref>Ggi005.011</ref>
+<loc><set>MWxxx</set><vol>ca</vol><voln>5</voln><json>Ixxx</json><psection>1</psection><p>167b-169b</p></loc>
+<tib>sems phyogs chen po'i mdzod</tib>
+<skttrans></skttrans>
+<coloph>thig le gsang skor gyi mdzod kyi rtsa rgyud rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>460</rktsg>
+<ref>Ggi005.012</ref>
+<loc><set>MWxxx</set><vol>ca</vol><voln>5</voln><json>Ixxx</json><psection>1</psection><p>169b-180a</p></loc>
+<tib>sangs rgyas thams cad kyi dgongs pa ma bcos ji bzhin ma'i don ye shes kyi mar me chen po'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>sangs rgyas thams cad kyi dgongs pa ma bcos ji bzhin ma'i don ye shes kyi mar me chen po'i rgyud ces bya ba rin po che gter gyi snying po rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>461</rktsg>
+<ref>Ggi005.013</ref>
+<loc><set>MWxxx</set><vol>ca</vol><voln>5</voln><json>Ixxx</json><psection>1</psection><p>180a-189b</p></loc>
+<tib>rin po che nyi zla brtsegs pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>nyi zla ri rab bla ma snying sems man ngag gter du 'chang/ /skal ldan dam tshig bsrung ba la dam tshig gtad/ /ces gsungs so/ /snod med dam nyams zong tshong lag tu shor ra re/ /rin po che nyi zla brtsegs pa'i rgyud rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>462</rktsg>
+<ref>Ggi005.014</ref>
+<loc><set>MWxxx</set><vol>ca</vol><voln>5</voln><json>Ixxx</json><psection>1</psection><p>189b-202b</p></loc>
+<tib>ye shes rin po che 'bar ba</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>463</rktsg>
+<ref>Ggi005.015</ref>
+<loc><set>MWxxx</set><vol>ca</vol><voln>5</voln><json>Ixxx</json><psection>1</psection><p>202b-275b</p></loc>
+<tib>rdzogs pa chen po sku gsum ye shes lnga'i don bshad pa nyi zla kha sbyor seng ge sgra yi dgongs pa bshad pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>paˆ∂i ta bi ma la dang lo tsa ba gnyags ku mA ras 'chims phu bre'u dge 'ur bsgyur cing zhus te gtan la phab pa'i rgyud/ seng ge sgra'i dgongs pa nyi zla kha sbyor zhes bya ba'i rgyud/ yang gsang rmad du byung ba bklags pas go ba'i bshad rgyud rdzogs so// //gsang/ gsang/ gsang rgya rtags</coloph>
+</item>
+
+<item>
+<rktsg>464</rktsg>
+<ref>Ggi005.016</ref>
+<loc><set>MWxxx</set><vol>ca</vol><voln>5</voln><json>Ixxx</json><psection>1</psection><p>275b-336a</p></loc>
+<tib>rin po che rgyas pa chen po'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>rin po che rgyas pa chen po'i rgyud rdzogs so// //rgya rgya rgya</coloph>
+</item>
+
+<item>
+<rktsg>465</rktsg>
+<ref>Ggi005.017</ref>
+<loc><set>MWxxx</set><vol>ca</vol><voln>5</voln><json>Ixxx</json><psection>1</psection><p>336a-406a</p></loc>
+<tib>byang chub kyi sems rin po che'i rgyud rgyas pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<coloph>byang chub kyi sems rin po che rgyas pa chen po'i mdo zhes bya ba rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>464</rktsg>
+<ref>Ggi005.018</ref>
+<loc><set>MWxxx</set><vol>ca</vol><voln>5</voln><json>Ixxx</json><psection>1</psection><p>406a-416a</p></loc>
+<tib>byang chub kyi sems rin po che'i rgyud rgyas pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<coloph>byang chub kyi sems rin po che'i rgyud rgyas pa chen po'i mdo zhes bya ba rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>16</rktsg>
+<ref>Ggi006.001</ref>
+<loc><set>MWxxx</set><vol>cha</vol><voln>6</voln><json>Ixxx</json><psection>1</psection><p>1b-65b</p></loc>
+<tib>rdzogs pa chen po nges don 'dus pa'i rgyud/lta ba thams cad kyi snying po rin po che rnam par bkod pa</tib>
+<skttrans></skttrans>
+<coloph>rdzogs pa chen po nges don 'dus pa las/ lta ba thams cad kyi snying po rin po che rnam par bkod pa zhes bya ba rdzogs so// //rgya gar gyi mkhan po bhi ma la mi tra dang/ bod kyi lo tsa ba a tsarya dran pa ye shes kyis bsgyur cing zhus te gtan la phab pa'o</coloph>
+</item>
+
+<item>
+<rktsg>17</rktsg>
+<ref>Ggi006.002</ref>
+<loc><set>MWxxx</set><vol>cha</vol><voln>6</voln><json>Ixxx</json><psection>1</psection><p>65b-72b</p></loc>
+<tib>rdzogs pa chen po rin po che 'khor ba rtsad gcod kyi rgyud</tib>
+<skttrans></skttrans>
+<coloph>rdzogs pa chen po rin po che 'khor ba rtsad gcod rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>18</rktsg>
+<ref>Ggi006.003</ref>
+<loc><set>MWxxx</set><vol>cha</vol><voln>6</voln><json>Ixxx</json><psection>1</psection><p>72b-86a</p></loc>
+<tib>rdzogs pa chen po 'khor ba rtsad nas gcod pa chos sku skye med rig pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>rdzogs pa chen po 'khor ba rtsad nas gcod pa chos sku skye med rig pa'i rgyud las/ Rin po che gter gyi 'byung gnas zhes bya ba rdzogs so// //rgya gar gyi mkhan po bi ma la mi tra dang/ a tsarya dran pa ye shes kyis rang 'gyur byas te gtan la phab pa'o</coloph>
+</item>
+
+<item>
+<rktsg>19</rktsg>
+<ref>Ggi006.004</ref>
+<loc><set>MWxxx</set><vol>cha</vol><voln>6</voln><json>Ixxx</json><psection>1</psection><p>86a-133a</p></loc>
+<tib>rdzogs pa chen po lta ba'i yang snying /sangs rgyas thams cad kyi dgongs pa/nam mkha' klong yangs kyi rgyud</tib>
+<skttrans></skttrans>
+<coloph>rdzogs pa chen pop lta ba'i yang snying rdzogs so/ /rdzogs pa chen po lta ba'i yang snying/ sangs rgyas thams cad kyi dgongs pa/ nam mkha glong (= klong) yangs kyi rgyud ces bya ba/ gser gyi dril shing can 'di/ dang po ngo bo nyid kyi sku rgyal ba kun tu bzang po la bshad/ des rdo rje sems dpa' la bshad/ des dga' rab rdo rje la bshad/ des bram ze bde mchog snying po la bshad/ des shrI sing ha la bshad/ des bi ma la mi tra la bshad/ de myang ting 'dzin bzang po la bshad/ des gter du sbas pa 'brom ye shes bla ma'i bu/ 'brom ye shes snying pos bton nas/ des myang shes rab mchog gis sras/ des shangs kyi ston pa lce chung ba ye shes rgyal mtshan la bshad/ des bla ma gnyan chung ba la gnang ba'o/ rgya gar gyi mkhan po bi ma la mi tra dang/ bod kyi lo tsa ba dran pa ye shes kyis bsgyur cing gtan la phab nas/ myang ting 'dzin bzang pos lcags sgrom nag po'i nang du bri ze'i rgyud drug gdams pa dang bcas pa bse sgrom smug por bcug nas/ dbu ru bzong phug mo'i brag la mkha' 'gro rdo rje rgyan gcig ma dang/ badzra sA dhu legs pa rtsal la gtad nas sbas pa rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>20</rktsg>
+<ref>Ggi006.005</ref>
+<loc><set>MWxxx</set><vol>cha</vol><voln>6</voln><json>Ixxx</json><psection>1</psection><p>133a-178b</p></loc>
+<tib>rdzogs pa chen po sangs rgyas thams cad kyi dgongs pa chos sku gcig tu 'dus par bka' bgros pa'i don rin po che yon tan kun 'byung gi rgyud</tib>
+<skttrans></skttrans>
+<coloph>rdzogs pa chen po sangs rgyas thams cad kyi dgongs pa chos sku gcig tu 'dus par bka' bgros pa'i don rin po che yon tan kun 'byung gi rgyud las/ dharma kA ya sidhi pa ya / gu ru te tsu dznyA na ke tu tsitta sa ma ya gu hya ya rdzogs so// //rgya gar gyi mkhan po bi ma la mi tra dang/ zhu chen gyi lo tsa ba dran pa ye shes kyis bsgyur cing gtan la phab nas/ myang ting nge 'dzin la gdams/ des sbas/ mo rgyal le 'tsho la gdams/ des sbas/ blo gros seng ge la gdams/ des 'brom ye shes bla ma la gdams/ de sras rgyal ba'i shes rab la gdams/ des zhang dar ma ye shes la gdams/ des shans pa lce chung ba ye shes rgyal mtshan la gdams so/ /snyan brgyud nges pa gdams ngag gi lde mig po ti se ru mthing shog can gyi rgyud rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>466</rktsg>
+<ref>Ggi006.006</ref>
+<loc><set>MWxxx</set><vol>cha</vol><voln>6</voln><json>Ixxx</json><psection>1</psection><p>178b-201b</p></loc>
+<tib>byang chub sems yid skyob pa</tib>
+<skttrans></skttrans>
+<coloph>rgya gar gyi mkhan po bi ma la mi tra dang / zhu chen gyi lo tsa ba dran pa'i ye shes kyis bsgyur cing zhus te gtan la phab nas/ nyang ting 'dzin la gdams/ /des sba mo rgya le mtsho la gdams/ des sba blo gros dbang phyug la gdams/ de 'brom ye shes bla ma la gdams/ de sras rgyal ba'i shes rab la gdams/ des zhang dar ma ye shes la gdams/ des shangs pa lce chung ye shes rgyal mtshan la gdams/ des shud kye ston pa mi' 'jigs la gdams/ de rngog ston rgyal mtshan la gdams/ de lce ston rdo rje gzungs la gdams so/ /snyan rgyud nges pa'i lde mig /po ti se ru mthing shog can gyi rgyud rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>24</rktsg>
+<ref>Ggi006.007</ref>
+<loc><set>MWxxx</set><vol>cha</vol><voln>6</voln><json>Ixxx</json><psection>1</psection><p>201b-228b</p></loc>
+<tib>rdzogs pa chen po don 'dus rig pa'i gsung rang byung bde ba'i 'khor lo</tib>
+<skttrans></skttrans>
+<coloph>gser gyis dril / bi ma las a tsarya la/ des myang la/ des gzong phug mor gdams ngag 'di ye shes snying po la/ ston kyang des kas ston/ des myang dbang phyug rgya mtsho la/ des shangs pa la/ des gtsang gi bgrod ston la/ des ra ston la/ des byang chub rgyan la/ rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>384</rktsg>
+<ref>Ggi006.008</ref>
+<loc><set>MWxxx</set><vol>cha</vol><voln>6</voln><json>Ixxx</json><psection>1</psection><p>228b-251b</p></loc>
+<tib>rdzogs pa chen po rmad byung don gyi snying po rang byung bde ba'i 'khor lo'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>rdzogs pa chen po rmad byung don gyi snying po rang
+byung bde ba'i 'khor lo'i rgyud gser gyi 'khril shing can zhes bya ba rdzogs so// //rgya gar gyi mkhan po bi ma la mi tra dang/ bod kyi lo tsa ba gnyag dznyA na ku ma ras bsgyur cing zhus te gtan la phab pa'o/ /myang ting 'dzin bzang po la bshad/ des gter du man ngag dang bcas pa bcug/ mgon po nag po rdo rje legs pa dang/ rdo rje rgyan gcig ma la gtad/ dbu ru gzong phug mo'i brag la sbas/ /'brom ye shes snying pos bton nas/ sras dbang phyug rgya mtsho la bshad/ des sras ye shes seng ge la gtad/ des rngog ston 'od 'bar la gtad/ des rong pa snubs chung ba dang/ myang ba rin chen gtsug tor la gtad pa'o</coloph>
+</item>
+
+<item>
+<rktsg>128</rktsg>
+<ref>Ggi006.009</ref>
+<loc><set>MWxxx</set><vol>cha</vol><voln>6</voln><json>Ixxx</json><psection>1</psection><p>251b-275b</p></loc>
+<tib>chos chen po rmad du byung ba</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>21</rktsg>
+<ref>Ggi006.010</ref>
+<loc><set>MWxxx</set><vol>cha</vol><voln>6</voln><json>Ixxx</json><psection>1</psection><p>275b-338b</p></loc>
+<tib>rdzogs pa chen po shin tu rnal 'byor sangs rgyas thams cad 'byung ba'i rgyud/ye shes chos kyi sku/don 'dus rig pa'i gsung /gsang ba thugs kyi ting 'dzin/ rang 'byung bde ba'i 'khor lo/mthar phyin 'bras bu'i rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>22</rktsg>
+<ref>Ggi006.011</ref>
+<loc><set>MWxxx</set><vol>cha</vol><voln>6</voln><json>Ixxx</json><psection>1</psection><p>338b-363a</p></loc>
+<tib>rdzogs pa chen po nges don 'dus pa'i yang snying/kun tu bzang po ye shes klong gi rgyud/rin po che gser gyi yang zhun</tib>
+<skttrans></skttrans>
+<coloph>rdzogs pa chen po ye shes klong gi rgyud ces bya ba/ nges don 'dus pa'i yang snying zhes kyang bya/ rin po che gser gyi yang zhun zhes kyang bya/ thugs kyi nying khu zhes kyang bya/ rin po che gser gyi 'dril shing can zhes kyang bya ba 'di rdzogs so// //rgya gar gyi mkhan po bi ma la mi tras bod du bsnams nas byon te/ myang ting nge 'dzin la bstan pa'o/ /des dbu ru bzong phug mo'i brag la sbas/ /'brom ye shes bla ma'i snying pos bton nas/ myang dbang phyug rgya mtsho la bshad/ des myang shes rab mchog la bshad/ des shangs pa lce chung ba la bshad do</coloph>
+</item>
+
+<item>
+<rktsg>985</rktsg>
+<ref>Ggi006.012</ref>
+<loc><set>MWxxx</set><vol>cha</vol><voln>6</voln><json>Ixxx</json><psection>1</psection><p>363a-365a</p></loc>
+<tib>ye shes glong gi le sdebs</tib>
+<skttrans></skttrans>
+<coloph>ye shes glong gi le sdebs rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>23</rktsg>
+<ref>Ggi007.001</ref>
+<loc><set>MWxxx</set><vol>ja</vol><voln>7</voln><json>Ixxx</json><psection>1</psection><p>1b-190b</p></loc>
+<tib>rdzogs pa chen po nges don thams cad 'dus pa/ye shes nam mkha' dang mnyam pa'i rgyud/lta sgom thams cad kyi snying po rin po che rnam par bkod pa</tib>
+<skttrans></skttrans>
+<coloph>chos dang theg pa thams cad kyi yang rtse/ lta ba thams cad kyi me long/ sgom pa thams cad kyi 'bral med/ spyod pa thams kyi la zlo/ dam tshig thams cad kyi bsrung mtshams/ 'bras bu thams cad kyi nye snying/ theg pa thams cad kyi zil gnon/ shes rab can gyi rgyud shing/ dman pa rnams skrag par byed pa ye shes nam mkha' dang mnyam pa'i spyi rgyud rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>25</rktsg>
+<ref>Ggi007.002</ref>
+<loc><set>MWxxx</set><vol>ja</vol><voln>7</voln><json>Ixxx</json><psection>1</psection><p>190b-235b</p></loc>
+<tib>rdzogs pa chen po ma rig mun pa rab tu sel bar byed pa'i lta ba ye shes gting nas rdzogs pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>rdzogs pa chen po ma rig mun pa sel bar byed pa'i lta ba ye shes gting nas rdzogs pa'i rgyud rdzogs so// //rin po che dngul gyi dril shing can 'di rgya gar gyi mkhan po bi ma la mi tra dang/ bod kyi lo tsa ba A tsarya dran pa'i ye shes kyi skad dang rgyud kyis bsgyur nas gtan la phab nas/ myang ting 'dzin bzang po lcags sgrom nag po'i nang du/ bse sgrom smug po'i nang du bcug ste dbu ru gzong phug mo'i brag tu bcug ste/ mkha' 'gro rdo rje rgyan gcig ma dang/ badzra sA dhu legs pa rtsal la gtad nas sbas pa/ 'brom ye shes snying pos bton nas myang dbang phyug rgya mtsho la gtad pa/ shangs pa lce chung ba ye shes la gtad pa rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>133</rktsg>
+<ref>Ggi007.003</ref>
+<loc><set>MWxxx</set><vol>ja</vol><voln>7</voln><json>Ixxx</json><psection>1</psection><p>218b-235b</p></loc>
+<tib>rdzogs pa chen po'i lta ba ye shes gting rdzogs kyi rgyud</tib>
+<skttrans></skttrans>
+<coloph>rdzogs pa chen po lta ba ye shes gting rdzogs kyi rgyud 'di u rgyan gyi yul bye ma la g.yung drung nas/ sing ga la slob dpon dharma gar bas u rgyan gyi slob dpon ma hA bo dhi la bshad/ des a tsa ra dran pa'i ye shes kyis bod yul du bsnams nas byon pa'o/ ston pa'i thugs dam lags so/ /rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>26</rktsg>
+<ref>Ggi007.004</ref>
+<loc><set>MWxxx</set><vol>ja</vol><voln>7</voln><json>Ixxx</json><psection>1</psection><p>235b-258b</p></loc>
+<tib>rdzogs pa chen po lta ba thams cad kyi snying po'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>sangs rgyas thams cad kyi dgongs pa rdzogs pa chen po mi nub pa'i rgyal mtshan rdo rje'i man ngag hor thon/ lta ba thams cad kyi snying po'i rgyud rin po che bkod pa'i rgyud ces bya ba rdzogs so// //man ngag thams cad kyi snying po yang snying rin po che gter gyi sgron ma gsang ba yang gsang gi rgyud snod med rnams la gsang ngo</coloph>
+</item>
+
+<item>
+<rktsg>124</rktsg>
+<ref>Ggi007.005</ref>
+<loc><set>MWxxx</set><vol>ja</vol><voln>7</voln><json>Ixxx</json><psection>1</psection><p>258b-273b</p></loc>
+<tib>rin po che 'khor lo rtsegs pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>rin po che 'khor lo rtsegs pa'i rgyud ces bya ba thun mong ma yin pa'i rgyud chen po rdzogs so// //bi ma la dang dpal brtsegs kyi 'gyur</coloph>
+</item>
+
+<item>
+<rktsg>396</rktsg>
+<ref>Ggi007.006</ref>
+<loc><set>MWxxx</set><vol>ja</vol><voln>7</voln><json>Ixxx</json><psection>1</psection><p>273b-277b</p></loc>
+<tib>rin po che gdams ngag sna tshogs 'khor lo'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>bsam yas dpal gyi phugs rings su/ /rjes 'bangs gnyis kyis gnog pa'i chos so/ /rgyal ba thugs rgyud ma chad pa/ /gang zag snyan brgyud ma chad pa/ /gcig nas gcig tu brgyud pa'i don/ /man ngag kun la ma grags pa/ /'khor lo'i rgyud 'grel man ngag bcas/ /mnyan na shes rab bdag la babs/ /e ma bdag nyid rtogs pa'i nyi ma shar/ /kun la yod na ngo mtshar med/ /des na kun la gsang ba'o/ /re re las ma gtogs pa bka' rgya btab po</coloph>
+</item>
+
+<item>
+<rktsg>94</rktsg>
+<ref>Ggi007.007</ref>
+<loc><set>MWxxx</set><vol>ja</vol><voln>7</voln><json>Ixxx</json><psection>1</psection><p>277b-288a</p></loc>
+<tib>rin po che gdams ngag sna tshogs 'khor lo bskor ba'i rgyud phyi ma</tib>
+<skttrans></skttrans>
+<coloph>sprul pa'i rgyud phyi ma i thi</coloph>
+</item>
+
+<item>
+<rktsg>118</rktsg>
+<ref>Ggi007.008</ref>
+<loc><set>MWxxx</set><vol>ja</vol><voln>7</voln><json>Ixxx</json><psection>1</psection><p>288a-321b</p></loc>
+<tib>byang chub sems kyi man ngag rin chen 'phreng ba</tib>
+<skttrans></skttrans>
+<coloph>lta ba thams cad kyi gnad/ man ngag thams cad kyi thems/ bstan pa thams cad kyi bcud phyung nas don man ngag tu sdebs pa/ bang mdzod 'phrul gyi lde mig ces bya ba/ gsang ba'i bdag pos rdo rje sems dpa' la gdams pa'i rim pa bkod pa'i mdo rdzogs so// //rgya gar gyi mkhan po shrI singha dang/ bod kyi lo tsa ba bee ro tsa nas bsgyur ba'o</coloph>
+</item>
+
+<item>
+<rktsg>405</rktsg>
+<ref>Ggi007.009</ref>
+<loc><set>MWxxx</set><vol>ja</vol><voln>7</voln><json>Ixxx</json><psection>1</psection><p>321b-331b</p></loc>
+<tib>man ngag thams cad kyi sdom</tib>
+<skttrans></skttrans>
+<coloph>lta ba thams cad kyi gnad/ man ngag thams cad kyi sdom/ tan tra thams cad kyi bcud phyung nas don bsdus pa bang mdzod 'phrul gyi lde mig ces bya ba/ gsang ba'i bdag pos sems dpa' rdo rje la gdams ngag rim par phog pa rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>120</rktsg>
+<ref>Ggi007.010</ref>
+<loc><set>MWxxx</set><vol>ja</vol><voln>7</voln><json>Ixxx</json><psection>1</psection><p>331b-338b</p></loc>
+<tib>bang mdzod 'phrul gyi me long</tib>
+<skttrans></skttrans>
+<coloph>bang mdzod 'phrul gyi me long las/ rgyud phyi ma'i phyi mar byas pa ma tshang ba kha bskang ba rdzogs so// //'jam dpal bshes gnyen/ shrI shing ha/ des bhi ma la/ des g.yu sgra snying po/ de dznya na/ des sangs rgyas rin po che/ des sgrags kyi yang mdzod (=rdzong) du su la yang ma spel bar thugs kyi dgongs pa de la mdzad do/ /tha ma 'gar sras la yang thugs ma ches par/ man ngag gzhag pa'i snod ma rnyed nas dar dril bu tshigs su bcad nas sbas so/ /las 'phro can dang phrad par shog</coloph>
+</item>
+
+<item>
+<rktsg>963</rktsg>
+<ref>Ggi007.011</ref>
+<loc><set>MWxxx</set><vol>ja</vol><voln>7</voln><json>Ixxx</json><psection>1</psection><p>338b-353a</p></loc>
+<tib>dpal kun tu bzang po bde ba chen po'i man ngag</tib>
+<skttrans></skttrans>
+<coloph>yang 'byed 'phrul gyi lde mig las/ man ngag lus tshad kyi rgyud phyi mar byas pa'o/ /dgongs pa'i don mdor bsdus pa tshig le'ur byas pa/ rang snang gi ston pa kun tu bzang po la/ zer gyi sdud pa po rdo rje sems dpas man ngag gi don yang nas yang du zhus pa'i don yang 'byed 'phrul gyi lde mig ces kyang bya/ kun tu bzang po bde ba chen po'i man ngag ces kyang bya rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>83</rktsg>
+<ref>Ggi007.012</ref>
+<loc><set>MWxxx</set><vol>ja</vol><voln>7</voln><json>Ixxx</json><psection>1</psection><p>353a-362b</p></loc>
+<tib>dur khrod phung po 'bar ba man ngag gi rgyud</tib>
+<skttrans></skttrans>
+<coloph>dur khrod phung po 'bar ba'i man ngag gi rgyud rdzogs so// //slob dpon bi ma las mnga' bdag la gdams pa/ gzhan la bstan pa gyur na sgrol byed chen pos snying khrag 'jib/ ces gdams so</coloph>
+</item>
+
+<item>
+<rktsg>48</rktsg>
+<ref>Ggi007.013</ref>
+<loc><set>MWxxx</set><vol>ja</vol><voln>7</voln><json>Ixxx</json><psection>1</psection><p>362b-367a</p></loc>
+<tib>skye med ka dag zang ka'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>skye med ka dag gi rgyud rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>46</rktsg>
+<ref>Ggi007.014</ref>
+<loc><set>MWxxx</set><vol>ja</vol><voln>7</voln><json>Ixxx</json><psection>1</psection><p>367a-375a</p></loc>
+<tib>dri med ka dag gi rgyud rin po che 'od gsal ba chen po</tib>
+<skttrans></skttrans>
+<coloph>rdzogs pa chen po dri med ka dag gi rgyud rdzogs so// //gter gyi snying po dgongs pa'i zhe phugs so/ /'di dol nas gdan drangs pa yin</coloph>
+</item>
+
+<item>
+<rktsg>90</rktsg>
+<ref>Ggi007.015</ref>
+<loc><set>MWxxx</set><vol>ja</vol><voln>7</voln><json>Ixxx</json><psection>1</psection><p>375a-381a</p></loc>
+<tib>rdo rje gsang ba chen po'i sku rin po che dbyig gi sgron ma shes rab chen po'i mdo</tib>
+<skttrans></skttrans>
+<coloph>bya btsal med pa gsang ba rin po che dbyig gi sgron ma skad 'gyur bzhi pa rdzogs so// //dbu gru smon lam seng ge nas brgyud pa/ jo sras sbas kyi thugs dam mo/ /khong la mgo ban nor bus zhus so</coloph>
+</item>
+
+<item>
+<rktsg>125</rktsg>
+<ref>Ggi007.016</ref>
+<loc><set>MWxxx</set><vol>ja</vol><voln>7</voln><json>Ixxx</json><psection>1</psection><p>381a-395b</p></loc>
+<tib>byang chub kyi sems nya mo bag la nyal</tib>
+<skttrans></skttrans>
+<coloph>bi ma la dang bee ro'i 'gyur</coloph>
+</item>
+
+<item>
+<rktsg>467</rktsg>
+<ref>Ggi007.017</ref>
+<loc><set>MWxxx</set><vol>ja</vol><voln>7</voln><json>Ixxx</json><psection>1</psection><p>395b-412b</p></loc>
+<tib>thag ring du 'gro ba nam mkha'i mtha' dang mnyam pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>a sa mun dza nam mkha dang mnyam pa'i rgyud rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>113</rktsg>
+<ref>Ggi007.018</ref>
+<loc><set>MWxxx</set><vol>ja</vol><voln>7</voln><json>Ixxx</json><psection>1</psection><p>412b-428a</p></loc>
+<tib>rgyud kyi rgyal po gser gyi rus sbal rdo rje thig pa rtsa ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>rgyud kyi rgyal po gser gyi rus sbal rdo rje theg pa rtsa ba'i rgyud/ rgyud kyi ma mo/ sems phyogs kyi phyi mo/ lta ba thams cad kyi phugs/ dgongs pa'i gdeng rdzogs so// sa ma ya so phag shi kha tham/ /nor 'dod bu pho dge slong bdag 'dra yis/ /rin chen sna lnga'i snying po gser khyer nas/ /rin chen srog lam 'dzems dka' ba'i la rnams brgal/ /nges pa'i snying po byang sems rgyud smad rtsa gnyis btsal/ /'jam dpal gshes (=bshes) gnyen bla ma dang/ /bdag 'dra bee ro tsa na yis/ /sgra skad bstun te chan la phab nas kyang/ /bod kyi yul du rmongs pa tshan gsum byung ba cha mchis nas/ 'dir drangs mnga' bdag rgyal po nyid kyi phyag tu phul/ /rmongs pa tshan gsum dus na dar bar shog/ Dang po bee ro tsa nas bsgyur/ de nas lho brag nas khyung grags kyi gter nas bton pa'o</coloph>
+</item>
+
+<item>
+<rktsg>468</rktsg>
+<ref>Ggi008.001</ref>
+<loc><set>MWxxx</set><vol>nya</vol><voln>8</voln><json>Ixxx</json><psection>1</psection><p>1b-9a</p></loc>
+<tib>byang chub sems thig pa nyi shu rtsa gnyis pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>bde bar gshegs pa'i thugs mngon du ston pa'o/ /nges pa'i thig le/ rgya rgya rgya</coloph>
+</item>
+
+<item>
+<rktsg>469</rktsg>
+<ref>Ggi008.002</ref>
+<loc><set>MWxxx</set><vol>nya</vol><voln>8</voln><json>Ixxx</json><psection>1</psection><p>9a-10b</p></loc>
+<tib>byang chub kyi sems man ngag khyung chen lding ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>byang chub kyi sems man ngag khyung chen lding ba'i rgyud/ sa ma ya so phag thi thams/ rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>470</rktsg>
+<ref>Ggi008.003</ref>
+<loc><set>MWxxx</set><vol>nya</vol><voln>8</voln><json>Ixxx</json><psection>1</psection><p>10b-12a</p></loc>
+<tib>byang chub sems kyi man ngag seng chen mchongs pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>byang chub sems kyi man ngag seng ge mchongs pa'i rgyud/ i thi/ rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>471</rktsg>
+<ref>Ggi008.004</ref>
+<loc><set>MWxxx</set><vol>nya</vol><voln>8</voln><json>Ixxx</json><psection>1</psection><p>12a-13a</p></loc>
+<tib>byang chub sems ngang mo 'gros kyi rgyud</tib>
+<skttrans></skttrans>
+<coloph>byang chub sems ngang mo 'gros kyi rgyud/ sa ma ya so phag shi thams/ rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>472</rktsg>
+<ref>Ggi008.005</ref>
+<loc><set>MWxxx</set><vol>nya</vol><voln>8</voln><json>Ixxx</json><psection>1</psection><p>13a-14b</p></loc>
+<tib>byang chub kyi sems man ngag rig pa'i khu byug gsung gi rgyud</tib>
+<skttrans></skttrans>
+<coloph>byang chub kyi sems man ngag rig pa'i khu byug gsung gi rgyud/ sa ma ya so phag shi tham/ rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>473</rktsg>
+<ref>Ggi008.006</ref>
+<loc><set>MWxxx</set><vol>nya</vol><voln>8</voln><json>Ixxx</json><psection>1</psection><p>14b-16a</p></loc>
+<tib>byang chub sems kyi spyi lung chen po rdzogs pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>byang chub sems kyi spyi lung chen po rdzogs pa'i rgyud/ byang chub sems lta ba'i man ngag gi bu lnga/ lta ba don gyi bca' bzhi rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>474</rktsg>
+<ref>Ggi008.007</ref>
+<loc><set>MWxxx</set><vol>nya</vol><voln>8</voln><json>Ixxx</json><psection>1</psection><p>16a-18a</p></loc>
+<tib>man ngag rig pa klong rdzogs kyi rgyud</tib>
+<skttrans></skttrans>
+<coloph>man ngag rig pa klong rdzogs kyi rgyud rdzogs so// //dge slong bee ro tsa na la/ rdo rje sems dpa'i thugs kyi gter/ mkhas pa'i gdams ngag brgyud pa 'di/ /rdo rje yang dag rtsal la sogs/ /skal ldan re las ma gtogs pa/ /gcig la mi snub gnyis la mi spel te/ /thugs kyi gter du bcang zhing sems la bslan</coloph>
+</item>
+
+<item>
+<rktsg>475</rktsg>
+<ref>Ggi008.008</ref>
+<loc><set>MWxxx</set><vol>nya</vol><voln>8</voln><json>Ixxx</json><psection>1</psection><p>18a-19a</p></loc>
+<tib>rdzogs pa chen po rnal 'byor chos nyid kyi rgyud</tib>
+<skttrans></skttrans>
+<coloph>rnal 'byor rdzogs pa chen po chos nyid kyi rgyud rdzogs so// //slob dpon padmas sgra rang 'gyur du bsgyur ba'o</coloph>
+</item>
+
+<item>
+<rktsg>476</rktsg>
+<ref>Ggi008.009</ref>
+<loc><set>MWxxx</set><vol>nya</vol><voln>8</voln><json>Ixxx</json><psection>1</psection><p>19a-20a</p></loc>
+<tib>dpal ldan dgyes pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>dpal ldan dgyes pa'i rgyud rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>477</rktsg>
+<ref>Ggi008.010</ref>
+<loc><set>MWxxx</set><vol>nya</vol><voln>8</voln><json>Ixxx</json><psection>1</psection><p>20a-21a</p></loc>
+<tib>mngon shes rig pa'i rgyal po'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>mngon shes rig pa'i rgyal po'i rgyud/ /rig pa'i gnad dgu zhes bya ba rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>478</rktsg>
+<ref>Ggi008.011</ref>
+<loc><set>MWxxx</set><vol>nya</vol><voln>8</voln><json>Ixxx</json><psection>1</psection><p>21a-29a</p></loc>
+<tib>bskal pa dum bu 'bar ba sgron ma snang ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>rgyud kyi rgyal po bskal pa dum bu 'bar ba'i rgyud/ mkha' 'gro ma'i lag nas byung ba rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>479</rktsg>
+<ref>Ggi008.012</ref>
+<loc><set>MWxxx</set><vol>nya</vol><voln>8</voln><json>Ixxx</json><psection>1</psection><p>29a-33b</p></loc>
+<tib>rin po che sna tshogs ral gri'i rgyud</tib>
+<skttrans></skttrans>
+<coloph>rin po che sna tshogs ral gri'i rgyud rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>480</rktsg>
+<ref>Ggi008.013</ref>
+<loc><set>MWxxx</set><vol>nya</vol><voln>8</voln><json>Ixxx</json><psection>1</psection><p>33b-34b</p></loc>
+<tib>rin po che 'od 'bar ba</tib>
+<skttrans></skttrans>
+<coloph>rin po che 'od bar ba rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>481</rktsg>
+<ref>Ggi008.014</ref>
+<loc><set>MWxxx</set><vol>nya</vol><voln>8</voln><json>Ixxx</json><psection>1</psection><p>34b-35a</p></loc>
+<tib>ye shes rab gnas</tib>
+<skttrans></skttrans>
+<coloph>ye shes rab gnas rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>482</rktsg>
+<ref>Ggi008.015</ref>
+<loc><set>MWxxx</set><vol>nya</vol><voln>8</voln><json>Ixxx</json><psection>1</psection><p>35a-35b</p></loc>
+<tib>mya ngan las 'das pa'i sgron ma</tib>
+<skttrans></skttrans>
+<coloph>mya ngan las 'das pa'i sgron ma rdzogs so</coloph>
+</item>
+
+<item>
+<rktsg>483</rktsg>
+<ref>Ggi008.016</ref>
+<loc><set>MWxxx</set><vol>nya</vol><voln>8</voln><json>Ixxx</json><psection>1</psection><p>35b-36a</p></loc>
+<tib>byang chub sems klong yangs pa'i dkyil 'khor</tib>
+<skttrans></skttrans>
+<coloph>byang chub sems klong yangs pa'i dkyil 'khor rdzogs so</coloph>
+</item>
+
+186
 ###
 
 <item>
 <rktsg></rktsg>
-<ref>Ggi003.001</ref>
-<loc><set>MWxxx</set><vol>ga</vol><voln>1</voln><json>Ixxx</json><psection>1</psection><p></p></loc>
+<ref>Ggi008.001</ref>
+<loc><set>MWxxx</set><vol>nya</vol><voln>8</voln><json>Ixxx</json><psection>1</psection><p></p></loc>
 <tib></tib>
 <skttrans></skttrans>
 <coloph></coloph>
