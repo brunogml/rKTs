@@ -2608,6 +2608,7 @@ rkts834
 <StandardTibetan>phrin las phun sum tshogs pa'i rgyud ces bya ba<source>Gpb</source></StandardTibetan>
 <tib>phrin las phun sum tshogs pa'i rgyud ces bya ba</tib>
 <tib>phrin las phun sum tshogs pa'i rgyud</tib>
+<tib> 'phrin las phun sum tshogs pa'i rgyud ces bya ba</tib>
 </item>
 
 <item>
@@ -2633,6 +2634,7 @@ rkts834
 <StandardTibetan>phur bu yak+Sha za byed 'bar ba'i dam tshig gi rgyud<source>Gpb</source></StandardTibetan>
 <tib>phur bu yak+Sha za byed 'bar ba'i dam tshig gi rgyud</tib>
 <tib>phur pa yak+sha za byed 'bar ba dam tshig gi rgyud</tib>
+<tib>phur pa yak+Sha za byed 'bar ba dam tshig gi rgyud</tib>
 </item>
 
 <item>
@@ -2670,6 +2672,7 @@ rkts834
 <section>rnying</section>
 <StandardTibetan>khro bo dbyug pa sngon pa'i rgyud<source>Gpb</source></StandardTibetan>
 <tib>khro bo dbyug pa sngon pa'i rgyud</tib>
+<tib>khro bo dbyug pa sngon po'i rgyud</tib>
 </item>
 
 <item>
@@ -2899,6 +2902,7 @@ rkts834
 <StandardTibetan>yum gzungs ma'i dngos grub chen po'i rgyud<source>Gpb</source></StandardTibetan>
 <tib>yum gzungs ma'i dngos grub chen po'i rgyud</tib>
 <tib>yum gzung ma'i dngos grub chen po'i rgyud</tib>
+<cmp><ref>G949</ref><type>SameTitle</type></cmp>
 </item>
 
 <item>
@@ -2926,7 +2930,8 @@ rkts834
 <tib>sngags kyi srung ma dpal e ka dzA TI'i rgyud ces bya ba</tib>
 <tib>sngags kyi srungs ma dpal e ka dza ti'i rgyud</tib>
 <tib>sngags kyi bsrung ma e ka dza tri'i rgyud</tib>
-<tib>sngags kyi bsrungs ma dpal e' ka dza' ti rgyud zhes bya ba</tib>
+<tib>sngags kyi bsrungs ma dpal E ka dzA ti rgyud zhes bya ba</tib>
+<tib>sngags kyi bsrungs ma dpal E ka dzA Ti rgyud zhes bya ba</tib>
 </item>
 
 <item>
@@ -7504,6 +7509,7 @@ rkts834
 <StandardTibetan>yum gzung ma'i dngos grub chen po'i rgyud<source>Gpb</source></StandardTibetan>
 <tib>yum gzung ma'i dngos grub chen po'i rgyud</tib>
 <tib>yum gzungs ma'i dngos grub chen po'i rgyud</tib>
+<cmp><ref>G336</ref><type>SameTitle</type></cmp>
 </item>
 
 <item>
@@ -7872,6 +7878,20 @@ rkts834
 <section>rnying</section>
 <StandardTibetan>'phags pa 'jam dpal gshin rje'i rgyal po ma ru tse thugs kyi rgyud<source>Ggi</source></StandardTibetan>
 <tib>'phags pa 'jam dpal gshin rje'i rgyal po ma ru tse thugs kyi rgyud</tib>
+</item>
+
+<item>
+<rktsg>1001</rktsg>
+<section>rnying</section>
+<StandardTibetan>rdo rje phur pa chen po gsod byed 'bar ba'i rgyud<source>Ggi</source></StandardTibetan>
+<tib>rdo rje phur pa chen po gsod byed 'bar ba'i rgyud</tib>
+</item>
+
+<item>
+<rktsg>1002</rktsg>
+<section>rnying</section>
+<StandardTibetan>phur pa bcu gnyis 'byung ba'i rgyud chung du bstan pa<source>Ggi</source></StandardTibetan>
+<tib>phur pa bcu gnyis 'byung ba'i rgyud chung du bstan pa</tib>
 </item>
 
 
