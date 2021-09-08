@@ -4531,7 +4531,9 @@
 <skttrans>gaN DI sU tra</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, ma</vol><voln>63</voln><json>1PD127522</json><psection>mdo sde</psection><p>292b4-296a5</p></loc>
 <coloph>gaN+Ti'i mdo rdzogs so// //rgya gar gyi mkhan po d+har+ma shrI b+ha dra dang / lo tsa ba dge slong tshul khrims yon tan gyis bsgyur/ zhu chen gyi lo tsa ba dge slong rin chen bzang pos bcos te gtan phab pa//</coloph>
-<translator>lo chen rin chen bzang po</translator>
+<translator>dharmaśrībhadra</translator>
+<translator>tshul khrims yon tan</translator>
+<reviser>rin chen bzang po</reviser>
 <note></note>
 </item>
 
@@ -4572,6 +4574,8 @@
 <skttrans>Ar+ya pra t+yud pan na bud+d+ha sa ma mu kha a bas+thi ta sa mA d+hi nA ma hA yA sU tra</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, ma</vol><voln>63</voln><json>1PD127522</json><psection>mdo sde</psection><p>304b7-417b2</p></loc>
 <coloph>'phags pa da ltar gyi sangs rgyas mngon sum du bzhugs pa'i ting nge 'dzin ces bya ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi mkhan po shAk+ya pra b+hA dang / zhu chen gyi lo tsa ba ban d+he ratn+a rak+Shi tas zhus te gtan la phab pa//</coloph>
+<translator>śākyaprabha</translator>
+<translator>ratnarakṣita</translator>
 <note></note>
 <chap><no>1</no>bzang skyong gis zhus pa'i ting nge 'dzin gyi le'u ste dang po'o<loc><set>MW1PD127393</set><vol>mdo, ma</vol><voln>63</voln><json>1PD127522</json><psection>mdo sde</psection><p>314b1</p></loc></chap>
 <chap><no>2</no>bzang skyong gis zhus pa'i ting nge 'dzin gyi le'u ste gnyis pa'o<loc><set>MW1PD127393</set><vol>mdo, ma</vol><voln>63</voln><json>1PD127522</json><psection>mdo sde</psection><p>318b2</p></loc></chap>
@@ -4618,6 +4622,8 @@
 <loc><set>MW1PD127393</set><vol>mdo, tsa</vol><voln>64</voln><json>1PD127523</json><psection>mdo sde</psection><p>1b1-12a7</p></loc>
 <coloph>'phags pa phyogs bcu'i mun pa rnam par sel ba zhes bya ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi mkhan po bi shud d+ha sing ha dang / lo ts+tsha ba ban+d+he rtsangs de ben dra rak+Shi tas bsgyur/ zhu chen gyi lo tsa ba ban+d+he klu'i rgyal mtshan gyis zhu chen bgyis te gtan la phab pa//</coloph>
 <translator>viśuddhasiṃha</translator>
+<translator>devendrarakṣita</translator>
+<reviser>klu'i rgyal mtshan</reviser>
 <note>Missing folios: 2-3.</note>
 </item>
 
@@ -4638,7 +4644,8 @@
 <skttrans>ma hA san ni pa tAd ma hA yA na sU trad ta thA ga tra shrI sa ma yan nA ma ma hA yA na sU trAn</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, tsa</vol><voln>64</voln><json>1PD127523</json><psection>mdo sde</psection><p>106a7-158b7</p></loc>
 <coloph>'dus pa chen po theg pa chen po'i mdo sde las/ /de bzhin gshegs pa'i dpal gyi dam tshig ces bya ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi mkhan po sar+ba dz+nyA de ba dang / zhu chen gyi lo tsa ba ban d+he dpal brtsegs kyis bsgyur cing zhus nas gtan la phab pa/ bya ba'i rgyud du gtogs so//</coloph>
-<translator>ska ba dpal brtsegs</translator>
+<translator>sarvajñādeva</translator>
+<translator>dpal brtsegs</translator>
 <note>The short editorial comment at the end of the colophon is also found in S and V but not in D.</note>
 <bampo>1.<loc><set>MW1PD127393</set><vol>mdo, tsa</vol><voln>64</voln><json>1PD127523</json><psection>mdo sde</psection><p>106b1</p></loc></bampo>
 <bampo>2.<loc><set>MW1PD127393</set><vol>mdo, tsa</vol><voln>64</voln><json>1PD127523</json><psection>mdo sde</psection><p>124b7</p></loc></bampo>
@@ -4655,8 +4662,10 @@
 <skttrans>Ar+ya sar+ba ta thA ga ta a d+hi Sh+Tha na sat+wa A lo ka na bud+d+ha k+she tra san dar sha na b+yu ha nA ma mahA yA na sU tra</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, tsa</vol><voln>64</voln><json>1PD127523</json><psection>mdo sde</psection><p>159a1-192a1</p></loc>
 <coloph>'phags pa de bzhin gshegs pa thams cad kyi byin gyi rlabs sems can la gzigs shing / sangs rgyas kyi zhing bkod pa kun tu ston pa zhes bya ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi mkhan po dzi na mi tra dang / su ren dra bo d+hi dang / zhu chen gyi lo tsha ba ban+d+he ye shes sdes zhus te gtan la phab pa/ ban+d+he klu'i rgyal mtshan gyis bsgyur// bya ba'i rgyud sder gtogs so//</coloph>
-<translator>jinamitra</translator>
-<translator>surendrabodhi</translator>
+<reviser>jinamitra</reviser>
+<reviser>surendrabodhi</reviser>
+<reviser>ye shes sde</reviser>
+<translator>klu'i rgyal mtshan</translator>
 <note>The short editorial comment at the end of the colophon is also found in S and V but not in D.</note>
 </item>
 
@@ -4678,6 +4687,8 @@
 <skttrans>Ar+ya rat+na me g+ha nA ma ma hA yA na sU tra</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, tsa</vol><voln>64</voln><json>1PD127523</json><psection>mdo sde</psection><p>237a2-436a7</p></loc>
 <coloph>'phags pa dkon mchog sprin ces bya ba theg pa chen po'i mdo rdzogs so// //zhu chen gyi lo tsa ba ban+d+he bai ro tsa na ra k+Shi ta dang / d+har+ma tA shi las zhus te gtan la phab pa/ skad gsar bcad kyis kyang bcos lags so//</coloph>
+<reviser>vairocanarakṣita</reviser>
+<reviser>dharmatāśīla</reviser>
 <note>The colophon in D mentions different translators and revisers; S and V concur with Z.</note>
 <bampo>1.<loc><set>MW1PD127393</set><vol>mdo, tsa</vol><voln>64</voln><json>1PD127523</json><psection>mdo sde</psection><p>237a3</p></loc></bampo>
 <bampo>2.<loc><set>MW1PD127393</set><vol>mdo, tsa</vol><voln>64</voln><json>1PD127523</json><psection>mdo sde</psection><p>267b5</p></loc></bampo>
@@ -4695,7 +4706,9 @@
 <skttrans>Ar+ya dz+nyA na ka sU tra bud d+ha a ba dA na</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, tsa</vol><voln>64</voln><json>1PD127523</json><psection>mdo sde</psection><p>436a7-440b6</p></loc>
 <coloph>'phags pa sangs rgyas kyi rtogs pa brjod pa shes ldan gyis mdo rdzogs so// //rgya gar gyi mkhan po bid+ya ka ra sing ha dang / sar+ba dz+nyA de wa dang / zhu chen gyi lo tsa ba ban+d+he dpal brtsegs kyis bsgyur cing zhus te gtan la phab pa//</coloph>
-<translator>ska ba dpal brtsegs</translator>
+<translator>vidyākarasiṃha</translator>
+<translator>sarvajñādeva</translator>
+<translator>dpal brtsegs</translator>
 <note></note>
 </item>
 
@@ -4706,7 +4719,9 @@
 <skttrans>sh+rI se na a ba dA nAM</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, tsa</vol><voln>64</voln><json>1PD127523</json><psection>mdo sde</psection><p>440b6-472a6</p></loc>
 <coloph>rgyal po dpal gyi sde'i rtogs pa brjod pa rdzogs so// /rgya gar gyi mkhan po d+har+ma sh+rI b+ha dra dang / zhu chen gyi lo ts+tsha ba dge slong shes rab legs pas bsgyur/ sgra bsgyur gyi lo ts+tsha ba chen po dge slong rin chen bzang pos bcos te gtan la phab pa//</coloph>
-<translator>lo chen rin chen bzang po</translator>
+<translator>dharmaśrībhadra</translator>
+<translator>shes rab legs pa</translator>
+<reviser>rin chen bzang po</reviser>
 <volcoloph>Revision note at the end of the volume in smaller dbu can script: ma dpe ci 'dra'i zhus dag pa mul lto zangs dkar ras pa dang/ tog pa dge slong don grub lags so// bkra shis//.</volcoloph>
 <note></note>
 </item>
@@ -4718,9 +4733,9 @@
 <skttrans></skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, tsha</vol><voln>65</voln><json>1PD127524</json><psection>mdo sde</psection><p>1b1-149b4</p></loc>
 <coloph>'dus pa chen po'i le'u las 'phags pa nam mkha' mdzod kyis zhus pa zhes bya ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi mkhan po bi dza ya shI la dang / shI len dra bo d+he dang / zhu chen gyi lo tsa ba ban d+he ye shes sdes bsgyur cing zhus te/ skad gsar bcad kyis kyang bcos nas gtan la phab pa//</coloph>
-<translator>sumati</translator>
-<translator>śīlendrabodhi</translator>
 <translator>vijayaśīla</translator>
+<translator>śīlendrabodhi</translator>
+<translator>ye shes sde</translator>
 <note>The Tibetan title is taken from the colophon. The identification at the beginning of the text gives the name of a different text in both Sanskrit and Tibetan: rgya khar skad du/ Ar+ya ku sha la mu la saM pa ri gra ha nA ma ma hA yA na sU tra/ bod skad du/ 'phags pa dge ba'i rtsa ba yongs su 'dzin pa zhes bya ba theg pa chen po'i mdo. Even though the folio is marked as belonging to volume tsha, at one point it was obviously confused with the first folio of volume mdo tha.</note>
 <bampo>1.<loc><set>MW1PD127393</set><vol>mdo, tsha</vol><voln>65</voln><json>1PD127524</json><psection>mdo sde</psection><p>1b3</p></loc></bampo>
 <bampo>2.<loc><set>MW1PD127393</set><vol>mdo, tsha</vol><voln>65</voln><json>1PD127524</json><psection>mdo sde</psection><p>22b5</p></loc></bampo>
@@ -4739,7 +4754,10 @@
 <skttrans>Ar+ya na ga ra A ba laM bi kA nA mahA ya na sU tra</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, tsha</vol><voln>65</voln><json>1PD127524</json><psection>mdo sde</psection><p>149b5-152b3</p></loc>
 <coloph>'phags pa grong khyer gyis 'tsho ba zhes bya ba theg pa chen po'i mdo rdzog+s so// //rgya gar gyi mkhan po dz+nyA na gar+b+ha dang / lo ts+tsha ba ban d+he klu'i dbang pos bsgyur/ rgya gar gyi mkhan po bid d+ya ka ra sing ha dang / zhu chen gyi lo ts+tsha ba ban d+he de ba tsan dras zhus te gtan la phab pa//</coloph>
-<translator>jñānagarbha Śaṃkara</translator>
+<translator>jñānagarbha</translator>
+<translator>klu'i dbang po</translator>
+<reviser>vidyākarasiṃha</reviser>
+<reviser>devacandra</reviser>
 <note></note>
 </item>
 
@@ -4751,6 +4769,7 @@
 <loc><set>MW1PD127393</set><vol>mdo, tsha</vol><voln>65</voln><json>1PD127524</json><psection>mdo sde</psection><p>152b3-167a1</p></loc>
 <coloph>'phags pa tshangs pas zhus pa zhes bya ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi mkhan po dzi na mi tra dang / zhu chen gyi lo ts+tsha ba ban d+he ye shes sdes bsgyur cing zhus te gtan la phab pa//</coloph>
 <translator>jinamitra</translator>
+<translator>ye shes sde</translator>
 <note></note>
 </item>
 
@@ -4762,6 +4781,7 @@
 <loc><set>MW1PD127393</set><vol>mdo, tsha</vol><voln>65</voln><json>1PD127524</json><psection>mdo sde</psection><p>167a1-180b7</p></loc>
 <coloph>'phags pa rin po che'i mtha' zhes bya ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi mkhan po pra dz+nyA bar ma dang / zhu chen gyi lo ts+tsha ba ban d+he ye shes sde la sogs pas bsgyur cing zhus te gtan la phab pa//</coloph>
 <translator>prajñāvarman</translator>
+<translator>ye shes sde</translator>
 <note></note>
 </item>
 
@@ -4772,7 +4792,12 @@
 <skttrans>Ar+ya bi she sha tsin ti b+rah+ma pa ri prid tsha nA ma mahA yA na sU tra</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, tsha</vol><voln>65</voln><json>1PD127524</json><psection>mdo sde</psection><p>180b7-307b3</p></loc>
 <coloph>'phags pa tshangs pa khyad par sems kyis zhus pa zhes bya ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi mkhan po shAk+ya pra b+ha dang / d+har+ma pA la dang / dzi na mi tra dang / zhu chen gyi lo ts+tsha ba ban d+he d+har+mA tA shI la dang / bar zhus kyi lo ts+tsha ba ban d+he de ben drA shI la dang / ku ma ra shI la la sogs pas zhus te gtan la phab pa//</coloph>
-<translator>jinamitra</translator>
+<reviser>śākyaprabha</reviser>
+<reviser>dharmapāla</reviser>
+<reviser>jinamitra</reviser>
+<reviser>dharmatāśīla</reviser>
+<reviser>devendraśīla</reviser>
+<reviser>kumāraraśīla</reviser>
 <note>The names of the revisers differ slightly from D; S and V concur with Z.</note>
 <bampo>1.<loc><set>MW1PD127393</set><vol>mdo, tsha</vol><voln>65</voln><json>1PD127524</json><psection>mdo sde</psection><p>181a1</p></loc></bampo>
 <bampo>2.<loc><set>MW1PD127393</set><vol>mdo, tsha</vol><voln>65</voln><json>1PD127524</json><psection>mdo sde</psection><p>201b1</p></loc></bampo>
@@ -4789,7 +4814,8 @@
 <skttrans>Ar+ya dru ma kin na rA dzA pa ri prid tsha nA ma mahA yA na sU tra</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, tsha</vol><voln>65</voln><json>1PD127524</json><psection>mdo sde</psection><p>307b3-411a3</p></loc>
 <coloph>'phags pa mi 'am ci'i rgyal po ljon pas zhus pa zhes bya ba theg pa chen po'i mdo rdzogs so// //zhu chen gyi lo tsa ba ban+d+he dpal gyi lhun po dang / ban+d+he dpal brtsegs rak+Shi tas bsgyur cing zhus te gtan la phab pa//</coloph>
-<translator>ska ba dpal brtsegs</translator>
+<translator>dpal gyi lhun po</translator>
+<translator>dpal brtsegs rakṣita</translator>
 <note>There is a slight difference in the phrasing of the title in D; S and V concur with Z. Missing folios: 349b and 350a, 409b and 410a.</note>
 </item>
 
@@ -4801,6 +4827,7 @@
 <loc><set>MW1PD127393</set><vol>mdo, tsha</vol><voln>65</voln><json>1PD127524</json><psection>mdo sde</psection><p>411a3-470a5</p></loc>
 <coloph>'phags pa lha'i bu rab rtsal sems kyis zhus pa zhes bya ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi mkhan po pra dz+nyA bar ma dang / zhu chen gyi lo tsa ba ban d+he ye shes sdes bsgyur cing zhus te gtan la phab pa//</coloph>
 <translator>prajñāvarman</translator>
+<translator>ye shes sde</translator>
 <volcoloph>Revision note at the end of the volume in dbu can script: ma phyi ci 'dra'i zhus dag pa zangs dkar pa rgan po dang/ tog pa dge slong don grub red//; further note, in smaller dbu med script: bkris dpal 'bar dzaM ling rgyan du byon/.</volcoloph>
 <note></note>
 <bampo>1.<loc><set>MW1PD127393</set><vol>mdo, tsha</vol><voln>65</voln><json>1PD127524</json><psection>mdo sde</psection><p>411a4</p></loc></bampo>
@@ -4815,6 +4842,7 @@
 <skttrans>Ar+ya ak+Sha ya ma ti nir+de sha nA ma mahA yA na sU tra</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, dza</vol><voln>66</voln><json>1PD127525</json><psection>mdo sde</psection><p>1b1-142b2</p></loc>
 <coloph>'dus pa chen po'i le'u 'bum pa las/ blo gros mi zad pas bstan pa zhes bya ba theg pa chen po'i mdo rdzogs so// //zhu chen gyi lo ts+tsha ba ban+d+he d+har+ma tA shI las zhus/ skad gsar bcad kyis kyang bcos te gtan la phab pa//</coloph>
+<reviser>dharmatāśīla</reviser>
 <note>Missing folios: 2, 8-9.</note>
 <bampo>1.<loc><set>MW1PD127393</set><vol>mdo, dza</vol><voln>66</voln><json>1PD127525</json><psection>mdo sde</psection><p>1b3</p></loc></bampo>
 <bampo>2.<loc><set>MW1PD127393</set><vol>mdo, dza</vol><voln>66</voln><json>1PD127525</json><psection>mdo sde</psection><p>31a3</p></loc></bampo>
@@ -4831,6 +4859,7 @@
 <loc><set>MW1PD127393</set><vol>mdo, dza</vol><voln>66</voln><json>1PD127525</json><psection>mdo sde</psection><p>142b2-295b3</p></loc>
 <coloph>'phags pa de bzhin gshegs pa'i snying rje chen po bstan pa zhes bya ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi mkhan po shI len dra bo d+he dang / zhu chen gyi lo tsa ba ban+d+he ye shes sdes bsgyur cing zhus te/ skad gsar bcad kyis kyang bcos nas gtan la phab pa//</coloph>
 <translator>śīlendrabodhi</translator>
+<translator>ye shes sde</translator>
 <note>There is a slight difference in the phrasing of the title in D; S concurs with Z.</note>
 <bampo>1.<loc><set>MW1PD127393</set><vol>mdo, dza</vol><voln>66</voln><json>1PD127525</json><psection>mdo sde</psection><p>142b4</p></loc></bampo>
 <bampo>2.<loc><set>MW1PD127393</set><vol>mdo, dza</vol><voln>66</voln><json>1PD127525</json><psection>mdo sde</psection><p>162a5</p></loc></bampo>
@@ -4868,6 +4897,7 @@
 <skttrans>Ar+ya bi ma la kIr ti nir de sha nA ma ma hA yA na sU tra</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, dza</vol><voln>66</voln><json>1PD127525</json><psection>mdo sde</psection><p>315b5-421a3</p></loc>
 <coloph>'phags pa dri ma med par grags pas bstan pa zhes bya ba theg pa chen po'i mdo rdzogs so// //zhu chen gyi lo ts+tsha ba ban+d+he d+har+ma tA shI las bsgyur cing zhus te gtan la phab pa'o//</coloph>
+<translator>dharmatāśīla</translator>
 <note>The colophon in D mentions a different translator and also specifies the length of the text; S and V concur with Z. Missing folios: 342b and 343a.</note>
 <chap><no>1</no>sangs rgyas kyi zhing yongs su dag pa gleng gzhi'i le'u ste dang po'o<loc><set>MW1PD127393</set><vol>mdo, dza</vol><voln>66</voln><json>1PD127525</json><psection>mdo sde</psection><p>326b5</p></loc></chap>
 <chap><no>2</no>thabs la mkhas pa bsam gyis mi khyab pa'i le'u zhes bya ste gnyis pa'o<loc><set>MW1PD127393</set><vol>mdo, dza</vol><voln>66</voln><json>1PD127525</json><psection>mdo sde</psection><p>330b4</p></loc></chap>
@@ -4890,7 +4920,8 @@
 <skttrans>b+hU mi sU tra</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, dza</vol><voln>66</voln><json>1PD127525</json><psection>mdo sde</psection><p>421a3-423a3</p></loc>
 <coloph>sa'i mdo rdzogs so// //rgya gar gyi mkhan po pad+ma ka ra war+ma dang / /zhu chen gyi lo tsha ba dge slong rin chen bzang pos bsgyur cing zhus te gtan la phab pa//</coloph>
-<translator>lo chen rin chen bzang po</translator>
+<translator>padmākaravarman</translator>
+<translator>rin chen bzang pos</translator>
 <note>The text is not included in Tshal pa.</note>
 </item>
 
@@ -4952,10 +4983,10 @@
 <skttrans>Ar+ya pU sta pA la prits+tsha nA ma mahA yA na sU tra</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, wa</vol><voln>67</voln><json>1PD127526</json><psection>mdo sde</psection><p>1b1-47a6</p></loc>
 <coloph>'phags pa yul 'khor skyong gis zhus pa zhes bya ba rdzogs so// //rgya gar gyi mkhan po dzi na mi tra dang / dA na shI la dang / mu ne bar ma dang / zhu chen gyi lo tsa ba ban d+he ye shes sdes bsgyur cing zhus te/ skad gsar bcad kyis kyang bcos nas gtan la phab pa/ sho lo ka stong ste/ bam po gsum dang sho lo ka brgya//</coloph>
-<translator>dānaśīla</translator>
 <translator>jinamitra</translator>
 <translator>dānaśīla</translator>
 <translator>munivarman</translator>
+<translator>ye shes sde</translator>
 <note>The colophon here differs slightly from the colophon of this text that is included in the dkon brtsegs section, Z50. Also the Sanskrit title differs slightly.</note>
 <bampo>1.<loc><set>MW1PD127393</set><vol>mdo, wa</vol><voln>67</voln><json>1PD127526</json><psection>mdo sde</psection><p>2a1</p></loc></bampo>
 <bampo>2.<loc><set>MW1PD127393</set><vol>mdo, wa</vol><voln>67</voln><json>1PD127526</json><psection>mdo sde</psection><p>16a4</p></loc></bampo>
@@ -4970,6 +5001,8 @@
 <loc><set>MW1PD127393</set><vol>mdo, wa</vol><voln>67</voln><json>1PD127526</json><psection>mdo sde</psection><p>47a6-282b1</p></loc>
 <coloph>'phags pa yongs su mya ngan las 'das pa theg pa chen po'i mdo rdzogs so// //sho lo ka sum stong brgyad brgya mchis/ rgya gar gyi mkhan po dzi na mi tra dang / dz+nya na gar b+ha dang / zhu chen gyi lo ts+tsha ba ban d+he de ba tsan dras bsgyur te gtan la phab pa//</coloph>
 <translator>jinamitra</translator>
+<translator>jñānagarbha</translator>
+<translator>devacandra</translator>
 <note>Missing folios: 218b and 219a.</note>
 <bampo>1.<loc><set>MW1PD127393</set><vol>mdo, wa</vol><voln>67</voln><json>1PD127526</json><psection>mdo sde</psection><p>47a7</p></loc></bampo>
 <bampo>2.<loc><set>MW1PD127393</set><vol>mdo, wa</vol><voln>67</voln><json>1PD127526</json><psection>mdo sde</psection><p>67a3</p></loc></bampo>
@@ -5048,8 +5081,9 @@
 <skttrans>ta thA ga ta sang gI ti nA ma ma hA yA na sU tra</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>114b6-177a4</p></loc>
 <coloph>de bzhin gshegs pa bgro ba zhes bya ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi mkhan po dz+nyA na gar b+ha dang / lo tsa ba ban+d+he dpal gyi dbyangs kyis bsgyur cing / zhu chen gyi lo tsa ba ban+d+he dpal brtsegs kyis zhus te gtan la phab pa'o//</coloph>
-<translator>ska ba dpal brtsegs</translator>
-<translator>jñānagarbha Śaṃkara</translator>
+<translator>jñānagarbha</translator>
+<translator>dpal gyi dbyangs</translator>
+<reviser>dpal brtsegs</reviser>
 <note>Missing folios: 136b and 137a.</note>
 <bampo>1.<loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>115a1</p></loc></bampo>
 <bampo>2.<loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>136a6</p></loc></bampo>
@@ -5063,7 +5097,9 @@
 <skttrans>Ar+ya sam+b+ri ti pa ra mAr+tha sad+t+ya nir+de sha nA ma ma hA ya na sU tra</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>177a5-211b7</p></loc>
 <coloph>'phags pa kun rdzob dang don dam pa'i bden pa bstan pa zhes bya ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi mkhan po shAk+ya pra b+ha ba dang / dzi na mi tra dang / zhu chen gyi lo tsa ba ban d+he d+har+ma tA shI la la sogs pa+s bsgyur cing zhus nas gtan la phab//</coloph>
+<translator>śākyaprabha</translator>
 <translator>jinamitra</translator>
+<translator>dharmatāśīla</translator>
 <note></note>
 <bampo>1.<loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>177a6</p></loc></bampo>
 <bampo>2.<loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>193b4</p></loc></bampo>
@@ -5076,7 +5112,9 @@
 <skttrans>Ar+ya dri D+h+ya a ti shA ya pa ri ba r+to na ma ma hA yA na sU tra</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>211b7-226a6</p></loc>
 <coloph>'phags pa lhag pa'i bsam pa brtan pa'i le'u zhes bya ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi mkhan po su ren+d+ra bo d+he dang / pradz+nyA bar ma dang / zhu chen gyi lo tsa ba ban+d+he ye shes sde la sogs pas bsgyur cing zhus te gtan la phab pa//</coloph>
+<translator>surendrabodhi</translator>
 <translator>prajñāvarman</translator>
+<translator>ye shes sde</translator>
 <note></note>
 </item>
 
@@ -5087,7 +5125,8 @@
 <skttrans>Ar+ya d+har+ma mu drA nA ma ma hA yA na sU tra</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>226a7-231a3</p></loc>
 <coloph>'phags pa chos kyi phyag rgya zhes bya ba theg pa chen po'i mdo rdzogs so// //lo tsa ba ban d+he klu'i dbang po dang / lha'i zla bas bsgyur cing gtan la phab pa//</coloph>
-<translator>devacandra</translator>
+<translator>klu'i dbang po</translator>
+<translator>lha'i zla ba</translator>
 <note></note>
 </item>
 
@@ -5099,7 +5138,7 @@
 <loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>231a3-237a4</p></loc>
 <coloph>'phags pa bde ba can gyi bkod pa zhes bya ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi mkhan po dA na shI la la sogs pa dang / zhu chen gyi lo tsa ba ban d+he ye shes sde la sogs pas bsgyur cing gtan la phab pa//</coloph>
 <translator>dānaśīla</translator>
-<translator>dānaśīla</translator>
+<translator>ye shes sde</translator>
 <note></note>
 </item>
 
@@ -5111,6 +5150,7 @@
 <loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>237a4-242b2</p></loc>
 <coloph>'phags pa yul 'khor skyong gis zhus pa zhes bya ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi mkhan po dzi na mi tra la sogs pa dang / zhu chen gyi lo tsa ba ban d+he ye shes sdes bsgyur cing gtan la phab pa//</coloph>
 <translator>jinamitra</translator>
+<translator>ye shes sde</translator>
 <note></note>
 </item>
 
@@ -5121,8 +5161,9 @@
 <skttrans>Ar+ya lo kA nu bar+ta na nA ma hA ya na sU tra</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>242b2-249a7</p></loc>
 <coloph>'phags pa 'jig rten gyi rjes su mthun par 'jug pa zhes bya ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi mkhan po dzi na mi tra dang / dA na shI la dang / zhu chen gyi lo tsa ba ban+d+he ye shes sdes bsgyur cing zhus te/ skad gsar bcad kyis kyang bcos nas gtan la phab pa//</coloph>
-<translator>dānaśīla</translator>
 <translator>jinamitra</translator>
+<translator>dānaśīla</translator>
+<translator>ye shes sde</translator>
 <note></note>
 </item>
 
@@ -5134,6 +5175,8 @@
 <loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>249a7-269b4</p></loc>
 <coloph>'phags pa nges pa dang ma nges par 'gro ba'i phyag rgya la 'jug pa zhes bya ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi mkhan po pra dz+nyA bar ma dang / su ren dra bo d+he dang / zhu chen gyi lo tsa ba ban d+he ye shes sdes bsgyur cing zhus te gtan la phab pa//</coloph>
 <translator>prajñāvarman</translator>
+<translator>surendrabodhi</translator>
+<translator>ye shes sde</translator>
 <note></note>
 </item>
 
@@ -5164,8 +5207,9 @@
 <skttrans>Ar+ya shrI gup ta nA ma sU tra</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>294b1-317b5</p></loc>
 <coloph>'phags pa dpal sbas zhes bya ba'i mdo rdzogs so// //rgya gar gyi mkhan po dzi na mi tra dang / dA na shI la dang / zhu chen gyi lo tsa ba ban d+he ye shes sdes bsgyur cing zhus te / skad gsar bcad kyis bcos nas gtan la phab pa//</coloph>
-<translator>dānaśīla</translator>
 <translator>jinamitra</translator>
+<translator>dānaśīla</translator>
+<translator>ye shes sde</translator>
 <note></note>
 </item>
 
@@ -5177,7 +5221,7 @@
 <loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>317b5-323a7</p></loc>
 <coloph>rdzogs so// //rgya gar gyi mkhan po dA na shI la dang / ban+d+he ye shes sdes bsgyur cing zhus te gtan la phab pa//</coloph>
 <translator>dānaśīla</translator>
-<translator>dānaśīla</translator>
+<translator>ye shes sde</translator>
 <note>In D also the Sanskrit title is given. Also the Tibetan title differs slightly. D has a further comment at the end of the colophon not found in Z, S, or V.</note>
 </item>
 
@@ -5198,6 +5242,8 @@
 <skttrans></skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>326b6-336a7</p></loc>
 <coloph>'phags pa byang chub sems dpa' byams pa dga' ldan gnam du skye ba blangs pa'i mdo rdzogs so// //zhu ba'i lo tsa ba ban d+he pab stong dang / ban d+he shes rab seng ges rgya'i dpe las bsgyur//</coloph>
+<translator>pab stong</translator>
+<translator>shes rab seng ge</translator>
 <note>The title is given in Chinese, rgya'i skad du: k+wan b+yi log pos zhong she te'u sh+wang then kyeng.</note>
 </item>
 
@@ -5208,7 +5254,8 @@
 <skttrans>Ar+ya tri sha rang na ga ma na nA ma ma hA yA na sU tram</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>336a7-338b2</p></loc>
 <coloph>'phags pa gsum la skyabs su 'gro ba zhes bya ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi mkhan po sar+ba dz+nyA de ba dang / zhu chen gyi lo tsa ba ban d+he dpal brtsegs kyis bsgyur cing zhus te gtan la phab pa//</coloph>
-<translator>ska ba dpal brtsegs</translator>
+<translator>sarvajñādeva</translator>
+<translator>dpal brtsegs</translator>
 <note>The title in D differs slightly in phrasing; S and V concur with Z.</note>
 </item>
 
@@ -5269,8 +5316,9 @@
 <skttrans>ma hA shu n+yA tA nA ma mahA sU tram</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>348b7-360a5</p></loc>
 <coloph>mdo chen po stong pa nyid chen po rdzogs so// //rgya gar gyi mkhan po dzi na mi tra dang / pradz+nyA bar ma dang / zhu chen gyi lo tsa ba ban d+he ye shes sde la sogs pas bsgyur cing zhus te gtan la phab pa/ bka' dang por gtogs//</coloph>
-<translator>prajñāvarman</translator>
 <translator>jinamitra</translator>
+<translator>prajñāvarman</translator>
+<translator>ye shes sde</translator>
 <note>The short editorial comment at the end of the colophon is not found in D, but it is also included in S and V.</note>
 </item>
 
@@ -5281,8 +5329,9 @@
 <skttrans>d+h+wa dza gran nA ma ma hA sU tram</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>360a5-365b2</p></loc>
 <coloph>mdo chen po rgyal mtshan mchog ces bya ba rdzogs so// //rgya gar gyi mkhan po dzi na mi tra dang / pradz+nyA bar ma dang / zhu chen gyi lo tsa ba ban d+he ye shes sde la sogs pas bsgyur cing zhus te gtan la phab pa//</coloph>
-<translator>prajñāvarman</translator>
 <translator>jinamitra</translator>
+<translator>prajñāvarman</translator>
+<translator>ye shes sde</translator>
 <note></note>
 </item>
 
@@ -5293,8 +5342,9 @@
 <skttrans>d+h+wa dzA gra nA nA ma ma hA sU tram</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>365b2-368a1</p></loc>
 <coloph>mdo chen po rgyal mtshan dam pa zhes bya ba rdzogs so// //rgya gar gyi mkhan po dzi na mi tra dang / pra dz+nyA bar ma dang / zhu chen gyi lo tsa ba ban d+he ye shes sde la sogs pas bsgyur cing zhus te gtan la phab pa//</coloph>
-<translator>prajñāvarman</translator>
 <translator>jinamitra</translator>
+<translator>prajñāvarman</translator>
+<translator>ye shes sde</translator>
 <note></note>
 </item>
 
@@ -5305,8 +5355,9 @@
 <skttrans>bim bi sA ra prad t+yud ga ma nan nA ma ma hA sU tram</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>368a1-377a2</p></loc>
 <coloph>mdo chen po gzug+s can snying pos bsu ba zhes bya ba rdzogs so// //rgya gar gyi mkhan po dzi na mi tra dang / pradz+nyA bar ma dang / zhu chen gyi lo tsa ba ban d+he ye shes sde la sogs pas bsgyur cing zhus te gtan la phab pa//</coloph>
-<translator>prajñāvarman</translator>
 <translator>jinamitra</translator>
+<translator>prajñāvarman</translator>
+<translator>ye shes sde</translator>
 <note></note>
 </item>
 
@@ -5317,7 +5368,8 @@
 <skttrans></skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>377a2-384a2</p></loc>
 <coloph>'phags pa gnas 'jog ces bya ba'i mdo rdzogs so// //rgya gar gyi mkhan po sar+ba dz+nyA de ba dang / zhu chen gyi lo tsa ba ban d+he dpal brtsegs la sogs pas bsgyur cing zhus te gtan la phab pa/ bka' dang por gtogs/ glegs bam du ma la gtogs te zhus dag/</coloph>
-<translator>ska ba dpal brtsegs</translator>
+<translator>sarvajñādeva</translator>
+<translator>dpal brtsegs</translator>
 <note>The editorial comment at the end of the colophon is not found in D, but it is also featured in S and V.</note>
 </item>
 
@@ -5328,7 +5380,8 @@
 <skttrans>Ar+ya ku su ma san tsa yA nA ma mahA yA na sU tra</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, zha</vol><voln>68</voln><json>1PD127527</json><psection>mdo sde</psection><p>384a3-436a7</p></loc>
 <coloph>'phags pa me tog gi tshogs zhes bya ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi mkhan po dz+nyA na sid+d+hi dang / /zhu chen gyi lo tsa ban+d+he d+har+ma tA shI la la sogs pas zhus chen bgyis te gtan la phab pa//</coloph>
-<translator>jñānasiddhi</translator>
+<reviser>jñānasiddhi</reviser>
+<reviser>dharmatāśīla</reviser>
 <volcoloph>Sanskrit phrases are added at the end of the colophon, in the same writing as the main text: oM badz+ra A yu She s+wA hA/ oM ye d+har+m+mA he tu pra b+ha wa he tun+te ShAn+ta thA ga to h+ya wa dat/ te ShAny+tsa yo ni ro d+ha e waM wA dI mahA shra ma NaH s+wa hA/ oM sar+ba bid+yA s+wAhA/ oM su pra ti Sh+Tha badz+ra ye s+wa hA//. Further, a revision note in dbu can script by a different hand: ma phyi ci 'dra'i zhus dag pa zangs dkar ras pa dang/ tog pa dge slong don grub lags so//.</volcoloph>
 <note>S features the same Sanskrit phrases at the end of the volume, which proves their close connection.</note>
 </item>
@@ -5340,6 +5393,7 @@
 <skttrans>d+har+ma tsa krA sU tra</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, za</vol><voln>69</voln><json>1PD127528</json><psection>mdo sde</psection><p>1b1-5a7</p></loc>
 <coloph>chos kyi 'khor lo'i mdo rdzogs so// //thar pa lo tsas bsgyur ba dang / mdo'i ngo bo gcig tu snang//</coloph>
+<translator>thar pa lo tsa ba</translator>
 <note>The name of the translator and the editorial comment is not found in D, but it is included also in S and V.</note>
 </item>
 
@@ -5370,8 +5424,9 @@
 <skttrans>Ar+ya A ba lo ki te sh+wa ra pa ri prits+tsha sa pat d+har+ma ka na nA ma hA ya na sU tra</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, za</vol><voln>69</voln><json>1PD127528</json><psection>mdo sde</psection><p>7a8-8a7</p></loc>
 <coloph>'phags pa spyan ras gzigs dbang phyug gis zhus pa/ chos bdun pa zhes bya ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi mkhan po dI pang ka ra shrI dz+nyA na dang / zhu chen gyi lo ts+tsha ba dge slong dge ba'i blo gros kyis bsgyur cing zhus te gtan la phab pa//</coloph>
+<translator>dīpaṃkaraśrījñāna</translator>
+<translator>dge ba'i blo gros</translator>
 <note></note>
-<translator>rma dge ba'i blo gros</translator>
 </item>
 
 <item>
@@ -5411,8 +5466,10 @@
 <skttrans>Ar+ya ta thA ga ta dz+nyA na mu drA nA ma sa mA d+hi mahA ya na sU tra</skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, za</vol><voln>69</voln><json>1PD127528</json><psection>mdo sde</psection><p>48a7-90a2</p></loc>
 <coloph>'phags pa de bzhin gshegs pa'i ye shes kyi phyag rgya'i ting nge 'dzin ces bya ba ba theg pa chen po'i mdo rdzogs so// //rgya gar gyi mkhan po dzi na mi tra dang / mu ne wa r+ma dang / dA na shI la dang / zhu chen gyi lo tsa ba ban+d+he ye shes sdes bsgyur cing zhus te/ skad gsar bcad kyis kyang bcos nas gtan la phab pa//</coloph>
-<translator>dānaśīla</translator>
 <translator>jinamitra</translator>
+<translator>munivarman</translator>
+<translator>dānaśīla</translator>
+<translator>ye shes sde</translator>
 <note>Missing folio: 84.</note>
 <bampo>1.<loc><set>MW1PD127393</set><vol>mdo, za</vol><voln>69</voln><json>1PD127528</json><psection>mdo sde</psection><p>48b1</p></loc></bampo>
 <bampo>2.<loc><set>MW1PD127393</set><vol>mdo, za</vol><voln>69</voln><json>1PD127528</json><psection>mdo sde</psection><p>71a5</p></loc></bampo>
@@ -5445,6 +5502,7 @@
 <skttrans></skttrans>
 <loc><set>MW1PD127393</set><vol>mdo, za</vol><voln>69</voln><json>1PD127528</json><psection>mdo sde</psection><p>113a6-132b4</p></loc>
 <coloph>'phags pa legs nyes kyi rgyu dang 'bras bu bstan pa zhes bya ba'i mdo rdzogs so// //zhu chen gyi lo ts+tsha ba ban d+he chos grub kyis rgya gar dang rgya'i dpe las bsgyur cing zhus te gtan la phab pa//</coloph>
+<translator>chos grub</translator>
 <note>Missing folios: 127b and 128a.</note>
 </item>
 
