@@ -7235,6 +7235,8 @@ pbl Toh 1176 - 1498 - 1728 - 1814 - 1904 - 2003 - 2178 - 2187 - 2305->2312 - 263
 <cmp><ref>T4271</ref><type>SameTitle</type></cmp>
 <cmp><ref>T4272</ref><type>SameTitle</type></cmp>
 <cmp><ref>T4273</ref><type>SameTitle</type></cmp>
+<cmp><ref>T4343</ref><type>SameTitle</type></cmp>
+<cmp><ref>T4344</ref><type>SameTitle</type></cmp>
 </item>
 
 <item>
@@ -51794,6 +51796,8 @@ pbl Toh 1176 - 1498 - 1728 - 1814 - 1904 - 2003 - 2178 - 2187 - 2305->2312 - 263
 <cmp><ref>T562</ref><type>SameTitle</type></cmp>
 <cmp><ref>T4272</ref><type>SameTitle</type></cmp>
 <cmp><ref>T4273</ref><type>SameTitle</type></cmp>
+<cmp><ref>T4343</ref><type>SameTitle</type></cmp>
+<cmp><ref>T4344</ref><type>SameTitle</type></cmp>
 </item>
 
 <item>
@@ -51808,6 +51812,8 @@ pbl Toh 1176 - 1498 - 1728 - 1814 - 1904 - 2003 - 2178 - 2187 - 2305->2312 - 263
 <cmp><ref>T562</ref><type>SameTitle</type></cmp>
 <cmp><ref>T4271</ref><type>SameTitle</type></cmp>
 <cmp><ref>T4273</ref><type>SameTitle</type></cmp>
+<cmp><ref>T4343</ref><type>SameTitle</type></cmp>
+<cmp><ref>T4344</ref><type>SameTitle</type></cmp>
 </item>
 
 <item>
@@ -51822,6 +51828,8 @@ pbl Toh 1176 - 1498 - 1728 - 1814 - 1904 - 2003 - 2178 - 2187 - 2305->2312 - 263
 <cmp><ref>T562</ref><type>SameTitle</type></cmp>
 <cmp><ref>T4271</ref><type>SameTitle</type></cmp>
 <cmp><ref>T4272</ref><type>SameTitle</type></cmp>
+<cmp><ref>T4343</ref><type>SameTitle</type></cmp>
+<cmp><ref>T4344</ref><type>SameTitle</type></cmp>
 </item>
 
 <item>
@@ -52942,6 +52950,38 @@ pbl Toh 1176 - 1498 - 1728 - 1814 - 1904 - 2003 - 2178 - 2187 - 2305->2312 - 263
 <tib>spyod pa bsdus pa'i sgron ma</tib>
 <skt>caryāmelāpakapradīpa</skt>
 <mng>yabudal quriyagsan jula</mng>
+</item>
+
+<item>
+<rktst>4343</rktst>
+<section>rgyud</section>
+<StandardTibetan>'phags ma sgrol ma la bstod pa<source>D</source></StandardTibetan>
+<StandardSanskrit>āryatārāstotra<source>D</source></StandardSanskrit>
+<English84000>A Praise of Ārya Tārā<source>84000</source></English84000>
+<tib>'phags ma sgrol ma la bstod pa</tib>
+<skt>āryatārāstotra</skt>
+<mng>qotoq tai gedülgegci eke-yin maqtagal</mng>
+<cmp><ref>T4271</ref><type>SameTitle</type></cmp>
+<cmp><ref>T4272</ref><type>SameTitle</type></cmp>
+<cmp><ref>T4273</ref><type>SameTitle</type></cmp>
+<cmp><ref>T4344</ref><type>SameTitle</type></cmp>
+<cmp><ref>T562</ref><type>SameTitle</type></cmp>
+</item>
+
+<item>
+<rktst>4344</rktst>
+<section>rgyud</section>
+<StandardTibetan>'phags ma sgrol ma la bstod pa<source>D</source></StandardTibetan>
+<StandardSanskrit>āryatārāstotra<source>D</source></StandardSanskrit>
+<English84000>A Praise of Ārya Tārā<source>84000</source></English84000>
+<tib>'phags ma sgrol ma la bstod pa</tib>
+<skt>āryatārāstotra</skt>
+<mng>qotoq tai gedülgegci eke-yin maqtagal</mng>
+<cmp><ref>T4271</ref><type>SameTitle</type></cmp>
+<cmp><ref>T4272</ref><type>SameTitle</type></cmp>
+<cmp><ref>T4273</ref><type>SameTitle</type></cmp>
+<cmp><ref>T4343</ref><type>SameTitle</type></cmp>
+<cmp><ref>T562</ref><type>SameTitle</type></cmp>
 </item>
 
 </list>
