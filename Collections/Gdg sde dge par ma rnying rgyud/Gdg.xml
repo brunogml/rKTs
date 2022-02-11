@@ -6470,7 +6470,7 @@
 <item>
 <rktsg>229</rktsg>
 <ref>Gaz015.012</ref>
-<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>321a6-</p></loc>
+<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>321a6-421b7</p></loc>
 <tib>dpal zla gsang nag po rtsa ba'i rgyud</tib>
 <skttrans>gu h+ya tsan+d+ra shrI kA la a pra ha ri kA la tan+t+ra</skttrans>
 <coloph></coloph>
@@ -6499,24 +6499,93 @@
 <chap>drag po phrin las kyi le'u ste nyi shu rtsa gsum pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>348a2</p></loc></chap>	
 <chap>'khor lo bca' ba'i le'u ste nyi shu rtsa bzhi pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>348b6</p></loc></chap>	
 <chap>gsang ba las kyi bsnyen pa'i le'u ste nyi shu rtsa lnga pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>350b5</p></loc></chap>	
-<chap><loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p></p></loc></chap>	
-<chap><loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p></p></loc></chap>	
-<chap><loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p></p></loc></chap>	
-<chap><loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p></p></loc></chap>	
-<chap><loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p></p></loc></chap>	
-<chap><loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p></p></loc></chap>	
+<chap>sgom khog rtsa ba'i le'u ste nyi shu rtsa drug pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>351b4</p></loc></chap>	
+<chap>lha bsgrub bdud bsgrub kyi rim pa bstan pa'i le'u ste nyi shu rtsa bdun pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>353a3</p></loc></chap>	
+<chap>'khor lo thun rde bsam nag gi le'u ste nyi shu rtsa brgyad pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>355a6</p></loc></chap>	
+<chap>chon gyi rde'u sngo dmar 'khor lo khyad stems kyi le'u ste nyi shu rtsa dgu pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>357a3</p></loc></chap>	
+<chap>sngags kyi yang snying 'khrul 'khor gyi le'u ste sum cu pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>358b2</p></loc></chap>	
+<chap>yang snying bsad pa'i le'u ste so gcig pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>359a2</p></loc></chap>	
+<chap>'khrul 'khor man ngag gi le'u ste so gnyis pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>360b5</p></loc></chap>	
+<chap>thugs kyi ka bzhi dang gdung brgyad bstan pa'i le'u ste so gsum pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>361a5</p></loc></chap>	
+<chap>'thu shag gi grong khyer bstan pa'i le'u ste so bzhi pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>361b1</p></loc></chap>	
+<chap>nag po gsal byed sgron ma'i le'u ste so lnga pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>362a3</p></loc></chap>	
+<chap>ro langs lto 'phugs kyi rtsa ba'i 'khor lo bcu pa las theg gdab pa dang gsang ba'i brda dgod pa'i le'u ste so drug pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>363b6</p></loc></chap>	
+<chap>bdud mo'i snying bo sbyar ba dang dgod pa'i le'u ste so bdun pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>364b5</p></loc></chap>	
+<chap>las kyi mdo byang chen po bstan pa'i le'u ste so brgyad pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>365a3</p></loc></chap>	
+<chap>pho mo lto dkrugs sogs pa'i le'u ste so dgu pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>366a4</p></loc></chap>	
+<chap>gnam lcags thog 'bebs me lce 'phreng ba'i le'u ste bzhi bcu pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>369b6</p></loc></chap>	
+<chap>raka sha xxx gza' mchog ming srung bsgrub pa'i le'u ste zhe gcig pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>373a3</p></loc></chap>	
+<chap>raka sha 'bar ba gza' mchog gi sngags rim gyi le'u ste zhe gnyis pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>374b2</p></loc></chap>	
+<chap>thun xxx le'u ste zhe gsum pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>376a6</p></loc></chap>	
+<chap>dmag dpon brgyad kyi thog ser sbyin thang dbab pa'i le'u ste zhe bzhi pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>378b6</p></loc></chap>	
+<chap>gza' mchog ming srung gi thun gyi bskul ba las kyi le'u ste zhe lnga pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>379b7</p></loc></chap>	
+<chap>gza' mchog gi phur ba bsgrub pa dang las rim bsdus ba'i le'u ste zhe drug pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>380b6</p></loc></chap>	
+<chap>las kyi mdo byang bstan pa'i le'u ste zhe bdun pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>381a5</p></loc></chap>	
+<chap>bya thabs nyams len nying khu'i le'u ste zhe brgyad pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>382b6</p></loc></chap>	
+<chap>nyi ma bzhi'i lha'i ging bzhi 'phrin las bcol ba'i le'u ste lnga bcu pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>385b3</p></loc></chap>	
+<chap>gtum chen la bstod pa'i le'u ste nga gcig pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>386b1</p></loc></chap>	
+<chap>gdug pa klu'i zla gsang mdze nad dz+wa la'i le'u ste nga gnyis pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>391a2</p></loc></chap>	
+<chap>bdud gyi lhar bsgrub pa'i le'u ste nga gsum pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>394a7</p></loc></chap>	
+<chap>bdud nang ltar bsgrub pa'i le'u ste nga bzhi pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>395b2</p></loc></chap>	
+<chap>bdud kyi zla gsang gsang bar bstan pa'i le'u ste nga lnga pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>396a6</p></loc></chap>	
+<chap>'jig rten mes sreg bar byed ba btsan gyi zla gsang gi le'u ste nga drug pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>397a6</p></loc></chap>	
+<chap>'jig rten gyi khams mes sreg pa btsan gyi zla gsang gi le'u ste nga bdun pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>398a1</p></loc></chap>	
+<chap>'jig rten khams mes bsreg ba btsan gyi zla gsang gi le'u ste nga brgyad pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>398b1</p></loc></chap>	
+<chap>chu 'khyags khrag tu dbab pa khyab 'jug gza'i zla gsang gi le'u ste nga dgu pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>401b2</p></loc></chap>	
+<chap>chu 'khyags khrag tu dbab pa khyab 'jug gza'i zla gsang gi le'u ste drug cu pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>402a2</p></loc></chap>	
+<chap>chu 'khyags khrag tu dbab pa gza'i zla gsang gi le'u ste re gcig pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>403b4</p></loc></chap>	
+<chap>'jig rten du thog dbab pa'i lha'i zla gsang gi le'u ste re gnyis pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>405a4</p></loc></chap>	
+<chap>thog dbab pa lha'i zla gsang nang du bsgrub pa'i le'u ste re gsum pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>408a5</p></loc></chap>	
+<chap>'jig rten khams su thog dbab pa'i zla gsang lha gsang bar bsgrub pa'i le'u ste re bzhi pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>409a1</p></loc></chap>	
+<chap>ngan sngags xxx ma mo'i zla gsang bstan pa'i le'u ste re lnga pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>411a3</p></loc></chap>	
+<chap>pham pa'i bdag mo [..]zla gsang bstan pa'i le'u ste re drug pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>413a6</p></loc></chap>	
+<chap>nad ngan sna tshogs btang ba'i ma mo'i zla gsang gi le'u ste re bdun pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>414a3</p></loc></chap>	
+<chap>rgyal po phyi ltar bsgrub pa'i smyo 'bog btang ba'i le'u ste re brgyad pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>415b2</p></loc></chap>	
+<chap>rgyal po nang du bsgrub pa'i smyo 'bog btang ba'i le'u ste re dgu pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>417a6</p></loc></chap>	
+<chap>rgyal po gsang ba ltar bsgrub pa ste smyo 'bog gtad pa'i le'u ste bdun cu pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>419a5</p></loc></chap>	
+<chap>srog gcod spu gri gnod sbyin gyi zla gsang gang ba bzang po phyi ltar bsgrub pa'i le'u ste don gcig pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection>419b6<p></p></loc></chap>	
+<chap>srog gcod spu gri gnod sbyin gyi zla gsang gang ba bzang po nang du sgrub pa'i le'u ste don gnyis pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>420b1</p></loc></chap>	
+<chap>srog gcod spu gri gnod sbyin gyi zla gsang gang ba bzang po gsang ba bsgrub pa'i le'u ste don gsum pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>421a3</p></loc></chap>	
+<chap>'khor gyi phun sum tshogs pa'i don la bstod pa dang man ngag xxx le'u ste don bzhi pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>421b6</p></loc></chap>	
+</item>
+
+<item>
+<rktsg>230</rktsg>
+<ref>Gaz015.013</ref>
+<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>422a1-425a6</p></loc>
+<tib>'jam dpal gshin rje'i gshed kyi gsang rgyud</tib>
+<skttrans>Ar+ya many+dzu shrI ya mAn+ta ka/ gu h+ya/ tan tra</skttrans>
+<coloph></coloph>
+<chap>dam pa'i le'u ste dang po<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>422a7</p></loc></chap>	
+<chap>le'u ste gnyis pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p></p>422b5</loc></chap>	
+<chap>le'u ste bzhi pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>423a7</p></loc></chap>	
+<chap>le'u ste lnga pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>423b6</p></loc></chap>	
+<chap>le'u ste drug pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>424b6</p></loc></chap>	
+<chap>le'u ste bdun pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>425a2</p></loc></chap>	
+<chap>gsang ba sngags kyi rgyud las phyi ma'i le'u ste brgyad pa<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>425a5</p></loc></chap>	
+</item>
+
+<item>
+<rktsg>231</rktsg>
+<ref>Gaz016.001</ref>
+<loc><set>MW21939</set><vol>ma</vol><voln>16</voln><json>6336</json><psection>1</psection><p>1b1-</p></loc>
+<tib>dpal zla gsang nag po'i rgyud</tib>
+<skttrans>shrI tsan+da gu h+ya kA la tan+t+ra</skttrans>
+<coloph></coloph>
+<chap><loc><set>MW21939</set><vol>ma</vol><voln>16</voln><json>6336</json><psection>1</psection><p></p></loc></chap>	
+<chap><loc><set>MW21939</set><vol>ma</vol><voln>16</voln><json>6336</json><psection>1</psection><p></p></loc></chap>	
 </item>
 
 
 <item>
 <rktsg>xxx</rktsg>
-<ref>Gaz015.001</ref>
-<loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p>1b1-</p></loc>
+<ref>Gaz016.001</ref>
+<loc><set>MW21939</set><vol>ma</vol><voln>16</voln><json>6336</json><psection>1</psection><p>1b1-</p></loc>
 <tib></tib>
 <skttrans></skttrans>
 <coloph></coloph>
-<chap><loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p></p></loc></chap>	
-<chap><loc><set>MW21939</set><vol>ba</vol><voln>15</voln><json>6335</json><psection>1</psection><p></p></loc></chap>	
+<chap><loc><set>MW21939</set><vol>ma</vol><voln>16</voln><json>6336</json><psection>1</psection><p></p></loc></chap>	
+<chap><loc><set>MW21939</set><vol>ma</vol><voln>16</voln><json>6336</json><psection>1</psection><p></p></loc></chap>	
 </item>
 
 </outline>
