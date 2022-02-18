@@ -1170,6 +1170,22 @@
 </item>
 
 <item>
+	<sigla>NLM</sigla>
+	<name>National Library of Mongolia</name>
+	<date></date>
+	<nbvol></nbvol>
+	<set>
+		<ref>NLM</ref>
+		<location>-</location>
+		<digitizedBy>BDRC</digitizedBy>
+		<integratedrKTs>1</integratedrKTs>
+	</set>
+	<category>Kanjur</category>
+	<group>undefined</group>
+	<outline>1</outline>
+</item>
+
+<item>
 	<sigla>Np</sigla>
 	<name>Neyphug Kanjur</name>
 	<date></date>
