@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <outline>
-<name>Lang</name>
-<creator type="hasScribe">Markus Viehbeck</creator>
+<name>NLM</name>
+<creator type="hasScribe">Bruno Lainé</creator>
 
-
+https://library.bdrc.io/show/bdr:W1NLM1
 
 
 <item>
 <rkts></rkts>
-<ref>NLM1-1</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM1</json><psection>1</psection><p>1b1-80a3</p></loc>
+<ref>NLM001-1</ref>
+<loc><vol></vol><voln>1</voln><json>1NLM0001</json><psection>1</psection><p>1b1-80a3</p></loc>
 <tib>slob dpon chen po pad+ma ka ra'i thugs rje'i nying khu mdos cho ga sna tshogs blto sgro sa ma ya bsgyur chen dga' ba'i ltad mo</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -18,8 +18,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM2-1</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM2</json><psection>1</psection><p>1b-93b2</p></loc>
+<ref>NLM0002-1</ref>
+<loc><vol></vol><voln>2</voln><json>1NLM0002</json><psection>1</psection><p>1b-93b2</p></loc>
 <tib>dpal gsang dbang 'dus pa'i dbang gi cho ga'i Tik+ka dbang don de nyid rab gsal yang dag gsal sgron me mkhas pa'i mgul rgyan</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -28,8 +28,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM3-1</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM3</json><psection>1</psection><p>1a1-51a5</p></loc>
+<ref>NLM0003-1</ref>
+<loc><vol></vol><voln>3</voln><json>1NLM0003</json><psection>1</psection><p>1a1-51a5</p></loc>
 <tib>'phags pa thugs rje chen po zhal bcu gcig pa dpal mo'i lugs kyi sgrub thabs smyung bar gnas pa'i cho ga dang bcas pa phan bde'i snang ba ga sar dngom</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -38,8 +38,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM3-2</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM3</json><psection>2</psection><p>1b1-27a2</p></loc>
+<ref>NLM0003-2</ref>
+<loc><vol></vol><voln>3</voln><json>1NLM0003</json><psection>2</psection><p>1b1-27a2</p></loc>
 <tib>bsangs kyi cho ga dngos grub kyi gzi 'od 'bar ba ngo mtshar rin po che'i phreng ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -48,8 +48,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM3-3</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM3</json><psection>3</psection><p>1b1-22b6</p></loc>
+<ref>NLM0003-3</ref>
+<loc><vol></vol><voln>3</voln><json>1NLM0003</json><psection>3</psection><p>1b1-22b6</p></loc>
 <tib>lha mchog rnams la dga' bar byed pa'i bsangs mchod bcu gsum mu tig phreng ba/</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -58,8 +58,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM3-4</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM3</json><psection>4</psection><p>1b1-18a3</p></loc>
+<ref>NLM0003-4</ref>
+<loc><vol></vol><voln>3</voln><json>1NLM0003</json><psection>4</psection><p>1b1-18a3</p></loc>
 <tib>slob dpon chen po pad+ma ka ra'i zhabs kyis mdzad pa'i 'bum bsangs baiDUr+ya'i sngon po bkra shis 'dod pa'i re skong ma</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -68,8 +68,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM3-5</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM3</json><psection>5</psection><p>1b1-4a2</p></loc>
+<ref>NLM0003-5</ref>
+<loc><vol></vol><voln>3</voln><json>1NLM0003</json><psection>5</psection><p>1b1-4a2</p></loc>
 <tib>lugs gnyis kyi rgyud 'debs</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -78,8 +78,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM4-1</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM4</json><psection>1</psection><p>1b1-95a4</p></loc>
+<ref>NLM0004-1</ref>
+<loc><vol></vol><voln>4</voln><json>1NLM0004</json><psection>1</psection><p>1b1-95a4</p></loc>
 <tib>byang chub lam gyi rim pa brten pa'i bla ma'i rnal 'byor thun mong min pa nyams su cho ga skal ldan mgul rgyan nor bu'i 'phreng ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -88,8 +88,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM4-2</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM4</json><psection>2</psection><p>1b1-5b3</p></loc>
+<ref>NLM0004-2</ref>
+<loc><vol></vol><voln>4</voln><json>1NLM0004</json><psection>2</psection><p>1b1-5b3</p></loc>
 <tib>thub dbang gnas brtan 'khor dang bcas pa la mchod cing gsol ba gdab pa'i sgo nas yul khyad par can la brtan bzhugs 'bul tshul thub bstan rgyas pa'i nyin byed</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -98,8 +98,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM4-3</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM4</json><psection>3</psection><p>1b1-3b6</p></loc>
+<ref>NLM0004-3</ref>
+<loc><vol></vol><voln>4</voln><json>1NLM0004</json><psection>3</psection><p>1b1-3b6</p></loc>
 <tib>tshe lha rnam gsum gyi mngon rtogs</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -108,8 +108,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM4-4</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM4</json><psection>3</psection><p>3b6-7b2</p></loc>
+<ref>NLM0004-4</ref>
+<loc><vol></vol><voln>4</voln><json>1NLM0004</json><psection>3</psection><p>3b6-7b2</p></loc>
 <tib>gung thang 'jam pa'i dbyangs kyi gsung ba'i tshe lha rnam gsum gyi sgo nas gzhan don sgrub pa'i bum pa sgrub tshul gsal byed pa'i lhan thabs tshe yi mchog stsol</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -118,8 +118,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM4-5</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM4</json><psection>4</psection><p>1b1-4b5</p></loc>
+<ref>NLM0004-5</ref>
+<loc><vol></vol><voln>4</voln><json>1NLM0004</json><psection>4</psection><p>1b1-4b5</p></loc>
 <tib>dge ldan bka' brgyud rin po che'i phyag chen rtsa ba rgyal ba'i gzhung lam</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -128,8 +128,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM4-6</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM4</json><psection>5</psection><p>1b1-2b3</p></loc>
+<ref>NLM0004-6</ref>
+<loc><vol></vol><voln>4</voln><json>1NLM0004</json><psection>5</psection><p>1b1-2b3</p></loc>
 <tib>drag po sbyin sreg gyi 'don pa'i go rim ni</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -138,8 +138,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-1</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>1</psection><p>1b1-30a7</p></loc>
+<ref>NLM0005-1</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>1</psection><p>1b1-30a7</p></loc>
 <tib>drag po sbyin sreg gyi 'don pa'i go rim ni</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -148,8 +148,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-2</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM</json><psection>2</psection><p>1a6-2a8</p></loc>
+<ref>NLM0005-2</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM000</json><psection>2</psection><p>1a6-2a8</p></loc>
 <tib>rta mgrin gsang sgrub kyi gtor bzlog gi lag len gsal ba'i me long</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -158,8 +158,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-3</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>3</psection><p>1b1-11a6</p></loc>
+<ref>NLM0005-3</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>3</psection><p>1b1-11a6</p></loc>
 <tib>khro bo rgyal po rta mchog rol ba gsang sgrub kyi gtor bzlog gi lag len gsal bying rig pa 'dzin pa'i dgongs rgyan</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -168,8 +168,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-4</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>4</psection><p>1b1-6a2</p></loc>
+<ref>NLM0005-4</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>4</psection><p>1b1-6a2</p></loc>
 <tib>khro bo rme brtsegs la brten nas grin glud rdzongs chos 'khyer bde ba zhig</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -178,8 +178,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-5</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>5</psection><p>1b1-7a3</p></loc>
+<ref>NLM0005-5</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>5</psection><p>1b1-7a3</p></loc>
 <tib>rta mgrin gsang sgrub kyi sgo nas tshe 'gugs byed tshul 'khyer bde</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -188,8 +188,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-6</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>6</psection><p>1b1-</p>1b1-28b3</loc>
+<ref>NLM0005-6</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>6</psection><p>1b1-</p>1b1-28b3</loc>
 <tib>'byung bzhi gtor ma'i gdams pa nymas su len tshul gsal bar bkod pa nam mkha'i rnga chen</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -198,8 +198,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-7</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>7</psection><p>1b1-10a6</p></loc>
+<ref>NLM0005-7</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>7</psection><p>1b1-10a6</p></loc>
 <tib>rgyal po'i gsol mchod dregs pa'i re ba skong byed</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -208,8 +208,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-8</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>8</psection><p>1b1-9b3</p></loc>
+<ref>NLM0005-8</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>8</psection><p>1b1-9b3</p></loc>
 <tib>btsan gyi gsol mchod 'phrul gyi mchod sbyin</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -218,8 +218,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-9</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>9</psection><p>1b1-9a3</p></loc>
+<ref>NLM0005-9</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>9</psection><p>1b1-9a3</p></loc>
 <tib>yid dam kha' 'gro chos srung spyi la sbyar rung gi bzlog pa'i cho ga mi mthun phyogs las rgyal ba'i mtshan</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -228,8 +228,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-10</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>10</psection><p>1b1-6a4</p></loc>
+<ref>NLM0005-10</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>10</psection><p>1b1-6a4</p></loc>
 <tib>ltung gshags kyi sgo nas 'chi bslu bya tshul</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -238,8 +238,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-11</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>11</psection><p>1b1-4a5</p></loc>
+<ref>NLM0005-11</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>11</psection><p>1b1-4a5</p></loc>
 <tib>rlung rta'i lha la bsangs mchod 'bul tshul</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -248,8 +248,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-12</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>12</psection><p>1b1-10a1</p></loc>
+<ref>NLM0005-12</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>12</psection><p>1b1-10a1</p></loc>
 <tib>bse rag 'byung po'i gnod pa zhu bar byed pa'i thabs zab mo</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -258,8 +258,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-13</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>13</psection><p>1b1-9b1</p></loc>
+<ref>NLM0005-13</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>13</psection><p>1b1-9b1</p></loc>
 <tib>glud gtor gto bcos ci rigs kyi thog mthar sbyor rgyu'i yan lag 'ga' zhig</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -268,8 +268,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-14</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>14</psection><p>1b1-7a3</p></loc>
+<ref>NLM0005-14</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>14</psection><p>1b1-7a3</p></loc>
 <tib>sa bdag chab gtor gtong tshul rkyen ngan kun sel</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -278,8 +278,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-15</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>15</psection><p>1b1-16a2</p></loc>
+<ref>NLM0005-15</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>15</psection><p>1b1-16a2</p></loc>
 <tib>lan chags gtor ma gtong tshul sungs 'bru'i lhun po</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -288,8 +288,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-16</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>16</psection><p>1b1-4b2</p></loc>
+<ref>NLM0005-16</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>16</psection><p>1b1-4b2</p></loc>
 <tib>grub chen lce sgom pa'i 'chi blu'i gtor ma</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -298,8 +298,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-17</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>17</psection><p>1b1-5b1</p></loc>
+<ref>NLM0005-17</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>17</psection><p>1b1-5b1</p></loc>
 <tib>dpal ldan lha mo'i mdos glud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -308,8 +308,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-18</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>18</psection><p>1b1-3a2</p></loc>
+<ref>NLM0005-18</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>18</psection><p>1b1-3a2</p></loc>
 <tib>lo ma gyon ma rigs gsum gyi bsgom bzlas rgyun 'khyer ma</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -318,8 +318,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-19</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>19</psection><p>1b1-2b3</p></loc>
+<ref>NLM0005-19</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>19</psection><p>1b1-2b3</p></loc>
 <tib>ba ri lugs khro bo rme brtsegs dud kha'i nsgom bzlas 'khyer bde</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -328,8 +328,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-20</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>20</psection><p>1b1-5b4</p></loc>
+<ref>NLM0005-20</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>20</psection><p>1b1-5b4</p></loc>
 <tib>me mchod kyi cho ga 'khyer bde bkra shis dpal 'bar</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -338,8 +338,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-21</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>21</psection><p>1b1-4b3</p></loc>
+<ref>NLM0005-21</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>21</psection><p>1b1-4b3</p></loc>
 <tib>kha 'bar ma dkar mo'i sgo nas 'chi blu bya tshul</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -348,8 +348,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-22</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>22</psection><p>1b1-26a6</p></loc>
+<ref>NLM0005-22</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>22</psection><p>1b1-26a6</p></loc>
 <tib>rje btsun seng ge sgra la brten pa'i klu dang sa bdag gi gdon 'grol gyi cho ga nyer bsdus nad gdon kun sel phan bde'i bdud rtsi</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -358,8 +358,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-23</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>23</psection><p>1b1-11b5</p></loc>
+<ref>NLM0005-23</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>23</psection><p>1b1-11b5</p></loc>
 <tib>rlung rta bskyed pa'i mdos chog 'dod don lhun grub</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -368,8 +368,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-24</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>24</psection><p>1b1-3a2</p></loc>
+<ref>NLM0005-24</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>24</psection><p>1b1-3a2</p></loc>
 <tib>rgyal gsol mdor sdus dregs pa mnyes byed</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -378,8 +378,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-25</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>25</psection><p>1b1-3a4</p></loc>
+<ref>NLM0005-25</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>25</psection><p>1b1-3a4</p></loc>
 <tib>dag snang 'khurgs skong 'khyer bde ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -388,8 +388,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-26</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>26</psection><p>1b1-13a1</p></loc>
+<ref>NLM0005-26</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>26</psection><p>1b1-13a1</p></loc>
 <tib>rje btsun sgrol ma la maN+Dala bzhi'i mchod kyi sgo nas gsol ba gdab tshul gyi cho ga gsal bar bkod pa 'dod don kun 'grub</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -398,8 +398,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-27</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>27</psection><p>1b1-11a5</p></loc>
+<ref>NLM0005-27</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>27</psection><p>1b1-11a5</p></loc>
 <tib>rje btsun ma ku ru ku l+le'i sgrub thabs ud+pala phreng ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -408,8 +408,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM5-28</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM5</json><psection>28</psection><p>1b1-3b4</p></loc>
+<ref>NLM0005-28</ref>
+<loc><vol></vol><voln>5</voln><json>1NLM0005</json><psection>28</psection><p>1b1-3b4</p></loc>
 <tib>rgyal dbang skal bzang rgya mtsho'i mdzad pa thugs rje chen po bcu gcig gzhal dpal mo lugs kyi dbang gi bla rgyud gsol 'debs la kha bskang sbyar tshul dang bcas pa</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -418,8 +418,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-1</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>1</psection><p>1b1-5b2</p></loc>
+<ref>NLM0006-1</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>1</psection><p>1b1-5b2</p></loc>
 <tib>dpal rdo rje 'jigs byed la brten pa'i tshogs kyi 'khor lo'i cho ga bde ba chen po'i rgya mtsho</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -428,8 +428,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-2</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>2</psection><p>1b1-8b4</p></loc>
+<ref>NLM0006-2</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>2</psection><p>1b1-8b4</p></loc>
 <tib>rje btsun sgrol ma ljang khu'i sbyin sreg</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -438,8 +438,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-3</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>3</psection><p>1b1-1b8</p></loc>
+<ref>NLM0006-3</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>3</psection><p>1b1-1b8</p></loc>
 <tib>oM badz+ra a mr-i tas bsangs</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -448,8 +448,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-4</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>4</psection><p>1b1-4a2</p></loc>
+<ref>NLM0006-4</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>4</psection><p>1b1-4a2</p></loc>
 <tib>khri mnga' mdud phur bu myur byon 'dod na</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -458,8 +458,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-5</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>5</psection><p>1b1-5b5</p></loc>
+<ref>NLM0006-5</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>5</psection><p>1b1-5b5</p></loc>
 <tib>rje btsun ma 'phags ma gdugs dkar gyi bskang bshags</tib>
 <skttrans></skttrans>
 <coloph>zhes pa 'di ni rje btsun dam pa rdo rje 'chang chen po tA ra na tha'i zhus dag mdzad pa byin rlabs che zhing bar chad thams cad bzlogs pa'o/_yang gcig lugs shAkya'i dge slong btsun pa blo bzang chos kyis rgyal mtshan gyis sbyar ba dge'o</coloph>
@@ -468,8 +468,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-6</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>6</psection><p>1b1-4b3</p></loc>
+<ref>NLM0006-6</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>6</psection><p>1b1-4b3</p></loc>
 <tib>phyag na rdo rje gshegs gtor 'bul tshul</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -478,8 +478,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-7</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>7</psection><p>1b1-7b5</p></loc>
+<ref>NLM0006-7</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>7</psection><p>1b1-7b5</p></loc>
 <tib>dpal ldan lha mo rem te'i mdos glud chog phan 'di 'byung gnas</tib>
 <skttrans></skttrans>
 <coloph>dpal ldan dmag zor ma bsten pa'i mdos glud phan bde kun stsol zhes bya ba 'di yang shri ke thu chos rje blo bzang zhi bas dam pa rnams kyi gsung rgyun phyag len ltar bgyis pas dge legs 'phel bar gyur cig</coloph>
@@ -488,8 +488,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-8</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>8</psection><p>1b1-2b7</p></loc>
+<ref>NLM0006-8</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>8</psection><p>1b1-2b7</p></loc>
 <tib>rje btsun 'jam dbyangs gyis sgrub thabs</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -498,8 +498,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-9</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>9</psection><p>1b1-5b2</p></loc>
+<ref>NLM0006-9</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>9</psection><p>1b1-5b2</p></loc>
 <tib>kong rtse gsol mchod 'dod yon sprin phung</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -508,8 +508,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-10</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>10</psection><p>1b1-2b7</p></loc>
+<ref>NLM0006-10</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>10</psection><p>1b1-2b7</p></loc>
 <tib>sher snying ga'i bzlog pa bgyur</tib>
 <skttrans></skttrans>
 <coloph> 'di ni thabs la er te ni mkhan chen chos kyi rgyal pos sbyar ba'o</coloph>
@@ -518,8 +518,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-11</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>11</psection><p>1b1-4ba2</p></loc>
+<ref>NLM0006-11</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>11</psection><p>1b1-4ba2</p></loc>
 <tib>rgya nag skag bzlog gyis bzlog bsgyur</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -528,8 +528,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-12</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>12</psection><p>1b1-4b2</p></loc>
+<ref>NLM0006-12</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>12</psection><p>1b1-4b2</p></loc>
 <tib>ltas ngan brgyad bcu rtsa gcig bzlog bsgyur</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -538,8 +538,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-13</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>13</psection><p>1b1-4a5</p></loc>
+<ref>NLM0006-13</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>13</psection><p>1b1-4a5</p></loc>
 <tib>pad+ma 'byung gnas gzungs rak+Sha lnga'i bzlog bsgyur</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -548,8 +548,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-14</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>14</psection><p>1b1-3b2</p></loc>
+<ref>NLM0006-14</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>14</psection><p>1b1-3b2</p></loc>
 <tib>mgon po sgo nas 'chi bslu bya tshul</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -558,8 +558,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-15</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>15</psection><p>1b1-4b1</p></loc>
+<ref>NLM0006-15</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>15</psection><p>1b1-4b1</p></loc>
 <tib>mgon po phyag drug la brten 'gal rkyen phyir bzlog mdos glud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -568,8 +568,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-16</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>16</psection><p>1b1-6a3</p></loc>
+<ref>NLM0006-16</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>16</psection><p>1b1-6a3</p></loc>
 <tib>bla ma yi dam dpal phyag na rdo rje bzlog bsgyur</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -578,8 +578,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-17</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>17</psection><p>1b1-4b2</p></loc>
+<ref>NLM0006-17</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>17</psection><p>1b1-4b2</p></loc>
 <tib>dam can chos rgyal gyi sgo nas srog glud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -588,8 +588,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-18</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>18</psection><p>1b1-3a7</p></loc>
+<ref>NLM0006-18</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>18</psection><p>1b1-3a7</p></loc>
 <tib>byis pa'i srog glud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -598,8 +598,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-19</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>19</psection><p>1b1-2a6</p></loc>
+<ref>NLM0006-19</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>19</psection><p>1b1-2a6</p></loc>
 <tib>sme ba gnyis nag gi bcos thabs</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -608,8 +608,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-20</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>20</psection><p>1b1-2b3</p></loc>
+<ref>NLM0006-20</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>20</psection><p>1b1-2b3</p></loc>
 <tib>gang phyugs nu ma 'o ma nyes byung bcos thabs</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -618,8 +618,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-21</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>21</psection><p>1b1-2b3</p></loc>
+<ref>NLM0006-21</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>21</psection><p>1b1-2b3</p></loc>
 <tib>bskangs gso</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -628,8 +628,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-22</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>22</psection><p>1b1-4b4</p></loc>
+<ref>NLM0006-22</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>22</psection><p>1b1-4b4</p></loc>
 <tib>keg bsgyur</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -638,8 +638,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-23</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>23</psection><p>1b1-8b5</p></loc>
+<ref>NLM0006-23</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>23</psection><p>1b1-8b5</p></loc>
 <tib>rgyal mdos</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -648,8 +648,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-24</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>24</psection><p>1b1-3b5</p></loc>
+<ref>NLM0006-24</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>24</psection><p>1b1-3b5</p></loc>
 <tib>phyag rdor gos sngon can gyi sgrub thabs</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -658,8 +658,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-25</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>25</psection><p>1b1-7a6</p></loc>
+<ref>NLM0006-25</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>25</psection><p>1b1-7a6</p></loc>
 <tib>dgra lha rgyal po mched dgu'i la gshegs pa gtor 'bul tshul</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -668,8 +668,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-26</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>26</psection><p>1a1-1b3</p></loc>
+<ref>NLM0006-26</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>26</psection><p>1a1-1b3</p></loc>
 <tib>gnod sbyin dgra lha'i rgyal po'i mngon rtogs</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -678,8 +678,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-27</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>27</psection><p>1b1-9a7</p></loc>
+<ref>NLM0006-27</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>27</psection><p>1b1-9a7</p></loc>
 <tib>dpal gsang ba'i bdag po phyag na rdo rje'i sgrub thabs bdud rtsi'i chu rgyun</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -688,8 +688,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-28</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>28</psection><p>1b1-7a5</p></loc>
+<ref>NLM0006-28</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>28</psection><p>1b1-7a5</p></loc>
 <tib>khro bo kha mchu nag po bzlog bsgyur</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -698,8 +698,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-29</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>29</psection><p>1b1-9b5</p></loc>
+<ref>NLM0006-29</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>29</psection><p>1b1-9b5</p></loc>
 <tib>khro bo kha mchu nag po bzlog bsgyur</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -708,8 +708,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-30</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>30</psection><p>1b1-5a1</p></loc>
+<ref>NLM0006-30</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>30</psection><p>1b1-5a1</p></loc>
 <tib>rgya nag skag bzlog gyis bzlog bsgyur</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -718,8 +718,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-31</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>31</psection><p>1b1-4a5</p></loc>
+<ref>NLM0006-31</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>31</psection><p>1b1-4a5</p></loc>
 <tib>mgon po sgo nas 'chi bslu bya tshul</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -728,8 +728,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-32</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>32</psection><p>1b1-7a5</p></loc>
+<ref>NLM0006-32</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>32</psection><p>1b1-7a5</p></loc>
 <tib>byis pa'i gdon chen bco lnga mdos kyi cho ga</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -738,8 +738,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-33</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>33</psection><p>1b1-1b6</p></loc>
+<ref>NLM0006-33</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>33</psection><p>1b1-1b6</p></loc>
 <tib>yul lha bzhi bdag 'khor bcas spyan drangs</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -748,8 +748,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-34</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>34</psection><p>1b1-5b1</p></loc>
+<ref>NLM0006-34</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>34</psection><p>1b1-5b1</p></loc>
 <tib>chos skyong lcam sring gi mdos glud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -758,8 +758,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-35</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>35</psection><p>1b1-5a1</p></loc>
+<ref>NLM0006-35</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>35</psection><p>1b1-5a1</p></loc>
 <tib>dam can chos kyi rgyal po'i bzlog bsgyur rkyen ngan sel byed</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -768,8 +768,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-36</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>36</psection><p>1b1-4b5</p></loc>
+<ref>NLM0006-36</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>36</psection><p>1b1-4b5</p></loc>
 <tib>myur mdzad ye shes kyi mgon po phyag drug pa'i bzlog bsgyur byed tshul</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -778,8 +778,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-37</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>37</psection><p>1b1-20b5</p></loc>
+<ref>NLM0006-37</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>37</psection><p>1b1-20b5</p></loc>
 <tib>ye shes kyi mkha' 'gro ma seng ge'i gdong pa can la mchod gtor bskang rdzas sogs 'bul ba'i tshul mdor bsdus pa</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -788,8 +788,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-38</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>38</psection><p>1b1-3a3</p></loc>
+<ref>NLM0006-38</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>38</psection><p>1b1-3a3</p></loc>
 <tib>glud rdzongs</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -798,8 +798,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-39</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>39</psection><p>1b1-5a3</p></loc>
+<ref>NLM0006-39</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>39</psection><p>1b1-5a3</p></loc>
 <tib>sa bdag chab gtor</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -808,8 +808,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-40</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>40</psection><p>1b1-3b2</p></loc>
+<ref>NLM0006-40</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>40</psection><p>1b1-3b2</p></loc>
 <tib>chos skyong lcam sring gi tshogs 'khor dar sbyin sreg dang sangs rgyas bcu phrag gi dam bcas</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -818,8 +818,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-41</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>41</psection><p>1b1-3b5</p></loc>
+<ref>NLM0006-41</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>41</psection><p>1b1-3b5</p></loc>
 <tib>chos skyong lcam sring gyi mngon rtogs bskangs gshags bstod pa bskul sogs</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -828,8 +828,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-42</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>42</psection><p>1b1-14a5</p></loc>
+<ref>NLM0006-42</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>42</psection><p>1b1-14a5</p></loc>
 <tib>rje btsun bla ma ngag dbang bstan pa dpal bzang po'i rnam thar gsol 'debs dad pa'i sgo 'byed</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -838,8 +838,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-43</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>43</psection><p>1a1-4b5</p></loc>
+<ref>NLM0006-43</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>43</psection><p>1a1-4b5</p></loc>
 <tib>gsol 'debs</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -848,8 +848,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-44</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>44</psection><p>1a1-2a5</p></loc>
+<ref>NLM0006-44</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>44</psection><p>1a1-2a5</p></loc>
 <tib>bla ma dang byams mgon la gsol ba 'debs pa</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -858,8 +858,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-45</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>45</psection><p>1b1-6b3</p></loc>
+<ref>NLM0006-45</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>45</psection><p>1b1-6b3</p></loc>
 <tib>tshe dpal 'dab stong rgyas byed nam mkha'i nor bu</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -868,8 +868,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-46</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>46</psection><p>1b1-4b2</p></loc>
+<ref>NLM0006-46</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>46</psection><p>1b1-4b2</p></loc>
 <tib>phyag na rdo rje sgrub par 'dod pa</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -878,8 +878,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-47</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>47</psection><p>1b1-15a6</p></loc>
+<ref>NLM0006-47</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>47</psection><p>1b1-15a6</p></loc>
 <tib>bla ma la brten pa'i sdig ltung sbyong thabs snying gi mun sel</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -888,8 +888,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-48</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>48</psection><p>1b1-9a6</p></loc>
+<ref>NLM0006-48</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>48</psection><p>1b1-9a6</p></loc>
 <tib>gter bum sgrub tshul</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -898,8 +898,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM6-49</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM6</json><psection>49</psection><p>1b1-2b5</p></loc>
+<ref>NLM0006-49</ref>
+<loc><vol></vol><voln>6</voln><json>1NLM0006</json><psection>49</psection><p>1b1-2b5</p></loc>
 <tib>'jam dpal nag po'i bsgom bzlas</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -908,8 +908,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM7-1</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM7</json><psection>1</psection><p>1b1-19a3</p></loc>
+<ref>NLM0007-1</ref>
+<loc><vol></vol><voln>7</voln><json>1NLM0007</json><psection>1</psection><p>1b1-19a3</p></loc>
 <tib>dpal 'khor lo sdom pa lo dril gnyis kyi bsnyen pa byed tshul gsal bar bshad pa mkha' 'gro'i gsang mdzod bdud rtsi'i bum bzang</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -918,8 +918,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM7-2</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM7</json><psection>2</psection><p>1b1-2b3</p></loc>
+<ref>NLM0007-2</ref>
+<loc><vol></vol><voln>7</voln><json>1NLM0007</json><psection>2</psection><p>1b1-2b3</p></loc>
 <tib>bla ma dang dpal 'khor lo sdom pa'i lha tshogs la phyag 'tshal lo</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -928,8 +928,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM7-3</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM7</json><psection>3</psection><p>1b1-146a3</p></loc>
+<ref>NLM0007-3</ref>
+<loc><vol></vol><voln>7</voln><json>1NLM0007</json><psection>3</psection><p>1b1-146a3</p></loc>
 <tib>bla ma mchod pa'i nyams khrid zab mo stsal skabs kyi zin bris zhal shes man ngag gis brgyan pa</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -938,8 +938,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM8-1</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM8</json><psection>1</psection><p>1b1-87a6</p></loc>
+<ref>NLM0008-1</ref>
+<loc><vol></vol><voln>8</voln><json>1NLM0008</json><psection>1</psection><p>1b1-87a6</p></loc>
 <tib>dpal khrag 'thung gi rgyal po 'khor lo sdom par brjod pa rnal 'byor ma bla na med pa rgyud thams cad kyi bla ma bde mchog bsdus pa</tib>
 <skttrans>shrI he ru ka rA dza tsa kra saM pa ra b+hi d+ha na yo gi rud ta ra sarba tan trod ta ra saM ba ra daM gra ha na ma</skttrans>
 <coloph></coloph>
@@ -948,8 +948,8 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM9-1</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM9</json><psection>1</psection><p>1b1-8a2</p></loc>
+<ref>NLM0009-1</ref>
+<loc><vol></vol><voln>9</voln><json>1NLM0009</json><psection>1</psection><p>1b1-8a2</p></loc>
 <tib>rje btsun dam pa rang byung ye shes rdo rje la gsol ba 'debs pa'i tshigs su bcad pa byin rlabs sgo 'byed</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -958,119 +958,529 @@
 
 <item>
 <rkts></rkts>
-<ref>NLM9-2</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM9</json><psection>2</psection><p>1b1-8a6</p></loc>
+<ref>NLM0009-2</ref>
+<loc><vol></vol><voln>9</voln><json>1NLM0009</json><psection>2</psection><p>1b1-8a6</p></loc>
 <tib>ma Ni bum sgrub gyi cho ga dngos grub gter mdzod</tib>
 <skttrans></skttrans>
 <coloph></coloph>
 <note></note>
 </item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0010-1</ref>
+<loc><vol></vol><voln>10</voln><json>1NLM0010</json><psection>1</psection><p>1b1-19a5</p></loc>
+<tib>'phags pa thar pa chen po'i mdo</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0011-1</ref>
+<loc><vol></vol><voln>11</voln><json>1NLM0011</json><psection>1</psection><p>1b1-60a7</p></loc>
+<tib>rje btsun rdo rje phag mo'i sgrub dkyil gyi cho ga'i ngag 'don bklag chog tu spel ba brgyud pa bzhi ldan zab mo'i chos kyi bstan pa rgyas byed sogs</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0011-2</ref>
+<loc><vol></vol><voln>11</voln><json>1NLM0011</json><psection>2</psection><p>1b1-6a6</p></loc>
+<tib>rdo rje phag mo mngon rtogs</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-1</ref>
+<loc><vol></vol><voln>12</voln><json>1NLM0012</json><psection>1</psection><p>1b1-22a4</p></loc>
+<tib>rje btsun 'jam dbyangs kyi bstod pa sogs</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-2</ref>
+<loc><vol></vol><voln>12</voln><json>1NLM0012</json><psection>2</psection><p>1b1-18b1</p></loc>
+<tib>ma gcig khros ma nag mo'i bskang bshags dngos grub kun 'byung zhes bya ba</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-3</ref>
+<loc><vol></vol><voln>12</voln><json>1NLM0012</json><psection>3</psection><p>1b1-10a3</p></loc>
+<tib>cha gsum gtor ma</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-4</ref>
+<loc><vol></vol><voln>12</voln><json>1NLM0012</json><psection>4</psection><p>1b1-6b4</p></loc>
+<tib>rta mgrin gsang sgrubs gyi sgo nas grin sel bya tshul nor bu ke ta ka zhes bya ba</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-5</ref>
+<loc><vol></vol><voln>12</voln><json>1NLM0012</json><psection>5</psection><p>1b1-4a4</p></loc>
+<tib>seng gdong ma'i blo bun las bcol rdo rje thun mda' zhes bya ba</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-6</ref>
+<loc><vol></vol><voln>12</voln><json>1NLM0012</json><psection>6</psection><p>1b1-22b3</p></loc>
+<tib>sed gdong nag mo'i sgo nas zor nag</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-7</ref>
+<loc><vol></vol><voln>12</voln><json>1NLM0012</json><psection>7</psection><p>1b1-9a5</p></loc>
+<tib>tha 'og chos rgyal kyi gsol mchod</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-8</ref>
+<loc><vol></vol><voln>12</voln><json>1NLM0012</json><psection>8</psection><p>1b1-4b7</p></loc>
+<tib>gsol 'debs ma rig mngum pa ngum bur gtub pa'i ye shes spu gri'i 'khor lo zhes bya ba</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-9</ref>
+<loc><vol></vol><voln>12</voln><json>1NLM0012</json><psection>9</psection><p>1b1-38a5</p></loc>
+<tib>ma cig khros ma nag mo'i sgrub thabs mngon dkyil shin tu gsal pa go sla'i tshul du bkod pa</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-10</ref>
+<loc><vol></vol><voln>12</voln><json>1NLM0012</json><psection>10</psection><p>1b1-7a5</p></loc>
+<tib>dpal lha mo nag mo chen mo'i mtshan brgya rtsa brgyad pa yon tan dang bcas pa</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-11</ref>
+<loc><vol></vol><voln>22</voln><json>1NLM0012</json><psection>11</psection><p>1b1-20b2</p></loc>
+<tib>rta mgrin nag sang sgrub kyi sgo nas rab gnas byed tshul byin rlabs kyi rol mtsho zhes bya</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-12</ref>
+<loc><vol></vol><voln>12</voln><json>1NLM0012</json><psection>12</psection><p>1b1-11a1</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-13</ref>
+<loc><vol></vol><voln>12</voln><json>1NLM0012</json><psection>13</psection><p>1b1-4b5</p></loc>
+<tib>dkar ma sum mdar gsum phyi mar tshol bu zag med pa sur gkyi chod</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-14</ref>
+<loc><vol></vol><voln>12</voln><json>1NLM0012</json><psection>14</psection><p>1b1-2b6</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-15</ref>
+<loc><vol></vol><voln>12</voln><json>1NLM0012</json><psection>15</psection><p>1b1-4b5</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-16</ref>
+<loc><vol></vol><voln>12</voln><json>1NLM0012</json><psection>16</psection><p>1b1-4a2</p></loc>
+<tib>khros ma nag mo'i mkha' 'gro'i spyi gtor</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-17</ref>
+<loc><vol></vol><voln>12</voln><json>1NLM0012</json><psection>17</psection><p>1b1-2b4</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-18</ref>
+<loc><vol></vol><voln>12</voln><json>1NLM0012</json><psection>18</psection><p>1b1-2b3</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-19</ref>
+<loc><vol></vol><voln>12</voln><json>1NLM0012</json><psection>19</psection><p>1b1-2b3</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-20</ref>
+<loc><vol></vol><voln>12</voln><json>1NLM0012</json><psection>20</psection><p>1b1-3a2</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-21</ref>
+<loc><vol></vol><voln>12</voln><json>1NLM0012</json><psection>21</psection><p>1b1-2b4</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0012-22</ref>
+<loc><vol></vol><voln>12</voln><json>1NLM0012</json><psection>22</psection><p>1b1-7a7</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0013-1</ref>
+<loc><vol></vol><voln>13</voln><json>1NLM0013</json><psection>1</psection><p>1b1-9a4</p></loc>
+<tib>mkha' 'gro sde lnga bstod pa gsol 'debs smon lam shis brjod dang bcas pa sogs</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0013-2</ref>
+<loc><vol></vol><voln>13</voln><json>1NLM0013</json><psection>2</psection><p>1b1-4b8</p></loc>
+<tib>nymas myong rgan po'i 'des gtam yid 'byung dmar khrid ces bya ba</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0013-3</ref>
+<loc><vol></vol><voln>13</voln><json>1NLM0013</json><psection>3</psection><p>1b1-3b2</p></loc>
+<tib>gcod yul kyi chos skyong rnams la gtor ma'i 'bul tshul</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0013-4</ref>
+<loc><vol></vol><voln>13</voln><json>1NLM0013</json><psection>4</psection><p>1b1-6a4</p></loc>
+<tib>tshogs mchod dngos grub mchog sbyin</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0013-5</ref>
+<loc><vol></vol><voln>13</voln><json>1NLM0013</json><psection>5</psection><p>1b1-7a4</p></loc>
+<tib>nor lha gsum gyi sbyin bsreg bya tshul dgos 'dod kun 'byung zhes bya ba</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0013-6</ref>
+<loc><vol></vol><voln>13</voln><json>1NLM0013</json><psection>6</psection><p>1b1-40a6</p></loc>
+<tib>gsol 'debs byin rlabs gnad 'bebs ma</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0013-7</ref>
+<loc><vol></vol><voln>13</voln><json>1NLM0013</json><psection>7</psection><p>1b1-7b4</p></loc>
+<tib>dur gdab yo byad rnams 'di bzhin 'don chos bcug</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0013-8</ref>
+<loc><vol></vol><voln>13</voln><json>1NLM0013</json><psection>8</psection><p>1b1-10a7</p></loc>
+<tib>sa 'tshol blabs zhes bya ba</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0013-9</ref>
+<loc><vol></vol><voln>13</voln><json>1NLM0013</json><psection>9</psection><p>1b1-2a5</p></loc>
+<tib>thams cad mkhyen pa'i mdzad pa'i gtor ma brgya rtsa ba</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0013-10</ref>
+<loc><vol></vol><voln>13</voln><json>1NLM0013</json><psection>10</psection><p>1b1-5b5</p></loc>
+<tib>zhi ba dkar po la brten pa'i spyin bsreg zhes bya ba god kha thams cad gcod pa'i man ngag</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0013-11</ref>
+<loc><vol></vol><voln>13</voln><json>1NLM0013</json><psection>11</psection><p>1b1-5a2</p></loc>
+<tib>thang stong rgyal po'i tshes bcu'i go rim</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0013-12</ref>
+<loc><vol></vol><voln>13</voln><json>1NLM0013</json><psection>12</psection><p>1b1-3a2</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0013-13</ref>
+<loc><vol></vol><voln>13</voln><json>1NLM0013</json><psection>13</psection><p>1b1-3b3</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0013-14</ref>
+<loc><vol></vol><voln>13</voln><json>1NLM0013</json><psection>14</psection><p>1b1-3a6</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0013-15</ref>
+<loc><vol></vol><voln>13</voln><json>1NLM0013</json><psection>15</psection><p>1b1-3a7</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0013-16</ref>
+<loc><vol></vol><voln>13</voln><json>1NLM0013</json><psection>16</psection><p>1a1-1b7</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0014-1</ref>
+<loc><vol></vol><voln>14</voln><json>1NLM0014</json><psection>1</psection><p>1b1-13a5</p></loc>
+<tib>gcod kyi chos skyong rnams kyi gtor 'bul sogs</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+
+<item>
+<rkts></rkts>
+<ref>NLM0014-2</ref>
+<loc><vol></vol><voln>14</voln><json>1NLM0014</json><psection>2</psection><p>1b1-3a3</p></loc>
+<tib>mkha' 'gro'i bzhengs bskul dang 'bum bskul </tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0014-3</ref>
+<loc><vol></vol><voln>14</voln><json>1NLM0014</json><psection>3</psection><p>1b1-9b6</p></loc>
+<tib>mtsher sa sogs kyi gzhi oa dag mchod pa'i tshul</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0014-4</ref>
+<loc><vol></vol><voln>14</voln><json>1NLM0014</json><psection>4</psection><p>1b1-6a1</p></loc>
+<tib>rta mgrin gsang sgrub kyi chos skor las tshe bcu sogs kyiskabs su nye bar mkho ba dpon gyi gsol 'debs bsam pa lhun grub mar grags pa</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+xxx
+<item>
+<rkts>245</rkts>
+<ref>NLM0014-5</ref>
+<loc><vol></vol><voln>14</voln><json>1NLM0014</json><psection>5</psection><p>1b1-22a5</p></loc>
+<tib>'phags pa chos kyi phung po zhes bya ba thig pa chen po'i mdo</tib>
+<skttrans>Arya d+harma skan d+ha nA ma ma hA yA na sU tra</skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0014-6</ref>
+<loc><vol></vol><voln>14</voln><json>1NLM0014</json><psection>6</psection><p>1b1-7a5</p></loc>
+<tib>son ba'i mdzad pa bcu gnyis las brtsams ba'i bstod pa legs byas yongs 'du'i ske ma zhes bya ba</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0014-7</ref>
+<loc><vol></vol><voln>14</voln><json>1NLM0014</json><psection>7</psection><p>1b1-14b6</p></loc>
+<tib>byang chub ltung bshags kyi sgo nas chu mchod phul ba'i go rim</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0014-8</ref>
+<loc><vol></vol><voln>14</voln><json>1NLM0014</json><psection>8</psection><p>1b1-6a5</p></loc>
+<tib>bla ma brgyad 'bod bla ma'i thugs rje bskul zhing byin brlabs 'gugs pa'i lcags gyu zhes bya ba</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0014-9</ref>
+<loc><vol></vol><voln>14</voln><json>1NLM0014</json><psection>9</psection><p>1b1-15a5</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
+<item>
+<rkts></rkts>
+<ref>NLM0015-1</ref>
+<loc><vol></vol><voln>15</voln><json>1NLM0015</json><psection>1</psection><p>1b1-</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
 ####
-<item>
-<rkts></rkts>
-<ref>NLM</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM</json><psection>1</psection><p>1b1-</p></loc>
-<tib></tib>
-<skttrans></skttrans>
-<coloph></coloph>
-<note></note>
-</item>
 
 <item>
 <rkts></rkts>
-<ref>NLM</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM</json><psection>1</psection><p>1b1-</p></loc>
-<tib></tib>
-<skttrans></skttrans>
-<coloph></coloph>
-<note></note>
-</item>
-
-<item>
-<rkts></rkts>
-<ref>NLM</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM</json><psection>1</psection><p>1b1-</p></loc>
-<tib></tib>
-<skttrans></skttrans>
-<coloph></coloph>
-<note></note>
-</item>
-
-<item>
-<rkts></rkts>
-<ref>NLM</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM</json><psection>1</psection><p>1b1-</p></loc>
-<tib></tib>
-<skttrans></skttrans>
-<coloph></coloph>
-<note></note>
-</item>
-
-<item>
-<rkts></rkts>
-<ref>NLM</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM</json><psection>1</psection><p>1b1-</p></loc>
-<tib></tib>
-<skttrans></skttrans>
-<coloph></coloph>
-<note></note>
-</item>
-
-<item>
-<rkts></rkts>
-<ref>NLM</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM</json><psection>1</psection><p>1b1-</p></loc>
-<tib></tib>
-<skttrans></skttrans>
-<coloph></coloph>
-<note></note>
-</item>
-
-<item>
-<rkts></rkts>
-<ref>NLM</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM</json><psection>1</psection><p>1b1-</p></loc>
-<tib></tib>
-<skttrans></skttrans>
-<coloph></coloph>
-<note></note>
-</item>
-
-<item>
-<rkts></rkts>
-<ref>NLM</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM</json><psection>1</psection><p>1b1-</p></loc>
-<tib></tib>
-<skttrans></skttrans>
-<coloph></coloph>
-<note></note>
-</item>
-
-<item>
-<rkts></rkts>
-<ref>NLM</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM</json><psection>1</psection><p>1b1-</p></loc>
-<tib></tib>
-<skttrans></skttrans>
-<coloph></coloph>
-<note></note>
-</item>
-
-<item>
-<rkts></rkts>
-<ref>NLM</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM</json><psection>1</psection><p>1b1-</p></loc>
-<tib></tib>
-<skttrans></skttrans>
-<coloph></coloph>
-<note></note>
-</item>
-####
-
-<item>
-<rkts></rkts>
-<ref>NLM</ref>
-<loc><vol></vol><voln>1</voln><json>1NLM</json><psection>1</psection><p>1b1-</p></loc>
+<ref>NLM00</ref>
+<loc><vol></vol><voln>1</voln><json>1NLM00</json><psection>1</psection><p>1b1-</p></loc>
 <tib></tib>
 <skttrans></skttrans>
 <coloph></coloph>
