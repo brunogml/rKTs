@@ -123,8 +123,8 @@
 	<category>Kanjur</category>
 	<group>Tshal pa</group>
 	<outline>1</outline>
-	<region></region>
-	<location></location>
+	<region>Kham</region>
+	<location>Co ne<ref>G435</ref></location>
 </item>
 
 <item>
@@ -141,8 +141,8 @@
 	<category>Tanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
-	<location></location>
+	<region>Kham</region>
+	<location>Cone<ref>G435</ref></location>
 </item>
 
 <item>
@@ -177,7 +177,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Kinnaur</region>
 	<location></location>
 </item>
 
@@ -213,7 +213,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>1</outline>
-	<region></region>
+	<region>Mustang</region>
 	<location></location>
 </item>
 
@@ -231,7 +231,7 @@
 	<category>Kanjur</category>
 	<group>Them spangs ma</group>
 	<outline>1</outline>
-	<region></region>
+	<region>Bhutan</region>
 	<location></location>
 </item>
 
@@ -267,8 +267,8 @@
 	<category>Kanjur</category>
 	<group>Tshal pa</group>
 	<outline>1</outline>
-	<region></region>
-	<location></location>
+	<region>Kham</region>
+	<location>Derge<ref>G1657</ref></location>
 </item>
 
 <item>
@@ -297,8 +297,8 @@
 	<category>Tanjur</category>
 	<group>undefined</group>
 	<outline>1</outline>
-	<region></region>
-	<location></location>
+	<region>Kham</region>
+	<location>Derge<ref>G1657</ref></location>
 </item>
 
 <item>
@@ -315,7 +315,7 @@
 	<category>Kanjur</category>
 	<group>Tshal pa</group>
 	<outline>1</outline>
-	<region></region>
+	<region>Bhutan</region>
 	<location></location>
 </item>
 
@@ -333,7 +333,7 @@
 	<category>Kanjur</category>
 	<group>Them spangs ma</group>
 	<outline>1</outline>
-	<region></region>
+	<region>Bhutan</region>
 	<location></location>
 </item>
 
@@ -369,7 +369,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Dolpo</region>
 	<location></location>
 </item>
 
@@ -705,7 +705,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Lahaul</region>
 	<location></location>
 </item>
 
@@ -891,7 +891,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Ladakh</region>
 	<location></location>
 </item>
 
@@ -909,7 +909,7 @@
 	<category>Kanjur</category>
 	<group>Old Mustang</group>
 	<outline>1</outline>
-	<region></region>
+	<region>Ladakh</region>
 	<location></location>
 </item>
 
@@ -927,7 +927,7 @@
 	<category>Kanjur</category>
 	<group>Old Mustang</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Ladakh</region>
 	<location></location>
 </item>
 
@@ -945,7 +945,7 @@
 	<category>Kanjur</category>
 	<group>Old Mustang</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Ladakh</region>
 	<location></location>
 </item>
 
@@ -963,7 +963,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline></outline>
-	<region></region>
+	<region>Ladakh</region>
 	<location></location>
 </item>
 
@@ -1094,6 +1094,24 @@
 </item>
 
 <item>
+	<sigla>Kw</sigla>
+	<name>Peking Wanli Kanjur</name>
+	<date></date>
+	<nbvol></nbvol>
+	<set>
+		<ref>MWSBB_WKG</ref>
+		<location>-</location>
+		<digitizedBy>StaBi</digitizedBy>
+		<integratedrKTs>0</integratedrKTs>
+	</set>
+	<category>Kanjur</category>
+	<group>undefined</group>
+	<outline>0</outline>
+	<region></region>
+	<location></location>
+</item>
+
+<item>
 	<sigla>L</sigla>
 	<name>London Kanjur</name>
 	<date>1700 ca.</date>
@@ -1125,7 +1143,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Dolpo</region>
 	<location></location>
 </item>
 
@@ -1143,7 +1161,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Bhutan</region>
 	<location></location>
 </item>
 
@@ -1161,7 +1179,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Bhutan</region>
 	<location></location>
 </item>
 
@@ -1179,7 +1197,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Ladakh</region>
 	<location></location>
 </item>
 
@@ -1197,7 +1215,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Mustang</region>
 	<location></location>
 </item>
 
@@ -1299,7 +1317,7 @@
 	<category>Kanjur</category>
 	<group>Old Mustang</group>
 	<outline>1</outline>
-	<region></region>
+	<region>Dolpo</region>
 	<location></location>
 </item>
 
@@ -1317,7 +1335,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Ladakh</region>
 	<location></location>
 </item>
 
@@ -1353,7 +1371,7 @@
 	<category>Kanjur</category>
 	<group>Them spangs ma</group>
 	<outline>1</outline>
-	<region></region>
+	<region>Bhutan</region>
 	<location></location>
 </item>
 
@@ -1371,7 +1389,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Zanskar</region>
 	<location></location>
 </item>
 
@@ -1389,7 +1407,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Dolpo</region>
 	<location></location>
 </item>
 
@@ -1443,7 +1461,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Zanskar</region>
 	<location></location>
 </item>
 
@@ -1461,7 +1479,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Zanskar</region>
 	<location></location>
 </item>
 
@@ -1479,7 +1497,7 @@
 	<category>Kanjur</category>
 	<group>Tshal pa</group>
 	<outline>1</outline>
-	<region></region>
+	<region>Bhutan</region>
 	<location></location>
 </item>
 
@@ -1515,7 +1533,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Ladakh</region>
 	<location></location>
 </item>
 
@@ -1533,7 +1551,7 @@
 	<category>Kanjur</category>
 	<group>Tshal pa</group>
 	<outline>1</outline>
-	<region></region>
+	<region>Bhutan</region>
 	<location></location>
 </item>
 
@@ -1587,7 +1605,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Zanskar</region>
 	<location></location>
 </item>
 
@@ -1605,7 +1623,7 @@
 	<category>Kanjur</category>
 	<group>Them spangs ma</group>
 	<outline>1</outline>
-	<region></region>
+	<region>Ladakh</region>
 	<location></location>
 </item>
 
@@ -1623,7 +1641,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Ladakh</region>
 	<location></location>
 </item>
 
@@ -1641,7 +1659,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Zanskar</region>
 	<location></location>
 </item>
 
@@ -1659,7 +1677,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Dolpo</region>
 	<location></location>
 </item>
 
@@ -1695,7 +1713,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Bhutan</region>
 	<location></location>
 </item>
 
@@ -1731,7 +1749,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Zanskar</region>
 	<location></location>
 </item>
 
@@ -1767,7 +1785,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Spiti</region>
 	<location></location>
 </item>
 
@@ -1785,7 +1803,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Bhutan</region>
 	<location></location>
 </item>
 
@@ -1803,7 +1821,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Bhutan</region>
 	<location></location>
 </item>
 
@@ -1839,7 +1857,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Buryatia</region>
 	<location></location>
 </item>
 
@@ -1857,7 +1875,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Bhutan</region>
 	<location></location>
 </item>
 
@@ -1875,7 +1893,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Bhutan</region>
 	<location></location>
 </item>
 
@@ -1893,7 +1911,7 @@
 	<category>Kanjur</category>
 	<group>Them spangs ma</group>
 	<outline>1</outline>
-	<region></region>
+	<region>Bhutan</region>
 	<location></location>
 </item>
 
@@ -1934,24 +1952,6 @@
 </item>
 
 <item>
-	<sigla>W</sigla>
-	<name>Peking Wanli Kanjur</name>
-	<date></date>
-	<nbvol></nbvol>
-	<set>
-		<ref>MWSBB_WKG</ref>
-		<location>-</location>
-		<digitizedBy>StaBi</digitizedBy>
-		<integratedrKTs>0</integratedrKTs>
-	</set>
-	<category>Kanjur</category>
-	<group>undefined</group>
-	<outline>0</outline>
-	<region></region>
-	<location></location>
-</item>
-
-<item>
 	<sigla>X</sigla>
 	<name>Basgo Kanjur</name>
 	<date></date>
@@ -1983,8 +1983,8 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
-	<location></location>
+	<region>Ladakh</region>
+	<location>Basgo<ref>G1BL4</ref></location>
 </item>
 
 <item>
@@ -2019,7 +2019,7 @@
 	<category>Kanjur</category>
 	<group>Them spangs ma</group>
 	<outline>1</outline>
-	<region></region>
+	<region>Ladakh</region>
 	<location></location>
 </item>
 
@@ -2037,7 +2037,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Bhutan</region>
 	<location></location>
 </item>
 
@@ -2055,7 +2055,7 @@
 	<category>Kanjur</category>
 	<group>undefined</group>
 	<outline>0</outline>
-	<region></region>
+	<region>Zanskar</region>
 	<location></location>
 </item>
 
