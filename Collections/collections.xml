@@ -165,7 +165,7 @@
 
 <item>
 	<sigla>Ch</sigla>
-	<name>Chharang Collection</name>
+	<name>Charang Collection</name>
 	<date></date>
 	<nbvol></nbvol>
 	<set>
@@ -197,24 +197,6 @@
 	<outline>0</outline>
 	<region>Ladakh</region>
 	<location>Chemre<ref>G1BL6</ref></location>
-</item>
-
-<item>
-	<sigla>Cx</sigla>
-	<name>Charang Kanjur</name>
-	<date></date>
-	<nbvol></nbvol>
-	<set>
-		<ref>MW3CN1302</ref>
-		<location>-</location>
-		<digitizedBy>rKTs</digitizedBy>
-		<integratedrKTs>1</integratedrKTs>
-	</set>
-	<category>Kanjur</category>
-	<group>undefined</group>
-	<outline>1</outline>
-	<region>Mustang</region>
-	<location></location>
 </item>
 
 <item>
@@ -915,7 +897,7 @@
 
 <item>
 	<sigla>Hg</sigla>
-	<name>Hemis Golden Kanjur</name>
+	<name>Hemis Golden Collection</name>
 	<date></date>
 	<nbvol></nbvol>
 	<set>
@@ -1876,6 +1858,24 @@
 	<group>undefined</group>
 	<outline>0</outline>
 	<region>Bhutan</region>
+	<location></location>
+</item>
+
+<item>
+	<sigla>To</sigla>
+	<name>Tsarang Kanjur</name>
+	<date></date>
+	<nbvol></nbvol>
+	<set>
+		<ref>MW3CN1302</ref>
+		<location>-</location>
+		<digitizedBy>rKTs</digitizedBy>
+		<integratedrKTs>1</integratedrKTs>
+	</set>
+	<category>Kanjur</category>
+	<group>undefined</group>
+	<outline>1</outline>
+	<region>Mustang</region>
 	<location></location>
 </item>
 
