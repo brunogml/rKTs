@@ -56,6 +56,24 @@
 </item>
 
 <item>
+	<sigla>B</sigla>
+	<name>Berlin Kanjur</name>
+	<date></date>
+	<nbvol></nbvol>
+	<set>
+		<ref>-</ref>
+		<location>-</location>
+		<digitizedBy>-</digitizedBy>
+		<integratedrKTs>0</integratedrKTs>
+	</set>
+	<category>Kanjur</category>
+	<group>Tshal pa</group>
+	<outline>0</outline>
+	<region></region>
+	<location></location>
+</item>
+
+<item>
 	<sigla>Ba</sigla>
 	<name>Basgo Fragments</name>
 	<date></date>
@@ -316,6 +334,24 @@
 	<group>Them spangs ma</group>
 	<outline>1</outline>
 	<region>Bhutan</region>
+	<location></location>
+</item>
+
+<item>
+	<sigla>Dr</sigla>
+	<name>Peking Dragon Kanjur</name>
+	<date></date>
+	<nbvol></nbvol>
+	<set>
+		<ref>-</ref>
+		<location>-</location>
+		<digitizedBy>-</digitizedBy>
+		<integratedrKTs>0</integratedrKTs>
+	</set>
+	<category>Kanjur</category>
+	<group>Tshal pa</group>
+	<outline>0</outline>
+	<region></region>
 	<location></location>
 </item>
 
@@ -998,102 +1034,6 @@
 </item>
 
 <item>
-	<sigla>Kb</sigla>
-	<name>Berlin Kanjur</name>
-	<date></date>
-	<nbvol></nbvol>
-	<set>
-		<ref>-</ref>
-		<location>-</location>
-		<digitizedBy>-</digitizedBy>
-		<integratedrKTs>0</integratedrKTs>
-	</set>
-	<category>Kanjur</category>
-	<group>Tshal pa</group>
-	<outline>0</outline>
-	<region></region>
-	<location></location>
-</item>
-
-<item>
-	<sigla>Kd</sigla>
-	<name>Peking Dragon Kanjur</name>
-	<date></date>
-	<nbvol></nbvol>
-	<set>
-		<ref>-</ref>
-		<location>-</location>
-		<digitizedBy>-</digitizedBy>
-		<integratedrKTs>0</integratedrKTs>
-	</set>
-	<category>Kanjur</category>
-	<group>Tshal pa</group>
-	<outline>0</outline>
-	<region></region>
-	<location></location>
-</item>
-
-<item>
-	<sigla>Kq</sigla>
-	<name>Peking 1737 Kanjur</name>
-	<date></date>
-	<nbvol></nbvol>
-	<set>
-		<ref>MW1PD96684</ref>
-		<location>-</location>
-		<digitizedBy>BDRC</digitizedBy>
-		<integratedrKTs>1</integratedrKTs>
-	</set>
-	<set>
-		<ref>MW3CN1094</ref>
-		<location>-</location>
-		<digitizedBy>rKTs</digitizedBy>
-		<integratedrKTs>1</integratedrKTs>
-	</set>
-	<category>Kanjur</category>
-	<group>Tshal pa</group>
-	<outline>1</outline>
-	<region></region>
-	<location></location>
-</item>
-
-<item>
-	<sigla>Ku</sigla>
-	<name>Peking Ulaanbaatar Kanjur</name>
-	<date></date>
-	<nbvol></nbvol>
-	<set>
-		<ref>MW1KG26108</ref>
-		<location>-</location>
-		<digitizedBy>BDRC</digitizedBy>
-		<integratedrKTs>0</integratedrKTs>
-	</set>
-	<category>Kanjur</category>
-	<group>Tshal pa</group>
-	<outline>0</outline>
-	<region></region>
-	<location></location>
-</item>
-
-<item>
-	<sigla>Kw</sigla>
-	<name>Peking Wanli Kanjur</name>
-	<date></date>
-	<nbvol></nbvol>
-	<set>
-		<ref>MWSBB_WKG</ref>
-		<location>-</location>
-		<digitizedBy>StaBi</digitizedBy>
-		<integratedrKTs>0</integratedrKTs>
-	</set>
-	<category>Kanjur</category>
-	<group>undefined</group>
-	<outline>0</outline>
-	<region></region>
-	<location></location>
-</item>
-
-<item>
 	<sigla>L</sigla>
 	<name>London Kanjur</name>
 	<date>1700 ca.</date>
@@ -1148,6 +1088,24 @@
 </item>
 
 <item>
+	<sigla>Ma</sigla>
+	<name>Matho Collection</name>
+	<date></date>
+	<nbvol></nbvol>
+	<set>
+		<ref>-</ref>
+		<location>33°59'56.9N-77°37'51.7E</location>
+		<digitizedBy>rKTs</digitizedBy>
+		<integratedrKTs>0</integratedrKTs>
+	</set>
+	<category>Kanjur</category>
+	<group>undefined</group>
+	<outline>0</outline>
+	<region>Ladakh</region>
+	<location></location>
+</item>
+
+<item>
 	<sigla>Mg</sigla>
 	<name>Mongar Kanjur</name>
 	<date></date>
@@ -1162,24 +1120,6 @@
 	<group>undefined</group>
 	<outline>0</outline>
 	<region>Bhutan</region>
-	<location></location>
-</item>
-
-<item>
-	<sigla>Mt</sigla>
-	<name>Matho Collection</name>
-	<date></date>
-	<nbvol></nbvol>
-	<set>
-		<ref>-</ref>
-		<location>33°59'56.9N-77°37'51.7E</location>
-		<digitizedBy>rKTs</digitizedBy>
-		<integratedrKTs>0</integratedrKTs>
-	</set>
-	<category>Kanjur</category>
-	<group>undefined</group>
-	<outline>0</outline>
-	<region>Ladakh</region>
 	<location></location>
 </item>
 
@@ -1539,6 +1479,30 @@
 
 <item>
 	<sigla>Q</sigla>
+	<name>Peking 1737 Kanjur</name>
+	<date></date>
+	<nbvol></nbvol>
+	<set>
+		<ref>MW1PD96684</ref>
+		<location>-</location>
+		<digitizedBy>BDRC</digitizedBy>
+		<integratedrKTs>1</integratedrKTs>
+	</set>
+	<set>
+		<ref>MW3CN1094</ref>
+		<location>-</location>
+		<digitizedBy>rKTs</digitizedBy>
+		<integratedrKTs>1</integratedrKTs>
+	</set>
+	<category>Kanjur</category>
+	<group>Tshal pa</group>
+	<outline>1</outline>
+	<region></region>
+	<location></location>
+</item>
+
+<item>
+	<sigla>Q</sigla>
 	<name>Peking Tanjur</name>
 	<date></date>
 	<nbvol></nbvol>
@@ -1551,6 +1515,24 @@
 	<category>Tanjur</category>
 	<group>undefined</group>
 	<outline>1</outline>
+	<region></region>
+	<location></location>
+</item>
+
+<item>
+	<sigla>Qu</sigla>
+	<name>Peking Ulaanbaatar Kanjur</name>
+	<date></date>
+	<nbvol></nbvol>
+	<set>
+		<ref>MW1KG26108</ref>
+		<location>-</location>
+		<digitizedBy>BDRC</digitizedBy>
+		<integratedrKTs>0</integratedrKTs>
+	</set>
+	<category>Kanjur</category>
+	<group>Tshal pa</group>
+	<outline>0</outline>
 	<region></region>
 	<location></location>
 </item>
@@ -1863,24 +1845,6 @@
 
 <item>
 	<sigla>To</sigla>
-	<name>Tsarang Kanjur</name>
-	<date></date>
-	<nbvol></nbvol>
-	<set>
-		<ref>MW3CN1302</ref>
-		<location>-</location>
-		<digitizedBy>rKTs</digitizedBy>
-		<integratedrKTs>1</integratedrKTs>
-	</set>
-	<category>Kanjur</category>
-	<group>undefined</group>
-	<outline>1</outline>
-	<region>Mustang</region>
-	<location></location>
-</item>
-
-<item>
-	<sigla>Ts</sigla>
 	<name>Tashichho Kanjur</name>
 	<date></date>
 	<nbvol></nbvol>
@@ -1894,6 +1858,24 @@
 	<group>undefined</group>
 	<outline>0</outline>
 	<region>Bhutan</region>
+	<location></location>
+</item>
+
+<item>
+	<sigla>Ts</sigla>
+	<name>Tsarang Kanjur</name>
+	<date></date>
+	<nbvol></nbvol>
+	<set>
+		<ref>MW3CN1302</ref>
+		<location>-</location>
+		<digitizedBy>rKTs</digitizedBy>
+		<integratedrKTs>1</integratedrKTs>
+	</set>
+	<category>Kanjur</category>
+	<group>undefined</group>
+	<outline>1</outline>
+	<region>Mustang</region>
 	<location></location>
 </item>
 
@@ -1947,6 +1929,24 @@
 	<category>Kanjur</category>
 	<group>Them spangs ma</group>
 	<outline>1</outline>
+	<region></region>
+	<location></location>
+</item>
+
+<item>
+	<sigla>W</sigla>
+	<name>Peking Wanli Kanjur</name>
+	<date></date>
+	<nbvol></nbvol>
+	<set>
+		<ref>MWSBB_WKG</ref>
+		<location>-</location>
+		<digitizedBy>StaBi</digitizedBy>
+		<integratedrKTs>0</integratedrKTs>
+	</set>
+	<category>Kanjur</category>
+	<group>undefined</group>
+	<outline>0</outline>
 	<region></region>
 	<location></location>
 </item>
