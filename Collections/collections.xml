@@ -338,6 +338,24 @@
 </item>
 
 <item>
+	<sigla>Dm</sigla>
+	<name>Drakmar Collection</name>
+	<date></date>
+	<nbvol></nbvol>
+	<set>
+		<ref></ref>
+		<location>-</location>
+		<digitizedBy>rKTs</digitizedBy>
+		<integratedrKTs>0</integratedrKTs>
+	</set>
+	<category>Kanjur</category>
+	<group>undefined</group>
+	<outline></outline>
+	<region>Dolpo</region>
+	<location>Drakmar<ref>G1BL15</ref></location>
+</item>
+
+<item>
 	<sigla>Dr</sigla>
 	<name>Peking Dragon Kanjur</name>
 	<date></date>
@@ -1066,7 +1084,7 @@
 	<group>undefined</group>
 	<outline>0</outline>
 	<region>Dolpo</region>
-	<location></location>
+	<location>Lang<ref>G1BL13</ref></location>
 </item>
 
 <item>
@@ -1642,7 +1660,7 @@
 	<group>undefined</group>
 	<outline>0</outline>
 	<region>Dolpo</region>
-	<location></location>
+	<location>Serkhang<ref>G1BL14</ref></location>
 </item>
 
 <item>
