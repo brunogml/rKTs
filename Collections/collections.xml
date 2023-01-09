@@ -245,7 +245,7 @@
 	<set>
 		<ref>MW3CN20612</ref>
 		<digitizedBy>BDRC</digitizedBy>
-		<integratedrKTs>0</integratedrKTs>
+		<integratedrKTs>1</integratedrKTs>
 	</set>
 	<category>Kanjur</category>
 	<group>mixed</group>
@@ -1655,6 +1655,12 @@
 	<nbvol></nbvol>
 	<set>
 		<ref>MW3CN895</ref>
+		<location>32°05'37.8N-78°22'55.9E</location>
+		<digitizedBy>rKTs</digitizedBy>
+		<integratedrKTs>1</integratedrKTs>
+	</set>
+	<set>
+		<ref>MW1BL1</ref>
 		<location>32°05'37.8N-78°22'55.9E</location>
 		<digitizedBy>rKTs</digitizedBy>
 		<integratedrKTs>1</integratedrKTs>
