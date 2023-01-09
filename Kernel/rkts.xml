@@ -3143,7 +3143,7 @@
 <English84000>The White Lotus of Compassion<source>84000</source></English84000>
 <tib>'phags pa snying rje pad+ma dkar po zhes bya ba theg pa chen po'i mdo<source>A F H Ty V Z</source></tib>
 <tib>'phags pa snying rje pad ma dkar po zhes bya ba theg pa chen po'i mdo<source>C Cz D Dd Dk Gt J L Np Pj Pz Q R S U</source></tib>
-<tib>'phags pa snying rje padma dkar po zhes bya ba theg pa chen po'i mdo<source>He</source></tib>
+<tib>'phags pa snying rje pad+ma dkar po zhes bya ba theg pa chen po'i mdo<source>He</source></tib>
 <tib>snying rje pad dkar<source>N</source></tib>
 <tib>'phags pa snying rje pad ma dkar po zhes bya ba theg pa chen po'i mdo'<source>Ng</source></tib>
 <tib>snying rje pad ma dkar po de bzhin gshegs pa'i zhal chems<source></source></tib>
@@ -3167,7 +3167,7 @@
 <tib>dam pa'i chos pad ma dkar dam pa'i chos pad ma dkar po zhes bya ba theg pa chen po'i mdo<source></source></tib>
 <tib>dam chos pad ma dkar po<source></source></tib>
 <tib>dam chos pad+ma dkar po'i mdo<source></source></tib>
-<tib>dam pa'i chos padma dkar po zhes bya ba theg pa chen po'i mdo<source></source></tib>
+<tib>dam pa'i chos pad+ma dkar po zhes bya ba theg pa chen po'i mdo<source></source></tib>
 <tib>dam pa'i chos pad ma dkar po zhes bya ba theg pa chen po'i mdo'i<source></source></tib>
 <skt>saddharmapuṇḍarīka nāma mahāyāna sūtra</skt>
 <sktuni>सद्धर्मपुण्डरीक​ नाम​ महायान​ सूत्र​</sktuni>
@@ -11820,15 +11820,13 @@
 <item>
 <rkts>537</rkts>
 <section>Tantra</section>
-<StandardTibetan>padma'i spyan pa'i gzungs<source>D</source></StandardTibetan>
+<StandardTibetan>pad+ma'i spyan pa'i gzungs<source>D</source></StandardTibetan>
 <StandardSanskrit><source>D</source></StandardSanskrit>
 <English84000>The Incantation of Padmanetra<source>84000</source></English84000>
 <tib>'phags pa pad ma'i spyan zhes bya ba'i gzungs<source>C L N Q R U</source></tib>
 <tib>-<source>Dk Gt</source></tib>
-<tib>'phags pa pad ma'i spyan zhes bya ba'i gzungs<source>H H</source></tib>
-<tib>'phags pa padma'i spyan zhes bya ba'i gzungs<source>J J</source></tib>
-<tib>'phags pa pad+ma'i spyan zhes bya ba'i gzungs<source>Z</source></tib>
-<tib>'phags pa pad+ma'i spyan zhes bya ba'i gzungs<source></source></tib>
+<tib>'phags pa pad ma'i spyan zhes bya ba'i gzungs<source>H</source></tib>
+<tib>'phags pa pad+ma'i spyan zhes bya ba'i gzungs<source>J, Z</source></tib>
 <tib>pad ma'i spyan gyi gzungs<source></source></tib>
 <mng>qutug tu lingqu a nidütü kemegdeküi</mng>
 <mng>qutug tu lingqu a yin nidün neretü tarni</mng>
@@ -14269,13 +14267,13 @@
 <rkts>675</rkts>
 <section>Tantra</section>
 <StandardTibetan>'phags pa spyan ras gzigs dbang phyug gi rtsa ba'i rgyud kyi rgyal po pad ma dra ba zhes bya ba<source>D</source></StandardTibetan>
-<StandardSanskrit>ārya-avalokiteśvarapadmajāla-mūlatantrarāja-nāma<source>D</source></StandardSanskrit>
+<StandardSanskrit>ārya-avalokiteśvarapad+majāla-mūlatantrarāja-nāma<source>D</source></StandardSanskrit>
 <English84000>The Web of Lotuses, the Root Tantra of Avalokiteśvara<source>84000</source></English84000>
 <tib>'phags pa spyan ras gzigs dbang phyug gi rtsa ba'i rgyud kyi rgyal po pad+ma dra ba<source>A</source></tib>
 <tib>'phags pa spyan ras gzigs dbang phyug gi rtsa ba'i rgyud kyi rgyal po pad ma dra ba zhes bya ba<source>C Cz Dd Dk F Gt H L N Np Pz Q R S Ty U V</source></tib>
 <tib>'phags pa spyan ras gzigs dbang phyug gi rtsa ba'i rgyud kyi rgyal po pad+ma dra ba zhes bya ba<source>D Pj Z</source></tib>
-<tib>'phags pa spyan ras gzigs dbang phyug gi rtsa ba'i rgyud kyi rgyal po padma dra ba zhes bya ba<source>J</source></tib>
-<skt>āryāvalokiteśvarapadmajāla mūlatantrarāja nāma</skt>
+<tib>'phags pa spyan ras gzigs dbang phyug gi rtsa ba'i rgyud kyi rgyal po pad+ma dra ba zhes bya ba<source>J</source></tib>
+<skt>āryāvalokiteśvarapad+majāla mūlatantrarāja nāma</skt>
 <sktuni>आर्यावलोकितेश्वरपद्मजाल मूलतन्त्रराज नाम​</sktuni>
 <mng>qutug tu nidüber üjegci erketü ijagur ündüsün ü qagan lingqu a tour tu neretü</mng>
 <mnguni>ᠬᠣᠳᠣᠬ ᠳᠣ ᠨᠢᠳᠥᠪᠡᠷ ᠥᠵᠡᠭᠴᠢ ᠡᠷᠭᠡᠳᠥ ᠢᠵᠠᠭᠣᠷ ᠥᠨᠳᠥᠰᠥᠨ ᠦ ᠬᠠᠭᠠᠨ ᠯᠢᠩᠬᠣ᠎ᠠ ᠳᠣᠣᠷ ᠳᠣ ᠨᠡᠷᠡᠳᠥ</mnguni>
@@ -14590,14 +14588,14 @@
 <rkts>695</rkts>
 <section>Tantra</section>
 <StandardTibetan>pad+ma cod pan zhes bya ba'i rgyud<source>D</source></StandardTibetan>
-<StandardSanskrit>padmamukuṭatantra-nāma<source>D</source></StandardSanskrit>
+<StandardSanskrit>pad+mamukuṭatantra-nāma<source>D</source></StandardSanskrit>
 <English84000>The Lotus Diadem Tantra<source>84000</source></English84000>
 <tib>pad ma cod pan zhes bya ba'i rgyud<source>A</source></tib>
-<tib>padma cod pan zhes bya ba'i rgyud<source>C Cz Dd Gt H J L N Q R U V</source></tib>
+<tib>pad+ma cod pan zhes bya ba'i rgyud<source>C Cz Dd Gt H J L N Q R U V</source></tib>
 <tib>pad+ma cod pan zhes bya ba'i rgyud<source>D Dk Np Pj Pz S Ty Z</source></tib>
 <tib>pad ma cod pan gyi rgyud zhes bya ba<source>F</source></tib>
-<tib>spyan ras gzigs padma cod pan gyi brgyud<source></source></tib>
-<skt>padmamukuṭa tantra nāma</skt>
+<tib>spyan ras gzigs pad+ma cod pan gyi brgyud<source></source></tib>
+<skt>pad+mamukuṭa tantra nāma</skt>
 <sktuni>पद्ममुकुट तन्त्र नाम​</sktuni>
 <mng>lingqu a titim neretü dandr a</mng>
 <mnguni>ᠯᠢᠩᠬᠣ᠎ᠠ ᠳᠢᠳᠢᠮ ᠨᠡᠷᠡᠳᠥ ᠳᠠᠨᠳᠷ᠎ᠠ</mnguni>
@@ -17371,7 +17369,7 @@
 <item>
 <rkts>861</rkts>
 <section></section>
-<StandardTibetan>'phags pa spyan ras gzigs dbang phyug gi padma yid bzhin gyi 'khor lo'i sgyur ba zhes bya ba'i gzungs<source>F</source></StandardTibetan>
+<StandardTibetan>'phags pa spyan ras gzigs dbang phyug gi pad+ma yid bzhin gyi 'khor lo'i sgyur ba zhes bya ba'i gzungs<source>F</source></StandardTibetan>
 <StandardSanskrit><source>D</source></StandardSanskrit>
 <English84000><source>84000</source></English84000>
 <tib>'phags pa spyan ras gzigs dbang phyug gi pad ma yid bzhin gyi 'khor los sgyur ba zhes bya ba'i gzungs<source>Bd F</source></tib>
