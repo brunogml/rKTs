@@ -8,7 +8,8 @@
 <item>	
 <rkts></rkts>	
 <ref>Ta001.001</ref>	
-<loc><set>MW3CN895</set><vol>1</vol><voln>1</voln><json>3CN897</json><psection>1</psection><p>xa1-xb6</p></loc>	
+<loc><set>MW3CN895</set><vol>RN001</vol><voln>1</voln><json>1ER369</json><psection>1</psection><p></p></loc>	
+<inDerge><img></img><vol></vol><psection></psection><p></p></inDerge>	
 <tib></tib>	
 <skttrans></skttrans>	
 <coloph></coloph>	
@@ -17,8 +18,9 @@
 
 <item>	
 <rkts></rkts>	
-<ref>Ta002.001</ref>	
-<loc><set>MW3CN895</set><vol>2</vol><voln>2</voln><json>3CN898</json><psection>1</psection><p></p></loc>	
+<ref>Ta004.001</ref>	
+<loc><set>MW3CN895</set><vol>RN004</vol><voln>4</voln><json>1ER370</json><psection>1</psection><p></p></loc>	
+<inDerge><img></img><vol></vol><psection></psection><p></p></inDerge>	
 <tib></tib>	
 <skttrans></skttrans>	
 <coloph></coloph>	
@@ -26,19 +28,21 @@
 </item>	
 
 <item>	
-<rkts></rkts>	
-<ref>Ta003.001</ref>	
-<loc><set>MW3CN895</set><vol>3</vol><voln>3</voln><json>3CN899</json><psection>1</psection><p>2a1-2b6</p></loc>	
+<rkts>8</rkts>	
+<ref>Ta005.001</ref>	
+<loc><set>MW3CN895</set><vol>RN005</vol><voln>5</voln><json>1ER371</json><psection>1</psection><p></p></loc>	
+<inDerge><img>x1a</img><vol>0904</vol><psection>'bum</psection><p>316a</p></inDerge>	
 <tib></tib>	
-<skttrans></skttrans>	
+<skttrans></skttrans>
 <coloph></coloph>	
 <note></note>	
 </item>	
 
 <item>	
-<rkts></rkts>	
-<ref>Ta</ref>	
-<loc><set>MW3CN895</set><vol>4</vol><voln>4</voln><json>3CN900</json><psection>1</psection><p>86a1-90b6</p></loc>	
+<rkts>9</rkts>	
+<ref>Ta005.002</ref>	
+<loc><set>MW3CN895</set><vol>RN005</vol><voln>5</voln><json>1ER</json><psection>1</psection><p></p></loc>	
+<inDerge><img>x2a</img><vol>0911</vol><psection>nyi khri</psection><p>354a</p></inDerge>	
 <tib></tib>	
 <skttrans></skttrans>	
 <coloph></coloph>	
@@ -50,7 +54,8 @@
 <item>	
 <rkts></rkts>	
 <ref>Ta</ref>	
-<loc><set>MW3CN895</set><vol>4</vol><voln>4</voln><json>3CN900</json><psection>1</psection><p></p></loc>	
+<loc><set>MW3CN895</set><vol>4</vol><voln>4</voln><json>1ER</json><psection>1</psection><p></p></loc>	
+<inDerge><img></img><vol></vol><psection></psection><p></p></inDerge>	
 <tib></tib>	
 <skttrans></skttrans>	
 <coloph></coloph>	
