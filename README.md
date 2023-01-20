@@ -44,7 +44,7 @@ The tags used in the xml files of the `Kanjur/`, `Tanjur/` and `Tantra/` folder 
 - `<revisionplace>` the place where the translation occured according to the colophon of the edition
 - `<note>` a note, in English
 - `<lang>` indicates the main language, the default `bo` is not indicated, other values can be `bo,sa` (for the bilingual texts) and `sa`
-
+- `<InDerge>` for fragments indicates their location in the Derge Kanjur
 #### Kernel
 
 - `<rkts>` (resp. `rktst`, `rktsg`), Reference Number of the text
