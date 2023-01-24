@@ -765,16 +765,16 @@
 	<date></date>
 	<nbvol></nbvol>
 	<set>
+		<ref>MW2KG5016</ref>
+		<digitizedBy>Sarnath</digitizedBy>
+		<integratedrKTs>1</integratedrKTs>
+		<description></description>
+	</set>
+	<set>
 		<ref>MW1PD128753</ref>
 		<digitizedBy>rKTs</digitizedBy>
 		<integratedrKTs>0</integratedrKTs>
 		<description>Images provided by the "Tibetan Manuscript Project Vienna" (University of Vienna)</description>
-	</set>
-	<set>
-		<ref>MW2KG5016</ref>
-		<digitizedBy>Sarnath</digitizedBy>
-		<integratedrKTs></integratedrKTs>
-		<description></description>
 	</set>
 	<category>Kanjur</category>
 	<group>undefined</group>
