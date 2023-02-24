@@ -1646,7 +1646,7 @@
 	<set>
 		<ref>MW2PD17098</ref>
 		<digitizedBy>BDRC</digitizedBy>
-		<integratedrKTs>0</integratedrKTs>
+		<integratedrKTs>1</integratedrKTs>
 		<description></description>
 	</set>
 	<category>Kanjur</category>
@@ -2067,13 +2067,13 @@
 
 <item>
 	<sigla>W</sigla>
-	<name>Peking Wanli Kanjur</name>
+	<name>Wanli Supplement</name>
 	<date></date>
 	<nbvol></nbvol>
 	<set>
 		<ref>MWSBB_WKG</ref>
 		<digitizedBy>StaBi</digitizedBy>
-		<integratedrKTs>0</integratedrKTs>
+		<integratedrKTs>1</integratedrKTs>
 		<description></description>
 	</set>
 	<category>Kanjur</category>
