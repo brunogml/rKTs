@@ -3303,11 +3303,11 @@
 <coloph></coloph>
 <note></note>
 </item>
-###
 
 <item>
 <rkts>-</rkts>
-<ref>Zl2014.01.001</ref>
+<ref>Zl35.001</ref>
+<loc><set>MW3KG36</set><vol>35 snying thig las byang</vol><voln>40</voln><json>3KG64</json><psection>1</psection><p>1b1-113a6</p></loc>
 <loc></loc>
 <tib>-</tib>
 <skttrans>-</skttrans>
@@ -3317,8 +3317,8 @@
 
 <item>
 <rkts>-</rkts>
-<ref>Zl2014.02.001</ref>
-<loc>ka 2a-114b</loc>
+<ref>Zl36.001</ref>
+<loc><set>MW3KG36</set><vol>36 bcom ldan zhi khro</vol><voln>41</voln><json>3KG65</json><psection>1</psection><p>1b1-114b5</p></loc>
 <tib>-</tib>
 <skttrans>-</skttrans>
 <coloph></coloph>
@@ -3327,8 +3327,18 @@
 
 <item>
 <rkts>-</rkts>
-<ref>Zl2014.03.001</ref>
-<loc></loc>
+<ref>Zl37.001</ref>
+<loc><set>MW3KG36</set><vol>37 gsol 'debs</vol><voln>42</voln><json>3KG66</json><psection>1</psection><p>1b1-3a4</p></loc>
+<tib>phyag chen brgyud 'debs 'phro 'thud bsgyur kha'i rim pa kha yar bkod pa</tib>
+<skttrans>-</skttrans>
+<coloph></coloph>
+<note>printed text</note>
+</item>
+
+<item>
+<rkts>-</rkts>
+<ref>Zl38.001</ref>
+<loc><set>MW3KG36</set><vol>38</vol><voln>43</voln><json>3KG67</json><psection>1</psection><p>1b1-193b6</p></loc>
 <tib>-</tib>
 <skttrans>-</skttrans>
 <coloph></coloph>
@@ -3337,8 +3347,8 @@
 
 <item>
 <rkts>-</rkts>
-<ref>Zl2014.04.001</ref>
-<loc></loc>
+<ref>Zl39.001</ref>
+<loc><set>MW3KG36</set><vol>39</vol><voln>44</voln><json>3KG68</json><psection>1</psection><p>1b1-34a6</p></loc>
 <tib>-</tib>
 <skttrans>-</skttrans>
 <coloph></coloph>
@@ -3347,9 +3357,9 @@
 
 <item>
 <rkts>-</rkts>
-<ref>Zl2014.05.001</ref>
-<loc></loc>
-<tib>-</tib>
+<ref>Zl40.001</ref>
+<loc><set>MW3KG36</set><vol>40 rang tshul lhug smras</vol><voln>45</voln><json>3KG69</json><psection>1</psection><p>1b1-21b7</p></loc>
+<tib>rang tshul lhug par smras pa'i gtam tshangs pa'i drang thig ces bya ba</tib>
 <skttrans>-</skttrans>
 <coloph></coloph>
 <note>printed text</note>
@@ -3357,9 +3367,19 @@
 
 <item>
 <rkts>-</rkts>
-<ref>Zl2014.06.001</ref>
-<loc></loc>
-<tib>-</tib>
+<ref>Zl41.001</ref>
+<loc><set>MW3KG36</set><vol>41 tshe tsheg 'chi med 'dod</vol><voln>46</voln><json>3KG70</json><psection>1</psection><p>1b1-21b2</p></loc>
+<tib>tshe tsheg 'chi med 'dod 'jod dbang gi rgyal po zhes bya ba</tib>
+<skttrans>-</skttrans>
+<coloph></coloph>
+<note>printed text</note>
+</item>
+
+<item>
+<rkts>446</rkts>
+<ref>Zl42.001</ref>
+<loc><set>MW3KG36</set><vol>42 lha mo bzhis</vol><voln>47</voln><json>3KG71</json><psection>1</psection><p>1b1-7a4</p></loc>
+<tib>lha mo bzhis yongs su zhus pa'i rgyud</tib>
 <skttrans>-</skttrans>
 <coloph></coloph>
 <note>printed text</note>
@@ -3367,44 +3387,24 @@
 
 <item>
 <rkts>-</rkts>
-<ref>Zl2014.07.001</ref>
-<loc></loc>
-<tib>-</tib>
-<skttrans>-</skttrans>
-<coloph></coloph>
-<note>printed text</note>
-</item>
-
-<item>
-<rkts>-</rkts>
-<ref>Zl2014.08.001</ref>
-<loc></loc>
-<tib>-</tib>
-<skttrans>-</skttrans>
-<coloph></coloph>
-<note>printed text</note>
-</item>
-
-<item>
-<rkts>-</rkts>
-<ref>Zl2014.09.001</ref>
-<loc></loc>
-<tib>-</tib>
+<ref>Zl43.001</ref>
+<loc><set>MW3KG36</set><vol>43 bslab bsrungs</vol><voln>48</voln><json>3KG72</json><psection>1</psection><p>1b1-23a9</p></loc>
+<tib>bslab pa bsrungs ba'i thabs nyams len gyi rim pa phyog gcig tu sgrig pa</tib>
 <skttrans>-</skttrans>
 <coloph></coloph>
 <note>not identified</note>
 </item>
 
 <item>
-<rkts>-</rkts>
-<ref>Zl2014.10.001</ref>
-<loc>1b1-17b6</loc>
+<rktst>3882</rktst>
+<ref>Zl44.001</ref>
+<loc><set>MW3KG36</set><vol>44 bden gnyis 'byed 'grel</vol><voln>49</voln><json>3KG73</json><psection>1</psection><p>1b1-17b6</p></loc>
 <tib>bden pa gnyis rnam par 'byed pa'i 'grel pa</tib>
 <skttrans>sad tya dva ya bi bha ga brid ti</skttrans>
 <coloph></coloph>
 <note>Tanjur text D3882</note>
 </item>
-
+###
 <item>
 <rkts>-</rkts>
 <ref>Zl2014.11.001</ref>
