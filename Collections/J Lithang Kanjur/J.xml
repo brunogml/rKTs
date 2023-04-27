@@ -1203,7 +1203,7 @@ rkts>113</rkts>
 <loc><set>MW4CZ7445</set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9915</json><psection>mdo sde</psection><p>1b1-332a7</p></loc>
 <tib>'phags pa yongs su mya ngan las 'das pa chen po'i mdo</tib>
 <skttrans></skttrans>
-<coloph>'phags pa yongs su mya ngan las 'das pa chen po'i mdo/ /rdzogs so// mdo mya ngan las 'das pa chen po rgyan nag nas bsgyur pa 'di/ rgya nag gyi mkhan po wang phab zhun dang / dharma'i gzhi 'dzi na dge ba'i blo gros dang / lo tstsha ba rgya mtsho'i sdes bsgyur cing zhus te gtan la phab pa'o//</coloph>
+<coloph>'phags pa yongs su mya ngan las 'das pa chen po'i mdo/_/rdzogs sho// mdo mya ngan las 'das pa chen po rgyan ga nas bsgyur pa 'di/_rgya ga gyi mkhan po wang phab zhun dang /_dhar+ma'i gzhi 'dzi na dge ba'i blo gros dang/_lo ts+tsha ba rgya mtsho'i sdes bsgyur cing zhus te gtan la phab pa'o//</coloph>
 <coltitle>'phags pa yongs su mya ngan las 'das pa chen po'i mdo</coltitle>
 <bampo>1.<loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>1b1</p></loc></bampo>
 <bampo>2.<loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>15a1</p></loc></bampo>
@@ -1219,37 +1219,67 @@ rkts>113</rkts>
 <bampo>12.<loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>145a1</p></loc></bampo>
 <bampo>13.<loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>159a2</p></loc></bampo>
 <bampo>14.<loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>172a1</p></loc></bampo>
-<bampo><loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></bampo>
-<bampo><loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></bampo>
-<bampo><loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></bampo>
-<bampo><loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></bampo>
-<bampo><loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></bampo>
-<bampo><loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></bampo>
-<bampo><loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></bampo>
-<bampo><loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></bampo>
-<bampo><loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></bampo>
-<bampo><loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></bampo>
-<bampo><loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></bampo>
-<bampo><loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></bampo>
-<bampo><loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></bampo>
-<bampo><loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></bampo>
-<bampo><loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></bampo>
-<bampo><loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></bampo>
-<bampo><loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></bampo>
-<bampo><loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></bampo>
+<bampo>15.<loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>185a6</p></loc></bampo>
+<bampo>16.<loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>195a7</p></loc></bampo>
+<bampo>17.<loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>208b2</p></loc></bampo>
+<bampo>18.<loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>220b8</p></loc></bampo>
+<bampo>19.<loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>232b8</p></loc></bampo>
+<bampo>20.<loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>245a3</p></loc></bampo>
+<bampo>21.<loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>259a4</p></loc></bampo>
+<bampo>22.<loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>270b4</p></loc></bampo>
+<bampo>23.<loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>282a3</p></loc></bampo>
+<bampo>24.<loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>292a8</p></loc></bampo>
+<bampo>25.<loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>303b7</p></loc></bampo>
+<bampo>26.<loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>315b8</p></loc></bampo>
+<bampo>27.<loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>328a8</p></loc></bampo>
+<bampo>28.<loc><set></set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>343b1</p></loc></bampo>
+<bampo>29.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>1b1</p></loc></bampo>
+<bampo>30.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>13a7</p></loc></bampo>
+<bampo>31.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>25a3</p></loc></bampo>
+<bampo>32.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>36b5</p></loc></bampo>
+<bampo>33.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>49a5</p></loc></bampo>
+<bampo>34.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>62a2</p></loc></bampo>
+<bampo>35.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>74b4</p></loc></bampo>
+<bampo>36.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>86a2</p></loc></bampo>
+<bampo>37.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>97b4</p></loc></bampo>
+<bampo>38.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>109a8</p></loc></bampo>
+<bampo>39.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>122a1</p></loc></bampo>
+<bampo>40.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>135b6</p></loc></bampo>
+<bampo>41.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>148b7</p></loc></bampo>
+<bampo>42.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>162a7</p></loc></bampo>
+<bampo>43.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>172b4</p></loc></bampo>
+<bampo>44.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>183b4</p></loc></bampo>
+<bampo>45.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>195a3</p></loc></bampo>
+<bampo>46.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>206b2</p></loc></bampo>
+<bampo>47.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>218a8</p></loc></bampo>
+<bampo>48.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>229b4</p></loc></bampo>
+<bampo>49.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>241b3</p></loc></bampo>
+<bampo>50.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>253b2</p></loc></bampo>
+<bampo>51.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>264a4</p></loc></bampo>
+<bampo>52.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>274a6</p></loc></bampo>
+<bampo>53.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>287a1</p></loc></bampo>
+<bampo>54.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>299b8</p></loc></bampo>
+<bampo>55.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>311a7</p></loc></bampo>
+<bampo>56.<loc><set></set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>323a3</p></loc></bampo>
 <chap>skutshe'ile'uzhe bya ste gcig pa<loc><set>MW4CZ7445</set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>50b5</p></loc></chap>
 <chap>rdo rje'i sku zhes bya ba'i le'ü ste gnyis pa<loc><set>MW4CZ7445</set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>56b4</p></loc></chap>
 <chap>mtshan gyi yon tan brjod pa zhes bya ba'i le'u ste gsum pa<loc><set>MW4CZ7445</set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>57b8</p></loc></chap>
 <chap>de bzhin gshegs pa'i snying po'i le'u ste bzhi pa<loc><set>MW4CZ7445</set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>167b5</p></loc></chap>
-<chap><loc><set>MW4CZ7445</set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></chap>
-<chap><loc><set>MW4CZ7445</set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></chap>
-<chap><loc><set>MW4CZ7445</set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></chap>
-<chap><loc><set>MW4CZ7445</set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></chap>
-<chap><loc><set>MW4CZ7445</set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></chap>
-<chap><loc><set>MW4CZ7445</set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p></p></loc></chap>
-Honza
+<chap>'khor mang pos kun nas dris pa zhes bya ba'i le'u ste lnga pa<loc><set>MW4CZ7445</set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>190a4</p></loc></chap>
+<chap>'phags pa'i spyod pa zhes bya ba'i le'u ste/_drug pa<loc><set>MW4CZ7445</set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>245a2</p></loc></chap>
+<chap>tshangs par spyod pa zhes bya ba'i le'u ste bdun pa<loc><set>MW4CZ7445</set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>341a8</p></loc></chap>
+<chap>bus pa chung ngu spyod pa zhes bya ba'i le'u ste brgyad pa<loc><set>MW4CZ7445</set><vol>mdo sde, nya</vol><voln>47</voln><json>1KG9910</json><psection>mdo sde</psection><p>343a8</p></loc></chap>
+<chap>byang chub sems dpa' kun du snang ba mtho btsun dpal gyi rgyal po zhes bya bas/_yongs su dris pa'i le'u ste bcu pa<loc><set>MW4CZ7445</set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>81a6</p></loc></chap>
+<chap>byang chub sems dpa' seng ge sgra zhes bya bas yongs su dris pa'i le'u ste bcu gcig<loc><set>MW4CZ7445</set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>180b2</p></loc></chap>
+<chap>'od srung gis yongs su dris pa zhes bya ba'i le'u ste bcu gnyis pa<loc><set>MW4CZ7445</set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>264a4</p></loc></chap>
+<chap>tshe dang ldan pa cang shes kauN+Di n+ya'i le'u<loc><set>MW4CZ7445</set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>303a7</p></loc></chap>
+<chap>bstan pa gzhag pa'i le'u<loc><set>MW4CZ7445</set><vol>mdo sde, ta</vol><voln>48</voln><json>1KG9910</json><psection>mdo sde</psection><p>313a2</p></loc></chap>
+<translator>rgya ga gyi mkhan po wang phab zhun<rid>bdr:</rid></translator>
+<translator>dhar+ma'i gzhi 'dzi na dge ba'i blo gros<rid>bdr:</rid></translator>
+<translator>lo ts+tsha ba rgya mtsho'i sde<rid>bdr:</rid></translator>
 <note></note>
 </item>
+Honza
 
 <item>
 <rkts>120</rkts>
