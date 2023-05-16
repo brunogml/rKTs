@@ -1,0 +1,254 @@
+
+<list>
+#####################################################################################
+<Collection>
+	<Sigla>A</Sigla>
+	<Name>dPe bsdur ma Kanjur</Name>
+	<Topology>
+		<Class>1</Class>
+		<Category>Kanjur</Category>
+		<Group>Tshal pa</Group>
+	</Topology>
+	<Time>
+		<DateOfProduction>2006</DateOfProduction>
+	</Time>
+	<Location>
+		<PlaceOfProduction>krung go'i bod rig pa'i dpe skrun khang<GeoData></GeoData></PlaceOfProduction>
+	</Location>
+	<Agent>
+		<CompilersEditiors></CompilersEditiors>
+		<Sponsors></Sponsors>
+	</Agent>
+	<Web>
+		<Folder>A dPe bsdur ma Kanjur</Folder>
+		<Handlist>1</Handlist>
+	</Web>	
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	<Set>
+		<RefBDRC>MW1PD96682</RefBDRC>
+		<DigitizedBy>BDRC</DigitizedBy>
+		<DigitizedTime></DigitizedTime>
+		<ImagesBy>BDRC</ImagesBy>
+		<Copyright></Copyright>
+		<NumberOfVolume>109</NumberOfVolume>
+		<StateOfPreservation></StateOfPreservation>
+		<Location>
+			<PlaceOfStorage><GeoData></GeoData></PlaceOfStorage>
+			<PreservingInstitution></PreservingInstitution>
+		</Location>
+		<Layout>
+			<SizeOfFolio></SizeOfFolio>
+			<SizeOfText></SizeOfText>
+			<Foliation></Foliation>
+			<NumberOfLines></NumberOfLines>
+			<ColorOfInk>Black</ColorOfInk>
+			<MarginalTitle></MarginalTitle>
+		</Layout>
+		<Material>
+			<MaterialType>Paper</MaterialType>
+			<FiberDistribution></FiberDistribution>
+		</Material>
+		<Script>
+			<Execution>Print</Execution>
+			<TypeOfScript>Uchen</TypeOfScript>
+		</Script>
+		
+		<Web>
+			<IntegratedrKTs>1</IntegratedrKTs>
+		</Web>
+	</Set>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+</Collection>
+#####################################################################################
+<Collection>
+	<Sigla>D</Sigla>
+	<Name>Derge Kanjur</Name>
+	<Topology>
+		<Class>1</Class>
+		<Category>Kanjur</Category>
+		<Group>Mixed</Group>
+	</Topology>
+	<Time>
+		<DateOfProduction>1733</DateOfProduction>
+	</Time>
+	<Location>
+		<PlaceOfProduction>sde dge par khang<GeoData>bdr:G1657</GeoData></PlaceOfProduction>
+	</Location>
+	<Agent>
+		<CompilersEditiors></CompilersEditiors>
+		<Sponsors></Sponsors>
+	</Agent>
+	<Web>
+		<Folder>D Derge Kanjur</Folder>
+		<Handlist>1</Handlist>
+	</Web>	
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	<Set>
+		<RefBDRC>MW22084</RefBDRC>
+		<DigitizedBy>BDRC</DigitizedBy>
+		<DigitizedTime></DigitizedTime>
+		<ImagesBy>BDRC</ImagesBy>
+		<Copyright></Copyright>
+		<NumberOfVolume>102</NumberOfVolume>
+		<StateOfPreservation></StateOfPreservation>
+		<Location>
+			<PlaceOfStorage><GeoData></GeoData></PlaceOfStorage>
+			<PreservingInstitution></PreservingInstitution>
+		</Location>
+		<Layout>
+			<SizeOfFolio></SizeOfFolio>
+			<SizeOfText></SizeOfText>
+			<Foliation></Foliation>
+			<NumberOfLines></NumberOfLines>
+			<ColorOfInk>Black</ColorOfInk>
+			<MarginalTitle></MarginalTitle>
+		</Layout>
+		<Material>
+			<MaterialType>Paper</MaterialType>
+			<FiberDistribution></FiberDistribution>
+		</Material>
+		<Script>
+			<Execution>Print</Execution>
+			<TypeOfScript>Uchen</TypeOfScript>
+		</Script>
+		
+		<Web>
+			<IntegratedrKTs>1</IntegratedrKTs>
+		</Web>
+-----------------------------------------------------------------------------------
+		<volume>
+			<RefBDRC>I0886</RefBDRC>
+			<VolumeNumber>1</VolumeNumber>
+			<VolumeName>'dul ba ka</VolumeName>
+			<Script>
+				<Execution>Print</Execution>
+				<TypeOfScript>Uchen</TypeOfScript>
+				<Orthography>New</Orthography>
+				<Paleography></Paleography>
+			</Script>
+			<StandardPage><PageNumber>4a</PageNumber><Image>bdr:I0886::08860009.tif</Image></StandardPage>
+		</volume>
+-----------------------------------------------------------------------------------
+		<volume>
+			<RefBDRC>I0887</RefBDRC>
+			<VolumeNumber>2</VolumeNumber>
+			<VolumeName>'dul ba kha</VolumeName>
+			<Script>
+				<Execution>Print</Execution>
+				<TypeOfScript>Uchen</TypeOfScript>
+				<Orthography>New</Orthography>
+				<Paleography></Paleography>
+			</Script>
+			<StandardPage><PageNumber>5a</PageNumber><Image>bdr:I0887::08870011.tif</Image></StandardPage>
+		</volume>
+-----------------------------------------------------------------------------------
+	</Set>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	<Set>
+		<RefBDRC>MW4CZ5369</RefBDRC>
+		<DigitizedBy>BDRC</DigitizedBy>
+		<DigitizedTime></DigitizedTime>
+		<ImagesBy>BDRC</ImagesBy>
+		<Copyright></Copyright>
+		<NumberOfVolume>102</NumberOfVolume>
+		<StateOfPreservation></StateOfPreservation>
+		<Location>
+			<PlaceOfStorage><GeoData></GeoData></PlaceOfStorage>
+			<PreservingInstitution></PreservingInstitution>
+		</Location>
+		<Layout>
+			<SizeOfFolio></SizeOfFolio>
+			<SizeOfText></SizeOfText>
+			<Foliation></Foliation>
+			<NumberOfLines></NumberOfLines>
+			<ColorOfInk>Red</ColorOfInk>
+			<MarginalTitle></MarginalTitle>
+		</Layout>
+		<Material>
+			<MaterialType>Paper</MaterialType>
+			<FiberDistribution></FiberDistribution>
+		</Material>
+		<Script>
+			<Execution>Print</Execution>
+			<TypeOfScript>Uchen</TypeOfScript>
+		</Script>
+		
+		<Web>
+			<IntegratedrKTs>1</IntegratedrKTs>
+		</Web>
+	</Set>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	<Set>
+		<RefBDRC>MW30532</RefBDRC>
+		<DigitizedBy>BDRC</DigitizedBy>
+		<DigitizedTime></DigitizedTime>
+		<ImagesBy>BDRC</ImagesBy>
+		<Copyright></Copyright>
+		<NumberOfVolume>102</NumberOfVolume>
+		<StateOfPreservation></StateOfPreservation>
+		<Location>
+			<PlaceOfStorage><GeoData></GeoData></PlaceOfStorage>
+			<PreservingInstitution></PreservingInstitution>
+		</Location>
+		<Layout>
+			<SizeOfFolio></SizeOfFolio>
+			<SizeOfText></SizeOfText>
+			<Foliation></Foliation>
+			<NumberOfLines></NumberOfLines>
+			<ColorOfInk>Black</ColorOfInk>
+			<MarginalTitle></MarginalTitle>
+		</Layout>
+		<Material>
+			<MaterialType>Paper</MaterialType>
+			<FiberDistribution></FiberDistribution>
+		</Material>
+		<Script>
+			<Execution>Print</Execution>
+			<TypeOfScript>Uchen</TypeOfScript>
+		</Script>
+		
+		<Web>
+			<IntegratedrKTs>1</IntegratedrKTs>
+		</Web>
+	</Set>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	<Set>
+		<RefBDRC>MW3CN20612</RefBDRC>
+		<DigitizedBy>BDRC</DigitizedBy>
+		<DigitizedTime></DigitizedTime>
+		<ImagesBy>BDRC</ImagesBy>
+		<Copyright></Copyright>
+		<NumberOfVolume>102</NumberOfVolume>
+		<StateOfPreservation></StateOfPreservation>
+		<Location>
+			<PlaceOfStorage><GeoData></GeoData></PlaceOfStorage>
+			<PreservingInstitution></PreservingInstitution>
+		</Location>
+		<Layout>
+			<SizeOfFolio></SizeOfFolio>
+			<SizeOfText></SizeOfText>
+			<Foliation></Foliation>
+			<NumberOfLines></NumberOfLines>
+			<ColorOfInk>Red</ColorOfInk>
+			<MarginalTitle></MarginalTitle>
+		</Layout>
+		<Material>
+			<MaterialType>Paper</MaterialType>
+			<FiberDistribution></FiberDistribution>
+		</Material>
+		<Script>
+			<Execution>Print</Execution>
+			<TypeOfScript>Uchen</TypeOfScript>
+		</Script>
+		
+		<Web>
+			<IntegratedrKTs>1</IntegratedrKTs>
+		</Web>
+	</Set>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+</Collection>
+#####################################################################################
+
+
+
+</list>
