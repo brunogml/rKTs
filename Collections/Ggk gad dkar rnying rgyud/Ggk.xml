@@ -797,7 +797,7 @@ insert NgaTsa 15a-91b
 <item>
 <rktsg>xxx</rktsg>
 <ref>Ggk005.018</ref>
-<loc><set>MW1BL6</set><vol>ca</vol><voln>05</voln><json>json05</json><psection>ha</psection><p>1b1-2b4</p></loc>
+<loc><set>MW1BL6</set><vol>ca</vol><voln>05</voln><json>json05</json><psection>la</psection><p>1b1-2a5</p></loc>
 <tib></tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -806,12 +806,47 @@ insert NgaTsa 15a-91b
 <item>
 <rktsg>xxx</rktsg>
 <ref>Ggk005.019</ref>
+<loc><set>MW1BL6</set><vol>ca</vol><voln>05</voln><json>json05</json><psection>sha</psection><p>1b1-2b2</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk005.020</ref>
+<loc><set>MW1BL6</set><vol>ca</vol><voln>05</voln><json>json05</json><psection>sa</psection><p>1b1-2b3</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk005.021</ref>
+<loc><set>MW1BL6</set><vol>ca</vol><voln>05</voln><json>json05</json><psection>ha</psection><p>1b1-2b4</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk005.022</ref>
 <loc><set>MW1BL6</set><vol>ca</vol><voln>05</voln><json>json05</json><psection>a</psection><p>1b1-3a4</p></loc>
 <tib></tib>
 <skttrans></skttrans>
 <coloph></coloph>
 </item>
 
+<item>
+<rktsg>13</rktsg>
+<ref>Ggk005.023</ref>
+<loc><set>MW1BL6</set><vol>ca</vol><voln>05</voln><json>json05</json><psection>ki</psection><p>1b1-21a4</p></loc>
+<tib>rgyud kyi rtse rgyal nyi zla 'od 'bar mkha' klong rnam dag rgya mtsho klong gsal gyi rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
 
 <item>
 <rktsg>16</rktsg>
@@ -952,8 +987,8 @@ vol nya + ta + tha missing
 
 <item>
 <rktsg>147</rktsg>
-<ref>Ggk012.001</ref>
-<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>yyy12</json><psection>ka</psection><p>1b1-25a6</p></loc>
+<ref>Ggk011.001</ref>
+<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>da</vol><voln>11</voln><json>json11</json><psection>ka</psection><p>1b1-25a6</p></loc>
 <tib>lta ba thams cad kyi rgyal po / kun tu bzang po che ba rang la gnas pa'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -961,8 +996,8 @@ vol nya + ta + tha missing
 
 <item>
 <rktsg>149</rktsg>
-<ref>Ggk012.002</ref>
-<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>yyy12</json><psection>ga</psection><p>1b1-15b4</p></loc>
+<ref>Ggk011.002</ref>
+<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>da</vol><voln>11</voln><json>json11</json><psection>ga</psection><p>1b1-15b4</p></loc>
 <tib>ting nge 'dzin mchog gi rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -970,8 +1005,8 @@ vol nya + ta + tha missing
 
 <item>
 <rktsg>151</rktsg>
-<ref>Ggk012.003</ref>
-<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>yyy12</json><psection>ca</psection><p>1b1-15b4</p></loc>
+<ref>Ggk011.003</ref>
+<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>da</vol><voln>11</voln><json>json11</json><psection>ca</psection><p>1b1-15b4</p></loc>
 <tib>spyod pa thams cad kyi rgyal po brtson pa don ldan gyi rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -979,8 +1014,8 @@ vol nya + ta + tha missing
 
 <item>
 <rktsg>451</rktsg>
-<ref>Ggk012.004</ref>
-<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>yyy12</json><psection>cha</psection><p>1b1-16a3</p></loc>
+<ref>Ggk011.004</ref>
+<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>da</vol><voln>11</voln><json>json11</json><psection>cha</psection><p>1b1-16a3</p></loc>
 <tib>dam tshig chen po'i rgyal po dam tshig bkod pa'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -988,8 +1023,8 @@ vol nya + ta + tha missing
 
 <item>
 <rktsg>152</rktsg>
-<ref>Ggk012.005</ref>
-<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>yyy12</json><psection>ja</psection><p>1b1-14b5</p></loc>
+<ref>Ggk011.005</ref>
+<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>da</vol><voln>11</voln><json>json11</json><psection>ja</psection><p>1b1-14b5</p></loc>
 <tib>zhi ba lha rgyud chen po zhes bya ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -997,8 +1032,8 @@ vol nya + ta + tha missing
 
 <item>
 <rktsg>153</rktsg>
-<ref>Ggk012.006</ref>
-<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>yyy12</json><psection>nya</psection><p>1b1-6b1</p></loc>
+<ref>Ggk011.006</ref>
+<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>da</vol><voln>11</voln><json>json11</json><psection>nya</psection><p>1b1-6b1</p></loc>
 <tib>chos nyid zhi ba'i lha rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1006,8 +1041,8 @@ vol nya + ta + tha missing
 
 <item>
 <rktsg>154</rktsg>
-<ref>Ggk012.007</ref>
-<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>yyy12</json><psection>ta</psection><p>1b1-21a7</p></loc>
+<ref>Ggk011.007</ref>
+<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>da</vol><voln>11</voln><json>json11</json><psection>ta</psection><p>1b1-21a7</p></loc>
 <tib>khro bo'i lha rgyud chen mo</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1015,8 +1050,8 @@ vol nya + ta + tha missing
 
 <item>
 <rktsg>156</rktsg>
-<ref>Ggk012.008</ref>
-<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>yyy12</json><psection>da</psection><p>1b1-69b2</p></loc>
+<ref>Ggk011.008</ref>
+<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>da</vol><voln>11</voln><json>json11</json><psection>da</psection><p>1b1-69b2</p></loc>
 <tib>thugs rje chen po'i gtor ma/ sha khrag rus pa'i gtor rgyud chen po</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1024,8 +1059,8 @@ vol nya + ta + tha missing
 
 <item>
 <rktsg>157</rktsg>
-<ref>Ggk012.009</ref>
-<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>yyy12</json><psection>na</psection><p>1b1-33a5</p></loc>
+<ref>Ggk011.009</ref>
+<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>da</vol><voln>11</voln><json>json11</json><psection>na</psection><p>1b1-33a5</p></loc>
 <tib>rnal 'byor nang pa'i tshogs rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1033,8 +1068,8 @@ vol nya + ta + tha missing
 
 <item>
 <rktsg>158</rktsg>
-<ref>Ggk012.010</ref>
-<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>yyy12</json><psection>pa</psection><p>1b1-34b2</p></loc>
+<ref>Ggk011.010</ref>
+<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>da</vol><voln>11</voln><json>json11</json><psection>pa</psection><p>1b1-34b2</p></loc>
 <tib>dpal 'bar khro mo'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1042,8 +1077,8 @@ vol nya + ta + tha missing
 
 <item>
 <rktsg>160</rktsg>
-<ref>Ggk012.011</ref>
-<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>yyy12</json><psection>ba</psection><p>1b1-26b5</p></loc>
+<ref>Ggk011.011</ref>
+<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>da</vol><voln>11</voln><json>json11</json><psection>ba</psection><p>1b1-26b5</p></loc>
 <tib>rin po che me lha zhi bar gyur pa 'bar ba'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1051,8 +1086,8 @@ vol nya + ta + tha missing
 
 <item>
 <rktsg>161</rktsg>
-<ref>Ggk012.012</ref>
-<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>yyy12</json><psection>ma</psection><p>1b1-22a3</p></loc>
+<ref>Ggk011.012</ref>
+<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>da</vol><voln>11</voln><json>json11</json><psection>ma</psection><p>1b1-22a3</p></loc>
 <tib>rdo rje ngur mo'i tan tra zhes bya ba'i rgyud chen po</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1060,8 +1095,8 @@ vol nya + ta + tha missing
 
 <item>
 <rktsg>409</rktsg>
-<ref>Ggk012.013</ref>
-<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>yyy12</json><psection>tsa</psection><p>1b1-20b5</p></loc>
+<ref>Ggk011.013</ref>
+<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>da</vol><voln>11</voln><json>json11</json><psection>tsa</psection><p>1b1-20b5</p></loc>
 <tib>sku gdung 'bar ba tsha tsha dang mchod rten gyi rgyud ces bya ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1069,38 +1104,80 @@ vol nya + ta + tha missing
 
 <item>
 <rktsg>166</rktsg>
-<ref>Ggk012.014</ref>
-<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>yyy12</json><psection>tsha</psection><p>1b1-11b4</p></loc>
+<ref>Ggk011.014</ref>
+<loc><set>MW1BL6</set><vol>da</vol><voln></voln><json>da</vol><voln>11</voln><json>json11</json><psection>tsha</psection><p>1b1-11b4</p></loc>
 <tib>hUM mdzad chen po'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
 </item>
 
+<item>
+<rktsg>168</rktsg>
+<ref>Ggk012.001</ref>
+<loc><set>MW1BL6</set><vol>na</vol><voln>12</voln><json>json12</json><psection>ka</psection><p>1b1-30a3</p></loc>
+<tib>gsang ba'i snying po de kho na nyid nges pa</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>168</rktsg>
+<ref>Ggk012.002</ref>
+<loc><set>MW1BL6</set><vol>na</vol><voln>12</voln><json>json12</json><psection>ga</psection><p>1b1-71b2</p></loc>
+<tib>gsang ba'i snying po de kho na nyid nges pa</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk012.003</ref>
+<loc><set>MW1BL6</set><vol>na</vol><voln>12</voln><json>json12</json><psection>ca</psection><p>1b1-78a5</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>168</rktsg>
+<ref>Ggk012.004</ref>
+<loc><set>MW1BL6</set><vol>na</vol><voln>12</voln><json>json12</json><psection>cha</psection><p>1b1-12b7</p></loc>
+<tib>gsang ba'i snying po de kho na nyid nges pa</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>15</rktsg>
+<ref>Ggk012.005</ref>
+<loc><set>MW1BL6</set><vol>na</vol><voln>12</voln><json>json12</json><psection>ngi</psection><p>1b1-23a7</p></loc>
+<tib>rdo rje yi ge brgya pa'i thugs phrin las thams cad kyi dam tshig gi rgyud ces bya</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
 
 <item>
 <rktsg>178</rktsg>
-<ref>Ggk004.001</ref>
-<loc><set>MW1BL6</set><vol>pa</vol><voln></voln><json>yyy4</json><psection>ka</psection><p>1b1-92b6</p></loc>
+<ref>Ggk013.001</ref>
+<loc><set>MW1BL6</set><vol>pa</vol>13<voln></voln><json>json13</json><psection>ka</psection><p>1b1-92b6</p></loc>
 <tib>rdo rje sems dpa'i sgyu 'phrul dr+wa ba gsang ba thams cad kyi me long zhes bya ba'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
 </item>
-insert 1157b-1161a (zaba 20a-25b) + 1161b-1180a (zaba 1a-19b)
 
 <item>
 <rktsg>600</rktsg>
-<ref>Ggk004.002</ref>
-<loc><set>MW1BL6</set><vol>pa</vol><voln></voln><json>yyy4</json><psection>kha</psection><p>1b1-</p></loc>
+<ref>Ggk013.002</ref>
+<loc><set>MW1BL6</set><vol>pa</vol>13<voln></voln><json>json13</json><psection>kha</psection><p>1b1-</p></loc>
 <tib>dpal sgyu 'phrul dra ba ye shes kyi snying po'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
-actually volume ba
 </item>
 
 <item>
 <rktsg>174</rktsg>
-<ref>Ggk004.003</ref>
-<loc><set>MW1BL6</set><vol>pa</vol><voln></voln><json>yyy4</json><psection>ga</psection><p>1b1-43b3</p></loc>
+<ref>Ggk013.003</ref>
+<loc><set>MW1BL6</set><vol>pa</vol>13<voln></voln><json>json13</json><psection>ga</psection><p>1b1-43b3</p></loc>
 <tib>sgyu 'phrul rgya mtsho zhes bya ba'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1108,17 +1185,26 @@ actually volume ba
 
 <item>
 <rktsg>xxx</rktsg>180?
-<ref>Ggk004.004</ref>
-<loc><set>MW1BL6</set><vol>4</vol><voln></voln><json>yyy4</json><psection>nga</psection><p>1b1-53a7</p></loc>
+<ref>Ggk013.004</ref>
+<loc><set>MW1BL6</set><vol>pa</vol>13<voln></voln><json>json13</json><psection>nga</psection><p>1b1-53a7</p></loc>
 <tib>sgyu 'phrul thal ba nag po'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
 </item>
 
 <item>
+<rktsg>182</rktsg>
+<ref>Ggk013.005</ref>
+<loc><set>MW1BL6</set><vol>pa</vol>13<voln></voln><json>json13</json><psection>ca</psection><p>1b1-</p></loc>
+<tib>gsang ba'i snying po de kho na nyid nges pa'i khro bo chen po stobs kyi rgyud rgyal</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
 <rktsg>xxx</rktsg>168?
-<ref>Ggk004.005</ref>
-<loc><set>MW1BL6</set><vol>4</vol><voln></voln><json>yyy4</json><psection>cha</psection><p>1b1-4b7</p></loc>
+<ref>Ggk013.006</ref>
+<loc><set>MW1BL6</set><vol>pa</vol>13<voln></voln><json>json13</json><psection>cha</psection><p>1b1-4b7</p></loc>
 <tib>gsang ba'i snying po de kho na nyid nges pa khro bo chen po stobs kyi rnal 'byor dbang phug grub pa'i sgyu 'phrul drwa ba'i brgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1126,18 +1212,98 @@ actually volume ba
 
 <item>
 <rktsg>601</rktsg>
-<ref>Ggk004.006</ref>
-<loc><set>MW1BL6</set><vol>4</vol><voln></voln><json>yyy4</json><psection>ja</psection><p>1b1-10a7</p></loc>
+<ref>Ggk013.007</ref>
+<loc><set>MW1BL6</set><vol>pa</vol>13<voln></voln><json>json13</json><psection>ja</psection><p>1b1-10a7</p></loc>
 <tib>rgyud kyi rgyal po chen po sgyu 'phrul snying po bkod pa</tib>
 <skttrans></skttrans>
 <coloph></coloph>
 </item>
 
+<item>
+<rktsg>185</rktsg>
+<ref>Ggk014.001</ref>
+<loc><set>MW1BL6</set><vol>pha</vol>14<voln></voln><json>json14</json><psection>xxx</psection><p>1b1-31a4</p></loc>
+<tib>rtog pa thams cad 'dus pa zhes bya ba sangs rgyas thams cad dang mnyam par sbyor ba mkha' 'gro sgyu ma bde ba'i mchog gi rgyud phyi ma'i phyi ma</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>189</rktsg>
+<ref>Ggk014.002</ref>
+<loc><set>MW1BL6</set><vol>pha</vol>14<voln></voln><json>json14</json><psection>ja</psection><p>1b1-36a2</p></loc>
+<tib>dpal mchog dang po zhes bya ba theg pa chen po'i rtog pa'i rgyal po</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>272</rktsg>
+<ref>Ggk015.001</ref>
+<loc><set>MW1BL6</set><vol>ba</vol>15<voln></voln><json>json15</json><psection>ka</psection><p>1b1-7b2</p></loc>
+<tib>dpal rta mgrin las rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>667</rktsg>
+<ref>Ggk015.002</ref>
+<loc><set>MW1BL6</set><vol>ba</vol>15<voln></voln><json>json15</json><psection>kha</psection><p>1b1-12b2</p></loc>
+<tib>kro ta khrag 'thung rol pa'i rgyud chen po</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>334</rktsg>
+<ref>Ggk015.003</ref>
+<loc><set>MW1BL6</set><vol>ba</vol>15<voln></voln><json>json15</json><psection>nga</psection><p>1b1-13b3</p></loc>
+<tib>phur bu bcu gnyis 'byung ba'i rgyud chen po bstan pa</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>196</rktsg>
+<ref>Ggk015.004</ref>
+<loc><set>MW1BL6</set><vol>ba</vol>15<voln></voln><json>json15</json><psection>ca</psection><p>1b1-55a7</p></loc>
+<tib>glang po che rab 'bog gi rgyud zhes bya ba</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>197</rktsg>
+<ref>Ggk015.005</ref>
+<loc><set>MW1BL6</set><vol>ba</vol>15<voln></voln><json>json15</json><psection>ja</psection><p>1b1-15a7</p></loc>
+<tib>'phags pa thabs kyi zhags pa pad+mo'i phreng</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>198</rktsg>
+<ref>Ggk015.006</ref>
+<loc><set>MW1BL6</set><vol>ba</vol>15<voln></voln><json>json15</json><psection>nya</psection><p>1b1-42a3</p></loc>
+<tib>dam tshig thams cad kyi nyams chag skong ba'i lung/ bshags pa thams cad kyi rgyud dri ma med pa'i rgyal po</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>199</rktsg>
+<ref>Ggk015.007</ref>
+<loc><set>MW1BL6</set><vol>ba</vol>15<voln></voln><json>json15</json><psection>ta</psection><p>1b1-21a4</p></loc>
+<tib>rdo rje zi ldan 'bar ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
 
 <item>
 <rktsg>228</rktsg>
-<ref>Ggk008.001</ref>
-<loc><set>MW1BL6</set><vol>ma</vol><voln></voln><json>yyy8</json><psection>ka</psection><p>1b1-128b7</p></loc>
+<ref>Ggk016.001</ref>
+<loc><set>MW1BL6</set><vol>ma</vol>16<voln></voln><json>json16</json><psection>ka</psection><p>1b1-128b7</p></loc>
 <tib>dpal zla gsang nag po'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1145,8 +1311,8 @@ actually volume ba
 
 <item>
 <rktsg>231</rktsg>
-<ref>Ggk008.002</ref>
-<loc><set>MW1BL6</set><vol>ma</vol><voln></voln><json>yyy8</json><psection>nga</psection><p>1b1-99b6</p></loc>
+<ref>Ggk016.002</ref>
+<loc><set>MW1BL6</set><vol>ma</vol>16<voln></voln><json>json16</json><psection>nga</psection><p>1b1-99b6</p></loc>
 <tib>dpal zla gsang nag po'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1154,8 +1320,8 @@ actually volume ba
 
 <item>
 <rktsg>614</rktsg>
-<ref>Ggk008.003</ref>
-<loc><set>MW1BL6</set><vol>ma</vol><voln></voln><json>yyy8</json><psection>cha</psection><p>1b1-10b2</p></loc>
+<ref>Ggk016.003</ref>
+<loc><set>MW1BL6</set><vol>ma</vol>16<voln></voln><json>json16</json><psection>cha</psection><p>1b1-10b2</p></loc>
 <tib>gshin rje nag po'i sngags rgyud nag po zhes bya ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1163,8 +1329,8 @@ actually volume ba
 
 <item>
 <rktsg>615</rktsg>
-<ref>Ggk008.004</ref>
-<loc><set>MW1BL6</set><vol>ma</vol><voln></voln><json>yyy8</json><psection>nya</psection><p>1b1-12a7</p></loc>
+<ref>Ggk016.004</ref>
+<loc><set>MW1BL6</set><vol>ma</vol>16<voln></voln><json>json16</json><psection>nya</psection><p>1b1-12a7</p></loc>
 <tib>dpal gshin rje dmar nag 'bar ba'i me rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1172,17 +1338,134 @@ actually volume ba
 
 <item>
 <rktsg>630</rktsg>
-<ref>Ggk008.005</ref>
-<loc><set>MW1BL6</set><vol>ma</vol><voln></voln><json>yyy8</json><psection>ja</psection><p>1b1-24b3</p></loc>
+<ref>Ggk016.005</ref>
+<loc><set>MW1BL6</set><vol>ma</vol>16<voln></voln><json>json16</json><psection>ja</psection><p>1b1-24b3</p></loc>
 <tib>'phags pa 'jams dpal khro bo gshin rje gshed rgyal po gsang ba'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
 </item>
 
 <item>
+<rktsg>234</rktsg>
+<ref>Ggk017.001</ref>
+<loc><set>MW1BL6</set><vol>tsa</vol>17<voln></voln><json>json17</json><psection>ka</psection><p>1b1-20a3</p></loc>
+<tib>'phags pa 'jam dpal dri ma med pa'i gsang ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>613</rktsg>
+<ref>Ggk017.002</ref>
+<loc><set>MW1BL6</set><vol>tsa</vol>17<voln></voln><json>json17</json><psection>ga</psection><p>1b1-27a5</p></loc>
+<tib>'phags pa 'jam dpal khro bo rin chen gsang ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>230</rktsg>
+<ref>Ggk017.003</ref>
+<loc><set>MW1BL6</set><vol>tsa</vol>17<voln></voln><json>json17</json><psection>nga</psection><p>1b1-7b3</p></loc>
+<tib>'jam dpal gshin rje'i gshed gsang pa'i rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk017.004</ref>
+<loc><set>MW1BL6</set><vol>tsa</vol>17<voln></voln><json>json17</json><psection>ca</psection><p>1b1-29a5</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>244</rktsg>
+<ref>Ggk017.005</ref>
+<loc><set>MW1BL6</set><vol>tsa</vol>17<voln></voln><json>json17</json><psection>cha</psection><p>1b1-42a2</p></loc>
+<tib>'phags pa 'jam dpal gshin rje'i rgyal po sdig pa stobs chen gsang ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>243</rktsg>
+<ref>Ggk017.006</ref>
+<loc><set>MW1BL6</set><vol>tsa</vol>17<voln></voln><json>json17</json><psection>ta</psection><p>1b1-22b4</p></loc>
+<tib>'phags pa 'jam dpal las zhi'i 'khor lo gsang ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>260</rktsg>
+<ref>Ggk017.007</ref>
+<loc><set>MW1BL6</set><vol>tsa</vol>17<voln></voln><json>json17</json><psection>dza</psection><p>1b1-61a6</p></loc>
+<tib>gshin rje ma ru tse'i sngags rgyud bstan pa</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>262</rktsg>
+<ref>Ggk018.001</ref>
+<loc><set>MW1BL6</set><vol>tsha</vol>18<voln></voln><json>json18</json><psection>ka</psection><p>1b1-169b2</p></loc>
+<tib>rta mchog rol pa'i rgyud chen po</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>263</rktsg>
+<ref>Ggk018.002</ref>
+<loc><set>MW1BL6</set><vol>tsha</vol>18<voln></voln><json>json18</json><psection>kha</psection><p>1b1-100a2</p></loc>
+<tib>de bzhing gshegs pa thams cad kyi sku dang gsung dang thugs dang yon tan dang phrin las gsang bas bka' bgros pa/ dbang rgyal rta mchog rol pa'i rgyud chen po</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>264</rktsg>
+<ref>Ggk018.003</ref>
+<loc><set>MW1BL6</set><vol>tsha</vol>18<voln></voln><json>json18</json><psection>ga</psection><p>1b1-16b5</p></loc>
+<tib>dpal pad+ma dbang chen dregs pa srung bzlog gyi rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>265</rktsg>
+<ref>Ggk018.004</ref>
+<loc><set>MW1BL6</set><vol>tsha</vol>18<voln></voln><json>json18</json><psection>nga</psection><p>1b1-15a3</p></loc>
+<tib>dpal pad+ma dbang chen pad+ma gar gyi dbang phyug gis dregs pa can gzan la 'bebs pa'i phrin las kyi rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>266</rktsg>
+<ref>Ggk018.005</ref>
+<loc><set>MW1BL6</set><vol>tsha</vol>18<voln></voln><json>json18</json><psection>ca</psection><p>1b1-17b1</p></loc>
+<tib>dpal pad+ma dbang chen dregs pa nad 'bebs kyi rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>267</rktsg>
+<ref>Ggk018.006</ref>
+<loc><set>MW1BL6</set><vol>tsha</vol>18<voln></voln><json>json18</json><psection>cha</psection><p>1b1-24a4</p></loc>
+<tib>dpal pad+ma dbang chen dregs pa dbang bsdus kyi rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
 <rktsg>270</rktsg>
-<ref>Ggk006.001</ref>
-<loc><set>MW1BL6</set><vol>dza</vol><voln></voln><json>yyy6</json><psection>kha</psection><p>1b1-27b4</p></loc>
+<ref>Ggk019.001</ref>
+<loc><set>MW1BL6</set><vol>dza</vol>19<voln></voln><json>json19</json><psection>kha</psection><p>1b1-27b4</p></loc>
 <tib>de bzhin gshegs pa thams cad kyi dgongs pa lung bstan pa/ rnal 'byor chen po'i gsang ba rnam par bye ba rnal 'byor spyod pa'i sa/ dpal rdo rje phreng ba'i mngon par brjod pa/ rta mchog rol ba'i lung rgyud thams cad kyi snying po/ dbang chen 'dus pa'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1190,8 +1473,8 @@ actually volume ba
 
 <item>
 <rktsg>192</rktsg>
-<ref>Ggk006.002</ref>
-<loc><set>MW1BL6</set><vol>dza</vol><voln></voln><json>yyy6</json><psection>ta</psection><p>1b1-44b7</p></loc>
+<ref>Ggk019.002</ref>
+<loc><set>MW1BL6</set><vol>dza</vol>19<voln></voln><json>json19</json><psection>ta</psection><p>1b1-44b7</p></loc>
 <tib>de bzhin gshegs pa thams cad kyi dgongs pa bla na med pa gsang ba rta mchog rol pa'i rgyud chen po zhes bya ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1199,8 +1482,8 @@ actually volume ba
 
 <item>
 <rktsg>262</rktsg>
-<ref>Ggk006.003</ref>
-<loc><set>MW1BL6</set><vol>dza</vol><voln></voln><json>yyy6</json><psection>tha</psection><p>1b1-75a4</p></loc>
+<ref>Ggk019.003</ref>
+<loc><set>MW1BL6</set><vol>dza</vol>19<voln></voln><json>json19</json><psection>tha</psection><p>1b1-75a4</p></loc>
 <tib>rta mchog rol pa'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1208,8 +1491,8 @@ actually volume ba
 
 <item>
 <rktsg>xxx</rktsg>
-<ref>Ggk006.004</ref>
-<loc><set>MW1BL6</set><vol>dza</vol><voln></voln><json>yyy6</json><psection>da</psection><p>1b1-38a3</p></loc>
+<ref>Ggk019.004</ref>
+<loc><set>MW1BL6</set><vol>dza</vol>19<voln></voln><json>json19</json><psection>da</psection><p>1b1-38a3</p></loc>
 <tib></tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1217,8 +1500,8 @@ actually volume ba
 
 <item>
 <rktsg>683</rktsg>
-<ref>Ggk006.005</ref>
-<loc><set>MW1BL6</set><vol>dza</vol><voln></voln><json>yyy6</json><psection>na</psection><p>1b1-76b7</p></loc>
+<ref>Ggk019.005</ref>
+<loc><set>MW1BL6</set><vol>dza</vol>19<voln></voln><json>json19</json><psection>na</psection><p>1b1-76b7</p></loc>
 <tib>rgyud kyi rgyal po khro bo rta mchog rol pa</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1226,17 +1509,19 @@ actually volume ba
 
 <item>
 <rktsg>661</rktsg>
-<ref>Ggk006.006</ref>
-<loc><set>MW1BL6</set><vol>dza</vol><voln></voln><json>yyy6</json><psection>pa</psection><p>1b1-30a7</p></loc>
+<ref>Ggk019.006</ref>
+<loc><set>MW1BL6</set><vol>dza</vol>19<voln></voln><json>json19</json><psection>pa</psection><p>1b1-30a7</p></loc>
 <tib>dpal pad+ma dbang chen dregs pa zil gnon gyi rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
 </item>
 
+vol wa missing
+
 <item>
 <rktsg>286</rktsg>
-<ref>Ggk007.001</ref>
-<loc><set>MW1BL6</set><vol>zha</vol><voln></voln><json>yyy7</json><psection>ka</psection><p>1b1-35a3</p></loc>
+<ref>Ggk021.001</ref>
+<loc><set>MW1BL6</set><vol>zha</vol>21<voln></voln><json>json21</json><psection>ka</psection><p>1b1-35a3</p></loc>
 <tib>bdud rtsi rin po che ye shes gsang ba'i 'khor lo'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1244,8 +1529,8 @@ actually volume ba
 
 <item>
 <rktsg>284</rktsg>
-<ref>Ggk007.002</ref>
-<loc><set>MW1BL6</set><vol>zha</vol><voln></voln><json>yyy7</json><psection>kha</psection><p>1b1-11b3</p></loc>
+<ref>Ggk021.002</ref>
+<loc><set>MW1BL6</set><vol>zha</vol>21<voln></voln><json>json21</json><psection>kha</psection><p>1b1-11b3</p></loc>
 <tib>thams cad bdud rtsi lnga'i rang bzhin dngos grub chen po nye na'i snying po'i mchog</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1253,8 +1538,8 @@ actually volume ba
 
 <item>
 <rktsg>292</rktsg>
-<ref>Ggk007.003</ref>
-<loc><set>MW1BL6</set><vol>zha</vol><voln></voln><json>yyy7</json><psection>kha2</psection><p>1b1-32a5</p></loc>
+<ref>Ggk021.003</ref>
+<loc><set>MW1BL6</set><vol>zha</vol>21<voln></voln><json>json21</json><psection>kha2</psection><p>1b1-32a5</p></loc>
 <tib>thams cad bdud rtsi lnga'i rang bzhin dngos grub chen po nye na'i snying po'i mchog</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1262,8 +1547,8 @@ actually volume ba
 
 <item>
 <rktsg>285</rktsg>
-<ref>Ggk007.004</ref>
-<loc><set>MW1BL6</set><vol>zha</vol><voln></voln><json>yyy7</json><psection>ga</psection><p>1b1-4b5</p></loc>
+<ref>Ggk021.004</ref>
+<loc><set>MW1BL6</set><vol>zha</vol>21<voln></voln><json>json21</json><psection>ga</psection><p>1b1-4b5</p></loc>
 <tib>thams cad bdud rtsi lnga'i rang bzhin</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1271,8 +1556,8 @@ actually volume ba
 
 <item>
 <rktsg>287</rktsg>
-<ref>Ggk007.005</ref>
-<loc><set>MW1BL6</set><vol>zha</vol><voln></voln><json>yyy7</json><psection>nga</psection><p>1b1-25a6</p></loc>
+<ref>Ggk021.005</ref>
+<loc><set>MW1BL6</set><vol>zha</vol>21<voln></voln><json>json21</json><psection>nga</psection><p>1b1-25a6</p></loc>
 <tib>bdud rtsi chen po 'khor lo 'bar ba'i rgyud bzhes bya ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1280,8 +1565,8 @@ actually volume ba
 
 <item>
 <rktsg>288</rktsg>
-<ref>Ggk007.006</ref>
-<loc><set>MW1BL6</set><vol>zha</vol><voln></voln><json>yyy7</json><psection>ca</psection><p>1b1-32a3</p></loc>
+<ref>Ggk021.006</ref>
+<loc><set>MW1BL6</set><vol>zha</vol>21<voln></voln><json>json21</json><psection>ca</psection><p>1b1-32a3</p></loc>
 <tib>thams cad bdud rtsi lnga'i rang bzhin/ rin po che phreng ba'i rgyud ces bya ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1289,8 +1574,8 @@ actually volume ba
 
 <item>
 <rktsg>289</rktsg>
-<ref>Ggk007.007</ref>
-<loc><set>MW1BL6</set><vol>zha</vol><voln></voln><json>yyy7</json><psection>cha</psection><p>1b1-25a6</p></loc>
+<ref>Ggk021.007</ref>
+<loc><set>MW1BL6</set><vol>zha</vol>21<voln></voln><json>json21</json><psection>cha</psection><p>1b1-25a6</p></loc>
 <tib>bdud rtsi bde ba chen po'i rgyud ces bya ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1298,8 +1583,8 @@ actually volume ba
 
 <item>
 <rktsg>593</rktsg>
-<ref>Ggk007.008</ref>
-<loc><set>MW1BL6</set><vol>zha</vol><voln></voln><json>yyy7</json><psection>ja</psection><p>1b1-9a4</p></loc>
+<ref>Ggk021.008</ref>
+<loc><set>MW1BL6</set><vol>zha</vol>21<voln></voln><json>json21</json><psection>ja</psection><p>1b1-9a4</p></loc>
 <tib>rdo rje bdud rtsi'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1307,8 +1592,8 @@ actually volume ba
 
 <item>
 <rktsg>285</rktsg>
-<ref>Ggk007.009</ref>
-<loc><set>MW1BL6</set><vol>zha</vol><voln></voln><json>yyy7</json><psection>ta</psection><p>1b1-4a7</p></loc>
+<ref>Ggk021.009</ref>
+<loc><set>MW1BL6</set><vol>zha</vol>21<voln></voln><json>json21</json><psection>ta</psection><p>1b1-4a7</p></loc>
 <tib>thams cad bdud rtsi lnga'i rang bzhin</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1316,8 +1601,8 @@ actually volume ba
 
 <item>
 <rktsg>291</rktsg>
-<ref>Ggk007.010</ref>
-<loc><set>MW1BL6</set><vol>zha</vol><voln></voln><json>yyy7</json><psection>nya</psection><p>1b1-62a4</p></loc>
+<ref>Ggk021.010</ref>
+<loc><set>MW1BL6</set><vol>zha</vol>21<voln></voln><json>json21</json><psection>nya</psection><p>1b1-62a4</p></loc>
 <tib>bdud rtsi las rgya mtsho'i rgyud zhes bya ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1325,8 +1610,8 @@ actually volume ba
 
 <item>
 <rktsg>707</rktsg>
-<ref>Ggk007.011</ref>
-<loc><set>MW1BL6</set><vol>zha</vol><voln></voln><json>yyy7</json><psection>tha</psection><p>1b1-18a6</p></loc>
+<ref>Ggk021.011</ref>
+<loc><set>MW1BL6</set><vol>zha</vol>21<voln></voln><json>json21</json><psection>tha</psection><p>1b1-18a6</p></loc>
 <tib>dpal bde ba chen po de bzhin gshegs pa thams cad kyi sku dang kyi gsang ba'i yang gsang ba/ rdo rje'i yang rdo rje bdud rtsi'i rgyud ces bya ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1334,8 +1619,8 @@ actually volume ba
 
 <item>
 <rktsg>537</rktsg>
-<ref>Ggk007.012</ref>
-<loc><set>MW1BL6</set><vol>zha</vol><voln></voln><json>yyy7</json><psection>da</psection><p>1b1-8a6</p></loc>
+<ref>Ggk021.012</ref>
+<loc><set>MW1BL6</set><vol>zha</vol>21<voln></voln><json>json21</json><psection>da</psection><p>1b1-8a6</p></loc>
 <tib>rin po che bdud rtsi bcud thigs rigs drug g.yang sa bcod pa'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1343,8 +1628,8 @@ actually volume ba
 
 <item>
 <rktsg>291</rktsg>
-<ref>Ggk007.013</ref>
-<loc><set>MW1BL6</set><vol>zha</vol><voln></voln><json>yyy7</json><psection>pa</psection><p>1b1-57b3</p></loc>
+<ref>Ggk021.013</ref>
+<loc><set>MW1BL6</set><vol>zha</vol>21<voln></voln><json>json21</json><psection>pa</psection><p>1b1-57b3</p></loc>
 <tib>bdud rtsi las rgya mtsho'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1352,8 +1637,8 @@ actually volume ba
 
 <item>
 <rktsg>294</rktsg>
-<ref>Ggk007.014</ref>
-<loc><set>MW1BL6</set><vol>zha</vol><voln></voln><json>yyy7</json><psection>na</psection><p>1b1-22b6</p></loc>
+<ref>Ggk021.014</ref>
+<loc><set>MW1BL6</set><vol>zha</vol>21<voln></voln><json>json21</json><psection>na</psection><p>1b1-22b6</p></loc>
 <tib>bdud rtsi 'khyil pa 'chi med tshe'i rgyud ces bya ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1361,8 +1646,8 @@ actually volume ba
 
 <item>
 <rktsg>296</rktsg>
-<ref>Ggk010.001</ref>
-<loc><set>MW1BL6</set><vol>za</vol><voln></voln><json>yyy10</json><psection>ka</psection><p>1b1-20b6</p></loc>
+<ref>Ggk022.001</ref>
+<loc><set>MW1BL6</set><vol>za</vol>22<voln></voln><json>json22</json><psection>ka</psection><p>1b1-20b6</p></loc>
 <tib>rdo rje khros pa rtsa ba'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1370,8 +1655,8 @@ actually volume ba
 
 <item>
 <rktsg>xxx</rktsg>
-<ref>Ggk010.002</ref>
-<loc><set>MW1BL6</set><vol>za</vol><voln></voln><json>yyy10</json><psection>kha</psection><p>1b1-17b5</p></loc>
+<ref>Ggk022.002</ref>
+<loc><set>MW1BL6</set><vol>za</vol>22<voln></voln><json>json22</json><psection>kha</psection><p>1b1-17b5</p></loc>
 <tib>dpal rdo rje gzhon nu thugs rje khros pa rtsa ba'i rgyud ces bya ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1379,8 +1664,8 @@ actually volume ba
 
 <item>
 <rktsg>297</rktsg>
-<ref>Ggk010.003</ref>
-<loc><set>MW1BL6</set><vol>za</vol><voln></voln><json>yyy10</json><psection>ga</psection><p>1b1-46a3</p></loc>
+<ref>Ggk022.003</ref>
+<loc><set>MW1BL6</set><vol>za</vol>22<voln></voln><json>json22</json><psection>ga</psection><p>1b1-46a3</p></loc>
 <tib>dpal rdo rje gzhon nu thugs rje khros pa rtsa ba'i rgyud kyi bshad pa zhes bya ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1388,8 +1673,8 @@ actually volume ba
 
 <item>
 <rktsg>329</rktsg>
-<ref>Ggk010.004</ref>
-<loc><set>MW1BL6</set><vol>za</vol><voln></voln><json>yyy10</json><psection>nga</psection><p>1b1-33a5</p></loc>
+<ref>Ggk022.004</ref>
+<loc><set>MW1BL6</set><vol>za</vol>22<voln></voln><json>json22</json><psection>nga</psection><p>1b1-33a5</p></loc>
 <tib>rdo rje phur pa gsang ba'i rgyud chen po</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1397,8 +1682,8 @@ actually volume ba
 
 <item>
 <rktsg>298</rktsg>
-<ref>Ggk010.005</ref>
-<loc><set>MW1BL6</set><vol>za</vol><voln></voln><json>yyy10</json><psection>ca</psection><p>1b1-53a3</p></loc>
+<ref>Ggk022.005</ref>
+<loc><set>MW1BL6</set><vol>za</vol>22<voln></voln><json>json22</json><psection>ca</psection><p>1b1-53a3</p></loc>
 <tib>rdo rje phur bu'i gsang ba rtsa ba rnal 'byor chen po yang dag pa'i rgyud ces bya ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1406,8 +1691,8 @@ actually volume ba
 
 <item>
 <rktsg>326</rktsg>
-<ref>Ggk010.006</ref>
-<loc><set>MW1BL6</set><vol>za</vol><voln></voln><json>yyy10</json><psection>cha</psection><p>1b1-11b2</p></loc>
+<ref>Ggk022.006</ref>
+<loc><set>MW1BL6</set><vol>za</vol>22<voln></voln><json>json22</json><psection>cha</psection><p>1b1-11b2</p></loc>
 <tib>rdo rje phur pa'i phrin las 'khor lo gab pa'i rgyud / gsang ba'i rgyud kyi rgyal po zhes bya ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1415,8 +1700,8 @@ actually volume ba
 
 <item>
 <rktsg>300</rktsg>
-<ref>Ggk010.007</ref>
-<loc><set>MW1BL6</set><vol>za</vol><voln></voln><json>yyy10</json><psection>ja</psection><p>1b1-20b5</p></loc>
+<ref>Ggk022.007</ref>
+<loc><set>MW1BL6</set><vol>za</vol>22<voln></voln><json>json22</json><psection>ja</psection><p>1b1-20b5</p></loc>
 <tib>phrin las phun sum tshogs pa'i rgyud ces bya ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1424,8 +1709,8 @@ actually volume ba
 
 <item>
 <rktsg>301</rktsg>
-<ref>Ggk010.008</ref>
-<loc><set>MW1BL6</set><vol>za</vol><voln></voln><json>yyy10</json><psection>nya</psection><p>1b1-40b4</p></loc>
+<ref>Ggk022.008</ref>
+<loc><set>MW1BL6</set><vol>za</vol>22<voln></voln><json>json22</json><psection>nya</psection><p>1b1-40b4</p></loc>
 <tib>phur pa karma las kyi rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1433,8 +1718,8 @@ actually volume ba
 
 <item>
 <rktsg>303</rktsg>
-<ref>Ggk010.009</ref>
-<loc><set>MW1BL6</set><vol>za</vol><voln></voln><json>yyy10</json><psection>tha</psection><p>1b1-12b3</p></loc>
+<ref>Ggk022.009</ref>
+<loc><set>MW1BL6</set><vol>za</vol>22<voln></voln><json>json22</json><psection>tha</psection><p>1b1-12b3</p></loc>
 <tib>phur pa yag+Sha za byed 'bar ba'i rgyud dam tshig rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1442,17 +1727,281 @@ actually volume ba
 
 <item>
 <rktsg>306</rktsg>
-<ref>Ggk010.010</ref>
-<loc><set>MW1BL6</set><vol>za</vol><voln></voln><json>yyy10</json><psection>na</psection><p>1b1-8b5</p></loc>
+<ref>Ggk022.010</ref>
+<loc><set>MW1BL6</set><vol>za</vol>22<voln></voln><json>json22</json><psection>na</psection><p>1b1-8b5</p></loc>
 <tib>khro bo hUM kA ra'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
 </item>
 
 <item>
+<rktsg>318</rktsg>
+<ref>Ggk022.011</ref>
+<loc><set>MW1BL6</set><vol>za</vol>22<voln></voln><json>json22</json><psection>ba</psection><p>1b1-23a4</p></loc>
+<tib>rgyud kyi rgyal po rdo rje phreng ba</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>319</rktsg>
+<ref>Ggk023.001</ref>
+<loc><set>MW1BL6</set><vol>'a</vol>23<voln></voln><json>json23</json><psection>ka</psection><p>1b1-14b5</p></loc>
+<tib>phur pa rdo rje bkod pa'i rgyud rnal 'byor chen po'i mdo</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>320</rktsg>
+<ref>Ggk023.002</ref>
+<loc><set>MW1BL6</set><vol>'a</vol>23<voln></voln><json>json23</json><psection>kha</psection><p>1b1-94a6</p></loc>
+<tib>'phags pa sangs rgyas thams cad kyis ye shes kyi rtse mo'i rgyud kyi rgyal po chen po</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>321</rktsg>
+<ref>Ggk023.003</ref>
+<loc><set>MW1BL6</set><vol>'a</vol>23<voln></voln><json>json23</json><psection>ga</psection><p>1b1-5a4</p></loc>
+<tib>rdo rje phur pa'i chos thams cad kyi gsang ba'i don dbyings dang ye shes gnyis su med pa'i rgyud kyi rgyal po</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>322</rktsg>
+<ref>Ggk023.004</ref>
+<loc><set>MW1BL6</set><vol>'a</vol>23<voln></voln><json>json23</json><psection>nga</psection><p>1b1-7a5</p></loc>
+<tib>sbas pa gsang ba zab mo bdud rtsi'i rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>323</rktsg>
+<ref>Ggk023.005</ref>
+<loc><set>MW1BL6</set><vol>'a</vol>23<voln></voln><json>json23</json><psection>ca</psection><p>1b1-13a3</p></loc>
+<tib>rdo rje phur pa mdung rtse dmar po'i rgyud ces bya ba</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>326</rktsg>
+<ref>Ggk023.006</ref>
+<loc><set>MW1BL6</set><vol>'a</vol>23<voln></voln><json>json23</json><psection>nya</psection><p>1b1-16a4</p></loc>
+<tib>rdo rje phur pa phrin las 'khor lo gab pa gsang ba'i rgyud kyi rgyal po</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>90</rktsg>
+<ref>Ggk023.007</ref>
+<loc><set>MW1BL6</set><vol>'a</vol>23<voln></voln><json>json23</json><psection>ta</psection><p>1b1-8a4</p></loc>
+<tib>rdo rje gsangs ba chen po'i sku rin po che dbyig gi sgron ma shes rab chen po'i mdo</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk023.008</ref>
+<loc><set>MW1BL6</set><vol>'a</vol>23<voln></voln><json>json23</json><psection>tha</psection><p>1b1-3b6</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>333</rktsg>
+<ref>Ggk023.009</ref>
+<loc><set>MW1BL6</set><vol>'a</vol>23<voln></voln><json>json23</json><psection>pha</psection><p>1b1-8b4</p></loc>
+<tib>rdo rje phur pa gsang ba gdams ngag can gyi rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>330</rktsg>
+<ref>Ggk023.010</ref>
+<loc><set>MW1BL6</set><vol>'a</vol>23<voln></voln><json>json23</json><psection>ba</psection><p>1b1-80b4</p></loc>
+<tib>phur pa gsang ba'i dgongs rgyud chen po</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>594</rktsg>
+<ref>Ggk023.011</ref>
+<loc><set>MW1BL6</set><vol>'a</vol>23<voln></voln><json>json23</json><psection>ma</psection><p>1b1-20a6</p></loc>
+<tib>gnas lung chen po bstan pa</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>337</rktsg>
+<ref>Ggk024.001</ref>
+<loc><set>MW1BL6</set><vol>ya</vol>24<voln></voln><json>json24</json><psection>ga</psection><p>1b1-17b2</p></loc>
+<tib>srid pa rgyud lung gi rgyud phyi ma</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>346</rktsg>
+<ref>Ggk024.002</ref>
+<loc><set>MW1BL6</set><vol>ya</vol>24<voln></voln><json>json24</json><psection>nga</psection><p>1b1-36b3</p></loc>
+<tib>srid pa mtsho bzhi'i rgyud ces bya ba</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>345</rktsg>
+<ref>Ggk024.003</ref>
+<loc><set>MW1BL6</set><vol>ya</vol>24<voln></voln><json>json24</json><psection>ta</psection><p>1b1-13b6</p></loc>
+<tib>las kyi mkha' 'gro ma de kho na nyid gsum du 'dus pa zhes bya ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>738</rktsg>
+<ref>Ggk024.004</ref>
+<loc><set>MW1BL6</set><vol>ya</vol>24<voln></voln><json>json24</json><psection>tha</psection><p>1b1-11b7</p></loc>
+<tib>e ka tsa ta'i sngags rgyud nag mo</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>547</rktsg>
+<ref>Ggk024.005</ref>
+<loc><set>MW1BL6</set><vol>ya</vol>24<voln></voln><json>json24</json><psection>da</psection><p>1b1-3b4</p></loc>
+<tib>gsang ba yang khol gyi rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>744</rktsg>
+<ref>Ggk024.006</ref>
+<loc><set>MW1BL6</set><vol>ya</vol>24<voln></voln><json>json24</json><psection>na</psection><p>1b1-23a4</p></loc>
+<tib>gsang ba'i gter gyi rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>741</rktsg>
+<ref>Ggk024.007</ref>
+<loc><set>MW1BL6</set><vol>ya</vol>24<voln></voln><json>json24</json><psection>pa</psection><p>1b1-6a7</p></loc>
+<tib>gnod sbyin nag mo re ma ti gcer bu bong zhon ma rtsa ba'i rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>347</rktsg>
+<ref>Ggk024.008</ref>
+<loc><set>MW1BL6</set><vol>ya</vol>24<voln></voln><json>json24</json><psection>pha</psection><p>1b1-9b4</p></loc>
+<tib>gsang ba 'dus pa'i gtan tshigs zhes bya ba ma mo 'dus pa'i tan tra</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>348</rktsg>
+<ref>Ggk024.009</ref>
+<loc><set>MW1BL6</set><vol>ya</vol>24<voln></voln><json>json24</json><psection>ba</psection><p>1b1-17a4</p></loc>
+<tib>ma mo srid pa zla gsang thig le'i rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk024.010</ref>
+<loc><set>MW1BL6</set><vol>ya</vol>24<voln></voln><json>json24</json><psection>ma</psection><p>1b1-120b3</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>351</rktsg>
+<ref>Ggk024.011</ref>
+<loc><set>MW1BL6</set><vol>ya</vol>24<voln></voln><json>json24</json><psection>tsa</psection><p>1b1-57b5</p></loc>
+<tib>rgyud lung byang skor rtsa rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk024.012</ref>
+<loc><set>MW1BL6</set><vol>ya</vol>24<voln></voln><json>json24</json><psection>tsha</psection><p>1b1-11b4</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk024.013</ref>
+<loc><set>MW1BL6</set><vol>ya</vol>24<voln></voln><json>json24</json><psection>dza</psection><p>1b1-24a6</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>356</rktsg>
+<ref>Ggk024.014</ref>
+<loc><set>MW1BL6</set><vol>ya</vol>24<voln></voln><json>json24</json><psection>za</psection><p>1b1-26b5</p></loc>
+<tib>'phags pa lha mo nag mo'i sngags rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>363</rktsg>
+<ref>Ggk024.015</ref>
+<loc><set>MW1BL6</set><vol>ya</vol>24<voln></voln><json>json24</json><psection>'a</psection><p>1b1-28a3</p></loc>
+<tib>phra men spyang ki las kyi rgyal mo'i rgyud</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>361</rktsg>
+<ref>Ggk024.016</ref>
+<loc><set>MW1BL6</set><vol>ya</vol>24<voln></voln><json>json24</json><psection>ya</psection><p>1b1-12b7</p></loc>
+<tib>snying tig bkol ba'i rgyud 'ug pa'i gdong can</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk024.017</ref>
+<loc><set>MW1BL6</set><vol>ya</vol>24<voln></voln><json>json24</json><psection>ra</psection><p>1b1-11b2</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+vol la to ha missing
+
+
+<item>
 <rktsg>367</rktsg>
-<ref>Ggk009.001</ref>
-<loc><set>MW1BL6</set><vol>a</vol><voln></voln><json>yyy9</json><psection>ka</psection><p>1b1-10a2</p></loc>
+<ref>Ggk030.001</ref>
+<loc><set>MW1BL6</set><vol>a</vol>30<voln></voln><json>json30</json><psection>ka</psection><p>1b1-10a2</p></loc>
 <tib>dpal mgon po nag po gsang ba snying gi 'khor lo dngos grub chen po 'byung ba'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1460,7 +2009,7 @@ actually volume ba
 
 <item>
 <rktsg>373</rktsg>
-<ref>Ggk009.002</ref>
+<ref>Ggk030.002</ref>
 <loc><set>MW1BL6</set><vol>a</vol><voln></voln><json>yyy9</json><psection>ca</psection><p>1b1-34a3</p></loc>
 <tib>dpal nag po chen po drag po'i tag pa dur khrod chen po rgyud ces bya ba</tib>
 <skttrans></skttrans>
@@ -1469,7 +2018,7 @@ actually volume ba
 
 <item>
 <rktsg>369</rktsg>
-<ref>Ggk009.003</ref>
+<ref>Ggk030.003</ref>
 <loc><set>MW1BL6</set><vol>a</vol><voln></voln><json>yyy9</json><psection>cha</psection><p>1b1-11b5</p></loc>
 <tib>dpal nag po chen po'i rgyud dur khrod nag po ces bya ba</tib>
 <skttrans></skttrans>
@@ -1478,7 +2027,7 @@ actually volume ba
 
 <item>
 <rktsg>377</rktsg>
-<ref>Ggk009.004</ref>
+<ref>Ggk030.004</ref>
 <loc><set>MW1BL6</set><vol>a</vol><voln></voln><json>yyy9</json><psection>ja</psection><p>1b1-6a6</p></loc>
 <tib>las kyis mgon bya rog gdong can rgyud</tib>
 <skttrans></skttrans>
@@ -1487,7 +2036,7 @@ actually volume ba
 
 <item>
 <rktsg>375</rktsg>
-<ref>Ggk009.005</ref>
+<ref>Ggk030.005</ref>
 <loc><set>MW1BL6</set><vol>a</vol><voln></voln><json>yyy9</json><psection>nya</psection><p>1b1-14b1</p></loc>
 <tib>rnal 'byor dbang phyug chen mo ral gcig ma'i rgyud</tib>
 <skttrans></skttrans>
@@ -1496,7 +2045,7 @@ actually volume ba
 
 <item>
 <rktsg>340</rktsg>
-<ref>Ggk009.006</ref>
+<ref>Ggk030.006</ref>
 <loc><set>MW1BL6</set><vol>a</vol><voln></voln><json>yyy9</json><psection>ta</psection><p>1b1-24b4</p></loc>
 <tib>ral cig chos kyis dbyings dag mo spu gri ya ma'i rgyud</tib>
 <skttrans></skttrans>
@@ -1505,7 +2054,7 @@ actually volume ba
 
 <item>
 <rktsg>374</rktsg>
-<ref>Ggk009.007</ref>
+<ref>Ggk030.007</ref>
 <loc><set>MW1BL6</set><vol>a</vol><voln></voln><json>yyy9</json><psection>tha</psection><p>1b1-10a6</p></loc>
 <tib>nag po chen po zugs can gcer bu'i rgyud ces bya ba</tib>
 <skttrans></skttrans>
@@ -1514,7 +2063,7 @@ actually volume ba
 
 <item>
 <rktsg>378</rktsg>
-<ref>Ggk009.008</ref>
+<ref>Ggk030.008</ref>
 <loc><set>MW1BL6</set><vol>a</vol><voln></voln><json>yyy9</json><psection>ba</psection><p>1b1-46b7</p></loc>
 <tib>bdud bya rog mgo brtsegs gsang ba sgrol byed kyi rgyal po ki kang rog ti'i mdo snying gzer nag po'i rgyud chen po</tib>
 <skttrans></skttrans>
@@ -1523,7 +2072,7 @@ actually volume ba
 
 <item>
 <rktsg>xxx</rktsg>376?
-<ref>Ggk009.009</ref>
+<ref>Ggk030.009</ref>
 <loc><set>MW1BL6</set><vol>a</vol><voln></voln><json>yyy9</json><psection>ma</psection><p>1b1-79b1</p></loc>
 <tib></tib>
 <skttrans></skttrans>
@@ -1532,24 +2081,206 @@ actually volume ba
 
 <item>
 <rktsg>598</rktsg>
-<ref>Ggk009.010</ref>
+<ref>Ggk030.010</ref>
 <loc><set>MW1BL6</set><vol>a</vol><voln></voln><json>yyy9</json><psection>tsa</psection><p>1b1-45b6</p></loc>
 <tib>lha 'dre gnyis med kyi rgyud ces bya ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
 </item>
 
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk031.001</ref>
+<loc><set>MW1BL6</set><vol>31</vol>31<voln></voln><json>json31</json><psection>ka</psection><p>1b1-9b4</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
 
-####
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk031.002</ref>
+<loc><set>MW1BL6</set><vol>31</vol>31<voln></voln><json>json31</json><psection>kha</psection><p>1b1-22a6</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
 
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk031.003</ref>
+<loc><set>MW1BL6</set><vol>31</vol>31<voln></voln><json>json31</json><psection>ga</psection><p>1b1-15b6</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
 
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk031.004</ref>
+<loc><set>MW1BL6</set><vol>31</vol>31<voln></voln><json>json31</json><psection>nga</psection><p>1b1-28a3</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
 
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk031.005</ref>
+<loc><set>MW1BL6</set><vol>31</vol>31<voln></voln><json>json31</json><psection>ca</psection><p>1b1-24a4</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
 
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk031.006</ref>
+<loc><set>MW1BL6</set><vol>31</vol>31<voln></voln><json>json31</json><psection>cha</psection><p>1b1-15a4</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk031.007</ref>
+<loc><set>MW1BL6</set><vol>31</vol>31<voln></voln><json>json31</json><psection>ja</psection><p>1b1-8a4</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk031.008</ref>
+<loc><set>MW1BL6</set><vol>31</vol>31<voln></voln><json>json31</json><psection>nya</psection><p>1b1-5b4</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk031.009</ref>
+<loc><set>MW1BL6</set><vol>31</vol>31<voln></voln><json>json31</json><psection>ta</psection><p>1b1-7b5</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk031.010</ref>
+<loc><set>MW1BL6</set><vol>31</vol>31<voln></voln><json>json31</json><psection>tha</psection><p>1b1-5a3</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk031.011</ref>
+<loc><set>MW1BL6</set><vol>31</vol>31<voln></voln><json>json31</json><psection>da</psection><p>1b1-97b6</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk031.012</ref>
+<loc><set>MW1BL6</set><vol>31</vol>31<voln></voln><json>json31</json><psection>na</psection><p>1b1-4b2</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk031.013</ref>
+<loc><set>MW1BL6</set><vol>31</vol>31<voln></voln><json>json31</json><psection>pa</psection><p>1b1-16b3</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk031.014</ref>
+<loc><set>MW1BL6</set><vol>31</vol>31<voln></voln><json>json31</json><psection>pha</psection><p>1b1-67a5</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk031.015</ref>
+<loc><set>MW1BL6</set><vol>31</vol>31<voln></voln><json>json31</json><psection>ba</psection><p>1b1-16b1</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk031.016</ref>
+<loc><set>MW1BL6</set><vol>31</vol>31<voln></voln><json>json31</json><psection>ma</psection><p>1b1-12a7</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk031.017</ref>
+<loc><set>MW1BL6</set><vol>31</vol>31<voln></voln><json>json31</json><psection>tsa</psection><p>1b1-25a6</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk031.018</ref>
+<loc><set>MW1BL6</set><vol>31</vol>31<voln></voln><json>json31</json><psection>tsha</psection><p>1b1-8b2</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk031.019</ref>
+<loc><set>MW1BL6</set><vol>31</vol>31<voln></voln><json>json31</json><psection>dza</psection><p>1b1-29b5</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk031.020</ref>
+<loc><set>MW1BL6</set><vol>31</vol>31<voln></voln><json>json31</json><psection>wa</psection><p>1b1-30a7</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>xxx</rktsg>
+<ref>Ggk031.021</ref>
+<loc><set>MW1BL6</set><vol>31</vol>31<voln></voln><json>json31</json><psection>zha</psection><p>1b1-6b2</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
 
 <item>
 <rktsg>51</rktsg>
-<ref>Ggk002.001</ref>
-<loc><set>MW1BL6</set><vol>2</vol><voln></voln><json>yyy2</json><psection>ka</psection><p>1b1-191b4</p></loc>
+<ref>Ggk032.001</ref>
+<loc><set>MW1BL6</set><vol>32</vol><voln>32</voln><json>json32</json><psection>ka</psection><p>1b1-191b4</p></loc>
 <tib>de bzhin gshegs pa thams kyi ting nge 'dzin yongs su bshad pa / ye shes 'dus pa'i mdo / theg pa chen po / gsang ba bla na med pa'i rgyud / chos thams cad kyi 'byung gnas / sangs rgyas thams cad kyi dgongs pa / gsang sngags gcig pa'i ye shes / rdzogs pa chen po'i don gsal bar byed pa'i rgyud / rig pa rang shar chen po'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1557,8 +2288,8 @@ actually volume ba
 
 <item>
 <rktsg>52</rktsg>
-<ref>Ggk002.002</ref>
-<loc><set>MW1BL6</set><vol>2</vol><voln></voln><json>yyy2</json><psection>kha</psection><p>1b1-29a7</p></loc>
+<ref>Ggk032.002</ref>
+<loc><set>MW1BL6</set><vol>32</vol><voln>32</voln><json>json32</json><psection>kha</psection><p>1b1-29a7</p></loc>
 <tib>rig pa rang grol chen po thams cad 'grol ba'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1566,8 +2297,8 @@ actually volume ba
 
 <item>
 <rktsg>55</rktsg>
-<ref>Ggk002.003</ref>
-<loc><set>MW1BL6</set><vol>2</vol><voln></voln><json>yyy2</json><psection>ga</psection><p>1b1-89a4</p></loc>
+<ref>Ggk032.003</ref>
+<loc><set>MW1BL6</set><vol>32</vol><voln>32</voln><json>json32</json><psection>ga</psection><p>1b1-89a4</p></loc>
 <tib>rin po che 'byung bar byed pa sgra thal 'gyur chen po'i rgyud zhes bya ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1575,8 +2306,8 @@ actually volume ba
 
 <item>
 <rktsg>57</rktsg>
-<ref>Ggk002.004</ref>
-<loc><set>MW1BL6</set><vol>2</vol><voln></voln><json>yyy2</json><psection>nga</psection><p>1b1-34b5</p></loc>
+<ref>Ggk032.004</ref>
+<loc><set>MW1BL6</set><vol>32</vol><voln>32</voln><json>json32</json><psection>nga</psection><p>1b1-34b5</p></loc>
 <tib>rdo rje sems dpa' snying gi me long gi rgyud zhes bya ba</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1584,8 +2315,8 @@ actually volume ba
 
 <item>
 <rktsg>58</rktsg>
-<ref>Ggk002.005</ref>
-<loc><set>MW1BL6</set><vol>2</vol><voln></voln><json>yyy2</json><psection>ca</psection><p>1b1-19b1</p></loc>
+<ref>Ggk032.005</ref>
+<loc><set>MW1BL6</set><vol>32</vol><voln>32</voln><json>json32</json><psection>ca</psection><p>1b1-19b1</p></loc>
 <tib>kun tu bzang po thugs kyi me long gi rgyud ces bya ba / thams cad ston pa'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
@@ -1593,211 +2324,73 @@ actually volume ba
 
 <item>
 <rktsg>61</rktsg>
-<ref>Ggk002.006</ref>
-<loc><set>MW1BL6</set><vol>2</vol><voln></voln><json>yyy2</json><psection>cha</psection><p>1b1-40b4</p></loc>
+<ref>Ggk032.006</ref>
+<loc><set>MW1BL6</set><vol>32</vol><voln>32</voln><json>json32</json><psection>cha</psection><p>1b1-40b4</p></loc>
 <tib>kun tu bzang po klong drug gi rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
 </item>
 
 <item>
-<rktsg>201</rktsg>
-<ref>Ggk003.001</ref>
-<loc><set>MW1BL6</set><vol>3</vol><voln></voln><json>yyy3</json><psection>ka</psection><p>1b1-11b4</p></loc>
-<tib>bla ma yi dam mkha' 'gro thams cad kyi thugs bcud 'dus pa rgyud kyi rgyal po pad sdong brtsegs pa zhes bya ba</tib>
-<skttrans></skttrans>
-<coloph></coloph>
-
-<item>
-<rktsg>202</rktsg>
-<ref>Ggk003.002</ref>
-<loc><set>MW1BL6</set><vol>3</vol><voln></voln><json>yyy3</json><psection>kha</psection><p>1b1-22a6</p></loc>
-<tib>bla ma yi dam mkha' 'gro thams cad kyi sku rgyud shel gyi ri bo rnam par bkod pa zhes bya ba</tib>
+<rktsg>54</rktsg>
+<ref>Ggk032.007</ref>
+<loc><set>MW1BL6</set><vol>32</vol>32<voln></voln><json>json32</json><psection>nga</psection><p>1b1-16a2</p></loc>
+<tib>dpal nam mkha' med pa'i sku gdung 'bar ba chen po'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
 </item>
 
 <item>
-<rktsg>203</rktsg>
-<ref>Ggk003.003</ref>
-<loc><set>MW1BL6</set><vol>3</vol><voln></voln><json>yyy3</json><psection>ga</psection><p>1b1-15b6</p></loc>
-<tib>bla ma yi dam mkha' 'gro thams cad kyi gsung rgyud rin chen 'brug sgra zhes bya ba</tib>
-<skttrans></skttrans>
-<coloph></coloph>
-</item>
-
-<item>
-<rktsg>204</rktsg>
-<ref>Ggk003.004</ref>
-<loc><set>MW1BL6</set><vol>3</vol><voln></voln><json>yyy3</json><psection>nga</psection><p>1b1-28a3</p></loc>
-<tib>bla ma yi dam mkha' 'gro thams cad kyi thugs rgyud nam mkha'i klong yangs zhes bya ba</tib>
-<skttrans></skttrans>
-<coloph></coloph>
-</item>
-
-<item>
-<rktsg>205</rktsg>
-<ref>Ggk003.005</ref>
-<loc><set>MW1BL6</set><vol>3</vol><voln></voln><json>yyy3</json><psection>ca</psection><p>1b1-24a4</p></loc>
-<tib>bla ma yi dam mkha' 'gro thams cad kyi yon tan gyi rgyud bstan pa'i srog shing zhes bya ba</tib>
-<skttrans></skttrans>
-<coloph></coloph>
-</item>
-
-<item>
-<rktsg>206</rktsg>
-<ref>Ggk003.006</ref>
-<loc><set>MW1BL6</set><vol>3</vol><voln></voln><json>yyy3</json><psection>cha</psection><p>1b1-15a4</p></loc>
-<tib>bla ma yi dam mkha' 'gro thams cad kyi phrin las kyi rgyud spu gri reg spyod ces bya ba</tib>
-<skttrans></skttrans>
-<coloph></coloph>
-</item>
-
-<item>
-<rktsg>207</rktsg>
-<ref>Ggk003.007</ref>
-<loc><set>MW1BL6</set><vol>3</vol><voln></voln><json>yyy3</json><psection>ja</psection><p>1b1-8a4</p></loc>
-<tib>bla ma gsang rgyud bka'i bang mdzod ces bya ba
-</tib>
-<skttrans></skttrans>
-<coloph></coloph>
-</item>
-
-<item>
-<rktsg>208</rktsg>
-<ref>Ggk003.008</ref>
-<loc><set>MW1BL6</set><vol>3</vol><voln></voln><json>yyy3</json><psection>nya</psection><p>1b1-5b4</p></loc>
-<tib>yi dam gyi gsang rgyud bka'i tha ram zhes bya ba</tib>
-<skttrans></skttrans>
-<coloph></coloph>
-</item>
-
-<item>
-<rktsg>209</rktsg>
-<ref>Ggk003.009</ref>
-<loc><set>MW1BL6</set><vol>3</vol><voln></voln><json>yyy3</json><psection>ta</psection><p>1b1-7b5</p></loc>
-<tib>mkha' 'gro'i gsang rgyud bka'i lde mig ces bya ba</tib>
+<rktsg>56</rktsg>
+<ref>Ggk033.001</ref>
+<loc><set>MW1BL6</set><vol>undefined</vol>33<voln></voln><json>json33</json><psection>ja</psection><p>1b1-14a2</p></loc>
+<tib>bkra shis mdzes ldan chen po'i rgyud / dpal nam mkha' med pa chen po'i rgyud</tib>
 <skttrans></skttrans>
 <coloph></coloph>
 </item>
 
 <item>
 <rktsg>xxx</rktsg>
-<ref>Ggk003.010</ref>
-<loc><set>MW1BL6</set><vol>3</vol><voln></voln><json>yyy3</json><psection>tha</psection><p>1b1-5a3</p></loc>
+<ref>Ggk033.002</ref>
+<loc><set>MW1BL6</set><vol>undefined</vol>33<voln></voln><json>json33</json><psection>nya</psection><p>1b1-</p></loc>
 <tib></tib>
 <skttrans></skttrans>
 <coloph></coloph>
 </item>
 
-<item>
-<rktsg>xxx</rktsg>
-<ref>Ggk003.011</ref>
-<loc><set>MW1BL6</set><vol>3</vol><voln></voln><json>yyy3</json><psection>da</psection><p>1b1-97b6</p></loc>
-<tib></tib>
-<skttrans></skttrans>
-<coloph></coloph>
-</item>
 
-<item>
-<rktsg>xxx</rktsg>
-<ref>Ggk003.012</ref>
-<loc><set>MW1BL6</set><vol>3</vol><voln></voln><json>yyy3</json><psection>na</psection><p>1b1-4b2</p></loc>
-<tib></tib>
-<skttrans></skttrans>
-<coloph></coloph>
-</item>
-
-<item>
-<rktsg>xxx</rktsg>
-<ref>Ggk003.013</ref>
-<loc><set>MW1BL6</set><vol>3</vol><voln></voln><json>yyy3</json><psection>pa</psection><p>1b1-16b3</p></loc>
-<tib></tib>
-<skttrans></skttrans>
-<coloph></coloph>
-</item>
-
-<item>
-<rktsg>xxx</rktsg>
-<ref>Ggk003.014</ref>
-<loc><set>MW1BL6</set><vol>3</vol><voln></voln><json>yyy3</json><psection>pha</psection><p>1b1-67a5</p></loc>
-<tib></tib>
-<skttrans></skttrans>
-<coloph></coloph>
-</item>
-
-<item>
-<rktsg>xxx</rktsg>
-<ref>Ggk003.015</ref>
-<loc><set>MW1BL6</set><vol>3</vol><voln></voln><json>yyy3</json><psection>ba</psection><p>1b1-16b1</p></loc>
-<tib></tib>
-<skttrans></skttrans>
-<coloph></coloph>
-</item>
-
-<item>
-<rktsg>xxx</rktsg>
-<ref>Ggk003.016</ref>
-<loc><set>MW1BL6</set><vol>3</vol><voln></voln><json>yyy3</json><psection>ma</psection><p>1b1-12a7</p></loc>
-<tib></tib>
-<skttrans></skttrans>
-<coloph></coloph>
-</item>
-
-<item>
-<rktsg>xxx</rktsg>
-<ref>Ggk003.017</ref>
-<loc><set>MW1BL6</set><vol>3</vol><voln></voln><json>yyy3</json><psection>tsa</psection><p>1b1-25a6</p></loc>
-<tib></tib>
-<skttrans></skttrans>
-<coloph></coloph>
-</item>
-
-<item>
-<rktsg>xxx</rktsg>
-<ref>Ggk003.018</ref>
-<loc><set>MW1BL6</set><vol>3</vol><voln></voln><json>yyy3</json><psection>tsha</psection><p>1b1-8b2</p></loc>
-<tib></tib>
-<skttrans></skttrans>
-<coloph></coloph>
-</item>
-
-<item>
-<rktsg>xxx</rktsg>
-<ref>Ggk003.019</ref>
-<loc><set>MW1BL6</set><vol>3</vol><voln></voln><json>yyy3</json><psection>dza</psection><p>1b1-29b5</p></loc>
-<tib></tib>
-<skttrans></skttrans>
-<coloph></coloph>
-</item>
-
-<item>
-<rktsg>xxx</rktsg>
-<ref>Ggk003.020</ref>
-<loc><set>MW1BL6</set><vol>3</vol><voln></voln><json>yyy3</json><psection>wa</psection><p>1b1-30a7</p></loc>
-<tib></tib>
-<skttrans></skttrans>
-<coloph></coloph>
-</item>
-
-<item>
-<rktsg>xxx</rktsg>
-<ref>Ggk003.021</ref>
-<loc><set>MW1BL6</set><vol>3</vol><voln></voln><json>yyy3</json><psection>zha</psection><p>1b1-6b2</p></loc>
-<tib></tib>
-<skttrans></skttrans>
-<coloph></coloph>
-</item>
 
 ###
 
 <item>
 <rktsg>xxx</rktsg>
-<ref>Ggk016.001</ref>
-<loc><set>MW1BL6</set><vol>ca</vol><voln>05</voln><json>json05</json><psection>zzz</psection><p>1b1-</p></loc>
+<ref>Ggk033.001</ref>
+<loc><set>MW1BL6</set><vol>undefined</vol>33<voln></voln><json>json33</json><psection>xxx</psection><p>1b1-</p></loc>
 <tib></tib>
 <skttrans></skttrans>
 <coloph></coloph>
 </item>
+
+
+
+<item>
+<rktsg>183</rktsg>
+<ref>Ggk032.008</ref>
+<loc><set>MW1BL6</set><vol>32</vol>32<voln></voln><json>json32</json><psection>pha</psection><p>1b1-49b3</p></loc>
+<tib>dpal sangs rgyas thams cad mnyam par sbyor ba zhes bya ba rgyud kyi rgyal po</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+<item>
+<rktsg>191</rktsg>
+<ref>Ggk032.009</ref>
+<loc><set>MW1BL6</set><vol>32</vol>32<voln></voln><json>json32</json><psection>pha</psection><p>1b1-93a4</p></loc>
+<tib>rgyud kyi rgyal po chen po las kyi phreng ba</tib>
+<skttrans></skttrans>
+<coloph></coloph>
+</item>
+
+
 
 </outline>
