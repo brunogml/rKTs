@@ -3664,7 +3664,7 @@ rkts>113</rkts>
 <skttrans></skttrans>
 <coloph>'phags pa rtogs pa chen po'i yongs su rgyas pa'i mdo las phyag 'tshal ba dang/_'gyod tshangs kyi le'u nyi tshe/_rdzogs so//</coloph>
 <coltitle>'phags pa rtogs pa chen po'i yongs su rgyas pa'i mdo las phyag 'tshal ba dang/_'gyod tshangs kyi le'u nyi tshe</coltitle>
-<note>The Tibetan and Saskrit titles are missing.</note>
+<note>The Tibetan and Sanskrit titles are missing.</note>
 </item>
 
 <item>
@@ -3673,13 +3673,14 @@ rkts>113</rkts>
 <loc><set>MW4CZ7445</set><vol>mdo sde, 'a</vol><voln>62</voln><json>1KG9929</json><psection>mdo sde</psection><p>305a2-340a7</p></loc>
 <tib>'phags pa me tog gi tshogs zhes bya ba theg pa chen po'i mdo</tib>
 <skttrans>Ar+ya ku su ma sa na tsa ya nA ma ma hA yAn sU tra</skttrans>
-<coloph>'phags pa me tog gi tshogs zhes bya ba theg pa chen po'i mdo/ rdzogs so// //rgya gar gyi mkhan po dznyA na sid dhi dang / zhu chen gyi lo tstsha ba ban de dharma tA shÄ« la la sogs pas zhus chen bgyis te gtan la phab pa// //zhus dag go//</coloph>
-<coltitle></coltitle>
+<coloph>'phags pa me tog gi tshogs zhes bya ba theg pa chen po'i mdo/_rdzogs s+ho//_//rgya gar gyi mkhan po dz+nyA na sid d+hi dang/_zhu chen gyi lo ts+tsha ba ban de d+harma tA shI la la sogs pas_zhus chen bgyis te gtan la phab pa//_//zhus dag go//</coloph>
+<coltitle>'phags pa me tog gi tshogs zhes bya ba theg pa chen po'i mdo</coltitle>
 <bampo>1.<loc><set></set><vol>mdo sde, 'a</vol><voln>62</voln><json>1KG9929</json><psection>mdo sde</psection><p>305a3</p></loc></bampo>
 <bampo>2.<loc><set></set><vol>mdo sde, 'a</vol><voln>62</voln><json>1KG9929</json><psection>mdo sde</psection><p>316b3</p></loc></bampo>
 <bampo>3.<loc><set></set><vol>mdo sde, 'a</vol><voln>62</voln><json>1KG9929</json><psection>mdo sde</psection><p>328a6</p></loc></bampo>
-Honza
-<note></note>
+<translator>rgya gar gyi mkhan po dz+nyA na sid d+hi<rid>bdr:P8222</rid></translator>
+<translator>zhu chen gyi lo ts+tsha ba ban de d+harma tA shI la<rid>bdr:P8266</rid></translator>
+<note>The colophon mentions both translators only as revisers.</note>
 </item>
 
 <item>
@@ -3689,6 +3690,7 @@ Honza
 <tib>dpang skong phyag brgya pa zhes bya ba</tib>
 <skttrans></skttrans>
 <coloph>dpang skong phyag brgya pa rdzogs so//</coloph>
+<coltitle>dpang skong phyag brgya pa</coltitle>
 <note></note>
 </item>
 
@@ -3697,8 +3699,9 @@ Honza
 <ref>J209</ref>
 <loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>5a4-6b3</p></loc>
 <tib>'phags pa bsam gyis mi khyab pa'i rgyal po'i mdo zhes bya ba theg pa chen po'i mdo</tib>
-<skttrans></skttrans>
-<coloph>'phags pa bsam gyis mi khyab pa'i rgyal po'i mdo zhes bya ba theg pa chen po'i mdo/ rdzogs so//</coloph>
+<skttrans>Ar+ya a tsin t+ya rA dzA sU tra nA ma ma hA yA na sU tra</skttrans>
+<coloph>'phags pa bsam gyis mi khyab pa'i rgyal po'i mdo zhes bya ba theg pa chen po'i mdo/_rdzogs so//</coloph>
+<coltitle>'phags pa bsam gyis mi khyab pa'i rgyal po'i mdo zhes bya ba theg pa chen po'i mdo</coltitle>
 <note></note>
 </item>
 
@@ -3707,8 +3710,12 @@ Honza
 <ref>J210</ref>
 <loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>6b3-13a4</p></loc>
 <tib>'phags pa phyogs bcu'i mun pa rnam par sel ba zhes bya ba theg pa chen po'i mdo</tib>
-<skttrans></skttrans>
-<coloph>'phags pa phyogs bcu'i mun pa rnam par sel ba zhes bya ba theg pa chen po'i mdo/ rdzogs so/ /rgya gar gyi mkhan po bi shud dha sing ha dang / lo tstsha ba ban de rtsangs de ben dra raká¹£i tas bsgyur/ zhu chen gyi lo tstsha ba ban de klu'i rgyal mtshan gyis zhu chen bgyis te gtan la phab pa//</coloph>
+<skttrans>Ar+ya da sha di ka an d+ha kA ra bi d+h+wan sa na nA ma ma hA yA na sU tra</skttrans>
+<coloph>'phags pa phyogs bcu'i mun pa rnam par sel ba zhes bya ba theg pa chen po'i mdo/_rdzogs so/_/rgya gar gyi mkhan po bi shud d+ha sing ha dang/_lo ts+tsha ba ban de rtsangs de ben dra rak+Shi tas bsgyur/_zhu chen gyi lo ts+tsha ba ban de klu'i rgyal mtshan gyis zhu chen bgyis te gtan la phab pa//</coloph>
+<coltitle>'phags pa phyogs bcu'i mun pa rnam par sel ba zhes bya ba theg pa chen po'i mdo</coltitle>
+<translator>rgya gar gyi mkhan po bi shud d+ha sing ha<rid>bdr:P8219</rid></translator>
+<translator>lo ts+tsha ba ban de rtsangs de ben dra rak+Shi ta<rid>bdr:P8212</rid></translator>
+<revisor>zhu chen gyi lo ts+tsha ba ban de klu'i rgyal mtshan<rid>bdr:P8183</rid></revisor>
 <note></note>
 </item>
 
@@ -3717,8 +3724,9 @@ Honza
 <ref>J211</ref>
 <loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>13a4-17a6</p></loc>
 <tib>'phags pa sangs rgyas bdun pa zhes bya ba theg pa chen po'i mdo</tib>
-<skttrans></skttrans>
+<skttrans>Ar+ya sab+ta bud d+ha ka nA ma ma hA yA na sU tra</skttrans>
 <coloph>'phags pa sangs rgyas bdun pa zhes bya ba theg pa chen po'i mdo rdzogs so//</coloph>
+<coltitle>'phags pa sangs rgyas bdun pa zhes bya ba theg pa chen po'i mdo</coltitle>
 <note></note>
 </item>
 
@@ -3727,8 +3735,9 @@ Honza
 <ref>J212</ref>
 <loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>17a6-21a3</p></loc>
 <tib>'phags pa sangs rgyas brgyad pa zhes bya ba theg pa chen po'i mdo</tib>
-<skttrans></skttrans>
+<skttrans>Ar+ya aSh+Ta bud d+ha ka nA ma ma hA yA na sU tra</skttrans>
 <coloph>'phags pa sangs rgyas brgyad pa zhes bya ba theg pa chen po'i mdo rdzogs so//</coloph>
+<coltitle>'phags pa sangs rgyas brgyad pa zhes bya ba theg pa chen po'i mdo</coltitle>
 <note></note>
 </item>
 
@@ -3737,8 +3746,9 @@ Honza
 <ref>J213</ref>
 <loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>21a3-25b8</p></loc>
 <tib>sangs rgyas bcu pa zhes bya ba theg pa chen po'i mdo</tib>
-<skttrans></skttrans>
+<skttrans>da sha bud d+ha nA ma ma hA yA na sU tra</skttrans>
 <coloph>sangs rgyas bcu pa zhes bya ba theg pa chen po'i mdo rdzogs so//</coloph>
+<coltitle>sangs rgyas bcu pa zhes bya ba theg pa chen po'i mdo</coltitle>
 <note></note>
 </item>
 
@@ -3747,8 +3757,12 @@ Honza
 <ref>J214</ref>
 <loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>26a1-29a8</p></loc>
 <tib>'phags pa sangs rgyas bcu gnyis pa zhes bya ba theg pa chen po'i mdo</tib>
-<skttrans></skttrans>
-<coloph>'phags pa sangs rgyas bcu gnyis pa zhes bya ba theg pa chen po'i mdo/ rdzogs so// //rgya gar gyi mkhan po 'dzi na mi tra dang / dA na shÄ« la dang / zhu chen gyi lo tstsha ba ban de ye shes sdes bsgyur cing zhus te gtan pa phab pa//</coloph>
+<skttrans>Ar+ya dwA da sha bud d+hi kan nA ma ma hA yA na sU tra</skttrans>
+<coloph>'phags pa sangs rgyas bcu gnyis pa zhes bya ba theg pa chen po'i mdo/rdzogs so//_//rgya gar gyi mkhan po 'dzi na mi tra dang/_dA na shI la dang/zhu chen gyi lo ts+tsha ba ban de ye shes sdes bsgyur cing zhus te gtan pa phab pa//</coloph>
+<coltitle>'phags pa sangs rgyas bcu gnyis pa zhes bya ba theg pa chen po'i mdo</coltitle>
+<translator>rgya gar gyi mkhan po 'dzi na mi tra<rid>bdr:P8209</rid></translator>
+<translator>dA na shI la<rid>bdr:P8210</rid></translator>
+<translator>zhu chen gyi lo ts+tsha ba ban de ye shes sde<rid>bdr:P8205</rid></translator>
 <note></note>
 </item>
 
@@ -3757,8 +3771,11 @@ Honza
 <ref>J215</ref>
 <loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>29a8-35b2</p></loc>
 <tib>'phags pa sangs rgyas kyi dbu rgyan zhes bya ba theg pa chen po'i mdo chos kyi rnam grangs chen po</tib>
-<skttrans></skttrans>
-<coloph>theg pa chen po shin tu rgyas pa'i mdo las 'phags pa sangs rgyas kyi dbu rgyan zhes bya ba theg pa chen po'i mdo chos kyi rnam grangs chen po rdzogs so/ rgya gar gyi mkhan po shAkya sing ha dang / lo tstsha ba ban de de ben dra raká¹£i tas bsgyur cing zhus te gtan la phab pa//</coloph>
+<skttrans>Ar+ya bud d+ha ma ku Ta nA ma ma hA yA na sU tran ma hA d+harma par+yA ya na</skttrans>
+<coloph>theg pa chen po shin tu rgyas pa'i mdo las 'phags pa sangs rgyas kyi dbu rgyan zhes bya ba theg pa chen po'i mdo chos kyi rnam grangs chen po rdzogs so/ /rgya gar gyi mkhan po shAkya sing ha dang/_lo ts+tsha ba ban de de ben dra rak+Shi tas bsgyur cing zhus te gtan la phab pa//</coloph>
+<coltitle>theg pa chen po shin tu rgyas pa'i mdo las 'phags pa sangs rgyas kyi dbu rgyan zhes bya ba theg pa chen po'i mdo chos kyi rnam grangs chen po</coltitle>
+<translator>rgya gar gyi mkhan po shAkya sing ha<rid>bdr:P4CZ16854</rid></translator>
+<translator>lo ts+tsha ba ban de de ben dra rak+Shi ta<rid>bdr:P8212</rid></translator>
 <note></note>
 </item>
 
@@ -3767,8 +3784,13 @@ Honza
 <ref>J216</ref>
 <loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>35b2-44b1</p></loc>
 <tib>'phags pa sangs rgyas kyi sa zhes bya ba theg pa chen po'i mdo</tib>
-<skttrans></skttrans>
-<coloph>'phags pa sangs rgyas kyi sa zhes bya ba theg pa chen po'i mdo/ rdzogs so// //rgya gar gyi mkhan po dzi na mi tra dang / shÄ« len dra bo dhi dang / pradznyA bar ma dang / zhu chen gyi lo tstsha ba ban de ye shes sdes á¹­Ä« ka dang sbyar te gsar du bsgyur cing zhus te gtan la phab pa//</coloph>
+<skttrans>Ar+ya bud d+ha b+hU mi nA ma ma hA yA na sUtra</skttrans>
+<coloph>'phags pa sangs rgyas kyi sa zhes bya ba theg pa chen po'i mdo/_rdzogs so//_//rgya gar gyi mkhan po dzi na mi tra dang/_shI len dra bo d+hi dang/_pradz+nyA bar ma dang/_zhu chen gyi lo ts+tsha ba ban de ye shes sdes TI ka dang sbyar te gsar du bsgyur cing zhus te gtan la phab pa//</coloph>
+<coltitle></coltitle>
+<translator>rgya gar gyi mkhan po 'dzi na mi tra<rid>bdr:P8209</rid></translator>
+<translator>shI len dra bo d+hi<rid>bdr:P1KG8854</rid></translator>
+<translator>pradz+nyA bar ma<rid>bdr:P4CZ15493</rid></translator>
+<translator>zhu chen gyi lo ts+tsha ba ban de ye shes sde<rid>bdr:P8205</rid></translator>
 <note></note>
 </item>
 
@@ -3777,8 +3799,12 @@ Honza
 <ref>J217</ref>
 <loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>44b1-49b6</p></loc>
 <tib>'phags pa sangs rgyas mi spang ba zhes bya ba theg pa chen po'i mdo</tib>
-<skttrans></skttrans>
-<coloph>'phags pa sangs rgyas mi spang pa zhes bya ba theg pa chen po'i mdo/ rdzogs so// //rgya gar gyi mkhan po dzi na mi tra dang / pradznyA barma dang / zhu chen gyi lo tstsha ba ban de ye shes sde la sogs pas bsgyur cing zhus te gtan la phab pa//</coloph>
+<skttrans>Ar+ya bud d+hA k+she pan nA ma ma hA yA na sU tra</skttrans>
+<coloph>'phags pa sangs rgyas mi spang pa zhes bya ba theg pa chen po'i mdo/_rdzogs so//_//rgya gar gyi mkhan po dzi na mi tra dang/_pradz+nyA bar+ma dang /_zhu chen gyi lo ts+tsha ba ban de ye shes sde la sogs pas bsgyur cing zhus te gtan la phab pa//</coloph>
+<coltitle>'phags pa sangs rgyas mi spang pa zhes bya ba theg pa chen po'i mdo</coltitle>
+<translator>rgya gar gyi mkhan po 'dzi na mi tra<rid>bdr:P8209</rid></translator>
+<translator>pradz+nyA bar+ma<rid>bdr:P4CZ15493</rid></translator>
+<translator>zhu chen gyi lo ts+tsha ba ban de ye shes sde<rid>bdr:P8205</rid></translator>
 <note></note>
 </item>
 
@@ -3787,8 +3813,9 @@ Honza
 <ref>J218</ref>
 <loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>49b7-52b6</p></loc>
 <tib>'phags pa dkyil 'khor brgyad pa zhes bya ba theg pa chen po'i mdo</tib>
-<skttrans></skttrans>
-<coloph>'phags pa dkyil 'khor brgyad ces bya ba'i chos kyi rnam grangs theg pa chen po'i mdo rdzogs so//</coloph>
+<skttrans>Ar+ya aSh+Ta maN+Da la kan nA ma ma hA yA na sU tra</skttrans>
+<coloph>'phags pa dkyil 'khor brgyad pa ces bya ba theg pa chen po'i mdo/_rdzogs so//</coloph>
+<coltitle>'phags pa dkyil 'khor brgyad pa ces bya ba theg pa chen po'i mdo</coltitle>
 <note></note>
 </item>
 
@@ -3797,8 +3824,9 @@ Honza
 <ref>J219</ref>
 <loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>52b6-54b6</p></loc>
 <tib>'phags pa bkra shis brgyad pa zhes bya ba theg pa chen po'i mdo</tib>
-<skttrans></skttrans>
+<skttrans>Ar+ya maM ga la aSh+Ta ka nA ma ma hA yA na sU tra</skttrans>
 <coloph>'phags pa bkra shis brgyad pa zhes bya ba theg pa chen po'i mdo rdzogs so//</coloph>
+<coltitle>'phags pa bkra shis brgyad pa zhes bya ba theg pa chen po'i mdo</coltitle>
 <note></note>
 </item>
 
@@ -3807,8 +3835,9 @@ Honza
 <ref>J220</ref>
 <loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>54b6-55a8</p></loc>
 <tib>'phags pa sangs rgyas rjes su dran pa</tib>
-<skttrans></skttrans>
+<skttrans>Ar+ya bud d+ha a nu smr-i ti</skttrans>
 <coloph>'phags pa sangs rgyas rdzes su dran pa rdzogs so//</coloph>
+<coltitle>'phags pa sangs rgyas rdzes su dran pa</coltitle>
 <note></note>
 </item>
 
@@ -3817,8 +3846,9 @@ Honza
 <ref>J221</ref>
 <loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>55a8-55b3</p></loc>
 <tib>chos rjes su dran pa</tib>
-<skttrans></skttrans>
-<coloph>chos rgyas rdzes su dran pa/ rdzogs so//</coloph>
+<skttrans>d+harma a nu smr-i ti</skttrans>
+<coloph>chos rjes su dran pa/_rdzogs so//</coloph>
+<coltitle>chos rjes su dran pa</coltitle>
 <note></note>
 </item>
 
@@ -3827,8 +3857,9 @@ Honza
 <ref>J222</ref>
 <loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>55b3-55b6</p></loc>
 <tib>dge 'dun rjes su dran pa</tib>
-<skttrans></skttrans>
-<coloph>dge 'dun rgyas rdzes su dran pa/ rdzogs so//</coloph>
+<skttrans>sang g+ha a nu smr-i ti</skttrans>
+<coloph>dge 'dun rgyas rdzes su dran pa/_rdzogs so//</coloph>
+<coltitle>dge 'dun rgyas rdzes su dran pa</coltitle>
 <note></note>
 </item>
 
@@ -3836,10 +3867,11 @@ Honza
 <rkts>282</rkts>
 <ref>J223</ref>
 <loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>55b6-56a3</p></loc>
-<tib>bslab pa gsum gyi mdo</tib>
+<tib></tib>
 <skttrans></skttrans>
 <coloph>bslab pa gsum gyi mdo rdzogs so//</coloph>
-<note></note>
+<coltitle>bslab pa gsum gyi mdo</coltitle>
+<note>The Tibetan and Sanskrit titles are missing.</note>
 </item>
 
 <item>
@@ -3847,8 +3879,9 @@ Honza
 <ref>J224</ref>
 <loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>56a4-57a2</p></loc>
 <tib>'phags pa sku gsum zhes bya ba theg pa chen po'i mdo</tib>
-<skttrans></skttrans>
-<coloph>'phags pa sku gsum zhes bya ba theg pa chen po'i mdo/ rdzogs so//</coloph>
+<skttrans>Ar+ya kA ya trai nA ma ma hA yA na sU tra</skttrans>
+<coloph>'phags pa sku gsum zhes bya ba theg pa chen po'i mdo/_rdzogs so//</coloph>
+<coltitle>'phags pa sku gsum zhes bya ba theg pa chen po'i mdo</coltitle>
 <note></note>
 </item>
 
@@ -3857,8 +3890,9 @@ Honza
 <ref>J225</ref>
 <loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>57a2-76b8</p></loc>
 <tib>'phags pa phung po gsum pa zhes bya ba theg pa chen po'i mdo</tib>
-<skttrans></skttrans>
-<coloph>'phags pa phung po gsum pa zhes bya ba theg pa chen po'i mdo rdzogs s+ho// //skad gsar chad kyis kyang bcos nas gtan la phab pa//</coloph>
+<skttrans>Ar+ya tri skan d+ha ka nA ma ma hA yA na sU tra</skttrans>
+<coloph>'phags pa phung po gsum pa zhes bya ba theg pa chen po'i mdo rdzogs s+ho//_//skad gsar chad kyis kyang bcos nas gtan la phab pa//</coloph>
+<coltitle>'phags pa phung po gsum pa zhes bya ba theg pa chen po'i mdo</coltitle>
 <note></note>
 </item>
 
@@ -3868,30 +3902,82 @@ Honza
 <loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>77a1-79b5</p></loc>
 <tib>'phags pa bsam pa thams cad yongs su rdzogs par byed pa zhes bya ba'i yongs su bsngo ba</tib>
 <skttrans></skttrans>
-<coloph>'phags pa bsam pa thams cad yongs su rdzogs par byed pa zhes bya ba'i yongs su bsngo ba rdzogs s+ho//</coloph>
+<coloph>bsam pa thams cad yongs su rdzogs par byed pa zhes bya ba'i yongs su bsngo ba rdzogs s+ho//</coloph>
+<coltitle>bsam pa thams cad yongs su rdzogs par byed pa zhes bya ba'i yongs su bsngo ba</coltitle>
 <note></note>
 </item>
 
 <item>
 <rkts>286</rkts>
 <ref>J227</ref>
-<loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>79b5-81b7</p></loc>
+<loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>79b5-81b8</p></loc>
 <tib>'phags pa 'gro ba thams cad yongs su skyob par byed pa zhes bya ba'i yongs su bsngo ba</tib>
 <skttrans></skttrans>
-<coloph>'phags pa 'gro ba thams cad yongs su skyob par byed pa zhes bya ba'i yongs su bsngo ba zhes bya ba/ rdzogs so/ /rgya gar gyi mkhan po bidya ka ra pra bha dang / lo tstsha ba ban de ye shes snying pos bsgyur/ zhu chen gyi lo tstsha ba ban de dpal brtsegs kyis zhus te gtan la phab pa//</coloph>
-<note></note>
+<coloph>'phags pa 'gro ba thams cad yongs su skyob par byed pa zhes bya ba'i yongs su bsngo ba zhes bya ba/_rdzogs s+ho/_rgya gar gyi mkhan po bid+ya ka ra pra b+ha dang/_lo ts+tsha ba ban de ye shes snying pos bsgyur/_zhu chen gyi lo ts+tsha ba ban de dpal brtsegs kyis zhus te gtan la phab pa//</coloph>
+<coltitle>'phags pa 'gro ba thams cad yongs su skyob par byed pa zhes bya ba'i yongs su bsngo ba zhes bya ba</coltitle>
+<translator>rgya gar gyi mkhan po bid+ya ka ra pra b+ha<rid>bdr:P8211</rid></translator>
+<translator>lo ts+tsha ba ban de ye shes snying po<rid>bdr:P4255</rid></translator>
+<revisor>zhu chen gyi lo ts+tsha ba ban de dpal brtsegs<rid>bdr:P8182</rid></revisor>
+<note>A consecration formula is inserted on the end of the colophon.</note>
 </item>
 
 <item>
 <rkts>287</rkts>
 <ref>J228</ref>
-<loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>81b7-332a4</p></loc>
+<loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>82a1-332a4</p></loc>
 <loc><set>MW4CZ7445</set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p>1b1-334a6</p></loc>
 <loc><set>MW4CZ7445</set><vol>mdo sde, la</vol><voln>65</voln><json>1KG9932</json><psection>mdo sde</psection><p>1b1-344a8</p></loc>
 <loc><set>MW4CZ7445</set><vol>mdo sde, sha</vol><voln>66</voln><json>1KG9933</json><psection>mdo sde</psection><p>1b1-251b1</p></loc>
 <tib>'phags pa dam pa'i chos dran pa nye bar gzhag pa</tib>
-<skttrans></skttrans>
+<skttrans>Ar+ya sad d+harma smri t+yu pa s+thA na</skttrans>
 <coloph>stong phrag sum cu rtsa drug pa 'phags pa dam pa'i chos dran pa nye bar bzhag pa zhes bya ba theg pa chen po'i mdo/ rdzogs so// //chos rnams thams cad rgyu las byung/ /rgyu de de bzhin gshegs pas gsungs/ /de yi 'gog pa gang yin pa/ /dge sbyong chen pos de skad gsungs/ /nye bar mkho ba thams cad legs par skrun pa la sogs pas phun sum tshogs pa'i dngos po mtha' dag dang ldan pas gzhi'i yon tan dang rig pa'i gnas mtha' dag gi 'byung gnas su gyur pa/ sbyang zhing sgrin la skye bo thams cad blo dang ldan pas 'dzam bu'i gling yul rnams kyi mig tu dgongs nas ston pa yang dag par rdzogs pa'i sangs rgyas mngon par rdzogs par sangs rgyas pa'i ni klung chen po 'bab pa chu bo gang gA'i 'gram gyis bsdus pa ches yangs par gyur pa rgya gar gyi yul lo/ /de'i yang dbus su gtogs pa las shar gyi cha yul chen po shar phyogs ba lendra zhes bya ba'i gtsug lag khang chen po ston pa'i bstan pa'i mig dang / rtsa ba dang / gzhi gyur pa/ dpal dang ldan pa'i rgyal po'i sras phun sum tshogs pa'i dpal gyis gzhan las mtho bas mnga' cher sgyur ba'i sa'i bdag po ne bai pA la zhes bya ba'i mtho ris dang / thar pa'i them skas mkhas shing btsun la dul ba'i skyes bu dam pa rnams kyi bzhugs gnas su mdzad pa'i gtsug lag khang dza gang dA la na mkhas pa'i skye dgu paN+Di ta rnams mang du byung zhing / mang gis kyang chen po las chen por gyur pa/ lnga brgya pa'i thams cad mkhyen pa'i 'jig rten las sgrogs pa/ sngon gyi slob dpon chen po rnams dang mtshungs pa yin zhes bya ba'i bsngags pas paN+Di ta rnams kyis bsngags par mdzad pa/ 'jig rten gyi phun sum tshogs pas nga rgyal ba'i rgyal po dang blon po rnams kyis lus kyi mgo ltar gnyan par khur ba/ mkhas pa'i nga rgyal can paN+Di ta'i 'jig rten pa rnams kyis gtsug lag gi nor bu ltar 'dzin pa/ tshe 'di ring du spangs pa'i skye bo thar pa bsgrub pa la brtson pa rnams kyis skyon yon legs par mthong bas lam 'dren pa'i mig dang 'dra bar lta ba/ yul gyi mi thams cad kyis bu gcig pa ltar snying du sdug pa'i 'thun par gyur pas/ dmu rgod lta bur log par sgrub pa rnams ches 'thun par 'dzin pas yid 'phrog par mdzad pas 'gro ba nyams thag pa rnams gzigs nas/ brtse ba'i zug rngus sems gdungs kyang thugs rje'i phyag brkyang bas skal pa dang 'thun par rjes su 'dzin par mdzad pa/ spyir lung bstan pa'i mdo sde stag rna'i rgyu skar las yon tan du ma dang ldan pa dang / rtsom pa po chen po nyid dang / lus brjes nas mtho ris su skye ba bzhes pa/ lung bstan pa/ 'phags pa byams pa dang mjal bar bzhed pa'i sred pa dang /chos kyi sred pa bla lhag pa mnga' ba/ chags sdang la sogs pa thams cad ni shas chung bar gyur pa'i skyes bu de'i bsngags pa spro bar ni sus nus/ mdor bsdu na/ 'jig rten mi chos kyi mkhyen pa che zhing bzang ba/ gser gyi sa gzhi dang 'dra ba la/ dam pa'i lha chos phun sum tshogs pa mkhas pa dang / btsun pa dang / zhi ba dang / dul ba dang / mnyen pa dang des pa dang/ bden par smra ba/ g.yo med pa/ drang po'i rang bzhin can/ bsgrub pa la snying por mdzad pa'i dpag bsams kyi ljon shing lo 'dab rgyas pa g.yu'i maN+Dala dang mtshungs par 'khrungs pa las/ tshe 'di dang / gzhan dang / gnas skabs dang / mthar thug pa'i dge ba'i lo tog phun sum tshogs pa'i me tog dang 'bras bu yongs su rgyas shing rnam par smin pas bdag dang gzhan la phan pa'i pha rol tu phyin byon pas cung zad kyang don med pa ma yin pa/ rig pa'i gnas lnga la thogs pa med pa'i mkhyen pa dang ldan pa'i dpal gyis mdzes pa'i paN+Di ta chen po shAnta A ka ra gupta'i zhal snga nas dang / mkhas pa chen po skyes bu dam pa 'dul ba 'dzin pa'i yang mchog tu gyur pa paN+Di ta chen po a bha yA ka ra gupta dang / thos pa 'dzin pas 'jam dpal dang 'dra bar grags pa spobs pa'i shes rab can rnams kyi mchog paN+Di ta chen po shAkya rakShi ta dang / paN+Di ta chen po bÄ«rya A ka ra shAnti la sogs pa rnams la rgya dpe lnga dang / gzhan yang yul dbus ma ga dhA zhes bya ba de bzhin gshegs pa'i rten mang du bzhugs shing / sangs rgyas pa'i skye bo dkon mchog gsum la dad pas yul gang ba'i ma ga dha'i yul smad na/ rgyal po byang chub sems dpa' de ba pA las mdzad pa'i gtsug lag khang chen po bstan pa'i mig tu gyur pa bri kA ma shi la na yang mkhas pa'i skye bo mang du zin kyang rakShi ta de nyid dang / sgra dang / snyan dngags dang/ legs par sbyar ba'i skad kyi lugs la mkhas pa'i paN+Di ta chen po su bu ti tsandra dang / mngon pa la mkhas pa a á¸i ta tsandra la sogs pa rnams la rgya dpe gnyis la legs par mnyan cing gus pas thad du bsten nas don dang tshig ma lus par rtogs pa'i bshad pa zhus nas / shin tu dka' ba'i gnas rnams la ni phyi zhing legs par dpyad pas don dgrol ba'i thabs zhus te/ 'gyur gyi yan lag rgya gar gyi saá¹ƒ skri ta dang / 'phral skad gnyis/ bod kyi chos skad dang 'phal skad gnyis te/ bzhi la dbang 'byor ba'i shes rab kyi snang ba thob mod kyis kyang/ spyir mdo sde la don gyi gnas mang bas tshig don phal cher ba rnyings shing lhag par yang mdo 'di don du ma tshig zur rnams kyis ngag gcig tu 'brel bar ston pa ni tshig mdzes pa'i rgyan gyis don gsal bar mdzad pa snyan dngags kyi dbang phyug/ 'gran gyi do med pa rnams kyi mdzad pa'i rim pa yin pa'i phyir na/ sbyangs pa zhan pa rnams la sla ba ma yin la/ khyad par du yang gzhung nyung bas don du ma ston pa'i mdo dun ma bu rnams ni spyir sor bsgyur bar mngon yang / blo'i nor can rnams kyis ni de nyid la don du ma nges nus la/ bye brag tu gsal btab na ni don cig ston par 'khrul ba'i phyir dang / tshig ji tsam pas brjod pa de tsam du bsgyur bar rigs pa'i yang phyir te/ mdor na rgya bod kyi don thun mong pa brda tha dad pa'i byed pa ma nyams par byas nas / sngon gyi bsgyur ba la mkhas pa rnams kyi bkas bcad la sogs pa'i lugs dang yang mi 'gal bar byang phyogs pa tshab kyi rgyud du skyes pa'i dge slong tshul khrims rgyal mtshan gyis dam pa'i chos la gus pas/ rgya gar gyi rgyal po phun sum tshogs pa'i dpal gyi rgyal mtshan gyi dbang phyug gzhan bas ches mtho ba dang ldan pa ram ba la'i ring la/ theg pa chen po'i mdo sde dam pa'i chos dran pa nye bar gzhag pa zhes bya ba shas shig 'gyur ba 'phro yongs su rdzogs par byas nas bsgyur ba'o/ /slad kyis zhu thug la ni dge ba'i bshes gnyen zhang bu gcig pa zhes bya ba rab tu grags shing skye dgu rnams sgrogs pa yang/ 'jig rten pa ni rang la phan pa'i rgyu mtshan gyis brjod pa de dag rnams kyi gshis yin pa'i phyir te/ skyes bu des ni sems can la bu gcig pa la bzhin du dgongs pas sras gcig pa'o/ /des ni thugs rje chen po dang ldan pa mtshon no/ /chos la gnas pa rnams shes rab 'od ces grags pa yang / theg pa'i rim pa dang mthun par mkhyen cing bden pa gnyis la sogs pa'i sgor bsdu ba dang / mos pa dang / nges pa dang / mngon du rtogs shing shes nas rang dang gzhan nyon mongs pa dang / shes bya'i sgrib pa'i mun pa 'joms pa'i 'od mdzad pa'i phyir te/ des ni shes rab chen po dang ldan pa dang / bdag gzhan gyi don phun sum tshogs pa bstan to/ /dam pa'i skye bo des grogs mdzad nas dge slong tshul khrims rgyal mtshan nyid kyis dag par byas so/ /de ltar na dang po'i gzhi 'gyur dang / zhu chen dang / tshig don gyi 'brel dpyad pa dang / zhu chung dang / yang 'brel dpyad pa dang lngar zhus shing gtugs te gtan la phab pa'o/ /dam chos mdo sde rin chen theg pa kun gyi gzhi dang rtsa ba bcud du gyur pa'i theg chen dran gzhag 'di legs bsgyur dngos dang de'i grogs byed thams cad dang ni nam mkha'i mthas gtugs 'gro kun dge ba dri med kyis/ srid na bde sbyin skyabs gnas rdzogs pa'i byang chub 'bras ldan sa'i gnas skabs ljon shing lo 'dab phun tshogs shog//</coloph>
+<bampo>1.<loc><set></set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>82a1</p></loc></bampo>
+<bampo>2.<loc><set></set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>94a6</p></loc></bampo>
+<bampo>3.<loc><set></set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>107a3</p></loc></bampo>
+<bampo>4.<loc><set></set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>118b4</p></loc></bampo>
+<bampo>5.<loc><set></set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>130a2</p></loc></bampo>
+<bampo>6.<loc><set></set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>142b6</p></loc></bampo>
+<bampo>7.<loc><set></set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>155a3</p></loc></bampo>
+<bampo>8.<loc><set></set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>167b2</p></loc></bampo>
+<bampo>9.<loc><set></set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>180a3</p></loc></bampo>
+<bampo>10.<loc><set></set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>193a5</p></loc></bampo>
+<bampo>11.<loc><set></set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>206b6</p></loc></bampo>
+<bampo>12.<loc><set></set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>219b4</p></loc></bampo>
+<bampo>13.<loc><set></set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>232a7</p></loc></bampo>
+<bampo>14.<loc><set></set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>244a3</p></loc></bampo>
+<bampo>15.<loc><set></set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>256a4</p></loc></bampo>
+<bampo>16.<loc><set></set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>268b7</p></loc></bampo>
+<bampo>17.<loc><set></set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>280b7</p></loc></bampo>
+<bampo>18.<loc><set></set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>293a5</p></loc></bampo>
+<bampo>19.<loc><set></set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>305b5</p></loc></bampo>
+<bampo>20.<loc><set></set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>317a8</p></loc></bampo>
+<bampo>21.<loc><set></set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p>1b1</p></loc></bampo>
+<bampo>22.<loc><set></set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p>13b1</p></loc></bampo>
+<bampo>23.<loc><set></set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p>25b4</p></loc></bampo>
+<bampo>24.<loc><set></set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p>37a1</p></loc></bampo>
+<bampo>25.<loc><set></set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p>49b2</p></loc></bampo>
+<bampo>26.<loc><set></set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p>61b7</p></loc></bampo>
+<bampo>27.<loc><set></set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p>74b1</p></loc></bampo>
+<bampo>28.<loc><set></set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p>87a2</p></loc></bampo>
+<bampo>29.<loc><set></set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p>99b7</p></loc></bampo>
+<bampo>30.<loc><set></set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p>119a1</p></loc></bampo>
+<bampo>31.<loc><set></set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p>132a2</p></loc></bampo>
+<bampo>32.<loc><set></set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p>145a3</p></loc></bampo>
+<bampo>33.<loc><set></set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p>157b1</p></loc></bampo>
+<bampo>34.<loc><set></set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p>169a4</p></loc></bampo>
+<bampo>35.<loc><set></set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p>182a2</p></loc></bampo>
+<bampo>36.<loc><set></set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p>195b5</p></loc></bampo>
+<bampo>37.<loc><set></set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p>208b4</p></loc></bampo>
+<bampo>38.<loc><set></set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p>225a5</p></loc></bampo>
+<bampo>39.<loc><set></set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p>238b3</p></loc></bampo>
+<bampo>40.<loc><set></set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p>251a4</p></loc></bampo>
+Honza
+<bampo><loc><set></set><vol>mdo sde, ra</vol><voln>64</voln><json>1KG9931</json><psection>mdo sde</psection><p></p></loc></bampo>
+<bampo><loc><set></set><vol>mdo sde, la</vol><voln>65</voln><json>1KG9932</json><psection>mdo sde</psection><p></p></loc></bampo>
+<bampo><loc><set></set><vol>mdo sde, la</vol><voln>65</voln><json>1KG9932</json><psection>mdo sde</psection><p></p></loc></bampo>
+<bampo><loc><set></set><vol>mdo sde, la</vol><voln>65</voln><json>1KG9932</json><psection>mdo sde</psection><p></p></loc></bampo>
+<bampo><loc><set></set><vol>mdo sde, la</vol><voln>65</voln><json>1KG9932</json><psection>mdo sde</psection><p></p></loc></bampo>
+<chap>yi dgas kyi le'u ste gnyis pa<loc><set>MW4CZ7445</set><vol>mdo sde, ya</vol><voln>63</voln><json>1KG9930</json><psection>mdo sde</psection><p>326b2</p></loc></chap>
 <note></note>
 </item>
 
