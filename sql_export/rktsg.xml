@@ -1,0 +1,4057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outline>
+  <name>rKTs</name>
+  <note>exported from SQL</note>
+  <item>
+    <rktsg>1</rktsg>
+    <tib>spros bral don gsal chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>2</rktsg>
+    <tib>rgyud thams cad kyi rtse rgyal nam mkha' 'bar ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>3</rktsg>
+    <tib>rgyud thams cad kyi spyi phud nyi zla bkod pa nam mkha'i mtha' dang mnyam pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>4</rktsg>
+    <tib>nam mkha' 'brug sgrog thog babs klong 'dus spyi rgyal rgya mdud kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>5</rktsg>
+    <tib>lta ba la shan chen po rin chen sgron ma rtsa ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>6</rktsg>
+    <tib>rtsa lung rgyud 'jam dpal 'dus pa'i rgyud las bsdus pa</tib>
+  </item>
+  <item>
+    <rktsg>7</rktsg>
+    <tib>sangs rgyas thig le nyag gcig</tib>
+  </item>
+  <item>
+    <rktsg>8</rktsg>
+    <tib>srog gi 'khor lo'i rgyud pa</tib>
+  </item>
+  <item>
+    <rktsg>9</rktsg>
+    <tib>yang gsang lta ba la thal gyi rgyud/ kun tu bzang po'i srog gi spu gri/ rdo rje sems dpa'i thugs kyi reg chod/ ro langs bde ba'i thugs kyi srog gi thigs pa/ brgyud pa gsum pa lta ba la thal gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>10</rktsg>
+    <tib>spyod pa thabs dang shes rab kyi rgyud/ srog gi thigs pa bdud rtsi'i bum pa/ snang byed kyi spu gri'i rgyud/ yang ti nag po'i rgyud/ rim pa nas snyan du brgyud pa/ spyod pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>11</rktsg>
+    <tib>kun bzang srog gi thig pa 'bras bu ye grol chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>12</rktsg>
+    <tib>thig le mthong brtol gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>13</rktsg>
+    <tib>rgyud kyi rtse rgyal nyi zla 'od 'bar mkha' klong rnam dag rgya mtsho klong gsal gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>14</rktsg>
+    <tib>rdo rje sems dpa' yi ge brgya pa dbang mchog rgyal po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>15</rktsg>
+    <tib>rdo rje sems dpa' yi ge brgya pa thugs phrin las thams cad kyi dam tshig gi rgyud ces bya</tib>
+  </item>
+  <item>
+    <rktsg>16</rktsg>
+    <tib>rdzogs pa chen po nges don 'dus pa'i rgyud / lta ba thams cad kyi snying po rin po che rnam par bkod pa</tib>
+  </item>
+  <item>
+    <rktsg>17</rktsg>
+    <tib>rdzogs pa chen po rin po che 'khor ba rtsad gcod kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>18</rktsg>
+    <tib>rdzogs pa chen po 'khor ba rtsad nas gcod pa chos sku skye med rig pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>19</rktsg>
+    <tib>rdzogs pa chen po lta ba'i yang snying / sangs rgyas thams cad kyi dgongs pa / nam mkha' klong yangs kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>20</rktsg>
+    <tib>rdzogs pa chen po sangs rgyas thams cad kyi dgongs pa chos sku gcig tu 'dus par bka' bgros pa'i don / rin po che yon tan kun 'byung gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>21</rktsg>
+    <tib>rdzogs pa chen po shin tu rnal 'byor sangs rgyas thams cad 'byung ba'i rgyud / ye shes chos kyi sku don 'dus rig pa'i gsung/ gsang ba thugs kyi ting nge 'dzin / rang byung bde ba 'khor lo mthar phyin 'bras bu'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>22</rktsg>
+    <tib>rdzogs pa chen po nges don 'dus pa'i yang snying / kun tu bzang po ye shes klong gi rgyud / rin po che gser gyi yang zhun</tib>
+  </item>
+  <item>
+    <rktsg>23</rktsg>
+    <tib>rdzogs pa chen po nges don thams cad 'dus pa / ye shes nam mkha' dang mnyam pa'i rgyud / lta bsgom thams cad kyi snying po / rin po che rnam par bkod pa</tib>
+  </item>
+  <item>
+    <rktsg>24</rktsg>
+    <tib>rdzogs pa chen po don 'dus rig pa'i gsung rang byung bde ba'i 'khor lo</tib>
+  </item>
+  <item>
+    <rktsg>25</rktsg>
+    <tib>rdzogs pa chen po ma rig mun pa rab tu sel bar byed pa'i lta ba ye shes gting nas rdzogs pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>26</rktsg>
+    <tib>rdzogs pa chen po'i lta ba thams cad kyi snying po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>27</rktsg>
+    <tib>rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>28</rktsg>
+    <tib>rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa'i rgyud phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>29</rktsg>
+    <tib>rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa'i rgyud / phyi ma'i yang phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>30</rktsg>
+    <tib>ye shes 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>31</rktsg>
+    <tib>rdzogs pa chen po ye shes 'khor lo gsang ba thugs kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>32</rktsg>
+    <tib>'jam dpal 'dus pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>33</rktsg>
+    <tib>'phags pa spyan ras gzigs ting 'dzin rtse gcig gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>34</rktsg>
+    <tib>snang srid kha sbyor bdud rtsi chu thig 'khor ba thog mtha' gcod pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>35</rktsg>
+    <tib>rin po che bcud kyi yang snying thog tha dras thag gcod pa spros gcod rtsa ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>36</rktsg>
+    <tib>spros pa gcod pa sde lnga'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>37</rktsg>
+    <tib>rin po che bdud rtsi bcud thigs kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>38</rktsg>
+    <tib>rin po che snang gsal spu gri 'bar ba 'khrul snang thams cad rtsad nas gcod pa nam mkha' dang mnyam pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>39</rktsg>
+    <tib>rin po che spyi gnad skyon sel thig le kun gsal kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>40</rktsg>
+    <tib>gter snying rin po che spungs pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>41</rktsg>
+    <tib>thig le ye shes bcud spungs sgron ma 'od 'bar ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>42</rktsg>
+    <tib>bdud rtsi bcud thigs sgron ma brtsegs pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>43</rktsg>
+    <tib>snying po bcud spungs nam mkha' klong yangs kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>44</rktsg>
+    <tib>thugs kyi yang snying dgongs pa'i bcud 'dus pa / bka' rgyud rnams kyi gsang don bcud dril ba ma rig mun sel nyi zla 'bar ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>45</rktsg>
+    <tib>sangs rgyas kun gyi dgongs pa'i bcud bsdus ri bo brtsegs pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>46</rktsg>
+    <tib>dri med ka dag gi rgyud / rin po che gsal ba chen po</tib>
+  </item>
+  <item>
+    <rktsg>47</rktsg>
+    <tib>rgyud thams cad kyi rgyal po nyi zla'i snying po 'od 'bar ba bdud rtsi'i rgya mtsho 'khyil pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>48</rktsg>
+    <tib>skye med ka dag zang ka'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>49</rktsg>
+    <tib>sku thams cad kyi snang ba ston pa / dbang rdzogs pa rang byung chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>50</rktsg>
+    <tib>yi ge med pa'i rgyud chen po zhes bya ba / rin po che rgyal mtshan gyi rgyud / rgyal po'i gdung rgyud / lta ba nam mkha' dang mnyam pa'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>51</rktsg>
+    <tib>de bzhin gshegs pa thams kyi ting nge 'dzin yongs su bshad pa / ye shes 'dus pa'i mdo / theg pa chen po / gsang ba bla na med pa'i rgyud / chos thams cad kyi 'byung gnas / sangs rgyas thams cad kyi dgongs pa / gsang sngags gcig pa'i ye shes / rdzogs pa chen po'i don gsal bar byed pa'i rgyud / rig pa rang shar chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>52</rktsg>
+    <tib>rig pa rang grol chen po thams cad 'grol ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>53</rktsg>
+    <tib>rin chen spungs pa yon tan chen po ston pa rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>54</rktsg>
+    <tib>dpal nam mkha' med pa'i sku gdung 'bar ba chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>55</rktsg>
+    <tib>rin po che 'byung bar byed pa sgra thal 'gyur chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>56</rktsg>
+    <tib>bkra shis mdzes ldan chen po'i rgyud / dpal nam mkha' med pa chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>57</rktsg>
+    <tib>rdo rje sems dpa' snying gi me long gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>58</rktsg>
+    <tib>kun tu bzang po thugs kyi me long gi rgyud ces bya ba / thams cad ston pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>59</rktsg>
+    <tib>ngo sprod rin po che spras pa'i rang gi mtshan nyid / zhing khams bstan pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>60</rktsg>
+    <tib>mu tig rin po che phreng ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>61</rktsg>
+    <tib>kun tu bzang po klong drug pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>62</rktsg>
+    <tib>gser gyi me tog mdzes pa rin po che / sgron ma 'bar ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>63</rktsg>
+    <tib>nyi ma dang zla ba kha sbyor ba chen po gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>64</rktsg>
+    <tib>seng ge rtsal rdzogs chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>65</rktsg>
+    <tib>nor bu phra bkod rang gi don thams cad gsal bar byed pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>66</rktsg>
+    <tib>rgyud kyi khog snying sdeb pa</tib>
+  </item>
+  <item>
+    <rktsg>67</rktsg>
+    <tib>thig le kun gsal chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>68</rktsg>
+    <tib>ye shes mar me'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>69</rktsg>
+    <tib>sangs rgyas rdo rje sems dpa'i dgongs pa tshig gsum pa zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>70</rktsg>
+    <tib>thig le kun 'dus chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>71</rktsg>
+    <tib>sku'i rgyud pad+ma 'khyil pa</tib>
+  </item>
+  <item>
+    <rktsg>72</rktsg>
+    <tib>rdo rje rtse mo 'dus pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>73</rktsg>
+    <tib>ye shes bla ma chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>74</rktsg>
+    <tib>rdzogs pa chen po byang chub gyi sems rgyal mtshan rtse mo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>75</rktsg>
+    <tib>rdzogs pa chen po thig le gsang ba de kho na nyid nges pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>76</rktsg>
+    <tib>rdo rje srin po rno ba rdo rje mchu can gyi rgyud ces bya ba / rgyud thams cad kyi snying po 'khor ba dong sprug chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>77</rktsg>
+    <tib>rin po che srid pa bar ma do snang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>78</rktsg>
+    <tib>lha ma yin g.yul ngo bzlog pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>79</rktsg>
+    <tib>ro bsreg thal ba nag po thams cad rdzogs par 'dus pa'i rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>80</rktsg>
+    <tib>lha rgyud rin po che spungs pa</tib>
+  </item>
+  <item>
+    <rktsg>81</rktsg>
+    <tib>'phags pa 'jam dpal gyi bshad rgyud rin po che'i phreng ba</tib>
+  </item>
+  <item>
+    <rktsg>82</rktsg>
+    <tib>'jam dpal dgongs pa 'dus pa gsang sngags chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>83</rktsg>
+    <tib>dur khrod phung po 'bar ba man ngag gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>84</rktsg>
+    <tib>rdo rje yang rtse'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>85</rktsg>
+    <tib>rdo rje yang tog gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>86</rktsg>
+    <tib>snying po rdo rje rin po che thams cad gcig pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>87</rktsg>
+    <tib>dam tshig bkod pa sa gzhi'i rgyud / rin po che spungs pa'i rgyan</tib>
+  </item>
+  <item>
+    <rktsg>88</rktsg>
+    <tib>'byung po kun 'dul zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>89</rktsg>
+    <tib>lha rgyud dbang rin po che'i 'khor lo</tib>
+  </item>
+  <item>
+    <rktsg>90</rktsg>
+    <tib>rdo rje gsang ba chen po'i sku rin po che dbyig gi sgron ma shes rab chen po'i mdo</tib>
+  </item>
+  <item>
+    <rktsg>91</rktsg>
+    <tib>klong chen rab 'byams rgyal po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>92</rktsg>
+    <tib>kun tu bzang po nam mkha' che rtsa ba bsdus pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>93</rktsg>
+    <tib>byang chub kyi sems kun tu bzang po rig pa rang gi rtsal shar ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>94</rktsg>
+    <tib>rin po che gdams ngag sna tshogs 'khor lo'i rgyud phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>95</rktsg>
+    <tib>rin po che 'phags lam bkod pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>96</rktsg>
+    <tib>rdo rje sems dpa' nam mkha'i mtha' dang mnyam pa'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>97</rktsg>
+    <tib>ye shes gsang ba'i sgron ma rin po che man ngag gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>98</rktsg>
+    <tib>rin po che 'khor lo zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>99</rktsg>
+    <tib>ye shes gsang ba zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>100</rktsg>
+    <tib>byang chub kyi sems ye shes rdzogs pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>101</rktsg>
+    <tib>rdzogs pa chen po byang chub kyi sems / kun la 'jug pa rnam dag ston pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>102</rktsg>
+    <tib>byang chub kyi sems rdo rje 'od 'phro ba'i rgyud kyi rim pa</tib>
+  </item>
+  <item>
+    <rktsg>103</rktsg>
+    <tib>chos thams cad rdzogs pa chen po byang chub kyi sems kun byed rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>104</rktsg>
+    <tib>chos thams cad rdzogs pa chen po byang chub kyi sems su 'dus pa'i mdo</tib>
+  </item>
+  <item>
+    <rktsg>105</rktsg>
+    <tib>chos thams cad byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa nam mkha' dang mnyam pa'i yi ge med pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>106</rktsg>
+    <tib>chos thams cad rdzogs pa chen po byang chub kyi sems 'khor ba rtsad nas gcod pa rgya mtsho dang mnyam pa rnyog pa med pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>107</rktsg>
+    <tib>chos thams cad byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa nyi zla dang mnyam pa dri ma med pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>108</rktsg>
+    <tib>spyod pa nyi zla dang mnyam pa'i rgyud kyi dka' 'grel</tib>
+  </item>
+  <item>
+    <rktsg>109</rktsg>
+    <tib>chos thams cad byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa rin po che dang mnyam pa skye ba med pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>110</rktsg>
+    <tib>byang chub sems rtsal chen gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>111</rktsg>
+    <tib>byang chub kyi sems khyung chen gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>112</rktsg>
+    <tib>rdo rje sems dpa' nam mkha' che rgyas pa yi ge med pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>113</rktsg>
+    <tib>rgyud kyi rgyal po gser gyi rus sbal rdo rje theg pa rtsa ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>114</rktsg>
+    <tib>byang chub kyi sems bsgom pa</tib>
+  </item>
+  <item>
+    <rktsg>115</rktsg>
+    <tib>byang chub kyi sems bsgom pa yi ge med pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>116</rktsg>
+    <tib>byang chub kyi sems rdzogs pa chen po ye shes bdun 'byung ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>117</rktsg>
+    <tib>rdzogs pa chen po chos nyid byang chub kyi sems bkra shis mi 'gyur bar gsal bar gnas pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>118</rktsg>
+    <tib>byang chub sems kyi man ngag rin po che'i phreng ba bang mdzod 'phrul gyi lde mig</tib>
+  </item>
+  <item>
+    <rktsg>119</rktsg>
+    <tib>yang 'byed 'phrul gyi lde'u mig</tib>
+  </item>
+  <item>
+    <rktsg>120</rktsg>
+    <tib>bang mdzod 'phrul gyi me long</tib>
+  </item>
+  <item>
+    <rktsg>121</rktsg>
+    <tib>'khor lo rdo rje</tib>
+  </item>
+  <item>
+    <rktsg>122</rktsg>
+    <tib>byang chub kyi sems rin chen 'khor lo zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>123</rktsg>
+    <tib>rdo rje sems dpa' nam mkha' che rgyas pa zhes bya ba rnal 'byor ma yi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>124</rktsg>
+    <tib>rin po che 'khor lo brtsegs pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>125</rktsg>
+    <tib>byang chub kyi sems nya mo bag la nyal</tib>
+  </item>
+  <item>
+    <rktsg>126</rktsg>
+    <tib>rin po che snang byed kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>127</rktsg>
+    <tib>byang chub kyi sems rma bya mjing bsnol gyi rgyud las / 'bras bu bla na med pa'i theg pa</tib>
+  </item>
+  <item>
+    <rktsg>128</rktsg>
+    <tib>rdzogs pa chen po dpal gyi dpal chos chen po rmad du byung ba</tib>
+  </item>
+  <item>
+    <rktsg>129</rktsg>
+    <tib>rdzogs pa chen po chos nyid byang chub kyi sems / rin chen bkod pa rnam par dbye ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>130</rktsg>
+    <tib>byang chub kyi sems rmad du byung ba</tib>
+  </item>
+  <item>
+    <rktsg>131</rktsg>
+    <tib>byang chub kyi sems rmad du byung ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>132</rktsg>
+    <tib>bkra shis pa'i dpal rig pa'i khu byug</tib>
+  </item>
+  <item>
+    <rktsg>133</rktsg>
+    <tib>rdzogs pa chen po lta ba ye shes gting rdzogs kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>134</rktsg>
+    <tib>rdo rje sems dpa' nam mkha' che gsang ba'i snying po rnal ma don gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>135</rktsg>
+    <tib>byang chub kyi sems sgom pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>136</rktsg>
+    <tib>rdzogs pa chen po kun tu bzang po ye shes gsal ba ston pa/ gsang sngags kyi lam mchog 'dus pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>137</rktsg>
+    <tib>byang chub sems sgom pa rdo la gser zhun</tib>
+  </item>
+  <item>
+    <rktsg>138</rktsg>
+    <tib>thugs kyi rgyud rin po che spungs pa'i rgyan</tib>
+  </item>
+  <item>
+    <rktsg>139</rktsg>
+    <tib>gsang ba spyi rgyud ces bya</tib>
+  </item>
+  <item>
+    <rktsg>140</rktsg>
+    <tib>rin po che rgyas pa chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>141</rktsg>
+    <tib>de bzhin gshegs pa thams cad kyi thugs gsang ba'i ye shes don gyi snying po khro bo rdo rje'i rigs kun 'dus rig pa'i mdo rnal 'byor grub pa'i rgyud ces bya ba theg pa chen po'i mdo</tib>
+  </item>
+  <item>
+    <rktsg>142</rktsg>
+    <tib>de bzhin gshegs pa thams cad kyi thugs gsang ba'i ye shes don gyi snying po rdo rje bkod pa'i rgyun rnal 'byor grub pa'i lung kun 'dus rig pa'i mdo theg pa chen po mngon par rtogs pa chos kyi rnam grangs rnam par bkod par zhes bya ba'i mdo</tib>
+  </item>
+  <item>
+    <rktsg>143</rktsg>
+    <tib>de bzhin gshegs pa thams cad kyi gsang ba / gsang ba'i mdzod chen po mi zad pa gter gyi sgron ma // brtul zhugs chen po bsgrub pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>144</rktsg>
+    <tib>'phags pa rgyud kyi rgyal po ye shes rngam pa glog gi 'khor lo'i mdo zhes bya ba theg pa chen po'i mdo</tib>
+  </item>
+  <item>
+    <rktsg>145</rktsg>
+    <tib>de bzhin gshegs pa thams cad kyi sku dang / gsung dang / thugs kyi gsang ba dur khrod khu byug rol pa'i rgyud ces bya ba theg pa chen po'i mdo</tib>
+  </item>
+  <item>
+    <rktsg>146</rktsg>
+    <tib>byang chub sems 'di gsan yig na sems lung chen po dpe ma rnyed gsungs pa de yin nam 'dra lung rnal 'byor chen po'i rgyud theg pa chen po'i mdo</tib>
+  </item>
+  <item>
+    <rktsg>147</rktsg>
+    <tib>lta ba thams cad kyi rgyal po / kun tu bzang po che ba rang la gnas pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>148</rktsg>
+    <tib>dbang gi rgyal po dbang skur rgyal po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>149</rktsg>
+    <tib>ting nge 'dzin mchog gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>150</rktsg>
+    <tib>phrin las thams cad kyi rgyal po skabs sbyor bdus pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>151</rktsg>
+    <tib>spyod pa thams cad kyi rgyal po brtson pa don ldan gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>152</rktsg>
+    <tib>zhi ba lha rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>153</rktsg>
+    <tib>chos nyid zhi ba'i lha rgyud</tib>
+  </item>
+  <item>
+    <rktsg>154</rktsg>
+    <tib>khro bo lha rgyud chen mo</tib>
+  </item>
+  <item>
+    <rktsg>155</rktsg>
+    <tib>khro bo lha rgyud kyi rtog pa chen po</tib>
+  </item>
+  <item>
+    <rktsg>156</rktsg>
+    <tib>thugs rje chen po'i gtor ma dang/ sha khrag rus pa'i gtor rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>157</rktsg>
+    <tib>rnal 'byor nang gi tshogs rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>158</rktsg>
+    <tib>dpal 'bar khro mo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>159</rktsg>
+    <tib>de bzhing gshegs pa thams cad kyi rak+ta dmar gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>160</rktsg>
+    <tib>rin po che me lha zhi bar gyur pa 'bar ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>161</rktsg>
+    <tib>rdo rje ngur mo'i tan+t+ra zhes bya ba'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>162</rktsg>
+    <tib>sbyin sreg las kyi le'u</tib>
+  </item>
+  <item>
+    <rktsg>163</rktsg>
+    <tib>khro bo'i sbyin sreg las kyi le'u</tib>
+  </item>
+  <item>
+    <rktsg>164</rktsg>
+    <tib>drag po las kyi go rims</tib>
+  </item>
+  <item>
+    <rktsg>165</rktsg>
+    <tib>rdo rje sems dpa'i zhal gdams kyi me rgyud</tib>
+  </item>
+  <item>
+    <rktsg>166</rktsg>
+    <tib>hU~M mdzad chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>167</rktsg>
+    <tib>zla gsang chen po'i mdo</tib>
+  </item>
+  <item>
+    <rktsg>168</rktsg>
+    <tib>gsang ba'i snying po de kho na nyid nges pa</tib>
+  </item>
+  <item>
+    <rktsg>169</rktsg>
+    <tib>gsang ba'i snying po de kho na nyid nges pa / sgyu 'phrul brgyad pa zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>170</rktsg>
+    <tib>'phags pa 'jam dpal gyi mtshan yang dag par brjod pa</tib>
+  </item>
+  <item>
+    <rktsg>171</rktsg>
+    <tib>gsang ba'i snying po de kho na nyid nges pa</tib>
+  </item>
+  <item>
+    <rktsg>172</rktsg>
+    <tib>gsang ba'i snying po de kho na nyid nges pa'i sgyu 'phrul dra ba bla ma chen po</tib>
+  </item>
+  <item>
+    <rktsg>173</rktsg>
+    <tib>rdo rje sems dpa' sgyu 'phrul drwa ba las / gsang ba'i snying po de kho na bstan pa rol pa chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>174</rktsg>
+    <tib>sgyu 'phrul rgya mtsho zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>175</rktsg>
+    <tib>lha mo sgyu 'phrul drwa ba chen mo zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>176</rktsg>
+    <tib>gsang ba'i snying po de kho na nyid nges pa'i bla ma chen po</tib>
+  </item>
+  <item>
+    <rktsg>177</rktsg>
+    <tib>dpal gsang ba'i snying po de kho na nyid rnam par nges pa</tib>
+  </item>
+  <item>
+    <rktsg>178</rktsg>
+    <tib>rdo rje sems dpa'i sgyu 'phrul dr+wa ba gsang ba thams cad kyi me long zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>179</rktsg>
+    <tib>gsang ba'i snying po de kho na nyid nges pa</tib>
+  </item>
+  <item>
+    <rktsg>180</rktsg>
+    <tib>sgyu 'phrul thal ba'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>181</rktsg>
+    <tib>gsang ba'i snying po de kho nyid nges pa'i khro bo chen po stobs kyi rnal 'byor dbang phyug grub pa'i sgyu 'phrul dra ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>182</rktsg>
+    <tib>gsang ba'i snying po de kho na nyid nges pa'i khro bo chen po stobs kyi rgyud rgyal</tib>
+  </item>
+  <item>
+    <rktsg>183</rktsg>
+    <tib>sangs rgyas thams cad mnyam par sbyor ba zhes bya ba rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>184</rktsg>
+    <tib>dpal sangs rgyas thams cad dang mnyam par sbyor ba mkha' 'gro ma sgyu ma bde ba'i mchog ces bya ba'i rgyud phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>185</rktsg>
+    <tib>rtog pa thams cad 'dus pa zhes bya ba sangs rgyas thams cad dang mnyam par sbyor ba mkha' 'gro sgyu ma bde ba'i mchog gi rgyud phyi ma'i phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>186</rktsg>
+    <tib>zla gsang thig le</tib>
+  </item>
+  <item>
+    <rktsg>187</rktsg>
+    <tib>de bzhin gshegs pa thams cad kyi sku gsung thugs kyi gsang chen gsang ba 'dus pa zhes bya ba brtag pa'i rgyal po chen po</tib>
+  </item>
+  <item>
+    <rktsg>188</rktsg>
+    <tib>rgyud phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>189</rktsg>
+    <tib>dpal mchog dang po zhes bya ba theg pa chen po'i rtog pa'i rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>190</rktsg>
+    <tib>dpal mchog dang po'i sngags kyi rtog pa'i dum bu</tib>
+  </item>
+  <item>
+    <rktsg>191</rktsg>
+    <tib>rgyud kyi rgyal po chen po las kyi phreng ba</tib>
+  </item>
+  <item>
+    <rktsg>192</rktsg>
+    <tib>de bzhin gshegs pa thams cad kyi dgongs pa bla na med pa gsang ba rta mchog rol pa'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>193</rktsg>
+    <tib>dpal he ru ka snying rje rol pa'i rgyud gsang ba zab mo'i mchog</tib>
+  </item>
+  <item>
+    <rktsg>194</rktsg>
+    <tib>rgyud kyi rgyal po chen po dpal bdud rtsi rol pa</tib>
+  </item>
+  <item>
+    <rktsg>195</rktsg>
+    <tib>phur pa bcu gnyis kyi rgyud ces bya ba theg pa chen po'i mdo</tib>
+  </item>
+  <item>
+    <rktsg>196</rktsg>
+    <tib>glang po rab 'bog gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>197</rktsg>
+    <tib>'phags pa thabs kyi zhags pa pad+mo'i phreng</tib>
+  </item>
+  <item>
+    <rktsg>198</rktsg>
+    <tib>dam tshig thams cad kyi nyams chag skong ba'i lung/ bshags pa thams cad kyi rgyud dri ma med pa'i rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>199</rktsg>
+    <tib>rdo rje gzi ldan 'bar ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>200</rktsg>
+    <tib>bla ma dgongs pa 'dus pa las/ dad rtson dang ldan pa'i skyes bus rgyud 'chang ba'i thabs dang/ rgyud kyi che ba bstan pa</tib>
+  </item>
+  <item>
+    <rktsg>201</rktsg>
+    <tib>bla ma yi dam mkha' 'gro thams cad kyi thugs bcud 'dus pa'i rgyud kyi rgyal po pad sdong brtsegs pa</tib>
+  </item>
+  <item>
+    <rktsg>202</rktsg>
+    <tib>bla ma yi dam mkha' 'gro thams cad kyi sku rgyud shel gyi ri bo rnam par bkod pa</tib>
+  </item>
+  <item>
+    <rktsg>203</rktsg>
+    <tib>bla ma yi dam mkha' 'gro thams cad kyi gsung rgyud rin chen 'brug sgra</tib>
+  </item>
+  <item>
+    <rktsg>204</rktsg>
+    <tib>bla ma yi dam mkha' 'gro thams cad kyi thugs rgyud nam mkha'i klong yangs</tib>
+  </item>
+  <item>
+    <rktsg>205</rktsg>
+    <tib>bla ma yi dam mkha' 'gro thams cad kyi yon tan gyi rgyud bstan pa'i srog shing</tib>
+  </item>
+  <item>
+    <rktsg>206</rktsg>
+    <tib>bla ma yi dam mkha' 'gro thams cad kyi phrin las kyi rgyud spu gri reg gcod</tib>
+  </item>
+  <item>
+    <rktsg>207</rktsg>
+    <tib>bla ma'i gsang rgyud bka'i bang mdzod</tib>
+  </item>
+  <item>
+    <rktsg>208</rktsg>
+    <tib>yi dam gyi gsang rgyud bka'i tha ram</tib>
+  </item>
+  <item>
+    <rktsg>209</rktsg>
+    <tib>mkha' 'gro'i gsang rgyud bka'i lde mig</tib>
+  </item>
+  <item>
+    <rktsg>210</rktsg>
+    <tib>sangs rgyas thams cad kyi sras gcig po/ gsang ba gcod pa sa bon gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>211</rktsg>
+    <tib>bka' brgyad bde gshegs 'dus pa las/ rtsa ba'i rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>212</rktsg>
+    <tib>bcom ldan 'das bde bar gshegs pa thams cad 'dus pa phyi ma'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>213</rktsg>
+    <tib>bde gshegs 'dus pa'i sngags rgyud/ phyi ma'i phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>214</rktsg>
+    <tib>ma tshang kha bskang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>215</rktsg>
+    <tib>bde bar gshegs pa thams cad 'dus pa'i rgyud rab tu 'byed pa lde mig gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>216</rktsg>
+    <tib>de bzhin gshegs pa zhi ba thams cad 'dus pa rtsa ba'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>217</rktsg>
+    <tib>bcom ldan 'das dpal che mchog 'dus pa rtsa ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>218</rktsg>
+    <tib>dpal khrag 'thung 'dus pa rtsa ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>219</rktsg>
+    <tib>gshin rje gshed rab tu 'dus pa rtsa ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>220</rktsg>
+    <tib>dpal bcom ldan 'das dbang chen 'dus pa rtsa ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>221</rktsg>
+    <tib>bde bar gshegs pa thams cad kyi phrin las 'dus pa phur pa rtsa ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>222</rktsg>
+    <tib>ma mo 'dus pa rtsa ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>223</rktsg>
+    <tib>rig pa 'dzin pa 'dus pa rtsa ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>224</rktsg>
+    <tib>'jig rten mchod bstod sgrub pa rtsa ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>225</rktsg>
+    <tib>drag sngags 'dus pa rdo rje rtsa ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>226</rktsg>
+    <tib>bde gshegs 'dus pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>227</rktsg>
+    <tib>bcom ldan 'das bde bar gshegs pa thams cad kyi sku gsung thugs gsang ba ye shes kyi snying po thams cad yongs su rdzogs shing 'dus pa/ dpal gsang ba 'dus pa'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>228</rktsg>
+    <tib>dpal zla gsang nag po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>229</rktsg>
+    <tib>dpal zla gsang nag po rtsa ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>230</rktsg>
+    <tib>'jam dpal gshin rje'i gshed kyi gsang rgyud</tib>
+  </item>
+  <item>
+    <rktsg>231</rktsg>
+    <tib>dpal zla gsang nag po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>232</rktsg>
+    <tib>dpal drag sngags zla gsang nag po bshan pa spu gri'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>233</rktsg>
+    <tib>dpal drag sngags zla gsang nag po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>234</rktsg>
+    <tib>'phags pa 'jam dpal dri ma med pa'i gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>235</rktsg>
+    <tib>dpal gshin rje nag po me rlung skyi 'dang 'khrugs pa rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>236</rktsg>
+    <tib>'phags pa 'jam dpal gshin rje gshed nag po chen po gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>237</rktsg>
+    <tib>'phags pa 'jam dpal gsang ba'i rgyud kyi rgyal po/ pra khog snang gi brtag pa phyi ma'i rgyal po sgrub pa'i l ung/ khro bo rnam par rgyal ba'i rgyud phyi ma'i yang phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>238</rktsg>
+    <tib>dpal tshe bdag nag po'i phrin las kyi dgongs pa thams cad rdzogs pa'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>239</rktsg>
+    <tib>'jam dpal gshin rje 'khrul 'khor nag po sdig pa snying 'dzings gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>240</rktsg>
+    <tib>drag po'i sngags rgod sdig pa snying 'dzings kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>241</rktsg>
+    <tib>drag sngags mtshon cha nag po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>242</rktsg>
+    <tib>dpal tshe bdag nag po'i rguyd/ drag sngags kyi de kho na srog dmar len gyi spu gri</tib>
+  </item>
+  <item>
+    <rktsg>243</rktsg>
+    <tib>'phags pa 'jam dpal las bzhi 'khor lo gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>244</rktsg>
+    <tib>'phags pa 'jam dpal gshin rje'i rgyal po sdig pa stobs chen gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>245</rktsg>
+    <tib>gshin rje nag po gsang ba de kho na nyid kyi rgyud kha thun</tib>
+  </item>
+  <item>
+    <rktsg>246</rktsg>
+    <tib>gshin rje nag po kha thun gsang ba de kho na nyid phyi ma'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>247</rktsg>
+    <tib>dpal tshe bdag nag po drag sngags mngon du phyung ba'i rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>248</rktsg>
+    <tib>'jam dpal khro bo snying gzer gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>249</rktsg>
+    <tib>drag po phung byed kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>250</rktsg>
+    <tib>ngan sngags gtsug lag gi rgyud phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>251</rktsg>
+    <tib>'jig rten gsum gyi shes pa bsgral ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>252</rktsg>
+    <tib>de bzhin gshegs pa thams cad dgongs pa khro bo 'dus pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>253</rktsg>
+    <tib>gshin rje nag po chu thig sngon mo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>254</rktsg>
+    <tib>gnod sbyin gdong gsum pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>255</rktsg>
+    <tib>gshin rje nag po ngan sngags phyir bzlog pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>256</rktsg>
+    <tib>'phags pa 'jam dpal mched bzhi'i sngags rgyud</tib>
+  </item>
+  <item>
+    <rktsg>257</rktsg>
+    <tib>'jam dpal gsang ba'i rgyud phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>258</rktsg>
+    <tib>'jam dpal ma ru tse'i sngags rgyud las phyi ma'i phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>259</rktsg>
+    <tib>gnod sbyin ma ru tse ro langs gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>260</rktsg>
+    <tib>'jam dpal gshin rje ma ru tse'i sngags rgyud bstan pa</tib>
+  </item>
+  <item>
+    <rktsg>261</rktsg>
+    <tib>dregs pa pho mo 'dus pa'i las kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>262</rktsg>
+    <tib>rta mchog rol pa'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>263</rktsg>
+    <tib>de bzhing gshegs pa thams cad kyi sku dang/ gsung dang/ thugs dang/ yon tan dang/ phrin las gsang bar bka' bgros pa/ dbang rgyas rta mchog rol pa'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>264</rktsg>
+    <tib>dpal pad+ma dbang chen dregs pa srung bzlog yon tan gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>265</rktsg>
+    <tib>dpal pad+ma dbang chen pad+ma gar gyi dbang phyug gis dregs pa can gzan la 'bebs pa'i phrin las kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>266</rktsg>
+    <tib>dpal pad+ma dbang chen dregs pa gnad 'bebs kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>267</rktsg>
+    <tib>dpal pad+ma dbang chen dregs pa dbang sdus kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>268</rktsg>
+    <tib>dbang chen 'dus pa'i rgyu chen po</tib>
+  </item>
+  <item>
+    <rktsg>269</rktsg>
+    <tib>dbang chen bsdus pa'i tan+t+ra</tib>
+  </item>
+  <item>
+    <rktsg>270</rktsg>
+    <tib>de bzhin gshegs pa thams cad kyi dgongs pa lung bstan pa/ rnal 'byor chen po'i gsang ba rnam par bye ba rnal 'byor spyod pa'i sa/ dpal rdo rje phreng ba'i mngon par brjod pa/ rta mchog rol ba'i lung rgyud thams cad kyi snying po/ dbang chen 'dus pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>271</rktsg>
+    <tib>de bzhin gshegs pa thams cad kyi dgongs pa khro bo 'dus pa/ bde gshegs spyi dril rta mgrin rngog ma le brgan gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>272</rktsg>
+    <tib>dpal rta mgrin las rgyud</tib>
+  </item>
+  <item>
+    <rktsg>273</rktsg>
+    <tib>dpal pad+ma dbang chen dregs pa tshar gcod gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>274</rktsg>
+    <tib>pad+ma dbang chen yang gsang khros pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>275</rktsg>
+    <tib>dpal rta mgrin gsang ba phrin las kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>276</rktsg>
+    <tib>phyir bzlog pa stobs chen rta mgrin gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>277</rktsg>
+    <tib>klu 'dul ba zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>278</rktsg>
+    <tib>zhi khro 'bum rgyud</tib>
+  </item>
+  <item>
+    <rktsg>279</rktsg>
+    <tib>dpal he ru ka'i thugs kyi rgyud gal po</tib>
+  </item>
+  <item>
+    <rktsg>280</rktsg>
+    <tib>dpal khrag 'thung gal po</tib>
+  </item>
+  <item>
+    <rktsg>281</rktsg>
+    <tib>dpal khrag 'thung 'dus pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>282</rktsg>
+    <tib>rdo rje rigs kyi sgrub lugs/ khro bo pun d+ha rI ka'i tan+t+ra</tib>
+  </item>
+  <item>
+    <rktsg>283</rktsg>
+    <tib>de bzhin rigs kyi sgrub thabs gsang ba me dpung thugs kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>284</rktsg>
+    <tib>thams cad bdud rtsi lnga'i rang bzhin/ dngos grub chen po nye ba'i snying po mchog bam po chen po brgyad pa</tib>
+  </item>
+  <item>
+    <rktsg>285</rktsg>
+    <tib>thams cad bdud rtsi lnga'i rang bzhin</tib>
+  </item>
+  <item>
+    <rktsg>286</rktsg>
+    <tib>bdud rtsi rin po che ye shes gsang ba'i 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>287</rktsg>
+    <tib>bdud rtsi chen po 'khor lo 'bar ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>288</rktsg>
+    <tib>thams cad bdud rtsi lnga'i rang bzhin/ rin po che phreng ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>289</rktsg>
+    <tib>bdud rtsi bde ba chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>290</rktsg>
+    <tib>thams cad bdud rtsi lnga'i rang bzhin du 'khrungs shing skye bar byed pa'i 'bras bu rin po che 'od ltar 'bar ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>291</rktsg>
+    <tib>bdud rtsi las rgya mtsho'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>292</rktsg>
+    <tib>thams cad bdud rtsi lnga'i rang bzhin dngos grub chen po nye na'i snying po'i mchog</tib>
+  </item>
+  <item>
+    <rktsg>293</rktsg>
+    <tib>bdud rtsi chen po chos nyid gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>294</rktsg>
+    <tib>bdud rtsi 'khyil pa 'chi med tshe'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>295</rktsg>
+    <tib>sangs rgyas thams cad kyi bdud rtsi ye shes 'od ldan gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>296</rktsg>
+    <tib>rdo rje khros pa phur pa rtsa ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>297</rktsg>
+    <tib>dpal rdo rje gzhon nu thugs rje khros pa rtsa ba'i rgyud kyi bshad pa</tib>
+  </item>
+  <item>
+    <rktsg>298</rktsg>
+    <tib>rdo rje phur bu gsang ba'i rtsa ba rnal 'byor chen po yang dag pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>299</rktsg>
+    <tib>de bzhin gshegs pa chen po rdo rje phur pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>300</rktsg>
+    <tib>phrin las phun sum tshogs pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>301</rktsg>
+    <tib>phur pa karma las kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>302</rktsg>
+    <tib>rdo rje phur pa chen po gtor ma'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>303</rktsg>
+    <tib>phur bu yak+Sha za byed 'bar ba'i dam tshig gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>304</rktsg>
+    <tib>rdo rje phur bu chos thams cad mya ngan las 'das pa'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>305</rktsg>
+    <tib>sku dang ye shes thams cad 'dus pa'i sangs rgyas mdud pa</tib>
+  </item>
+  <item>
+    <rktsg>306</rktsg>
+    <tib>rgyud kyi rgyal po khro bo hUM kA ra'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>307</rktsg>
+    <tib>rgyud kyi rgyal po khro bo rnam par rgyal ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>308</rktsg>
+    <tib>khro bo dbyug pa sngon pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>309</rktsg>
+    <tib>khro bo gshin rje'i gshed po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>310</rktsg>
+    <tib>khro bo mi g.yo mgon po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>311</rktsg>
+    <tib>khro bo'i rgyal po rta mgrin gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>312</rktsg>
+    <tib>khro bo'i rgyal po gzhan gyi mi thub pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>313</rktsg>
+    <tib>khro ba bdud rtsi 'khyil ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>314</rktsg>
+    <tib>khro bo khams gsum rnam par rgyal ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>315</rktsg>
+    <tib>khro bo stobs po che'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>316</rktsg>
+    <tib>dpal rdo rje phur pa me long gsal ba'i spu gri reg gcod 'khor lo rtsabs kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>317</rktsg>
+    <tib>rgyud kyi rgyal po dpal 'jig rten snang byed</tib>
+  </item>
+  <item>
+    <rktsg>318</rktsg>
+    <tib>rgyud kyi rgyal po rdo rje phreng ba</tib>
+  </item>
+  <item>
+    <rktsg>319</rktsg>
+    <tib>phur pa rdo rje bkod pa rnal 'byor chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>320</rktsg>
+    <tib>'phags pa sangs rgyas thams cad kyi ye shes kyi rtse mo'i rgyud kyi rgyal po chen po</tib>
+  </item>
+  <item>
+    <rktsg>321</rktsg>
+    <tib>rdo rje phur pa'i chos thams cad kyi gsang ba'i don dbyings dang ye shes gnyis su med pa'i rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>322</rktsg>
+    <tib>sbad pa gsang ba zab mo bdud rtsi'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>323</rktsg>
+    <tib>rdo rje phur pa mdung rtse dmar po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>324</rktsg>
+    <tib>bse sgrom dmar po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>325</rktsg>
+    <tib>shwa na dkar nag gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>326</rktsg>
+    <tib>rdo rje phur pa phrin las 'khor lo/ gab pa gsang ba'i rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>327</rktsg>
+    <tib>rdo rje 'bar ba gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>328</rktsg>
+    <tib>rdo rje 'bar ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>329</rktsg>
+    <tib>rdo rje phur pa gsang ba'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>330</rktsg>
+    <tib>phur pa gsang ba'i dgongs rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>331</rktsg>
+    <tib>rdo rje phur pa zhe sdang yongs su dag pa'i rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>332</rktsg>
+    <tib>rdo rje phur pa gsang ba'i sngags rgyud 'byung po kun 'dul</tib>
+  </item>
+  <item>
+    <rktsg>333</rktsg>
+    <tib>rdo rje phur pa gsang ba gdams ngag can gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>334</rktsg>
+    <tib>phur bu bcu gnyis 'byung ba'i rgyud chen po bstan pa</tib>
+  </item>
+  <item>
+    <rktsg>335</rktsg>
+    <tib>rdo rje phur pa bcu gnyis kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>336</rktsg>
+    <tib>yum gzungs ma'i dngos grub chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>337</rktsg>
+    <tib>srid pa rgyud lung gi rgyud phyi ma kha 'bar nag po las rgya mtsho'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>338</rktsg>
+    <tib>ma mo lam rgyud lung</tib>
+  </item>
+  <item>
+    <rktsg>339</rktsg>
+    <tib>sngags kyi srung ma dpal e ka dzA TI'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>340</rktsg>
+    <tib>ral gcig ma chos kyi dbyings bdag mo spu gri ya ma'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>341</rktsg>
+    <tib>e ka dza Ti sbas pa nag mo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>342</rktsg>
+    <tib>ma mo e ka dza ti za byed spyang rgyal nag po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>343</rktsg>
+    <tib>mkha' 'gro ma me lce 'bar ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>344</rktsg>
+    <tib>'phags ma he sdud 'bar ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>345</rktsg>
+    <tib>las kyi mkha' 'gro ma de kho na nyid gsum du 'dus pa zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>346</rktsg>
+    <tib>srid pa rgya mtsho bzhi'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>347</rktsg>
+    <tib>gsang ba gtan tshigs zhes bya ba ma mo 'dus pa'i tan tra</tib>
+  </item>
+  <item>
+    <rktsg>348</rktsg>
+    <tib>ma mo srid pa zla gsang thig le'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>349</rktsg>
+    <tib>thugs kyi yang snying ma mo 'bum tig gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>350</rktsg>
+    <tib>ma mo byang chub kyi sems gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>351</rktsg>
+    <tib>rgyud lung byang skor rtsa rgyud</tib>
+  </item>
+  <item>
+    <rktsg>352</rktsg>
+    <tib>byang skor gyi rgyud phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>353</rktsg>
+    <tib>'phags pa rdo rje nag mo dbang phyug ma zhes bya ba'i sngags rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>354</rktsg>
+    <tib>rdo rje nag mo dbang phyig ma'i rgyud phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>355</rktsg>
+    <tib>'phags pa rdo rje nag mo dbang phyug ma'i sngags rgyud kyi phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>356</rktsg>
+    <tib>'phags pa lha mo nag mo'i sngags rgyud</tib>
+  </item>
+  <item>
+    <rktsg>357</rktsg>
+    <tib>'phags pa lha mo nag mo'i rgyud phyi ma las kyi rim par bya ba</tib>
+  </item>
+  <item>
+    <rktsg>358</rktsg>
+    <tib>dpal lha mo nag mo'i thugs kyi srog sgrub gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>359</rktsg>
+    <tib>snying thig bkol ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>360</rktsg>
+    <tib>srog tig dang snying tig gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>361</rktsg>
+    <tib>snying tig bkol ba'i rgyud 'ug pa'i gdong can</tib>
+  </item>
+  <item>
+    <rktsg>362</rktsg>
+    <tib>dbyings gsang ba'i 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>363</rktsg>
+    <tib>phra men spyang ki las kyi rgyal mo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>364</rktsg>
+    <tib>rgyud kyi rgyal po rdo rje mkha' 'gro'i rgyud las srid pa phra men rgya mtsho bsdus pa</tib>
+  </item>
+  <item>
+    <rktsg>366</rktsg>
+    <tib>drag sngags la 'dus pa rdo rje rtsa ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>367</rktsg>
+    <tib>dpal mgon po nag po gsang ba snying gi 'khor lo dngos grub chen po 'byung ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>368</rktsg>
+    <tib>dpal nag po chen po me lce phreng ba zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>369</rktsg>
+    <tib>dpal nag po chen po'i rgyud dur khrod nag po</tib>
+  </item>
+  <item>
+    <rktsg>370</rktsg>
+    <tib>man ngag brtsegs pa gri gug gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>371</rktsg>
+    <tib>dpal mgon po nag po chen po sku gsung thugs khros pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>372</rktsg>
+    <tib>dpal mgon po nag po dur khrod mngon par rol pa mtshon cha 'khor lo zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>373</rktsg>
+    <tib>dpal nag po chen po drag po'i brtag pa dur khrod chen po rgyud</tib>
+  </item>
+  <item>
+    <rktsg>374</rktsg>
+    <tib>nag po chen po gzugs can gcer bu'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>375</rktsg>
+    <tib>rnal 'byor dbang phyug chen mo ral gcig ma'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>376</rktsg>
+    <tib>srid pa'i bem</tib>
+  </item>
+  <item>
+    <rktsg>377</rktsg>
+    <tib>nag po chen po las mgon bya rog gdong gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>378</rktsg>
+    <tib>bdud bya rog mgo brtsegs gsang ba sgrol byed kyi rgyal po ki kang rog ti'i mdo snying gzer nag po'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>379</rktsg>
+    <tib>lha 'dre stong gi dra ba'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>380</rktsg>
+    <tib>'phags pa yangs pa'i grong khyer du 'dug pa'i mdo chen po</tib>
+  </item>
+  <item>
+    <rktsg>381</rktsg>
+    <tib>shis par brjod pa'i tshigs su bcad pa</tib>
+  </item>
+  <item>
+    <rktsg>382</rktsg>
+    <tib>de bzhin gshegs pa lnga'i bkra shis kyi tshigs su bcad pa</tib>
+  </item>
+  <item>
+    <rktsg>383</rktsg>
+    <tib>no title</tib>
+  </item>
+  <item>
+    <rktsg>384</rktsg>
+    <tib>rdzogs pa chen po rmad byung don gyi snying po/ /rang byung bde ba'i 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>385</rktsg>
+    <tib>rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa'i rgyud phyi ma'i phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>386</rktsg>
+    <tib>rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa'i rgyud phyi ma'i phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>387</rktsg>
+    <tib>rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa phyi ma gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>388</rktsg>
+    <tib>bstan pa thams cad kyi snying po sems can thams cad la sangs rgyas rang chas chen por bzhugs pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>389</rktsg>
+    <tib>rgyal ba rdo rje sems dpa'i dgongs pa bstan pa thams cad kyi bu gcig pa zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>390</rktsg>
+    <tib>sangs rgyas thams cad kyi bu gcig po'i rgyud/ gsang ba'i sgrib pa gcod par bstan pa'i sa bon gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>391</rktsg>
+    <tib>man ngag snying gi dgongs pa rgyal ba'i bka' zhes pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>392</rktsg>
+    <tib>thig le gsang ba'i brda' rgyud</tib>
+  </item>
+  <item>
+    <rktsg>393</rktsg>
+    <tib>sku gsum gyi snang ba gsal bar ngo sprod pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>394</rktsg>
+    <tib>sku gsung thugs rdo rje rtsa ba thams cad rdzogs pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>395</rktsg>
+    <tib>chos thams cad kyi don ston pa rdzogs chen thig le nyag gcig ye nas bya rtsol bral ba</tib>
+  </item>
+  <item>
+    <rktsg>396</rktsg>
+    <tib>rin po che gdams ngag sna tshogs 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>397</rktsg>
+    <tib>rdo rje sems dpa' nam mkha' che/ kun tu bzang po gsang ba'i snying po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>398</rktsg>
+    <tib>la zlo gsang ba'i 'khor lo zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>399</rktsg>
+    <tib>rje btsan dam pa</tib>
+  </item>
+  <item>
+    <rktsg>400</rktsg>
+    <tib>kun 'dus</tib>
+  </item>
+  <item>
+    <rktsg>401</rktsg>
+    <tib>khams gsum sgron ma</tib>
+  </item>
+  <item>
+    <rktsg>402</rktsg>
+    <tib>bde ba chen po byang chub kyi sems rmad du byung ba'i le'u</tib>
+  </item>
+  <item>
+    <rktsg>403</rktsg>
+    <tib>chos thams cad sems nyid ye shes rgyal po zhes dngos grub rang byung dbang bskur ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>404</rktsg>
+    <tib>rdzogs pa chen po chos nyid byang chub kyi sems/ thig le rgya mtsho gnas la 'jug pa zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>405</rktsg>
+    <tib>man ngag thams cad kyi sdom</tib>
+  </item>
+  <item>
+    <rktsg>406</rktsg>
+    <tib>rdo rje sems dpa' nam mkha' che rgyas pa zhes bya ba rnal 'byor pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>407</rktsg>
+    <tib>byang chub sems rma bya mjing bsnol gyi rgyud las/ mtha'i mun sel chen po</tib>
+  </item>
+  <item>
+    <rktsg>408</rktsg>
+    <tib>lta ba thams cad kyi rgyal po kun tu bzang po che ba la rang gnas pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>409</rktsg>
+    <tib>sku gdung 'bar ba tsha tsha dang mchod rten gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>410</rktsg>
+    <tib>kun tu bzang po stong gsal thig le snying po gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>411</rktsg>
+    <tib>kun tu bzang mo klong gsal 'bar ma nyi ma'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>412</rktsg>
+    <tib>rdzogs pa chen po'i chig chod kun grol chen po zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>413</rktsg>
+    <tib>byang chub kyi sems shes bya mtha' gcod kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>414</rktsg>
+    <tib>rje btsan dam pa</tib>
+  </item>
+  <item>
+    <rktsg>415</rktsg>
+    <tib>byang chub kyi sems mi 'gyur ba'i thig le tig</tib>
+  </item>
+  <item>
+    <rktsg>416</rktsg>
+    <tib>byang chub sems nam mkha'i rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>417</rktsg>
+    <tib>bde 'jam</tib>
+  </item>
+  <item>
+    <rktsg>418</rktsg>
+    <tib>byang chub kyi sems kun 'dus</tib>
+  </item>
+  <item>
+    <rktsg>419</rktsg>
+    <tib>gnam spar 'debs</tib>
+  </item>
+  <item>
+    <rktsg>420</rktsg>
+    <tib>rdzogs pa'i spyi gcod</tib>
+  </item>
+  <item>
+    <rktsg>421</rktsg>
+    <tib>byang chub kyi sems khams gsum sgron ma</tib>
+  </item>
+  <item>
+    <rktsg>422</rktsg>
+    <tib>byang chub sems sgom pa yi ge med pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>423</rktsg>
+    <tib>rdzogs pa chen po ye shes gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>424</rktsg>
+    <tib>byang chub kyi sems rdzogs pa chen po ye shes gsang ba bshad pa'i rgyud gsal ba mtha' dang mnyam pa</tib>
+  </item>
+  <item>
+    <rktsg>425</rktsg>
+    <tib>rdo rje sems dpa' nam mkha' che rtsa ba'i rgyud skye ba med pa</tib>
+  </item>
+  <item>
+    <rktsg>426</rktsg>
+    <tib>rdo rje sems dpa' nam mkha'i che rgyal po rgyas pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>427</rktsg>
+    <tib>rdo rje sems dpa' nam mkha' che'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>428</rktsg>
+    <tib>byang chub kyi sems rdzogs pa chen po mkha' mnyam klong gi rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>429</rktsg>
+    <tib>ye shes mdzod chen chos kyi dbyings</tib>
+  </item>
+  <item>
+    <rktsg>430</rktsg>
+    <tib>ye shes gsal ba chos kyi dbyings</tib>
+  </item>
+  <item>
+    <rktsg>431</rktsg>
+    <tib>ye shes 'bar ba chos kyi dbyings</tib>
+  </item>
+  <item>
+    <rktsg>432</rktsg>
+    <tib>ye shes sa gcig chos kyi dbyings</tib>
+  </item>
+  <item>
+    <rktsg>433</rktsg>
+    <tib>byang chub kyi sems kyi rgya mtsho klong dgu'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>434</rktsg>
+    <tib>byang chub kyi sems kun 'dus 'od kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>435</rktsg>
+    <tib>ye shes rin chen 'od kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>436</rktsg>
+    <tib>byang chub sems nya mo 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>437</rktsg>
+    <tib>yi ge 'bru bshad las kyi 'khor lo</tib>
+  </item>
+  <item>
+    <rktsg>438</rktsg>
+    <tib>byang chub kyi sems thig pa nya mo bag la nyal</tib>
+  </item>
+  <item>
+    <rktsg>439</rktsg>
+    <tib>rig pa nam mkha' ltar gsal ba zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>440</rktsg>
+    <tib>thams cad nam mkha'i ngo bo skye ba med pa'i byang chub kyi sems bsgom pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>441</rktsg>
+    <tib>byang chub kyi sems bsgom pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>442</rktsg>
+    <tib>de bzhin gshegs pa thams cad rang bzhin byang chub kyi sems bsgom pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>443</rktsg>
+    <tib>rang bzhin gyi rgyud rgyas pa yi ge med pa/ de bzhin gshegs pa thams cad kyi sku gsung thugs las byung ba mthong bar dka' ba'i don</tib>
+  </item>
+  <item>
+    <rktsg>444</rktsg>
+    <tib>byang chub sems bsgom pa</tib>
+  </item>
+  <item>
+    <rktsg>445</rktsg>
+    <tib>rdzogs pa chen po lta ba dmar 'byam lta ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>446</rktsg>
+    <tib>chos thams cad byang chub kyi sems rdzogs pa chen po 'khor ba rtsad nas gcod pa nam mkha' dang mnyam pa ye shes 'od kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>447</rktsg>
+    <tib>chos thams cad rdzogs pa chen po nam mkha'i mtha' dang mnyam pa'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>448</rktsg>
+    <tib>byang chub kyi sems nam mkha' rgya mtsho rdzogs pa chen po gsang ba rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>449</rktsg>
+    <tib>srog gi 'byung ba rgyud kyi rgyal po chen po</tib>
+  </item>
+  <item>
+    <rktsg>450</rktsg>
+    <tib>byang chub kyi sems rma bya mjing bsnol zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>451</rktsg>
+    <tib>dam tshig chen po'i rgyal po dam tshig bkod pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>452</rktsg>
+    <tib>rdzogs pa chen po bar do gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>453</rktsg>
+    <tib>bar do gsang ba phyi ma'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>454</rktsg>
+    <tib>rdzogs pa chen po byang chub kyi sems rin po che spungs pa gsang ba man ngag gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>455</rktsg>
+    <tib>rin po che snang byed kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>456</rktsg>
+    <tib>rin po che snang byed kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>457</rktsg>
+    <tib>byang chub sems kyi man ngag/ rin po che sgron ma 'bar ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>458</rktsg>
+    <tib>rin po che sgron ma zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>459</rktsg>
+    <tib>sems phyogs chen po'i mdzod</tib>
+  </item>
+  <item>
+    <rktsg>460</rktsg>
+    <tib>sangs rgyas thams cad kyi dgongs pa ma bcos ji bzhin ma'i don ye shes kyi mar me chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>461</rktsg>
+    <tib>rin po che nyi zla brtsegs pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>462</rktsg>
+    <tib>ye shes rin po che 'bar ba</tib>
+  </item>
+  <item>
+    <rktsg>463</rktsg>
+    <tib>rdzogs pa chen po sku gsum ye shes lnga'i don bshad pa nyi zla kha sbyor seng ge sgra yi dgongs pa bshad pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>464</rktsg>
+    <tib>byang chub kyi sems rin po che'i rgyud rgyas pa chen po'i mdo</tib>
+  </item>
+  <item>
+    <rktsg>465</rktsg>
+    <tib>byang chub kyi sems rin po che'i rgyud rgyas pa chen po'i mdo</tib>
+  </item>
+  <item>
+    <rktsg>466</rktsg>
+    <tib>byang chub sems yid skyob pa</tib>
+  </item>
+  <item>
+    <rktsg>467</rktsg>
+    <tib>thag ring du 'gro ba nam mkha'i mtha' dang mnyam pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>468</rktsg>
+    <tib>byang chub sems thig pa nyi shu rtsa gnyis pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>469</rktsg>
+    <tib>byang chub kyi sems man ngag khyung chen lding ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>470</rktsg>
+    <tib>byang chub sems kyi man ngag seng chen mchongs pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>471</rktsg>
+    <tib>byang chub sems ngang mo 'gros kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>472</rktsg>
+    <tib>byang chub kyi sems man ngag rig pa'i khu byug gsung gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>473</rktsg>
+    <tib>byang chub sems kyi spyi lung chen po rdzogs pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>474</rktsg>
+    <tib>man ngag rig pa klong rdzogs kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>475</rktsg>
+    <tib>rdzogs pa chen po rnal 'byor chos nyid kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>476</rktsg>
+    <tib>dpal ldan dgyes pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>477</rktsg>
+    <tib>mngon shes rig pa'i rgyal po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>478</rktsg>
+    <tib>bskal ba dum bu 'bar ba sgron ma snang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>479</rktsg>
+    <tib>rin po che sna tshogs ral gri'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>480</rktsg>
+    <tib>rin po che 'od 'bar ba</tib>
+  </item>
+  <item>
+    <rktsg>481</rktsg>
+    <tib>ye shes rab gnas</tib>
+  </item>
+  <item>
+    <rktsg>482</rktsg>
+    <tib>mya ngan las 'das pa'i sgron ma</tib>
+  </item>
+  <item>
+    <rktsg>483</rktsg>
+    <tib>byang chub sems klong yangs pa'i dkyil 'khor</tib>
+  </item>
+  <item>
+    <rktsg>484</rktsg>
+    <tib>a ra li rnyog pa med pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>485</rktsg>
+    <tib>chos thams cad kyi don bstan pa</tib>
+  </item>
+  <item>
+    <rktsg>486</rktsg>
+    <tib>sangs rgyas mya ngan las 'das pa'i mdo/ lung bam po gsum pa/ man ngag snying po byang chub mchog gi phyag rgya can</tib>
+  </item>
+  <item>
+    <rktsg>487</rktsg>
+    <tib>'phags pa gsang sngags chen po bsam gyis mi khyab pa'i mdo</tib>
+  </item>
+  <item>
+    <rktsg>488</rktsg>
+    <tib>sangs rgyas 'dus pa man ngag gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>489</rktsg>
+    <tib>'jam dpal 'dus pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>490</rktsg>
+    <tib>rin chen rdzogs pa ye shes rang 'bar ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>491</rktsg>
+    <tib>bde ba byang chub sems kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>492</rktsg>
+    <tib>ye shes snang ba'i mdangs rang 'bar ba</tib>
+  </item>
+  <item>
+    <rktsg>493</rktsg>
+    <tib>ye shes bkod pa rang 'bar ba</tib>
+  </item>
+  <item>
+    <rktsg>494</rktsg>
+    <tib>mdo lnga snying po zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>495</rktsg>
+    <tib>rdzogs pa chen po snying khrid man ngag gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>496</rktsg>
+    <tib>rin po che gser gyi rgya mdud</tib>
+  </item>
+  <item>
+    <rktsg>497</rktsg>
+    <tib>byang chub sems gsang ba'i thig pa</tib>
+  </item>
+  <item>
+    <rktsg>498</rktsg>
+    <tib>byang chub sems phyogs chen po nam mkha' mdzod kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>499</rktsg>
+    <tib>rdzogs pa chen po byang chub kyi sems mdzod kyi chos/ rtsa ba nam mkha' gnyis pa las/ ye shes nam mkha'</tib>
+  </item>
+  <item>
+    <rktsg>500</rktsg>
+    <tib>khregs gcod bdun pa</tib>
+  </item>
+  <item>
+    <rktsg>501</rktsg>
+    <tib>ye shes 'khor lo gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>502</rktsg>
+    <tib>ye shes 'khor lo gsang ba snying po don gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>503</rktsg>
+    <tib>sku gsum ye shes lnga ldan gyi rgyu 'jam dpal ye shes rgyan gyi dgongs pa</tib>
+  </item>
+  <item>
+    <rktsg>504</rktsg>
+    <tib>nor bu rin oo che'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>505</rktsg>
+    <tib>nor bu rin po che 'od 'bar ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>506</rktsg>
+    <tib>nor bu dri ma med pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>507</rktsg>
+    <tib>rdo rje rnal 'byor ma'i rgyud/ mkha' 'gro ma 'di skad</tib>
+  </item>
+  <item>
+    <rktsg>508</rktsg>
+    <tib>sku gsum ja log bskal pa 'od ldan gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>509</rktsg>
+    <tib>sku gsum ja log gi rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>510</rktsg>
+    <tib>ye shes 'khor lo gting rdzogs chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>511</rktsg>
+    <tib>thig le gsang ba yang gter gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>512</rktsg>
+    <tib>gsang ba yang gter gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>513</rktsg>
+    <tib>ye shes thig le zag thal gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>514</rktsg>
+    <tib>gsang ba yang gter sku gsum gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>515</rktsg>
+    <tib>thig le spros pa gcod pa'i rgyud/ gsang ba yang gter gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>516</rktsg>
+    <tib>thig le 'dus pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>517</rktsg>
+    <tib>thig le gsang ba yang gter zhes bya ba'i rgyud/ byang chub sems dpa' spyan gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>518</rktsg>
+    <tib>thig le nyag gcig gi rgyud/ gsang ba yang gter</tib>
+  </item>
+  <item>
+    <rktsg>519</rktsg>
+    <tib>thig le 'dus pa'i phyi ma'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>520</rktsg>
+    <tib>thig le 'dus pa'i rgyud phyi ma'i phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>521</rktsg>
+    <tib>thig le 'dus pa'i bu'i man ngag</tib>
+  </item>
+  <item>
+    <rktsg>522</rktsg>
+    <tib>thig le 'dus pa'i bu/ kun tu bzang pos sku gsum bsre ba'i man ngag</tib>
+  </item>
+  <item>
+    <rktsg>523</rktsg>
+    <tib>thig le 'dus pa'i man ngag/ 'chi ka ma las rin po che/ 'khor ba'i mtha' bcad pa/ skye ba'i sgo dgag pa mngal kha rgyas 'debs</tib>
+  </item>
+  <item>
+    <rktsg>524</rktsg>
+    <tib>rtsa rlung thig le gtan pa rtsa ling gi rtsa ba</tib>
+  </item>
+  <item>
+    <rktsg>525</rktsg>
+    <tib>rigs 'dzin gsum gyi byin rgyud</tib>
+  </item>
+  <item>
+    <rktsg>526</rktsg>
+    <tib>a ti rdzogs pa chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>527</rktsg>
+    <tib>a ti spyi gcod kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>528</rktsg>
+    <tib>rtsod pa'i 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>529</rktsg>
+    <tib>dbang bskur bla ma rin po che'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>530</rktsg>
+    <tib>lha mo 'od zer can gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>531</rktsg>
+    <tib>rdo rje mkha' 'gro ma'i 'dre rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>532</rktsg>
+    <tib>'phags pa 'jam dpal lta ba thod rgal chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>533</rktsg>
+    <tib>phyag na rdo rje drag po lta stangs ye shes thog 'bebs kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>534</rktsg>
+    <tib>'phags pa mi g.yo ba 'khor ba dang grol gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>535</rktsg>
+    <tib>'phags pa 'jam dpal gyi rgyud bzhi'i don gsal bar byed pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>536</rktsg>
+    <tib>nam mkha' nyi zla'i rgyal po mu med mtha' yas kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>537</rktsg>
+    <tib>rin po che bdud rtsi bcud thigs rigs drug g.yang sa gcod pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>538</rktsg>
+    <tib>rin po che gser gyi nyims ma rig gti mug ka dag ye nas sangs rgyas rgyud</tib>
+  </item>
+  <item>
+    <rktsg>539</rktsg>
+    <tib>rin po che bye ma rig gcod kyis klong sde'i spros pa gcod pa</tib>
+  </item>
+  <item>
+    <rktsg>540</rktsg>
+    <tib>rin chen spu gri 'bar ba sems sde spros pa gcod pa</tib>
+  </item>
+  <item>
+    <rktsg>541</rktsg>
+    <tib>chu gri 'bar bas dbang sde spros pa gcod pa</tib>
+  </item>
+  <item>
+    <rktsg>542</rktsg>
+    <tib>rin po che gzong chen 'bar bas chos sde'i spros pa gcod pa</tib>
+  </item>
+  <item>
+    <rktsg>543</rktsg>
+    <tib>rin po che ral gri 'bar bas rgyud sde spros pa gcod pa</tib>
+  </item>
+  <item>
+    <rktsg>544</rktsg>
+    <tib>rin po che mig sel zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>545</rktsg>
+    <tib>mchod 'os rang bzhin gyi tshig chen po</tib>
+  </item>
+  <item>
+    <rktsg>546</rktsg>
+    <tib>de bzhin gshegs pa thams cad sdus pa khu byug rtsa ba'i tan tra</tib>
+  </item>
+  <item>
+    <rktsg>547</rktsg>
+    <tib>gsang ba yang khol gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>548</rktsg>
+    <tib>gsang ba rgya mtsho'i rgyud dam pa'i dam pa/ rnal 'byor gyi rnal 'byor/ gsang ba thams cad kyi tig ka rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>549</rktsg>
+    <tib>nam mkha' rnam par dag pa thig le skur gsal gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>550</rktsg>
+    <tib>sangs rgyas thams cad kyi sku gsung thugs kyi snying po bstan pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>551</rktsg>
+    <tib>sangs rgyas ngo sprod pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>552</rktsg>
+    <tib>sangs rgyas thams cad kyi thugs gsang ba chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>553</rktsg>
+    <tib>bstan pa thams cad kyi snying po sems can thams cad la sangs rgyas rang chas chen por bzhugs pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>554</rktsg>
+    <tib>sangs rgyas thams cad kyi bu gcig po'i rgyud/ gsang ba'i sgrib pa gcod par bstan pa'i sa bon gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>555</rktsg>
+    <tib>sangs rgyas thams cad kyi bstan pa gzhi'i rgyud mchog rin chen spungs pa</tib>
+  </item>
+  <item>
+    <rktsg>556</rktsg>
+    <tib>theg pa chen po'i mngon par rtogs pa byang chub lam gyi rgyud chen nam mkha' dang mnyam pa</tib>
+  </item>
+  <item>
+    <rktsg>557</rktsg>
+    <tib>'bras bu gsang ba bla na med pa'i rgyud chen po dri ma med pa'i snying po</tib>
+  </item>
+  <item>
+    <rktsg>558</rktsg>
+    <tib>de bzhin gshegs pa thams cad kyi sku gsung thugs kyi snying po de kho na nyid nges pa ye shes mchog gi rgyud chen gsang ba yongs rdzogs</tib>
+  </item>
+  <item>
+    <rktsg>559</rktsg>
+    <tib>rang byung gis chos tshig thams cad drang shar ba'i glegs bam</tib>
+  </item>
+  <item>
+    <rktsg>560</rktsg>
+    <tib>sku lnga dbyer med rang shar gyi glegs bam</tib>
+  </item>
+  <item>
+    <rktsg>561</rktsg>
+    <tib>stong pa'i sgra</tib>
+  </item>
+  <item>
+    <rktsg>562</rktsg>
+    <tib>thams cad kyi gnad</tib>
+  </item>
+  <item>
+    <rktsg>563</rktsg>
+    <tib>yang ti srog gzer</tib>
+  </item>
+  <item>
+    <rktsg>564</rktsg>
+    <tib>gser gyi 'bru gcig pa</tib>
+  </item>
+  <item>
+    <rktsg>565</rktsg>
+    <tib>rigs drug rang grol</tib>
+  </item>
+  <item>
+    <rktsg>566</rktsg>
+    <tib>sangs rgyas kyi zhal chems dang po</tib>
+  </item>
+  <item>
+    <rktsg>567</rktsg>
+    <tib>sangs rgyas kyi 'das rjes gnyis pa</tib>
+  </item>
+  <item>
+    <rktsg>568</rktsg>
+    <tib>sangs rgyas kyi zhal chems pa gsum pa</tib>
+  </item>
+  <item>
+    <rktsg>569</rktsg>
+    <tib>sangs rgyas kyi zhal chems</tib>
+  </item>
+  <item>
+    <rktsg>570</rktsg>
+    <tib>sangs rgyas kyi chos tshig</tib>
+  </item>
+  <item>
+    <rktsg>571</rktsg>
+    <tib>de bzhin gshegs pa thams cad kyi dgongs pa'i bcud</tib>
+  </item>
+  <item>
+    <rktsg>572</rktsg>
+    <tib>thems</tib>
+  </item>
+  <item>
+    <rktsg>573</rktsg>
+    <tib>rin chen thig le</tib>
+  </item>
+  <item>
+    <rktsg>574</rktsg>
+    <tib>rigs 'dzin gyi 'das rjes</tib>
+  </item>
+  <item>
+    <rktsg>575</rktsg>
+    <tib>zhal chems dgongs nyams drug pa</tib>
+  </item>
+  <item>
+    <rktsg>576</rktsg>
+    <tib>gzhag thabs bzhi pa</tib>
+  </item>
+  <item>
+    <rktsg>577</rktsg>
+    <tib>gzer bu bdun gyis dgongs pa</tib>
+  </item>
+  <item>
+    <rktsg>578</rktsg>
+    <tib>u rgyan dgongs pa'i zhal chems</tib>
+  </item>
+  <item>
+    <rktsg>579</rktsg>
+    <tib>don gyi mchog klong chen srog thig bya ba</tib>
+  </item>
+  <item>
+    <rktsg>580</rktsg>
+    <tib>bla ma sku gsum bde ba chen po'i gsang rgyud</tib>
+  </item>
+  <item>
+    <rktsg>581</rktsg>
+    <tib>dgongs don 'gro ba kun grol gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>582</rktsg>
+    <tib>thig le yang zab 'bras bu ye grol chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>583</rktsg>
+    <tib>lung bstan rjes su gnang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>584</rktsg>
+    <tib>sangs rgyas rdo rje sems dpa'i dgongs pa tshig gsum pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>585</rktsg>
+    <tib>de bzhin gshegs pa thams cad 'khor lo nam mkha'i mdzod kyi rgyud/ 'jig rten 'das pa'i mdo</tib>
+  </item>
+  <item>
+    <rktsg>586</rktsg>
+    <tib>khro bo'i lha tshogs rnams la phyag 'thsal ba'i cho ga</tib>
+  </item>
+  <item>
+    <rktsg>587</rktsg>
+    <tib>de bzhin gshegs pa thams cad kyi dgongs pa 'dus pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>588</rktsg>
+    <tib>de bzhin gshegs pa thams cad kyi dgongs pa spyi dril gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>589</rktsg>
+    <tib>de bzhin gshegs pa thams cad 'dus pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>590</rktsg>
+    <tib>rnal 'byor nang ba'i tshogs rgyud</tib>
+  </item>
+  <item>
+    <rktsg>591</rktsg>
+    <tib>rnal 'byor gyi tshogs rgyud chen po'i rgyud phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>592</rktsg>
+    <tib>rnal 'byor gyi tshogs rgyud chen po'i rgyud phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>593</rktsg>
+    <tib>rdo rje bdud rtsi'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>594</rktsg>
+    <tib>gnas lung chen po bstan pa</tib>
+  </item>
+  <item>
+    <rktsg>595</rktsg>
+    <tib>khro bo hum mdzad chen po'i tan+t+ra</tib>
+  </item>
+  <item>
+    <rktsg>596</rktsg>
+    <tib>dam tshig rdzogs pa'i rim pa gsang ba zhes bya ba// theg pa chen po'i mdo</tib>
+  </item>
+  <item>
+    <rktsg>597</rktsg>
+    <tib>gtsug gtor dri ma med pa sku gzugs mngon par bstan pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>598</rktsg>
+    <tib>lha 'dre gnyis med kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>599</rktsg>
+    <tib>dpal gsang ba'i snying po'i phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>600</rktsg>
+    <tib>dpal sgyu 'phrul dra ba ye shes kyi snying po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>601</rktsg>
+    <tib>rgyud kyi rgyal po chen po sgyu 'phrul snying po bkod pa</tib>
+  </item>
+  <item>
+    <rktsg>602</rktsg>
+    <tib>rdo rje gsang ba'i snying po rtsa ba'i rgyud de kho na nyid nges pa</tib>
+  </item>
+  <item>
+    <rktsg>603</rktsg>
+    <tib>rgyud kyi rgyal po chen po sgyu 'phrul dra ba/ theg pa chen po'i yang chen po'i tshul zab mo gsang ba'i mchog</tib>
+  </item>
+  <item>
+    <rktsg>604</rktsg>
+    <tib>rdo rje phur pa bskal pa me ltar 'bar ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>605</rktsg>
+    <tib>mdo rgyud rtog pa bsuds pa'i sgron ma zhes bya ba/ thugs rje sbynag thag gi gnas/ mdzad pa lha'i cho 'phrul las mthar phyin pa'i sgrub pa/ gsang sngags nges par 'byed pa'i don gsal bar byed pa'i sgron ma/ lung thams cad kyi rgyal po chen po</tib>
+  </item>
+  <item>
+    <rktsg>606</rktsg>
+    <tib>dpal zla gsang nag po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>607</rktsg>
+    <tib>'phags pa 'jam dpal gshin rje gshed po'i gsang ba drug cu pa zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>608</rktsg>
+    <tib>'phags pa 'jam dpal gshin rje gshed man ngag gsang ba sum cu pa zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>609</rktsg>
+    <tib>seng ge 'o ma'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>610</rktsg>
+    <tib>seng ge 'o ma'i phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>611</rktsg>
+    <tib>'phags pa 'jam dpal gshin rje gshed zla gsang nag po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>612</rktsg>
+    <tib>'phags pa 'jam dpal rin po che gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>613</rktsg>
+    <tib>'phags pa 'jam dpal khro bo rin chen gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>614</rktsg>
+    <tib>gshin rje nag po'i sngags rgyud nag po</tib>
+  </item>
+  <item>
+    <rktsg>615</rktsg>
+    <tib>dpal gshin rje dmar nag 'bar ba'i rme rgyud</tib>
+  </item>
+  <item>
+    <rktsg>616</rktsg>
+    <tib>gshin rje'i rgyal po las sna tshogs pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>617</rktsg>
+    <tib>rdo rje 'khor lo drag po zhes bya ba/ rdo rje ur mo'i rtog pa</tib>
+  </item>
+  <item>
+    <rktsg>618</rktsg>
+    <tib>rdo rje nyi ma khrag 'thung gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>619</rktsg>
+    <tib>khro bo gshin rje'i rgyal po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>620</rktsg>
+    <tib>khro bo rnam par rgyal ba gshin rje gshed po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>621</rktsg>
+    <tib>gshin rje nag po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>622</rktsg>
+    <tib>thod pa brtag pa 'jigs byed chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>623</rktsg>
+    <tib>gshin rje zlog byed 'char ka nag po rtsa ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>624</rktsg>
+    <tib>srin po sgo brdungs kyi rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>625</rktsg>
+    <tib>dpal gshin rje gshed po ya ma rA dza sku khros pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>626</rktsg>
+    <tib>dpal gshin rje 'joms byed 'bar ba zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>627</rktsg>
+    <tib>mon pa nag po khros pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>628</rktsg>
+    <tib>de bzhin gshegs pa thams cad kyi sku gsung thugs gsang ba'i ye shes/ 'jam dpal gshin rje nag po gsang ba de kho na nyid kyi snying po 'khrul 'khor rin po che'i rgyal mtshan 'phrul gyi me long khri drug stong pa zhes bya ba rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>629</rktsg>
+    <tib>dpal gshin rje nag po 'khrul 'khor rgyal mtshan me long gi rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>630</rktsg>
+    <tib>'phags pa 'jam dpal khro bo gshin rje gshed rgyal po gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>631</rktsg>
+    <tib>'jam dpal gshin rje gshed gsang rgyud</tib>
+  </item>
+  <item>
+    <rktsg>632</rktsg>
+    <tib>gshin rje 'char ka nag po zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>633</rktsg>
+    <tib>gshin rje sngags bzlog gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>634</rktsg>
+    <tib>sha ba ru 'dzings kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>635</rktsg>
+    <tib>rgyud kyi rgyal po chen po thams cad 'joms byed 'bar ba</tib>
+  </item>
+  <item>
+    <rktsg>636</rktsg>
+    <tib>drag po sngags rgod de kho na nyid rgya sdebs rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>637</rktsg>
+    <tib>dpal gshin rje drag sngags 'khor lo gsang ba sdebs kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>638</rktsg>
+    <tib>drag po sngags rgod dmod pa drag sngags gsang ba mchog gi spyi rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>639</rktsg>
+    <tib>drag po sngags rgod de kho na nyid phyir bzlog pa'i sngags sdebs kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>640</rktsg>
+    <tib>gsang sngags sngags lnga thams cad 'khrul 'khor rgya sdebs pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>641</rktsg>
+    <tib>'phags pa 'jam dpal gyi las sna tshogs dngos grub rlung las byed 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>642</rktsg>
+    <tib>'byung ba rlung nag 'khrugs pa zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>643</rktsg>
+    <tib>rlung nag 'khrugs pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>644</rktsg>
+    <tib>drag sngags thams cad 'dus pa'i 'khor lo drag sngags gcod pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>645</rktsg>
+    <tib>rnam gsum drag po gshin rje drag sngags gcod pa'i rgyud/ rnam gsum rgyud kyi man ngag 'dus pa</tib>
+  </item>
+  <item>
+    <rktsg>646</rktsg>
+    <tib>'jam dpal gshin rje gshed po yid bzhin nor bu'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>647</rktsg>
+    <tib>'jam dpal gshin rje gshed po yid bzhin nor bu'i las sna tshogs bsgrub pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>648</rktsg>
+    <tib>'phags pa 'jam dpal gshin rje gshed kyi sngags rgyud 'khrul 'khor nag po zhes bya ba rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>649</rktsg>
+    <tib>dpal gnod sbyin zla gsang dmar po'i rgyud/ sgrol ging ma ru tse shan pa spu gri reg chod/ gnam lcags thog gi sta re/ bse mdung dmar po/ drag sngags dug mda' nag po/ rmod pa'i mtshon cha/ 'phrin las kyi mdo rgyud</tib>
+  </item>
+  <item>
+    <rktsg>650</rktsg>
+    <tib>dpal rdo rje gnod sbyin dmar po mar khrag skyug gi rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>651</rktsg>
+    <tib>gnod sbyin ging dmar po sgrol ba srin po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>652</rktsg>
+    <tib>rdo rje srin po bse yi skyes vu gnod sbyin dmar po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>653</rktsg>
+    <tib>'jam dpal gshin rje dmar po shan pa srog gi 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>654</rktsg>
+    <tib>dpal gshin rje dmar po ma ra ya khrag skyug gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>655</rktsg>
+    <tib>'jam dpal dmar po'i sngags rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>656</rktsg>
+    <tib>gshin rje dmar po shan pa las kyi rgyud ces bya ba/ spu gri reg chod ru mtshon dmar po'i drag sngags</tib>
+  </item>
+  <item>
+    <rktsg>657</rktsg>
+    <tib>gnod sbyin gar mkhan mchog gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>658</rktsg>
+    <tib>'jam dpal dmar po zor ba dmar nag gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>659</rktsg>
+    <tib>'phags pa 'jam dpal gshin rje'i rgyal po me ru tse thugs kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>660</rktsg>
+    <tib>pad+ma dbang chen dregs pa gsang byed kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>661</rktsg>
+    <tib>dpal pad+ma dbang chen dregs pa zil gnon gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>662</rktsg>
+    <tib>dpal rdo rje khro bo chen po rta mgrin zhes bya ba'i rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>663</rktsg>
+    <tib>dpal rta mgrin gyi rgyud phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>664</rktsg>
+    <tib>rta mgrin gsang rgyud</tib>
+  </item>
+  <item>
+    <rktsg>665</rktsg>
+    <tib>dpal pad+ma gar gyi dbang phyug ma'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>666</rktsg>
+    <tib>pad+ma'i lta thams cad 'dus pa dpal rta mgrin gyi rgyud ngo mtshar rmad du byung ba</tib>
+  </item>
+  <item>
+    <rktsg>667</rktsg>
+    <tib>krod+ha khrag 'thung rol pa'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>668</rktsg>
+    <tib>khrag 'thung rol ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>669</rktsg>
+    <tib>khro bo dmar ser gsang ba'i rgyud lo'i nad ser ba bsrung ba</tib>
+  </item>
+  <item>
+    <rktsg>670</rktsg>
+    <tib>dpal che ba'i che mchog rta mgrin gsang ba 'dus pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>671</rktsg>
+    <tib>rdo rje rtse mo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>672</rktsg>
+    <tib>thugs rje chen po lta ba yang rtse'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>673</rktsg>
+    <tib>thugs rje chen po lta ba yang thog gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>674</rktsg>
+    <tib>'phags pa spyan ras gzigs dbang phyug byang chub sems dpa' thugs rje chen po rang byung ye shes kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>675</rktsg>
+    <tib>'phags pa spyan ras gzigs dbang phyug thugs rje chen po bsgrub thabs nges par ston pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>676</rktsg>
+    <tib>'phags pa thugs rje chen po mgon po 'khor ba dong sprug gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>677</rktsg>
+    <tib>thugs rje chen po pad+ma rgyas pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>678</rktsg>
+    <tib>thugs rje chen po thams cad kyi yang snying 'dus pa ye shes rig pa mchog gi gsang rgyud</tib>
+  </item>
+  <item>
+    <rktsg>679</rktsg>
+    <tib>de kho na nyid gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>680</rktsg>
+    <tib>dpal thugs rje chen po gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>681</rktsg>
+    <tib>btags pas grol ba'i man ngag</tib>
+  </item>
+  <item>
+    <rktsg>682</rktsg>
+    <tib>rig pa gcer bur ston pas rgyud mchog</tib>
+  </item>
+  <item>
+    <rktsg>683</rktsg>
+    <tib>rgyud kyi rgyal po khro bo rta mchog rol pa</tib>
+  </item>
+  <item>
+    <rktsg>684</rktsg>
+    <tib>rta mchog rol pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>685</rktsg>
+    <tib>dpal he ru ka'i gal po dur khrod mngon par 'byung ba zhes bya ba'i rgyud phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>686</rktsg>
+    <tib>'jig rten las 'das pa'i mdo zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>687</rktsg>
+    <tib>yang dag pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>688</rktsg>
+    <tib>rdo rje gsang ba chen po las kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>689</rktsg>
+    <tib>rdo rje gsang ba las kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>690</rktsg>
+    <tib>lha mo gnas mkhar gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>691</rktsg>
+    <tib>lha mo gnas mkhar</tib>
+  </item>
+  <item>
+    <rktsg>692</rktsg>
+    <tib>rdo rje phag mo bram ze lcam dral gsang ba rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>693</rktsg>
+    <tib>mkha' 'gro ma nor bu 'phreng ba phyi ma bshad pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>694</rktsg>
+    <tib>mkha' 'gro ma rin po che 'phreng ba zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>695</rktsg>
+    <tib>mkha' 'gro dpa' bo dpa' mo pho thems mo thems kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>696</rktsg>
+    <tib>mkha' 'gro sde lnga las rgya mtsho'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>697</rktsg>
+    <tib>mkha' 'gro ma las rgya mtsho phyi ma'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>698</rktsg>
+    <tib>mkha' 'gro ma las sna tshogs kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>699</rktsg>
+    <tib>rdo rje stong gsal snying po gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>700</rktsg>
+    <tib>ye shes kyi mkha' 'gro ma rnams kyi thugs gsang ba'i thigs pa</tib>
+  </item>
+  <item>
+    <rktsg>701</rktsg>
+    <tib>byang chub kyi sems rdo rje lta bu'i bsam gtan</tib>
+  </item>
+  <item>
+    <rktsg>702</rktsg>
+    <tib>thams cad bdud rtsi lnga'i rang bzhin</tib>
+  </item>
+  <item>
+    <rktsg>703</rktsg>
+    <tib>rdo rje gsang ba las kyi rgyud ces bya ba bdud rtsi sman sgrub</tib>
+  </item>
+  <item>
+    <rktsg>704</rktsg>
+    <tib>bdud rtsi 'khyil ba las kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>705</rktsg>
+    <tib>gsang ba'i bdag po lag na rdo rje gos sngon po can gyi rgyud las le'u legs par byung ba'i gsang ba'i yang snying shin tu gsang ba rtogs pa chen po'i rgyal po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>706</rktsg>
+    <tib>de bzhin gshegs pa thams cad kyi sku gsung thugs gsang ba'i ye shes kyi snying po dpal bdud rtsi bde ba chen po zhes bya ba rgyud kyi rgyal po chen po</tib>
+  </item>
+  <item>
+    <rktsg>707</rktsg>
+    <tib>dpal bde ba chen po de bzhin gshegs pa thams cad kyi sku dang/ gsung dang/ thugs kyi gsang ba'i yang gsang ba/ rdo rje'i yang rdo rje bdud rtsi'i rgyal po chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>708</rktsg>
+    <tib>rdo rje phur pa'i rtsa ba</tib>
+  </item>
+  <item>
+    <rktsg>709</rktsg>
+    <tib>rdo rje phur pa rtsa ba'i rgyud kyi dum bu</tib>
+  </item>
+  <item>
+    <rktsg>710</rktsg>
+    <tib>rdo rje phur pa rtsa ba thugs kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>711</rktsg>
+    <tib>rdo rje phur pa bdud rtsi thal sbyor gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>712</rktsg>
+    <tib>rdo rje 'bar ba'i rgyud phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>713</rktsg>
+    <tib>rdo rje phur pa chen po ma mo mngon du bkol ba</tib>
+  </item>
+  <item>
+    <rktsg>714</rktsg>
+    <tib>phur pa gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>715</rktsg>
+    <tib>phur pa nag po mdung rtse gsum pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>716</rktsg>
+    <tib>rdo rje phur pa shan pa spu gri'i rgyud kyi rgyal po chen po</tib>
+  </item>
+  <item>
+    <rktsg>717</rktsg>
+    <tib>byang chub sems kyi phur pa rdzogs pa chen po theg pa'i yang zhun rgyud kyi rgyal po chen po</tib>
+  </item>
+  <item>
+    <rktsg>718</rktsg>
+    <tib>rdo rje phur pa chu 'khyags dbab pa'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>719</rktsg>
+    <tib>rdo rje phur pa zhes bya ba'i rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>720</rktsg>
+    <tib>rdo rje gsang ba chen po gter gyi snying po'i rgyud ces bya ba'i mdo</tib>
+  </item>
+  <item>
+    <rktsg>721</rktsg>
+    <tib>rdo rje phur pa me lce 'phreng ba'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>722</rktsg>
+    <tib>rdo rje phur pa lung gi kha byang byang chub sems kyi mdo</tib>
+  </item>
+  <item>
+    <rktsg>723</rktsg>
+    <tib>rdo rje 'jigs byed chen po'i rgyud kyi rgyal po gsang ba chen po</tib>
+  </item>
+  <item>
+    <rktsg>725</rktsg>
+    <tib>phur pa nag po mdung rtse gsum pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>726</rktsg>
+    <tib>rdo rje phur pa shan pa spu gri'i rgyud kyi rgyal po chen po</tib>
+  </item>
+  <item>
+    <rktsg>727</rktsg>
+    <tib>byang chub sems kyi phur pa rdzogs pa chen po theg pa'i yang zhun rgyud kyi rgyal po chen po</tib>
+  </item>
+  <item>
+    <rktsg>728</rktsg>
+    <tib>rdo rje phur pa chu 'khyags dbab pa'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>729</rktsg>
+    <tib>'khor lo nag po</tib>
+  </item>
+  <item>
+    <rktsg>730</rktsg>
+    <tib>rdo rje phur pa phur gcig ma don gsang ba zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>731</rktsg>
+    <tib>ma mo las thams cad srid pa'i rgyud lung</tib>
+  </item>
+  <item>
+    <rktsg>732</rktsg>
+    <tib>bkol byang nam mkha'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>733</rktsg>
+    <tib>ma mo las thams cad kyi las rgyud lung</tib>
+  </item>
+  <item>
+    <rktsg>734</rktsg>
+    <tib>ma mo thugs gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>735</rktsg>
+    <tib>dpal lha mo nag mo'i thugs kyi srog bsgrub gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>736</rktsg>
+    <tib>ma mo e ka dza Ti spyang rgyal nag mo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>737</rktsg>
+    <tib>dpal rdo rje nag mo ral pa spyi bcings gsang ba 'phrin las kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>738</rktsg>
+    <tib>e ka tsa ti'i sngags rgyud nag mo</tib>
+  </item>
+  <item>
+    <rktsg>739</rktsg>
+    <tib>ma mo srog las kyi rgyal bu zhes bya ba'i rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>740</rktsg>
+    <tib>rdo rje ka pA la b+han d+ha gsang ba 'bar ba'i gzhal yas khang/ gnam zhal 'dzin pa'i yon tan dngos grub ste bar mdzad pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>741</rktsg>
+    <tib>gnod sbyin nag mo re ma ti gcer bu bong zhon ma rtsa ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>742</rktsg>
+    <tib>ma mo 'bum gyi mnga' bdag dpal lha mo nag mo re ma ti/ dbang mo mched bzhi'i srog rtsa mngon du dbyung ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>743</rktsg>
+    <tib>'phags pa lha mo nag mo'i rgyud kyi rgyal po gsang ba</tib>
+  </item>
+  <item>
+    <rktsg>744</rktsg>
+    <tib>gsang ba'i gter gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>745</rktsg>
+    <tib>ma mo'i zla gsang</tib>
+  </item>
+  <item>
+    <rktsg>746</rktsg>
+    <tib>ral gcig ma 'dus pa nag po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>747</rktsg>
+    <tib>e ka dza Ti snying thun gsang ba spu gri'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>748</rktsg>
+    <tib>e ka dza Ti gsang ba spu gri'i man sngag tu bstan pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>749</rktsg>
+    <tib>e ka dza ti srid pa'i 'khor lo man ngag gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>750</rktsg>
+    <tib>e ka dza ti yang snying 'dus pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>751</rktsg>
+    <tib>e ka dza ti gsang ba yang snying 'dus pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>752</rktsg>
+    <tib>ral gcig ma'i drag sngags 'dus pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>753</rktsg>
+    <tib>srog thig nag po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>754</rktsg>
+    <tib>tsha ba yang gter gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>755</rktsg>
+    <tib>dpal tshogs thams cad kyi rje mo yongs su rol ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>756</rktsg>
+    <tib>nam mkha' pra khrid kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>757</rktsg>
+    <tib>dpal dngos grub thams cad kyis brtan par gzigs pa'i rgyud kyi rgyal po chen po</tib>
+  </item>
+  <item>
+    <rktsg>758</rktsg>
+    <tib>ma mo srid pa'i nam mkha' rin po che sngo dmar lnga'i tshon/ mkha' 'gro bkrag gsal 'bar ma'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>759</rktsg>
+    <tib>dpal lha mo shan pa nag mo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>760</rktsg>
+    <tib>dpal e ka dza ti khrag gi rba klong gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>761</rktsg>
+    <tib>ral gcig ma 'dus pa nag mo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>762</rktsg>
+    <tib>ral gcig nag mo'i sku gsung thugs yon tan 'phrin las lnga'i snying thun rgyud</tib>
+  </item>
+  <item>
+    <rktsg>763</rktsg>
+    <tib>e ka dza Ti thugs kyi gsang ba sa ti nag po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>764</rktsg>
+    <tib>e ka dza Ti sgrol byed nag mo spu gri'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>765</rktsg>
+    <tib>gsang ba sgrol byed nag mo spu gri'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>766</rktsg>
+    <tib>gsang sngags kyi tshi thims yig</tib>
+  </item>
+  <item>
+    <rktsg>767</rktsg>
+    <tib>dur khrod lha mo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>768</rktsg>
+    <tib>phung byed chen mo bzhi'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>769</rktsg>
+    <tib>dpal lha mo spu gri so rgal gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>770</rktsg>
+    <tib>'phags pa lha mo ling tog sgong nga zhes bya ba'i rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>771</rktsg>
+    <tib>dpal lha mo nag mo gser gyi sbras bu zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>772</rktsg>
+    <tib>'phags pa lha mo nag mo'i srog gi 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>773</rktsg>
+    <tib>snying zor nag mo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>774</rktsg>
+    <tib>'phags ma lha mo nag mo'i ro ga nag mo'i gsang sngags kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>775</rktsg>
+    <tib>nag mo re ma ti'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>776</rktsg>
+    <tib>ma mo gnam lcags thog gi bu yug ma 'jig rten ganm lcags thog gi 'khor lo bskor te/ dgra bsad pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>777</rktsg>
+    <tib>'phags pa mche ba 'khor lo zhes bya ba/ lha mo nag mo chen mo'i rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>778</rktsg>
+    <tib>ral nag mtshon 'khrugs kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>779</rktsg>
+    <tib>'dod pa khams kyi dbang phyug ma'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>780</rktsg>
+    <tib>dpal lha mo nag mo'i bstod pa'i rgyal po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>781</rktsg>
+    <tib>dur khrod lha mo rang rgyud</tib>
+  </item>
+  <item>
+    <rktsg>782</rktsg>
+    <tib>khro bo'i rgyal po phyag na rdo rje gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>783</rktsg>
+    <tib>khro bo'i rgyal po phyag na rdo rje gtum po 'jigs su rung ba'i dbang bskur ba man ngag gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>784</rktsg>
+    <tib>rdo rje khyung gi snying po srog gi rtsa ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>785</rktsg>
+    <tib>rdo rje gtum po sku gsung thugs kyi rgyud me 'od 'bar ba'i mdo</tib>
+  </item>
+  <item>
+    <rktsg>786</rktsg>
+    <tib>'byung po 'dul byed ces bya ba rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>787</rktsg>
+    <tib>phyag na rdo rje las rgya mtsho'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>788</rktsg>
+    <tib>phyag na rdo rje gtum po khros pa rtsa ba'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>789</rktsg>
+    <tib>gnod sbyin gyi sde dpon chen po 'phags pa lag na rdo rje gos sngon po can rdo rje rtse mo zhes bya ba'i rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>790</rktsg>
+    <tib>lag na rdo rje gso sngon po can gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>791</rktsg>
+    <tib>srid pa'i klu mo dbang byed ma'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>792</rktsg>
+    <tib>rdo rje khyung nag gsang ba rin po che'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>793</rktsg>
+    <tib>rdo rje gtum po gsang ba rin po che khyung nag tu sprul pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>794</rktsg>
+    <tib>rdo rje khyung nag gi rgyud yang snying rtsa ba'i man ngag</tib>
+  </item>
+  <item>
+    <rktsg>795</rktsg>
+    <tib>gsang ba don 'dus phyag na rdo rje khyung dang bcas pa'i rgyud/ srog tshig gsang ba</tib>
+  </item>
+  <item>
+    <rktsg>796</rktsg>
+    <tib>rdo rje khyung nag gi rgyud rin po che'i sprul pa</tib>
+  </item>
+  <item>
+    <rktsg>797</rktsg>
+    <tib>rdo rje bya khyung gsang ba rin po che 'khros pa sprul pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>798</rktsg>
+    <tib>gtum po chen po ma rungs pa rdo rje khyung dang bcas pa don 'dus pa gsang ba'i rgyud chen po'i don btus pa</tib>
+  </item>
+  <item>
+    <rktsg>799</rktsg>
+    <tib>dpal gnod gnas thugs rje 'byung ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>800</rktsg>
+    <tib>dpal gnod sbyin gnas kyi bsgrub thabs thugs rje 'byung ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>801</rktsg>
+    <tib>gnod sbyin nor bdag gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>802</rktsg>
+    <tib>gnod sbyin a pa ra tsit+ta yon tan bkod pa'i rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>803</rktsg>
+    <tib>a pa ra tsit+ta'i gsang ba phyi ma'i rgyud rin po che dngos grub</tib>
+  </item>
+  <item>
+    <rktsg>804</rktsg>
+    <tib>gnod sbyin a pa ra tsit+ta gsang ba phyi ma'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>805</rktsg>
+    <tib>a pa ra tsit+ta'i rgyud gsang ba pyhi ma rin po che</tib>
+  </item>
+  <item>
+    <rktsg>806</rktsg>
+    <tib>gnod sbyin rin po che bzang po'i dngos grub nyi zla gsang ba'i snying po rgyud kyi rgyal po chen po</tib>
+  </item>
+  <item>
+    <rktsg>807</rktsg>
+    <tib>gnod sbyin gzhan gyis mu thub pa srog rtsa mngon du phyung ba zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>808</rktsg>
+    <tib>gnod sbyin 'dod pa'i rgyal po khros pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>809</rktsg>
+    <tib>gnod sbyin chen po dngos grub bzang po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>810</rktsg>
+    <tib>gnod sbyin gsang ba rin chen thugs kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>811</rktsg>
+    <tib>rin po che nor gyi dngos grub chen po khol du phyung ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>812</rktsg>
+    <tib>gnod sbyin chen po yid bzhin gter gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>813</rktsg>
+    <tib>gnod sbyin gyi rgyal po rin chen sbyin rdo rje bdud 'dul gyi gsang ba'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>814</rktsg>
+    <tib>gnod sbyin zha 'on bdud 'dul gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>815</rktsg>
+    <tib>mgon po rdo rje bdud 'dul gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>816</rktsg>
+    <tib>gnod sbyin gyis 'jig rten thams cad dbang du sdud pa rin po che dngos grub kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>817</rktsg>
+    <tib>gnod sbyin zha 'on rdo rje bdud 'dul gyi gsang ba rin po che'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>818</rktsg>
+    <tib>mgon po nag po dug gi spu gri rtsa ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>819</rktsg>
+    <tib>dpal mgon po nag po dug gi spu gri gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>820</rktsg>
+    <tib>dpal nag po chen po drag sngags nag po'i gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>821</rktsg>
+    <tib>mun pa nag po zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>822</rktsg>
+    <tib>dpal mgon po gsang ba spu gri phyi ma'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>823</rktsg>
+    <tib>dpal mgon po nag po dngos grub bstan par gzigs pa man ngag gi rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>824</rktsg>
+    <tib>dpal mgon po nag po snying gi dngos grub bstan par gzigs pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>825</rktsg>
+    <tib>dpal mgon po nag po chen po spu gri snying gi 'khor lo gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>826</rktsg>
+    <tib>dpal mgon po nag po gsang ba thugs kyi spu gri'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>827</rktsg>
+    <tib>dpal nag po chen po khams gsum 'jigs byed kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>828</rktsg>
+    <tib>dpal nag po chen po mi'i thod pa zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>829</rktsg>
+    <tib>'phags pa spu gri klad gzer nag po dngos grub 'byung ba bka' rgyud</tib>
+  </item>
+  <item>
+    <rktsg>830</rktsg>
+    <tib>nag po chen po sa g.yo ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>831</rktsg>
+    <tib>'phags pa rin po che dpung rgyan gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>832</rktsg>
+    <tib>dpal nag po thod pa chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>833</rktsg>
+    <tib>don yod pa dngos grub brtan par gzigs pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>834</rktsg>
+    <tib>bcom ldan 'das gsang ba ye shes kyi khri bo dpal che mchog he ru ka'i sku gsung thugs kyi sprul pa/ dpal ma ning nag po'i las rgyud</tib>
+  </item>
+  <item>
+    <rktsg>835</rktsg>
+    <tib>nag po chen po skyes pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>836</rktsg>
+    <tib>dpal lha mo nag mo srog rtsa dmar po gzer ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>837</rktsg>
+    <tib>srog tig nag mo srin mo khros pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>838</rktsg>
+    <tib>shis bstan pa dpal srog gi 'khor lo'i sdom pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>839</rktsg>
+    <tib>ku ma ra dza sku mngon du dbyung ga che mchog 'jigs byed ngan sngags kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>840</rktsg>
+    <tib>bzang mo stobs kyi srog gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>841</rktsg>
+    <tib>snying lung chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>842</rktsg>
+    <tib>ye nyid phyi mo mthar thug gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>843</rktsg>
+    <tib>rdo rje gtsug lag 'khor lo gsum pa'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>844</rktsg>
+    <tib>'phags pa rdo rje gtsug lag gi 'khor lo'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>845</rktsg>
+    <tib>khro bo gtsug lag 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>846</rktsg>
+    <tib>pad+ma gtsug lag 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>847</rktsg>
+    <tib>rdo rje phur pa gtsug lag 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>848</rktsg>
+    <tib>gshin rje gtsug lag gi 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>849</rktsg>
+    <tib>phyag na rdo rje gtsug lag 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>850</rktsg>
+    <tib>rdo rje khyung gtsug lag 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>851</rktsg>
+    <tib>rdo rje gtsug lag 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>852</rktsg>
+    <tib>rdo rje gtsug lag drag po ngan sngags spu gri 'phreng ba'i 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>853</rktsg>
+    <tib>rdo rje gtsug lag drag po ngan sngags sdig pa phung byed 'khor lo gsal ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>854</rktsg>
+    <tib>rdo rje gtdug lag drag po ngan sngags dug chu nag po 'khor lo 'dzin pa gzer gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>855</rktsg>
+    <tib>rdo rje gtsug lag drag po ngan sngags me long rnam par bkod pa 'khor lo gzer gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>856</rktsg>
+    <tib>rdo rje gtsug lag drag po ngan sngags rin po che brtsegs pa 'khor lo gzer gyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>857</rktsg>
+    <tib>rdo rje gtsug lag drag po ngan sngags me lce 'phreng ba'i 'khor lo zhes bya ba'i rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>858</rktsg>
+    <tib>rdo rje gtsug lag drag po ngan sngags gal mdo 'phreng ba 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>859</rktsg>
+    <tib>rdo rje gtsug lag drag po ngan sngags gshed chen las rgyal 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>860</rktsg>
+    <tib>rdo rje gtsug lag drag po ngan sngags zhi bar byed pa bdud rtsi 'byung ba 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>861</rktsg>
+    <tib>drag po brtsegs pa lung bstan pa'i 'byung po gdug pa'i bshad rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>862</rktsg>
+    <tib>drag po ngan sngags kyi rtsa ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>863</rktsg>
+    <tib>drag po ngan sngags kyi bshad rgyud</tib>
+  </item>
+  <item>
+    <rktsg>865</rktsg>
+    <tib>drag sngags mtshon cha nag po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>866</rktsg>
+    <tib>ngan sngags gtsug lag gi rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>867</rktsg>
+    <tib>drag po ngan sngags bskal pa'i dum bu'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>868</rktsg>
+    <tib>srog las kyi rgyal bu srog bdag gser gyi ga pur</tib>
+  </item>
+  <item>
+    <rktsg>869</rktsg>
+    <tib>gnod sbyin thams cad kyi rgyal po ha la 'bar ba'i snying gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>870</rktsg>
+    <tib>gnod sbyin rdo rje stag mda'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>871</rktsg>
+    <tib>bde bsnyen dgra gsang nag po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>872</rktsg>
+    <tib>mon pa phung byed nor srungs kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>873</rktsg>
+    <tib>then sbyor bdun pa gsang ba gang gi yang snying</tib>
+  </item>
+  <item>
+    <rktsg>874</rktsg>
+    <tib>ging spu gri nag po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>875</rktsg>
+    <tib>bdud khros pa thod pa'i 'phreng ba can gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>876</rktsg>
+    <tib>snying zor nag po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>877</rktsg>
+    <tib>srog gzer nag po ging gi spu gri 'khrul 'khor nag po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>878</rktsg>
+    <tib>spu gri nag po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>879</rktsg>
+    <tib>drag po'i sngags rgod chen po zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>880</rktsg>
+    <tib>mu stegs drag sngags nag po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>881</rktsg>
+    <tib>mu stegs kyi bsad khram chen po zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>882</rktsg>
+    <tib>bram ze gsang ba'i rgyud kyi rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>883</rktsg>
+    <tib>sangs rgyas bstan pa'i dgra la gnam lcags drag po'i thog dbab pa lha min mtshon cha ka ma la'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>884</rktsg>
+    <tib>nag po gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>885</rktsg>
+    <tib>srog bdag gser gyi rta pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>886</rktsg>
+    <tib>btsan gyi rgyal po srog zan dmar po ri dmar 'joms pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>887</rktsg>
+    <tib>dmod pa drag sngags kyi spyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>888</rktsg>
+    <tib>bal pa tra gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>889</rktsg>
+    <tib>gnod sbyin thams cad kyi srog tig/ pa la pa tra mchod rten nag po'i rgyud kyi yang snying</tib>
+  </item>
+  <item>
+    <rktsg>890</rktsg>
+    <tib>mchod rten nag po'i rgyud las/ pra khrid rnam pa gsum bstan pa</tib>
+  </item>
+  <item>
+    <rktsg>891</rktsg>
+    <tib>dpal zla gsang bag po rgya mtsho dug ri kha yak+Sha 'khor lo nag po gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>892</rktsg>
+    <tib>dpal yak+Sha nag po gsang ba'i dug/ rgya mtsho dug ri nag po</tib>
+  </item>
+  <item>
+    <rktsg>893</rktsg>
+    <tib>bya khyung glog 'gyu'i las kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>894</rktsg>
+    <tib>las rab tu 'byed pa klu'i rgyal po rtog pa'i rgyal po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>895</rktsg>
+    <tib>klu'i dam tshig gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>896</rktsg>
+    <tib>klu dam tshig gi rgyud phyi ma''i las su phyung ba'i ti ka</tib>
+  </item>
+  <item>
+    <rktsg>897</rktsg>
+    <tib>klu nag po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>898</rktsg>
+    <tib>dam tshig las kyi rgyal po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>899</rktsg>
+    <tib>klu'i rgyal po mchod rten gyi rgyud thugs yang dag pa</tib>
+  </item>
+  <item>
+    <rktsg>900</rktsg>
+    <tib>klu'i 'khor lo nag po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>901</rktsg>
+    <tib>klu'i 'khor lo nag po 'phrin las thams cad rdzogs pa zhes bya ba rgyud kyi rgyal po chen po</tib>
+  </item>
+  <item>
+    <rktsg>902</rktsg>
+    <tib>klu dang sa bdag thams cad kyi gnyen po</tib>
+  </item>
+  <item>
+    <rktsg>903</rktsg>
+    <tib>klu bdud a par sha'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>904</rktsg>
+    <tib>klu nag po bsad pa'i man ngag</tib>
+  </item>
+  <item>
+    <rktsg>905</rktsg>
+    <tib>klu'i 'khor lo nag po/ byol song ha la nag po</tib>
+  </item>
+  <item>
+    <rktsg>906</rktsg>
+    <tib>sa bdag srog gi 'khor lo zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>907</rktsg>
+    <tib>klu nag po'i rgyud sdig pa phung shig</tib>
+  </item>
+  <item>
+    <rktsg>908</rktsg>
+    <tib>klu'i 'khor lo nag po</tib>
+  </item>
+  <item>
+    <rktsg>909</rktsg>
+    <tib>lha 'dre stong gi dra ba'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>910</rktsg>
+    <tib>dpal rdo rje sems düa'i gsungs pa</tib>
+  </item>
+  <item>
+    <rktsg>913</rktsg>
+    <tib>byang chub sems dpa' 'khor lo rdo rje zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>914</rktsg>
+    <tib>man ngag lung gi rtsa ba lnga rdo rje sems pas gsungs pa</tib>
+  </item>
+  <item>
+    <rktsg>915</rktsg>
+    <tib>lcags 'brel</tib>
+  </item>
+  <item>
+    <rktsg>916</rktsg>
+    <tib>rnal 'byor gyi rim pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>917</rktsg>
+    <tib>dam tshig bkod pas gzhi'i rgyud rin po che'i rgyan</tib>
+  </item>
+  <item>
+    <rktsg>918</rktsg>
+    <tib>rtsa rlung rgyud 'jam dpal 'dus pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>919</rktsg>
+    <tib>thig le mthong brtol gyi rgyud/ rig pa bcur 'byung gi brda'/ srog gi chan pa/ yang ti nag po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>920</rktsg>
+    <tib>phyi nang gsang ba gsum gyi yang zhun thig le 'dus pa</tib>
+  </item>
+  <item>
+    <rktsg>923</rktsg>
+    <tib>rtsod pa'i 'khor lo'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>924</rktsg>
+    <tib>byang chub sems skyob pa</tib>
+  </item>
+  <item>
+    <rktsg>925</rktsg>
+    <tib>khregs gcod bsdus pa</tib>
+  </item>
+  <item>
+    <rktsg>928</rktsg>
+    <tib>byang chub sems dpa' gsang ba'i theg pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>930</rktsg>
+    <tib>rdzogs pa chen po sa gcig pa</tib>
+  </item>
+  <item>
+    <rktsg>931</rktsg>
+    <tib>rdo rje sems dpa'i lta ba</tib>
+  </item>
+  <item>
+    <rktsg>932</rktsg>
+    <tib>snang srid kha sbyor bdud rtsi bcud thigs 'khor ba thog mtha' gcod pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>933</rktsg>
+    <tib>rnal 'byor gsang ba'i tshogs rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>934</rktsg>
+    <tib>rdo rje ngur mi'i me rgyud las khro bo'i las</tib>
+  </item>
+  <item>
+    <rktsg>935</rktsg>
+    <tib>'phags pa rtogs pa'i rgyal po/ sgyu 'phrul dra ba le'u stong phrag brgya pa las/ mtshan nyid dang rgyud thams cad lung gis dpyad pa/ de bzhin gshegs pa thams cad kyi gsang ba/ gsang ba'i snying po de kho na nyid nges pa'i le'u las/ sgyu 'phrul le lag</tib>
+  </item>
+  <item>
+    <rktsg>936</rktsg>
+    <tib>thugs kyi thigs pa'i man ngag</tib>
+  </item>
+  <item>
+    <rktsg>937</rktsg>
+    <tib>rdo rje sems dpa' sgyu 'phrul dra ba gsang ba thams cad kyi me long zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>938</rktsg>
+    <tib>ji bzhin brnyes pa nam mkha' dang mnyam pa zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>939</rktsg>
+    <tib>rdo rje sems dpa' sgyu 'phrul dra ba las/ gsang ba'i snying po de kho na nyid bstan pa/ rol pa chen po thal ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>940</rktsg>
+    <tib>dpal he ru ka rol pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>942</rktsg>
+    <tib>gnubs kyi man ngag drag po'i sngags rgod bstan srung spu gri lta bu'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>943</rktsg>
+    <tib>'phags pa 'jam dpal gshin rje'i gshed nag po gsang ba drug cu pa'i rgyud kyi rgyal po chen po</tib>
+  </item>
+  <item>
+    <rktsg>944</rktsg>
+    <tib>rdo rje bdud rtsi'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>946</rktsg>
+    <tib>dpal he ru ka'i gal po dur khrid mngon par phyung ba</tib>
+  </item>
+  <item>
+    <rktsg>947</rktsg>
+    <tib>he ru ka yi rdo rje rigs kyi sgrub lugs khro bo puN+Da rI ka tan+t+ra</tib>
+  </item>
+  <item>
+    <rktsg>949</rktsg>
+    <tib>yum gzung ma'i dngos grub chen po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>950</rktsg>
+    <tib>yum gzungs ma'i dngos grub chen mo'i rgyud ma mo srid pa'i rdzong lung chen mo 'bras bu nges par bstan pa'i rgyud phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>951</rktsg>
+    <tib>dpal ldan nag po chen po me lce'i phreng ba zhes bya ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>952</rktsg>
+    <tib>gsang ba'i snying po de kho na nyid nges pa'i rgyud phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>953</rktsg>
+    <tib>snga 'gyur rgyud 'bum rin po che'i rtogs brjod 'dzam gling tha grur khyab pa'i rgyan</tib>
+  </item>
+  <item>
+    <rktsg>954</rktsg>
+    <tib>bde bar gshegs pa'i bstan pa thams cad kyi snying po rig pa 'dzin pa'i sde snod rdo rje theg pa snga 'gyur rgyud 'bum rin po che'i rtogs par brjod pa lha'i bu'i gtam</tib>
+  </item>
+  <item>
+    <rktsg>955</rktsg>
+    <tib>byang chub kyi sems sgom pa don grub pa</tib>
+  </item>
+  <item>
+    <rktsg>956</rktsg>
+    <tib>rtsal chen sprug pa</tib>
+  </item>
+  <item>
+    <rktsg>957</rktsg>
+    <tib>byang chub sems rtse mo byung rgyal zhes bya ba bsam gtan</tib>
+  </item>
+  <item>
+    <rktsg>958</rktsg>
+    <tib>srog gi 'khor lo</tib>
+  </item>
+  <item>
+    <rktsg>959</rktsg>
+    <tib>byang chub kyi sems bde ba'i myu gu</tib>
+  </item>
+  <item>
+    <rktsg>960</rktsg>
+    <tib>bde ba 'phra bkod</tib>
+  </item>
+  <item>
+    <rktsg>961</rktsg>
+    <tib>skye med ti ka</tib>
+  </item>
+  <item>
+    <rktsg>962</rktsg>
+    <tib>rdo rje sems dpa' nam mkha' che bram ze rgyas pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>963</rktsg>
+    <tib>dpal kun tu bzang po bde chen po'i man ngag</tib>
+  </item>
+  <item>
+    <rktsg>964</rktsg>
+    <tib>rdo rje sems dpa' nam mkha' che rgyas pa zhes bya ba/ rnal 'byor pha'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>965</rktsg>
+    <tib>kun byed rgyal po'i skabs sbyor</tib>
+  </item>
+  <item>
+    <rktsg>966</rktsg>
+    <tib>kun byed rgyal po'i rgyud phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>967</rktsg>
+    <tib>kun byed rgyal po'i rgyud phyi ma'i phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>968</rktsg>
+    <tib>rnam par bgrang ba'i mdo dang 'grel pa</tib>
+  </item>
+  <item>
+    <rktsg>969</rktsg>
+    <tib>phun sum tshogs pa'i mdo dang 'grel pa</tib>
+  </item>
+  <item>
+    <rktsg>970</rktsg>
+    <tib>bye brag 'byed pa'i mdo dang 'grel pa</tib>
+  </item>
+  <item>
+    <rktsg>971</rktsg>
+    <tib>khyad par 'phags pa'i mdo dang 'grel pa</tib>
+  </item>
+  <item>
+    <rktsg>972</rktsg>
+    <tib>gol sgrib ston pa'i mdo dang 'grel pa</tib>
+  </item>
+  <item>
+    <rktsg>973</rktsg>
+    <tib>gtan la dbab pa'i mdo dang 'grel pa</tib>
+  </item>
+  <item>
+    <rktsg>974</rktsg>
+    <tib>nges par ston pa'i mdo dang 'grel pa</tib>
+  </item>
+  <item>
+    <rktsg>975</rktsg>
+    <tib>theg pa yas phubs theg pa dgu'i mdo</tib>
+  </item>
+  <item>
+    <rktsg>976</rktsg>
+    <tib>yongs su rdzogs pa'i mdo dang 'grel pa</tib>
+  </item>
+  <item>
+    <rktsg>977</rktsg>
+    <tib>don gyi 'grel pa lnga po</tib>
+  </item>
+  <item>
+    <rktsg>978</rktsg>
+    <tib>bstan pa yongs su gtad pa</tib>
+  </item>
+  <item>
+    <rktsg>979</rktsg>
+    <tib>bde ba phra bkod</tib>
+  </item>
+  <item>
+    <rktsg>980</rktsg>
+    <tib>ye shes gsang ba sgron ma'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>981</rktsg>
+    <tib>rdo rje sems dpa' nam mkha' che kun tu bzang po gsang ba snying po'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>982</rktsg>
+    <tib>'phrin las thams cad kyi rgyal po skabs sbyor bdun pa'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>983</rktsg>
+    <tib>'jig rten gyis 'phrin las spros pa bsod nams chen po rdzogs par byed la shes rab chen po rgyud pa</tib>
+  </item>
+  <item>
+    <rktsg>984</rktsg>
+    <tib>chos rdzogs par byed pa'i ngo sprod</tib>
+  </item>
+  <item>
+    <rktsg>985</rktsg>
+    <tib>ye shes klong gi le sdebs</tib>
+  </item>
+  <item>
+    <rktsg>986</rktsg>
+    <tib>snying po ye shes bcud 'dus thig le gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>987</rktsg>
+    <tib>snang srid kha sbyor bdud rtsi bcud 'thigs 'khor ba thog mtha' gcod pa'i rgyud phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>988</rktsg>
+    <tib>snang srid kha sbyor bdud rtsi bcud 'thigs 'khor ba thog mtha' gcod pa'i rgyud phyi ma'i phyi ma</tib>
+  </item>
+  <item>
+    <rktsg>989</rktsg>
+    <tib>spros bral don gsal chen po'i rgyud kyi le don bsdus pa</tib>
+  </item>
+  <item>
+    <rktsg>990</rktsg>
+    <tib>gnad kyi gdams ngag dkor gsum</tib>
+  </item>
+  <item>
+    <rktsg>991</rktsg>
+    <tib>rang byung rig pa'i tan+t+ra</tib>
+  </item>
+  <item>
+    <rktsg>992</rktsg>
+    <tib>de bzhin gshegs pa thams cad kyi thugs gsang ba'i ye shes don gyi snying po/ khro bo rdo rje'i rigs ; kun 'dus rig pa'i mdo/ rnal 'byor bsgrubs pa'i rgyud ces bya ba theg pa chen po mdo</tib>
+  </item>
+  <item>
+    <rktsg>993</rktsg>
+    <tib>de bzhin shegs pa thams cad kyi 'khor lo nam mkha'i mdzod kyi rgyud/ 'jig rten 'das pa'i mdo</tib>
+  </item>
+  <item>
+    <rktsg>994</rktsg>
+    <tib>de bzhin gshegs pa thams cad kyi thugs gsang ba'i ye shes/ don gyi snying po rdo rje bkod pa'i rgyud / rnal 'byor grub pa'i lung / kun du rig pa'i mdo/ /theg pa chen po mgon par rtogs pa / chos kyi rnam grangs rnam par bkod pa zhes bya ba'i mdo</tib>
+  </item>
+  <item>
+    <rktsg>995</rktsg>
+    <tib>drag po las kyi le'u</tib>
+  </item>
+  <item>
+    <rktsg>996</rktsg>
+    <tib>sangs rgyas mnyam sbyor</tib>
+  </item>
+  <item>
+    <rktsg>997</rktsg>
+    <tib>dpal snying rje rol pa'i rgyud/ 'jig rten las 'das pa gsang ba'i mdo</tib>
+  </item>
+  <item>
+    <rktsg>998</rktsg>
+    <tib>rgyas pa chen po'i rgyud phyi ta don 'dzin pa</tib>
+  </item>
+  <item>
+    <rktsg>999</rktsg>
+    <tib>rdzogs pa chen po kun tu bzang po ye shes gsal bar ston pa'i phyi ma gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>1000</rktsg>
+    <tib>'phags pa 'jam dpal gshin rje'i rgyal po ma ru tse thugs kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>1001</rktsg>
+    <tib>rdo rje phur pa chen po gsod byed 'bar ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>1002</rktsg>
+    <tib>phur pa bcu gnyis 'byung ba'i rgyud chung du bstan pa</tib>
+  </item>
+  <item>
+    <rktsg>1003</rktsg>
+    <tib>khro bo rnam par rgyal ba bcom ldan 'das gshin rje gshed kyi rgyal po rtog pa phyi ma'i yang phyi ma gsang ba</tib>
+  </item>
+  <item>
+    <rktsg>1004</rktsg>
+    <tib>khro bo rnam par rgyal ba 'jam dpal gyi rtog pa</tib>
+  </item>
+  <item>
+    <rktsg>1005</rktsg>
+    <tib>de bzhin gshegs pa thams cad kyi gsang ba'i rtog pa'i rgyal po</tib>
+  </item>
+  <item>
+    <rktsg>1006</rktsg>
+    <tib>phur ba rdzogs pa'i rgyud chen po'i don rnam par phye ba</tib>
+  </item>
+  <item>
+    <rktsg>1007</rktsg>
+    <tib>phur ba rdzogs pa'i rgyud chen po 'don rim par phye ba</tib>
+  </item>
+  <item>
+    <rktsg>1008</rktsg>
+    <tib>rdo rje khros pa'i rgyal po lcags gyi tsher ma nag po zhes bya ba/ thugs gsang ba'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>1009</rktsg>
+    <tib>rgyud phyi ma yang snying</tib>
+  </item>
+  <item>
+    <rktsg>1010</rktsg>
+    <tib>rdo rje phur ba thugs gsang ba sku'i rgyud</tib>
+  </item>
+  <item>
+    <rktsg>1011</rktsg>
+    <tib>rdo rje gsang ba thugs kyi rgyud </tib>
+  </item>
+  <item>
+    <rktsg>1012</rktsg>
+    <tib>rdo rje phur ba gsang ba'i snying po 'phrin las kyi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>1013</rktsg>
+    <tib>las kyi mkha' 'gro ma de kho na nyid gsum du 'dus pa zhes bya ba'i rtsis kyi rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>1014</rktsg>
+    <tib>ma mo E ka dza Ti sbyang rgyal nag mo'i rgyud ces bya ba/ gyu'i sbyang sngon mo'i rgyud ces kyang bya/ ma tshang ba kha bskang ba'i rgyud ces kyang bya</tib>
+  </item>
+  <item>
+    <rktsg>1015</rktsg>
+    <tib>bstan pa bsrung ba'i man ngag gi thugs kyi yang snying ma mo 'bum tig rgyud</tib>
+  </item>
+  <item>
+    <rktsg>1016</rktsg>
+    <tib>ma mo nag mo nyi ma'i smod mo srog gi rgyud</tib>
+  </item>
+  <item>
+    <rktsg>1017</rktsg>
+    <tib>rtsa ba'i rgyud 'jig rten rlag byed ces bya ba rtsa ba'i rtog pa</tib>
+  </item>
+  <item>
+    <rktsg>1018</rktsg>
+    <tib>lha chen po tshogs kyi bdag po lha'i dad dpon zhes bya bar lha rnams gyis grangs so</tib>
+  </item>
+  <item>
+    <rktsg>1019</rktsg>
+    <tib>rdo rje sems dpa' nam mkha'i mtha' dang mnyam pa'i rgyud chen po</tib>
+  </item>
+  <item>
+    <rktsg>1020</rktsg>
+    <tib>ma mo ral gcig ma'i snying thun gsang ba'i rgyud ces bya ba</tib>
+  </item>
+  <item>
+    <rktsg>1021</rktsg>
+    <tib>tshangs pa la sogs pa drang srong dang lha dang klu dang mi'i byang chub sems dpa' rnams la phyag 'tshal lo</tib>
+  </item>
+  <item>
+    <rktsg>1022</rktsg>
+    <tib>bcom ldan 'das gnyis med kyi rgyal po chen po la phyag 'tshal lo</tib>
+  </item>
+  <item>
+    <rktsg>1023</rktsg>
+    <tib>'bras bu chen po lnga bsgral ba</tib>
+  </item>
+  <item>
+    <rktsg>1024</rktsg>
+    <tib>rigs lnga bde bar gshegs pa la phyag 'tshal lo</tib>
+  </item>
+  <item>
+    <rktsg>1025</rktsg>
+    <tib>bdud rtsi 'khyil pa la phyag 'tshal lo</tib>
+  </item>
+  <item>
+    <rktsg>1026</rktsg>
+    <tib>paN sgrub rnams kyi thugs bcud snying gi nyi ma</tib>
+  </item>
+</outline>
