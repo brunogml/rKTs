@@ -6,6 +6,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX886</json>
+      <voln>1</voln>
       <psection>ka-cha</psection>
       <p>1b1-8a2</p>
     </loc>
@@ -22,6 +23,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX886</json>
+      <voln>1</voln>
       <psection>ka-ja</psection>
       <p>1b1-9b5</p>
     </loc>
@@ -38,6 +40,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX886</json>
+      <voln>1</voln>
       <psection>ka-nya</psection>
       <p>1b1-8a5</p>
     </loc>
@@ -54,6 +57,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX886</json>
+      <voln>1</voln>
       <psection>ka-ta</psection>
       <p>1b1-9a4</p>
     </loc>
@@ -70,6 +74,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX886</json>
+      <voln>1</voln>
       <psection>ka-tha</psection>
       <p>1b1-9a5</p>
     </loc>
@@ -86,6 +91,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX886</json>
+      <voln>1</voln>
       <psection>ka-da</psection>
       <p>1b1-6b6</p>
     </loc>
@@ -102,6 +108,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX886</json>
+      <voln>1</voln>
       <psection>ka-na</psection>
       <p>1b1-11a5</p>
     </loc>
@@ -118,10 +125,45 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX886</json>
+      <voln>1</voln>
       <psection>ka-pa</psection>
       <p>1b1-8b1</p>
     </loc>
     <tib>byang chub sems nam mkha'i rgyal po</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk001.009</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX886</json>
+      <voln>1</voln>
+      <psection>ka-pha</psection>
+      <p>1b1-4a5</p>
+    </loc>
+    <tib/>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk001.010</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX886</json>
+      <voln>1</voln>
+      <psection>ka-ba</psection>
+      <p>1b1-19b7</p>
+    </loc>
+    <tib/>
     <skttrans/>
     <note/>
     <coloph/>
@@ -134,10 +176,28 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX886</json>
+      <voln>1</voln>
       <psection>ka-ma</psection>
       <p>1b1-7b3</p>
     </loc>
     <tib>byang chub sems rtsal chen gyi rgyud</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk001.012</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX886</json>
+      <voln>1</voln>
+      <psection>ka-tsa</psection>
+      <p>1b1-12a6</p>
+    </loc>
+    <tib/>
     <skttrans/>
     <note/>
     <coloph/>
@@ -150,6 +210,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX886</json>
+      <voln>1</voln>
       <psection>ka-tsha</psection>
       <p>1b1-7b1</p>
     </loc>
@@ -166,6 +227,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX886</json>
+      <voln>1</voln>
       <psection>ka-dza</psection>
       <p>1b1-12b6</p>
     </loc>
@@ -182,6 +244,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX886</json>
+      <voln>1</voln>
       <psection>ka-wa</psection>
       <p>1b1-13a6</p>
     </loc>
@@ -198,6 +261,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX886</json>
+      <voln>1</voln>
       <psection>ka-zha</psection>
       <p>1b1-33a2</p>
     </loc>
@@ -214,6 +278,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX886</json>
+      <voln>1</voln>
       <psection>ka-zha2</psection>
       <p>1b1-31b1</p>
     </loc>
@@ -230,6 +295,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX887</json>
+      <voln>2</voln>
       <psection>kha-kha</psection>
       <p>1b1-91a6</p>
     </loc>
@@ -246,6 +312,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX887</json>
+      <voln>2</voln>
       <psection>kha-ga</psection>
       <p>1b1-40b3</p>
     </loc>
@@ -262,6 +329,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX887</json>
+      <voln>2</voln>
       <psection>kha-nga</psection>
       <p>1b1-5b2</p>
     </loc>
@@ -278,6 +346,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX887</json>
+      <voln>2</voln>
       <psection>kha-ca</psection>
       <p>1b1-22b1</p>
     </loc>
@@ -294,10 +363,28 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX887</json>
+      <voln>2</voln>
       <psection>kha-ja</psection>
       <p>1b1-14a3</p>
     </loc>
     <tib>rdzogs pa chen po chos nyid byang chub kyi sems/ thig le rgya mtsho gnas la 'jug pa zhes bya ba'i rgyud</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk002.006</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX887</json>
+      <voln>2</voln>
+      <psection>kha-nya</psection>
+      <p>1b1-37a4</p>
+    </loc>
+    <tib/>
     <skttrans/>
     <note/>
     <coloph/>
@@ -310,6 +397,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX887</json>
+      <voln>2</voln>
       <psection>kha-ta</psection>
       <p>1b1-4a2</p>
     </loc>
@@ -326,10 +414,28 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX887</json>
+      <voln>2</voln>
       <psection>kha-tha</psection>
       <p>1b1-15b1</p>
     </loc>
     <tib>dpal kun tu bzang po bde chen po'i man ngag</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk002.009</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX887</json>
+      <voln>2</voln>
+      <psection>kha-da</psection>
+      <p>1b1-4b2</p>
+    </loc>
+    <tib/>
     <skttrans/>
     <note/>
     <coloph/>
@@ -342,6 +448,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX887</json>
+      <voln>2</voln>
       <psection>kha-na</psection>
       <p>1b1-9a3</p>
     </loc>
@@ -358,6 +465,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX887</json>
+      <voln>2</voln>
       <psection>kha-pa</psection>
       <p>1b1-14a4</p>
     </loc>
@@ -374,6 +482,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX887</json>
+      <voln>2</voln>
       <psection>kha-pha</psection>
       <p>1b1-9a5</p>
     </loc>
@@ -390,6 +499,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX887</json>
+      <voln>2</voln>
       <psection>kha-ba</psection>
       <p>1b1-8b2</p>
     </loc>
@@ -406,6 +516,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX887</json>
+      <voln>2</voln>
       <psection>kha-tsha</psection>
       <p>1b1-17a3</p>
     </loc>
@@ -422,6 +533,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX887</json>
+      <voln>2</voln>
       <psection>kha-dza</psection>
       <p>1b1-10b2</p>
     </loc>
@@ -438,6 +550,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX887</json>
+      <voln>2</voln>
       <psection>kha-wa</psection>
       <p>1b1-4b2</p>
     </loc>
@@ -454,6 +567,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX887</json>
+      <voln>2</voln>
       <psection>kha-'a</psection>
       <p>1b1-27a2</p>
     </loc>
@@ -470,6 +584,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX887</json>
+      <voln>2</voln>
       <psection>kha-ya</psection>
       <p>1b1-17a4</p>
     </loc>
@@ -486,6 +601,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX887</json>
+      <voln>2</voln>
       <psection>kha-ra</psection>
       <p>1b1-20a5</p>
     </loc>
@@ -502,6 +618,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX887</json>
+      <voln>2</voln>
       <psection>kha-ki</psection>
       <p>1b1-21b4</p>
     </loc>
@@ -518,6 +635,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX887</json>
+      <voln>2</voln>
       <psection>kha-gi</psection>
       <p>1b1-71b1</p>
     </loc>
@@ -534,6 +652,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX887</json>
+      <voln>2</voln>
       <psection>kha-ci</psection>
       <p>1b1-21a7</p>
     </loc>
@@ -550,6 +669,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX888</json>
+      <voln>3</voln>
       <psection>ga-ka</psection>
       <p>1b1-89a5</p>
     </loc>
@@ -566,6 +686,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX888</json>
+      <voln>3</voln>
       <psection>ga-kha</psection>
       <p>1b1-14b1</p>
     </loc>
@@ -582,6 +703,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX888</json>
+      <voln>3</voln>
       <psection>ga-ga</psection>
       <p>1b1-13a4</p>
     </loc>
@@ -598,6 +720,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX888</json>
+      <voln>3</voln>
       <psection>ga-nga</psection>
       <p>1b1-70a4</p>
     </loc>
@@ -614,6 +737,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX888</json>
+      <voln>3</voln>
       <psection>ga-ca</psection>
       <p>1b1-38a5</p>
     </loc>
@@ -630,6 +754,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX888</json>
+      <voln>3</voln>
       <psection>ga-cha</psection>
       <p>1b1-41b3</p>
     </loc>
@@ -646,6 +771,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX888</json>
+      <voln>3</voln>
       <psection>ga-ja</psection>
       <p>1b1-11b3</p>
     </loc>
@@ -662,6 +788,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX888</json>
+      <voln>3</voln>
       <psection>ga-nya</psection>
       <p>1b1-12b4</p>
     </loc>
@@ -678,6 +805,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX888</json>
+      <voln>3</voln>
       <psection>ga-ta</psection>
       <p>1b1-13a4</p>
     </loc>
@@ -694,6 +822,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX888</json>
+      <voln>3</voln>
       <psection>ga-tha</psection>
       <p>1b1-14b3</p>
     </loc>
@@ -710,6 +839,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX888</json>
+      <voln>3</voln>
       <psection>ga-da</psection>
       <p>1b1-18a3</p>
     </loc>
@@ -726,6 +856,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX888</json>
+      <voln>3</voln>
       <psection>ga-na</psection>
       <p>1b1-5b1</p>
     </loc>
@@ -742,6 +873,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX888</json>
+      <voln>3</voln>
       <psection>ga-pa</psection>
       <p>1b1-13a6</p>
     </loc>
@@ -758,6 +890,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX888</json>
+      <voln>3</voln>
       <psection>ga-pha</psection>
       <p>1b1-14a3</p>
     </loc>
@@ -774,6 +907,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX889</json>
+      <voln>4</voln>
       <psection>nga-kha</psection>
       <p>1b1-25a4</p>
     </loc>
@@ -790,6 +924,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX889</json>
+      <voln>4</voln>
       <psection>nga-ga</psection>
       <p>1b1-13a3</p>
     </loc>
@@ -806,6 +941,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX889</json>
+      <voln>4</voln>
       <psection>nga-nga</psection>
       <p>1b1-25b6</p>
     </loc>
@@ -822,6 +958,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX889</json>
+      <voln>4</voln>
       <psection>nga-ca</psection>
       <p>1b1-17a5</p>
     </loc>
@@ -838,6 +975,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX889</json>
+      <voln>4</voln>
       <psection>nga-cha</psection>
       <p>1b1-15a6</p>
     </loc>
@@ -854,6 +992,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX889</json>
+      <voln>4</voln>
       <psection>nga-ja</psection>
       <p>1b1-4a4</p>
     </loc>
@@ -870,6 +1009,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX889</json>
+      <voln>4</voln>
       <psection>nga-nya</psection>
       <p>1b1-12b1</p>
     </loc>
@@ -886,6 +1026,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX889</json>
+      <voln>4</voln>
       <psection>nga-na</psection>
       <p>1b1-3b1</p>
     </loc>
@@ -902,6 +1043,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX889</json>
+      <voln>4</voln>
       <psection>nga-pha</psection>
       <p>1b1-35b4</p>
     </loc>
@@ -918,6 +1060,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX889</json>
+      <voln>4</voln>
       <psection>nga-ba</psection>
       <p>1b1-12b5</p>
     </loc>
@@ -934,6 +1077,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX889</json>
+      <voln>4</voln>
       <psection>nga-ma</psection>
       <p>1b1-6b3</p>
     </loc>
@@ -950,6 +1094,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX889</json>
+      <voln>4</voln>
       <psection>nga-tsa</psection>
       <p>1b1-25a2</p>
     </loc>
@@ -966,6 +1111,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX889</json>
+      <voln>4</voln>
       <psection>nga-tsha</psection>
       <p>1b1-11b7</p>
     </loc>
@@ -982,6 +1128,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX889</json>
+      <voln>4</voln>
       <psection>nga-dza</psection>
       <p>1b1-9a6</p>
     </loc>
@@ -998,6 +1145,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX889</json>
+      <voln>4</voln>
       <psection>nga-za</psection>
       <p>1b1-34b1</p>
     </loc>
@@ -1014,6 +1162,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX889</json>
+      <voln>4</voln>
       <psection>nga-ra</psection>
       <p>1b1-7b6</p>
     </loc>
@@ -1030,6 +1179,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX889</json>
+      <voln>4</voln>
       <psection>nga-sa</psection>
       <p>1b1-7b4</p>
     </loc>
@@ -1046,6 +1196,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX890</json>
+      <voln>5</voln>
       <psection>ca-ka</psection>
       <p>1b1-39a2</p>
     </loc>
@@ -1062,6 +1213,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX890</json>
+      <voln>5</voln>
       <psection>ca-kha</psection>
       <p>1b1-18a2</p>
     </loc>
@@ -1078,6 +1230,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX890</json>
+      <voln>5</voln>
       <psection>ca-ga</psection>
       <p>1b1-11b7</p>
     </loc>
@@ -1094,6 +1247,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX890</json>
+      <voln>5</voln>
       <psection>ca-nga</psection>
       <p>1b1-8b5</p>
     </loc>
@@ -1110,6 +1264,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX890</json>
+      <voln>5</voln>
       <psection>ca-ca</psection>
       <p>1b1-8b5</p>
     </loc>
@@ -1126,6 +1281,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX890</json>
+      <voln>5</voln>
       <psection>ca-cha</psection>
       <p>1b1-14b5</p>
     </loc>
@@ -1142,6 +1298,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX890</json>
+      <voln>5</voln>
       <psection>ca-ja</psection>
       <p>1b1-37a7</p>
     </loc>
@@ -1158,6 +1315,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX890</json>
+      <voln>5</voln>
       <psection>ca-tha</psection>
       <p>1b1-4b6</p>
     </loc>
@@ -1174,6 +1332,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX890</json>
+      <voln>5</voln>
       <psection>ca-da</psection>
       <p>1b1-8b3</p>
     </loc>
@@ -1190,6 +1349,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX890</json>
+      <voln>5</voln>
       <psection>ca-na</psection>
       <p>1b1-18b6</p>
     </loc>
@@ -1206,6 +1366,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX890</json>
+      <voln>5</voln>
       <psection>ca-pha</psection>
       <p>1b1-13a2</p>
     </loc>
@@ -1222,6 +1383,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX890</json>
+      <voln>5</voln>
       <psection>ca-ba</psection>
       <p>1b1-15b7</p>
     </loc>
@@ -1238,6 +1400,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX890</json>
+      <voln>5</voln>
       <psection>ca-ma</psection>
       <p>1b1-10b2</p>
     </loc>
@@ -1254,6 +1417,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX890</json>
+      <voln>5</voln>
       <psection>ca-tsha</psection>
       <p>1b1-7a2</p>
     </loc>
@@ -1270,10 +1434,130 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX890</json>
+      <voln>5</voln>
       <psection>ca-za</psection>
       <p>1b1-4b5</p>
     </loc>
     <tib>nam mkha' 'brug sgrogs thog 'babs klong 'dus spyi rgyal rgya mdud rgyud</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk005.016</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX890</json>
+      <voln>5</voln>
+      <psection>ca-'a</psection>
+      <p>1b1-12a5</p>
+    </loc>
+    <tib/>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk005.017</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX890</json>
+      <voln>5</voln>
+      <psection>ca-ra</psection>
+      <p>1b1-3a5</p>
+    </loc>
+    <tib/>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk005.018</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX890</json>
+      <voln>5</voln>
+      <psection>ca-la</psection>
+      <p>1b1-2a5</p>
+    </loc>
+    <tib/>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk005.019</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX890</json>
+      <voln>5</voln>
+      <psection>ca-sha</psection>
+      <p>1b1-2b2</p>
+    </loc>
+    <tib/>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk005.020</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX890</json>
+      <voln>5</voln>
+      <psection>ca-sa</psection>
+      <p>1b1-2b3</p>
+    </loc>
+    <tib/>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk005.021</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX890</json>
+      <voln>5</voln>
+      <psection>ca-ha</psection>
+      <p>1b1-2b4</p>
+    </loc>
+    <tib/>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk005.022</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX890</json>
+      <voln>5</voln>
+      <psection>ca-a</psection>
+      <p>1b1-3a4</p>
+    </loc>
+    <tib/>
     <skttrans/>
     <note/>
     <coloph/>
@@ -1286,6 +1570,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX890</json>
+      <voln>5</voln>
       <psection>ca-ki</psection>
       <p>1b1-21a4</p>
     </loc>
@@ -1302,6 +1587,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX891</json>
+      <voln>6</voln>
       <psection>cha-ka</psection>
       <p>1b1-82a3</p>
     </loc>
@@ -1318,6 +1604,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX891</json>
+      <voln>6</voln>
       <psection>cha-kha</psection>
       <p>1b1-10b2</p>
     </loc>
@@ -1334,6 +1621,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX891</json>
+      <voln>6</voln>
       <psection>cha-ga</psection>
       <p>1b1-16a5</p>
     </loc>
@@ -1350,6 +1638,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX891</json>
+      <voln>6</voln>
       <psection>cha-nga</psection>
       <p>1b1-53a6</p>
     </loc>
@@ -1366,6 +1655,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX891</json>
+      <voln>6</voln>
       <psection>cha-ca</psection>
       <p>1b1-48b3</p>
     </loc>
@@ -1382,6 +1672,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX891</json>
+      <voln>6</voln>
       <psection>cha-cha</psection>
       <p>1b1-60a4</p>
     </loc>
@@ -1398,6 +1689,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX891</json>
+      <voln>6</voln>
       <psection>cha-ja</psection>
       <p>1b1-37b5</p>
     </loc>
@@ -1414,6 +1706,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX892</json>
+      <voln>7</voln>
       <psection>ja-kha</psection>
       <p>1b1-182b5</p>
     </loc>
@@ -1430,6 +1723,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX892</json>
+      <voln>7</voln>
       <psection>ja-nga</psection>
       <p>1b1-29b3</p>
     </loc>
@@ -1446,6 +1740,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX892</json>
+      <voln>7</voln>
       <psection>ja-ca</psection>
       <p>1b1-26a5</p>
     </loc>
@@ -1462,6 +1757,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX892</json>
+      <voln>7</voln>
       <psection>ja-cha</psection>
       <p>1b1-7b6</p>
     </loc>
@@ -1478,6 +1774,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX892</json>
+      <voln>7</voln>
       <psection>ja-ja</psection>
       <p>1b1-3a5</p>
     </loc>
@@ -1494,6 +1791,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX892</json>
+      <voln>7</voln>
       <psection>ja-da</psection>
       <p>1b1-3b1</p>
     </loc>
@@ -1510,6 +1808,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX892</json>
+      <voln>7</voln>
       <psection>ja-na</psection>
       <p>1b1-14b1</p>
     </loc>
@@ -1526,6 +1825,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX892</json>
+      <voln>7</voln>
       <psection>ja-pa</psection>
       <p>1b1-7b5</p>
     </loc>
@@ -1542,6 +1842,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX896</json>
+      <voln>11</voln>
       <psection>da-ka</psection>
       <p>1b1-25a6</p>
     </loc>
@@ -1558,6 +1859,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX896</json>
+      <voln>11</voln>
       <psection>da-ga</psection>
       <p>1b1-15b4</p>
     </loc>
@@ -1574,6 +1876,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX896</json>
+      <voln>11</voln>
       <psection>da-ca</psection>
       <p>1b1-18b4</p>
     </loc>
@@ -1590,6 +1893,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX896</json>
+      <voln>11</voln>
       <psection>da-cha</psection>
       <p>1b1-16a3</p>
     </loc>
@@ -1606,6 +1910,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX896</json>
+      <voln>11</voln>
       <psection>da-ja</psection>
       <p>1b1-14b5</p>
     </loc>
@@ -1622,6 +1927,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX896</json>
+      <voln>11</voln>
       <psection>da-nya</psection>
       <p>1b1-7b1</p>
     </loc>
@@ -1638,6 +1944,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX896</json>
+      <voln>11</voln>
       <psection>da-ta</psection>
       <p>1b1-21a7</p>
     </loc>
@@ -1654,6 +1961,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX896</json>
+      <voln>11</voln>
       <psection>da-da</psection>
       <p>1b1-69b2</p>
     </loc>
@@ -1670,6 +1978,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX896</json>
+      <voln>11</voln>
       <psection>da-na</psection>
       <p>1b1-33a5</p>
     </loc>
@@ -1686,6 +1995,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX896</json>
+      <voln>11</voln>
       <psection>da-pa</psection>
       <p>1b1-34b2</p>
     </loc>
@@ -1702,6 +2012,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX896</json>
+      <voln>11</voln>
       <psection>da-ba</psection>
       <p>1b1-26b5</p>
     </loc>
@@ -1718,6 +2029,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX896</json>
+      <voln>11</voln>
       <psection>da-ma</psection>
       <p>1b1-22a3</p>
     </loc>
@@ -1734,6 +2046,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX896</json>
+      <voln>11</voln>
       <psection>da-tsa</psection>
       <p>1b1-20b5</p>
     </loc>
@@ -1750,6 +2063,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX896</json>
+      <voln>11</voln>
       <psection>da-tsha</psection>
       <p>1b1-11b4</p>
     </loc>
@@ -1766,6 +2080,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX897</json>
+      <voln>12</voln>
       <psection>na-ka</psection>
       <p>1b1-30a3</p>
     </loc>
@@ -1782,6 +2097,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX897</json>
+      <voln>12</voln>
       <psection>na-ngi</psection>
       <p>1b1-23a7</p>
     </loc>
@@ -1798,6 +2114,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX897</json>
+      <voln>12</voln>
       <psection>na-ga</psection>
       <p>1b1-71b2</p>
     </loc>
@@ -1814,10 +2131,28 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX897</json>
+      <voln>12</voln>
       <psection>na</psection>
       <p>1b1-6a4</p>
     </loc>
     <tib>'jams dpal 'dus pa'i rgyud</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk012.005</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX897</json>
+      <voln>12</voln>
+      <psection>na-ca</psection>
+      <p>1b1-78a5</p>
+    </loc>
+    <tib/>
     <skttrans/>
     <note/>
     <coloph/>
@@ -1830,6 +2165,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX897</json>
+      <voln>12</voln>
       <psection>na-cha</psection>
       <p>1b1-13b7</p>
     </loc>
@@ -1846,6 +2182,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX898</json>
+      <voln>13</voln>
       <psection>pa-ka</psection>
       <p>1b1-92b6</p>
     </loc>
@@ -1862,6 +2199,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX898</json>
+      <voln>13</voln>
       <psection>pa-kha</psection>
       <p>1b1-15b6</p>
     </loc>
@@ -1878,6 +2216,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX898</json>
+      <voln>13</voln>
       <psection>pa-ga</psection>
       <p>1b1-43b3</p>
     </loc>
@@ -1894,6 +2233,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX898</json>
+      <voln>13</voln>
       <psection>pa-nga</psection>
       <p>1b1-53a7</p>
     </loc>
@@ -1910,6 +2250,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX898</json>
+      <voln>13</voln>
       <psection>pa-cha</psection>
       <p>1b1-4b7</p>
     </loc>
@@ -1926,6 +2267,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX898</json>
+      <voln>13</voln>
       <psection>pa-ja</psection>
       <p>1b1-10a7</p>
     </loc>
@@ -1942,6 +2284,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX899</json>
+      <voln>14</voln>
       <psection>pha-ka</psection>
       <p>1b1-31a4</p>
     </loc>
@@ -1958,6 +2301,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX899</json>
+      <voln>14</voln>
       <psection>pha-ja</psection>
       <p>1b1-35a2</p>
     </loc>
@@ -1974,6 +2318,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX900</json>
+      <voln>15</voln>
       <psection>ba-ka</psection>
       <p>1b1-7b2</p>
     </loc>
@@ -1990,6 +2335,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX900</json>
+      <voln>15</voln>
       <psection>ba-kha</psection>
       <p>1b1-12b2</p>
     </loc>
@@ -2006,6 +2352,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX900</json>
+      <voln>15</voln>
       <psection>ba-nga</psection>
       <p>1b1-13b3</p>
     </loc>
@@ -2022,6 +2369,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX900</json>
+      <voln>15</voln>
       <psection>ba-ca</psection>
       <p>1b1-55a7</p>
     </loc>
@@ -2038,6 +2386,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX900</json>
+      <voln>15</voln>
       <psection>ba-ca2</psection>
       <p>1b1-4a8</p>
     </loc>
@@ -2054,6 +2403,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX900</json>
+      <voln>15</voln>
       <psection>ba-ja</psection>
       <p>1b1-16a7</p>
     </loc>
@@ -2070,6 +2420,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX900</json>
+      <voln>15</voln>
       <psection>ba-nya</psection>
       <p>1b1-42a3</p>
     </loc>
@@ -2086,6 +2437,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX900</json>
+      <voln>15</voln>
       <psection>ba-ta</psection>
       <p>1b1-21a4</p>
     </loc>
@@ -2102,6 +2454,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX901</json>
+      <voln>16</voln>
       <psection>ma-ka</psection>
       <p>1b1-128b7</p>
     </loc>
@@ -2118,6 +2471,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX901</json>
+      <voln>16</voln>
       <psection>ma-nga</psection>
       <p>1b1-99b6</p>
     </loc>
@@ -2134,6 +2488,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX901</json>
+      <voln>16</voln>
       <psection>ma-cha</psection>
       <p>1b1-10b2</p>
     </loc>
@@ -2150,6 +2505,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX901</json>
+      <voln>16</voln>
       <psection>ma-ja</psection>
       <p>1b1-24b3</p>
     </loc>
@@ -2166,6 +2522,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX901</json>
+      <voln>16</voln>
       <psection>ma-nya</psection>
       <p>1b1-12a7</p>
     </loc>
@@ -2182,6 +2539,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX902</json>
+      <voln>17</voln>
       <psection>tsa-ka</psection>
       <p>1b1-20a3</p>
     </loc>
@@ -2198,6 +2556,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX902</json>
+      <voln>17</voln>
       <psection>tsa-ga</psection>
       <p>1b1-28a5</p>
     </loc>
@@ -2214,10 +2573,28 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX902</json>
+      <voln>17</voln>
       <psection>tsa-nga</psection>
       <p>1b1-7b3</p>
     </loc>
     <tib>'jam dpal gshin rje'i gshed gsang pa'i rgyud</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk017.004</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX902</json>
+      <voln>17</voln>
+      <psection>tsa-ca</psection>
+      <p>1b1-29a5</p>
+    </loc>
+    <tib/>
     <skttrans/>
     <note/>
     <coloph/>
@@ -2230,6 +2607,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX902</json>
+      <voln>17</voln>
       <psection>tsa-cha</psection>
       <p>1b1-42a2</p>
     </loc>
@@ -2246,6 +2624,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX902</json>
+      <voln>17</voln>
       <psection>tsa-ta</psection>
       <p>1b1-22b4</p>
     </loc>
@@ -2262,6 +2641,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX902</json>
+      <voln>17</voln>
       <psection>tsa-dza</psection>
       <p>1b1-61a6</p>
     </loc>
@@ -2278,6 +2658,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX903</json>
+      <voln>18</voln>
       <psection>tsha-ka</psection>
       <p>1b1-167b2</p>
     </loc>
@@ -2294,6 +2675,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX903</json>
+      <voln>18</voln>
       <psection>tsha-kha</psection>
       <p>1b1-100a2</p>
     </loc>
@@ -2310,6 +2692,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX903</json>
+      <voln>18</voln>
       <psection>tsha-ga</psection>
       <p>1b1-16b5</p>
     </loc>
@@ -2326,6 +2709,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX903</json>
+      <voln>18</voln>
       <psection>tsha-nga</psection>
       <p>1b1-16a3</p>
     </loc>
@@ -2342,6 +2726,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX903</json>
+      <voln>18</voln>
       <psection>tsha-ca</psection>
       <p>1b1-17b1</p>
     </loc>
@@ -2358,10 +2743,28 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX903</json>
+      <voln>18</voln>
       <psection>tsha-cha</psection>
       <p>1b1-24a4</p>
     </loc>
     <tib>dpal pad+ma dbang chen dregs pa dbang bsdus kyi rgyud</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk019.001</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX904</json>
+      <voln>19</voln>
+      <psection>dza-ka</psection>
+      <p>1b1-61a5</p>
+    </loc>
+    <tib>dbang chen 'dus pa'i rgyud ces bya ba</tib>
     <skttrans/>
     <note/>
     <coloph/>
@@ -2374,6 +2777,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX918</json>
+      <voln>33</voln>
       <psection>dza-kha</psection>
       <p>1b1-27b4</p>
     </loc>
@@ -2390,6 +2794,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX904</json>
+      <voln>19</voln>
       <psection>dza-ca</psection>
       <p>1b1-49b1</p>
     </loc>
@@ -2406,6 +2811,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX904</json>
+      <voln>19</voln>
       <psection>dza-nya</psection>
       <p>1b1-26a4</p>
     </loc>
@@ -2422,6 +2828,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX904</json>
+      <voln>19</voln>
       <psection>dza-ta</psection>
       <p>1b1-64b7</p>
     </loc>
@@ -2438,10 +2845,28 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX904</json>
+      <voln>19</voln>
       <psection>dza-tha</psection>
       <p>1b1-75a4</p>
     </loc>
     <tib>rta mchog rol pa'i rgyud</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk019.007</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX904</json>
+      <voln>19</voln>
+      <psection>dza-da</psection>
+      <p>1b1-38a3</p>
+    </loc>
+    <tib/>
     <skttrans/>
     <note/>
     <coloph/>
@@ -2454,6 +2879,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX904</json>
+      <voln>19</voln>
       <psection>dza-na</psection>
       <p>1b1-76b7</p>
     </loc>
@@ -2470,6 +2896,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX904</json>
+      <voln>19</voln>
       <psection>dza-pa</psection>
       <p>1b1-30a7</p>
     </loc>
@@ -2486,6 +2913,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX906</json>
+      <voln>21</voln>
       <psection>zha-ka</psection>
       <p>1b1-35a3</p>
     </loc>
@@ -2502,6 +2930,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX906</json>
+      <voln>21</voln>
       <psection>zha-kha</psection>
       <p>1b1-11b3</p>
     </loc>
@@ -2518,6 +2947,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX906</json>
+      <voln>21</voln>
       <psection>zha-kha2</psection>
       <p>1b1-32a5</p>
     </loc>
@@ -2534,6 +2964,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX906</json>
+      <voln>21</voln>
       <psection>zha-ga</psection>
       <p>1b1-4b5</p>
     </loc>
@@ -2550,6 +2981,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX906</json>
+      <voln>21</voln>
       <psection>zha-nga</psection>
       <p>1b1-25a6</p>
     </loc>
@@ -2566,6 +2998,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX906</json>
+      <voln>21</voln>
       <psection>zha-ca</psection>
       <p>1b1-32a3</p>
     </loc>
@@ -2582,6 +3015,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX906</json>
+      <voln>21</voln>
       <psection>zha-cha</psection>
       <p>1b1-25a6</p>
     </loc>
@@ -2598,6 +3032,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX906</json>
+      <voln>21</voln>
       <psection>zha-ja</psection>
       <p>1b1-9a4</p>
     </loc>
@@ -2614,6 +3049,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX906</json>
+      <voln>21</voln>
       <psection>zha-ta</psection>
       <p>1b1-4a7</p>
     </loc>
@@ -2630,6 +3066,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX906</json>
+      <voln>21</voln>
       <psection>zha-nya</psection>
       <p>1b1-62a4</p>
     </loc>
@@ -2646,6 +3083,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX906</json>
+      <voln>21</voln>
       <psection>zha-tha</psection>
       <p>1b1-18a6</p>
     </loc>
@@ -2662,6 +3100,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX906</json>
+      <voln>21</voln>
       <psection>zha-da</psection>
       <p>1b1-8a6</p>
     </loc>
@@ -2678,6 +3117,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX906</json>
+      <voln>21</voln>
       <psection>zha-pa</psection>
       <p>1b1-57b3</p>
     </loc>
@@ -2694,6 +3134,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX906</json>
+      <voln>21</voln>
       <psection>zha-na</psection>
       <p>1b1-22b6</p>
     </loc>
@@ -2710,10 +3151,28 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX907</json>
+      <voln>22</voln>
       <psection>za-ka</psection>
       <p>1b1-20b6</p>
     </loc>
     <tib>rdo rje khros pa rtsa ba'i rgyud</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk022.002</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX907</json>
+      <voln>22</voln>
+      <psection>za-kha</psection>
+      <p>1b1-17b5</p>
+    </loc>
+    <tib>dpal rdo rje gzhon nu thugs rje khros pa rtsa ba'i rgyud ces bya ba</tib>
     <skttrans/>
     <note/>
     <coloph/>
@@ -2726,6 +3185,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX907</json>
+      <voln>22</voln>
       <psection>za-ga</psection>
       <p>1b1-46a3</p>
     </loc>
@@ -2742,6 +3202,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX907</json>
+      <voln>22</voln>
       <psection>za-nga</psection>
       <p>1b1-33a5</p>
     </loc>
@@ -2758,6 +3219,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX907</json>
+      <voln>22</voln>
       <psection>za-ca</psection>
       <p>1b1-53a3</p>
     </loc>
@@ -2774,6 +3236,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX907</json>
+      <voln>22</voln>
       <psection>za-cha</psection>
       <p>1b1-11b2</p>
     </loc>
@@ -2790,6 +3253,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX907</json>
+      <voln>22</voln>
       <psection>za-ja</psection>
       <p>1b1-20b5</p>
     </loc>
@@ -2806,6 +3270,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX907</json>
+      <voln>22</voln>
       <psection>za-nya</psection>
       <p>1b1-40b4</p>
     </loc>
@@ -2822,6 +3287,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX907</json>
+      <voln>22</voln>
       <psection>za-tha</psection>
       <p>1b1-12b3</p>
     </loc>
@@ -2838,6 +3304,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX907</json>
+      <voln>22</voln>
       <psection>za-na</psection>
       <p>1b1-8b5</p>
     </loc>
@@ -2854,6 +3321,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX907</json>
+      <voln>22</voln>
       <psection>za-ba</psection>
       <p>1b1-23a4</p>
     </loc>
@@ -2870,6 +3338,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX908</json>
+      <voln>23</voln>
       <psection>'a-ka</psection>
       <p>1b1-14b5</p>
     </loc>
@@ -2886,6 +3355,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX908</json>
+      <voln>23</voln>
       <psection>'a-kha</psection>
       <p>1b1-94a6</p>
     </loc>
@@ -2902,6 +3372,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX908</json>
+      <voln>23</voln>
       <psection>'a-ga</psection>
       <p>1b1-5a4</p>
     </loc>
@@ -2918,6 +3389,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX908</json>
+      <voln>23</voln>
       <psection>'a-nga</psection>
       <p>1b1-7a5</p>
     </loc>
@@ -2934,6 +3406,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX908</json>
+      <voln>23</voln>
       <psection>'a-ca</psection>
       <p>1b1-13a3</p>
     </loc>
@@ -2950,6 +3423,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX908</json>
+      <voln>23</voln>
       <psection>'a-nya</psection>
       <p>1b1-16a4</p>
     </loc>
@@ -2966,10 +3440,28 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX908</json>
+      <voln>23</voln>
       <psection>'a-ta</psection>
       <p>1b1-8a4</p>
     </loc>
     <tib>rdo rje gsangs ba chen po'i sku rin po che dbyig gi sgron ma shes rab chen po'i mdo</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk023.008</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX908</json>
+      <voln>23</voln>
+      <psection>'a-tha</psection>
+      <p>1b1-3b6</p>
+    </loc>
+    <tib/>
     <skttrans/>
     <note/>
     <coloph/>
@@ -2982,6 +3474,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX908</json>
+      <voln>23</voln>
       <psection>'a-pha</psection>
       <p>1b1-8b4</p>
     </loc>
@@ -2998,6 +3491,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX908</json>
+      <voln>23</voln>
       <psection>'a-ba</psection>
       <p>1b1-80b4</p>
     </loc>
@@ -3014,6 +3508,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX908</json>
+      <voln>23</voln>
       <psection>'a-ma</psection>
       <p>1b1-20a6</p>
     </loc>
@@ -3030,6 +3525,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX909</json>
+      <voln>24</voln>
       <psection>ya-ga</psection>
       <p>1b1-17b2</p>
     </loc>
@@ -3046,6 +3542,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX909</json>
+      <voln>24</voln>
       <psection>ya-nga</psection>
       <p>1b1-36b3</p>
     </loc>
@@ -3062,6 +3559,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX909</json>
+      <voln>24</voln>
       <psection>ya-ta</psection>
       <p>1b1-13b6</p>
     </loc>
@@ -3078,6 +3576,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX909</json>
+      <voln>24</voln>
       <psection>ya-tha</psection>
       <p>1b1-11b7</p>
     </loc>
@@ -3094,6 +3593,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX909</json>
+      <voln>24</voln>
       <psection>ya-da</psection>
       <p>1b1-3b4</p>
     </loc>
@@ -3110,6 +3610,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX909</json>
+      <voln>24</voln>
       <psection>ya-na</psection>
       <p>1b1-23a4</p>
     </loc>
@@ -3126,6 +3627,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX909</json>
+      <voln>24</voln>
       <psection>ya-pa</psection>
       <p>1b1-6a7</p>
     </loc>
@@ -3142,6 +3644,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX909</json>
+      <voln>24</voln>
       <psection>ya-pha</psection>
       <p>1b1-9b4</p>
     </loc>
@@ -3158,10 +3661,28 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX909</json>
+      <voln>24</voln>
       <psection>ya-ba</psection>
       <p>1b1-17a4</p>
     </loc>
     <tib>ma mo srid pa zla gsang thig le'i rgyud</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk024.010</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX909</json>
+      <voln>24</voln>
+      <psection>ya-ma</psection>
+      <p>1b1-120b3</p>
+    </loc>
+    <tib/>
     <skttrans/>
     <note/>
     <coloph/>
@@ -3174,10 +3695,45 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX909</json>
+      <voln>24</voln>
       <psection>ya-tsa</psection>
       <p>1b1-58b5</p>
     </loc>
     <tib>rgyud lung byang skor rtsa rgyud</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk024.012</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX909</json>
+      <voln>24</voln>
+      <psection>ya-tsha</psection>
+      <p>1b1-11b4</p>
+    </loc>
+    <tib/>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk024.013</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX909</json>
+      <voln>24</voln>
+      <psection>ya-dza</psection>
+      <p>1b1-24a6</p>
+    </loc>
+    <tib/>
     <skttrans/>
     <note/>
     <coloph/>
@@ -3190,6 +3746,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX909</json>
+      <voln>24</voln>
       <psection>ya-za</psection>
       <p>1b1-26b5</p>
     </loc>
@@ -3206,6 +3763,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX909</json>
+      <voln>24</voln>
       <psection>ya-'a</psection>
       <p>1b1-28a3</p>
     </loc>
@@ -3222,10 +3780,28 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX909</json>
+      <voln>24</voln>
       <psection>ya-ya</psection>
       <p>1b1-12b7</p>
     </loc>
     <tib>snying tig bkol ba'i rgyud 'ug pa'i gdong can</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk024.017</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX909</json>
+      <voln>24</voln>
+      <psection>ya-ra</psection>
+      <p>1b1-11b2</p>
+    </loc>
+    <tib/>
     <skttrans/>
     <note/>
     <coloph/>
@@ -3238,6 +3814,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX915</json>
+      <voln>30</voln>
       <psection>a-ka</psection>
       <p>1b1-10a2</p>
     </loc>
@@ -3254,6 +3831,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX915</json>
+      <voln>30</voln>
       <psection>a-ca</psection>
       <p>1b1-34a3</p>
     </loc>
@@ -3270,6 +3848,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX915</json>
+      <voln>30</voln>
       <psection>a-cha</psection>
       <p>1b1-11b5</p>
     </loc>
@@ -3286,6 +3865,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX915</json>
+      <voln>30</voln>
       <psection>a-ja</psection>
       <p>1b1-6a6</p>
     </loc>
@@ -3302,6 +3882,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX915</json>
+      <voln>30</voln>
       <psection>a-nya</psection>
       <p>1b1-14b1</p>
     </loc>
@@ -3318,6 +3899,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX915</json>
+      <voln>30</voln>
       <psection>a-ta</psection>
       <p>1b1-24b4</p>
     </loc>
@@ -3334,6 +3916,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX915</json>
+      <voln>30</voln>
       <psection>a-tha</psection>
       <p>1b1-10a6</p>
     </loc>
@@ -3350,10 +3933,28 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX915</json>
+      <voln>30</voln>
       <psection>a-ba</psection>
       <p>1b1-46b7</p>
     </loc>
     <tib>bdud bya rog mgo brtsegs gsang ba sgrol byed kyi rgyal po ki kang rog ti'i mdo snying gzer nag po'i rgyud chen po</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk030.009</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX915</json>
+      <voln>30</voln>
+      <psection>a-ma</psection>
+      <p>1b1-79b1</p>
+    </loc>
+    <tib/>
     <skttrans/>
     <note/>
     <coloph/>
@@ -3366,6 +3967,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX915</json>
+      <voln>30</voln>
       <psection>a-tsa</psection>
       <p>1b1-45b6</p>
     </loc>
@@ -3382,6 +3984,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX916</json>
+      <voln>31</voln>
       <psection>ka</psection>
       <p>1b1-11b4</p>
     </loc>
@@ -3398,6 +4001,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX916</json>
+      <voln>31</voln>
       <psection>kha</psection>
       <p>1b1-22a6</p>
     </loc>
@@ -3414,6 +4018,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX916</json>
+      <voln>31</voln>
       <psection>ga</psection>
       <p>1b1-15b6</p>
     </loc>
@@ -3430,6 +4035,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX916</json>
+      <voln>31</voln>
       <psection>nga</psection>
       <p>1b1-28a3</p>
     </loc>
@@ -3446,6 +4052,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX916</json>
+      <voln>31</voln>
       <psection>ca</psection>
       <p>1b1-24a4</p>
     </loc>
@@ -3462,6 +4069,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX916</json>
+      <voln>31</voln>
       <psection>cha</psection>
       <p>1b1-15a4</p>
     </loc>
@@ -3478,6 +4086,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX916</json>
+      <voln>31</voln>
       <psection>ja</psection>
       <p>1b1-7a4</p>
     </loc>
@@ -3494,6 +4103,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX916</json>
+      <voln>31</voln>
       <psection>nya</psection>
       <p>1b1-5b4</p>
     </loc>
@@ -3510,6 +4120,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX916</json>
+      <voln>31</voln>
       <psection>ta</psection>
       <p>1b1-7b5</p>
     </loc>
@@ -3526,10 +4137,198 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX916</json>
+      <voln>31</voln>
       <psection>tha</psection>
       <p>1b1-5a3</p>
     </loc>
     <tib>bla ma dgongs pa 'dus pa las/ dad rtson dang ldan pa'i skyes bus rgyud 'chang ba'i thabs dang rgyud kyi che ba bstan pa</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk031.011</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX916</json>
+      <voln>31</voln>
+      <psection>da</psection>
+      <p>1b1-97b6</p>
+    </loc>
+    <tib/>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk031.012</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX916</json>
+      <voln>31</voln>
+      <psection>na</psection>
+      <p>1b1-4b2</p>
+    </loc>
+    <tib>bla ma dgongs pa 'dus pa las/ don bsdus thugs kyi snying po</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk031.013</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX916</json>
+      <voln>31</voln>
+      <psection>pa</psection>
+      <p>1b1-16b3</p>
+    </loc>
+    <tib>bla ma dgongs pa 'dus pa las/ rtsod song lung gi bang mdzod</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk031.014</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX916</json>
+      <voln>31</voln>
+      <psection>pha</psection>
+      <p>1b1-67a5</p>
+    </loc>
+    <tib>bla ma dgongs pa 'dus pa las/ theg pa spyi'i rnam bshad rgyan gyi 'khor lo</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk031.015</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX916</json>
+      <voln>31</voln>
+      <psection>ba</psection>
+      <p>1b1-16b1</p>
+    </loc>
+    <tib>bla ma dgongs pa 'dus pa'i skyed rdzogs zung ngag gi man ngag la rgyab chos spar khab 'du 'dzin</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk031.016</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX916</json>
+      <voln>31</voln>
+      <psection>ma</psection>
+      <p>1b1-12a7</p>
+    </loc>
+    <tib>bla ma dgongs pa 'dus pa kas/ 'dra min shan 'byed sun 'byin</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk031.017</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX916</json>
+      <voln>31</voln>
+      <psection>tsa</psection>
+      <p>1b1-25a6</p>
+    </loc>
+    <tib>bla ma dgongs pa 'dus pa las/ yid ches khungs btsn pa'i lo rgyus shel gyis me long</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk031.018</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX916</json>
+      <voln>31</voln>
+      <psection>tsha</psection>
+      <p>1b1-8b2</p>
+    </loc>
+    <tib>bla ma dgongs pa 'dus pa las/ nges shes spro ba bskyed pa gtam rgyud kyi phreng bar gdams pa</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk031.019</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX916</json>
+      <voln>31</voln>
+      <psection>dza</psection>
+      <p>1b1-29b5</p>
+    </loc>
+    <tib>bla ma dgongs pa 'dus pa las/ khyad par chos spyod khrid yig lam rims 'od kyi dra ba</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk031.020</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX916</json>
+      <voln>31</voln>
+      <psection>wa</psection>
+      <p>1b1-7b7</p>
+    </loc>
+    <tib>bla ma sbrul sku sangs rgyas gling pa'i gter 'byung gi lo rgyus lags so</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk031.021</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX916</json>
+      <voln>31</voln>
+      <psection>zha</psection>
+      <p>1b1-30a7</p>
+    </loc>
+    <tib>sangs rgyas gling pa'i gter ston tshul gyi rims pa bsdus pa cig</tib>
     <skttrans/>
     <note/>
     <coloph/>
@@ -3542,6 +4341,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX917</json>
+      <voln>32</voln>
       <psection>ka</psection>
       <p>1b1-191b4</p>
     </loc>
@@ -3558,6 +4358,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX917</json>
+      <voln>32</voln>
       <psection>kha</psection>
       <p>1b1-29a7</p>
     </loc>
@@ -3574,6 +4375,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX917</json>
+      <voln>32</voln>
       <psection>ga</psection>
       <p>1b1-89a4</p>
     </loc>
@@ -3590,6 +4392,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX917</json>
+      <voln>32</voln>
       <psection>nga</psection>
       <p>1b1-34b5</p>
     </loc>
@@ -3606,6 +4409,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX917</json>
+      <voln>32</voln>
       <psection>ca</psection>
       <p>1b1-19b1</p>
     </loc>
@@ -3622,6 +4426,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX917</json>
+      <voln>32</voln>
       <psection>cha</psection>
       <p>1b1-40b4</p>
     </loc>
@@ -3638,6 +4443,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX917</json>
+      <voln>32</voln>
       <psection>ja</psection>
       <p>1b1-14a1</p>
     </loc>
@@ -3654,6 +4460,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX917</json>
+      <voln>32</voln>
       <psection>nya</psection>
       <p>1b1-46a3</p>
     </loc>
@@ -3670,6 +4477,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX917</json>
+      <voln>32</voln>
       <psection>ta</psection>
       <p>1b1-45b3</p>
     </loc>
@@ -3687,6 +4495,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX917</json>
+      <voln>32</voln>
       <psection>tha</psection>
       <p>1b1-15a8</p>
     </loc>
@@ -3703,6 +4512,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX917</json>
+      <voln>32</voln>
       <psection>da</psection>
       <p>1b1-16a2</p>
     </loc>
@@ -3719,6 +4529,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX917</json>
+      <voln>32</voln>
       <psection>na</psection>
       <p>1b1-69b3</p>
     </loc>
@@ -3735,6 +4546,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX917</json>
+      <voln>32</voln>
       <psection>pa</psection>
       <p>1b1-13a3</p>
     </loc>
@@ -3751,6 +4563,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX917</json>
+      <voln>32</voln>
       <psection>pha</psection>
       <p>1b1-37a3</p>
     </loc>
@@ -3767,10 +4580,28 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX917</json>
+      <voln>32</voln>
       <psection>ba</psection>
       <p>1b1-14a4</p>
     </loc>
     <tib>ngo sprod rin po che spras pa zhing khams bstan pa'i rgyud</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk032.016</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX917</json>
+      <voln>32</voln>
+      <psection>ma</psection>
+      <p>1b1-19a2</p>
+    </loc>
+    <tib>rin po che dpungs pa'i ston chen po ston pa'i rgyud kyi rgyal po</tib>
     <skttrans/>
     <note/>
     <coloph/>
@@ -3783,6 +4614,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX917</json>
+      <voln>32</voln>
       <psection>tsa</psection>
       <p>1b1-141a8</p>
     </loc>
@@ -3799,6 +4631,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX917</json>
+      <voln>32</voln>
       <psection>la</psection>
       <p>1b1-17a4</p>
     </loc>
@@ -3815,6 +4648,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX918</json>
+      <voln>33</voln>
       <psection>pha</psection>
       <p>1b1-49b3</p>
     </loc>
@@ -3831,6 +4665,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX918</json>
+      <voln>33</voln>
       <psection>pha2</psection>
       <p>1b1-93a4</p>
     </loc>
@@ -3847,6 +4682,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX918</json>
+      <voln>33</voln>
       <psection>ta</psection>
       <p>1b1-57b4</p>
     </loc>
@@ -3863,6 +4699,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX918</json>
+      <voln>33</voln>
       <psection>nya</psection>
       <p>1b1-45b1</p>
     </loc>
@@ -3879,6 +4716,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX918</json>
+      <voln>33</voln>
       <psection>nya2</psection>
       <p>1b1-149b1</p>
     </loc>
@@ -3895,6 +4733,7 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX918</json>
+      <voln>33</voln>
       <psection>nya3</psection>
       <p>1b1-91a4</p>
     </loc>
@@ -3911,10 +4750,79 @@
     <loc>
       <set>W1BL6</set>
       <json>1BLX918</json>
+      <voln>33</voln>
       <psection>nya4</psection>
       <p>1b1-25b4</p>
     </loc>
     <tib>bcom ldan 'das de bzhin gshegs pa zla gsang chen po</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk034.001</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX919</json>
+      <voln>34</voln>
+      <psection>1</psection>
+      <p>1b1-40b7</p>
+    </loc>
+    <tib>yang dkon chos rje'i mdzang ba'i bar do 'phrang bsgrol</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk034.002</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX919</json>
+      <voln>34</voln>
+      <psection>2</psection>
+      <p>1b1-17b7</p>
+    </loc>
+    <tib>yang dkon chos rje'i mdzang ba'i bar do 'phrang bsgrol</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk034.003</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX919</json>
+      <voln>34</voln>
+      <psection>3</psection>
+      <p>1b1-10b7</p>
+    </loc>
+    <tib>yang dkon chos rje'i mdzang ba'i bar do 'phrang bsgrol</tib>
+    <skttrans/>
+    <note/>
+    <coloph/>
+    <coltitle/>
+    <margin/>
+  </item>
+  <item>
+    <rkts/>
+    <ref>Ggk034.004</ref>
+    <loc>
+      <set>W1BL6</set>
+      <json>1BLX919</json>
+      <voln>34</voln>
+      <psection>4</psection>
+      <p>1b1-7b7</p>
+    </loc>
+    <tib>yang dkon chos rje'i mdzang ba'i bar do 'phrang bsgrol</tib>
     <skttrans/>
     <note/>
     <coloph/>
