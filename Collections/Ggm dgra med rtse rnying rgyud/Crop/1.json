@@ -1,0 +1,772 @@
+{
+  "checked": true,
+  "files": [
+    {
+      "height": 800,
+      "img_path": "1.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            585.064453125,
+            254.05007934570312,
+            1105.090087890625,
+            294.80328369140625,
+            -0.25101470947265625
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            587.8601684570312,
+            545.0922241210938,
+            1102.089111328125,
+            287.3822021484375,
+            0.08208558708429337
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Ggm/V1/1.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 768
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Ggm/V1/1.jpg.jpg",
+      "width": 1200
+    },
+    {
+      "height": 800,
+      "img_path": "2.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            588.4929809570312,
+            247.9654541015625,
+            1093.38916015625,
+            287.3983459472656,
+            -0.0921173095703125
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            588.0595092773438,
+            545.4368286132812,
+            1098.145263671875,
+            288.3305969238281,
+            -0.083160400390625
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Ggm/V1/2.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 768
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Ggm/V1/2.jpg.jpg",
+      "width": 1200
+    },
+    {
+      "height": 800,
+      "img_path": "3.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            589.2481689453125,
+            249.6355438232422,
+            1100.5899658203125,
+            288.9012451171875,
+            -0.3015594482421875
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            587.1670081967213,
+            550,
+            1096.72131147541,
+            296.72131147540983,
+            0
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Ggm/V1/3.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "selected": 1,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 768
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Ggm/V1/3.jpg.jpg",
+      "width": 1200
+    },
+    {
+      "height": 800,
+      "img_path": "4.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            591.5889892578125,
+            247.40939331054688,
+            1101.1898193359375,
+            288.4327392578125,
+            -0.08161163330078125
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            584.0657958984375,
+            545.3504028320312,
+            1099.2244873046875,
+            288.8308410644531,
+            -0.27154541015625
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Ggm/V1/4.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 768
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Ggm/V1/4.jpg.jpg",
+      "width": 1200
+    },
+    {
+      "height": 800,
+      "img_path": "5.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            593.4075927734375,
+            250.2313232421875,
+            1100.4093017578125,
+            289.7037658691406,
+            -0.3084564208984375
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            586.4998779296875,
+            545.5,
+            1100.999755859375,
+            288.99993896484375,
+            0
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Ggm/V1/5.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 768
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Ggm/V1/5.jpg.jpg",
+      "width": 1200
+    },
+    {
+      "height": 800,
+      "img_path": "6.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            590.5,
+            246.5,
+            1103,
+            289,
+            0
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            586.5,
+            546,
+            1098.999755859375,
+            291.99993896484375,
+            0
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Ggm/V1/6.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 768
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Ggm/V1/6.jpg.jpg",
+      "width": 1200
+    },
+    {
+      "height": 800,
+      "img_path": "7.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            594.0765991210938,
+            249.27737426757812,
+            1102.8330078125,
+            288.5511474609375,
+            -0.31830596923828125
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            570.5,
+            558,
+            1069,
+            262,
+            0
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Ggm/V1/7.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 768
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Ggm/V1/7.jpg.jpg",
+      "width": 1200
+    },
+    {
+      "height": 800,
+      "img_path": "8.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            589.9998779296875,
+            246.99996948242188,
+            1103.999755859375,
+            287.99993896484375,
+            0
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            584,
+            560.5,
+            1071.999755859375,
+            262.99993896484375,
+            0
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Ggm/V1/8.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 768
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Ggm/V1/8.jpg.jpg",
+      "width": 1200
+    },
+    {
+      "height": 800,
+      "img_path": "9.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            581.5244140625,
+            259.5417175292969,
+            1065.2032470703125,
+            267.7174987792969,
+            -0.5096054077148438
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            576.7208862304688,
+            560.8724365234375,
+            1066.79736328125,
+            277.66094970703125,
+            -0.27880859375
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Ggm/V1/9.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 768
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Ggm/V1/9.jpg.jpg",
+      "width": 1200
+    },
+    {
+      "height": 800,
+      "img_path": "10.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            580.7924194335938,
+            257.004638671875,
+            1068.321533203125,
+            266.80328369140625,
+            0.2068430632352829
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            575.6676635742188,
+            557.3110961914062,
+            1070.5654296875,
+            275.791259765625,
+            0.29382193088531494
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Ggm/V1/10.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 768
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Ggm/V1/10.jpg.jpg",
+      "width": 1200
+    },
+    {
+      "height": 800,
+      "img_path": "11.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            597.0034790039062,
+            254.51296997070312,
+            1065.587890625,
+            269.3709411621094,
+            -0.37204742431640625
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            590.405029296875,
+            552.8642578125,
+            1067.1578369140625,
+            267.9472961425781,
+            -0.1354522705078125
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Ggm/V1/11.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 768
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Ggm/V1/11.jpg.jpg",
+      "width": 1200
+    },
+    {
+      "height": 800,
+      "img_path": "12.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            592.5,
+            253,
+            1063,
+            268,
+            0
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            589.2005615234375,
+            573.0271606445312,
+            1068.0904541015625,
+            311.1112060546875,
+            -0.10158538818359375
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Ggm/V1/12.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 768
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Ggm/V1/12.jpg.jpg",
+      "width": 1200
+    },
+    {
+      "height": 800,
+      "img_path": "13.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            598.1805419921875,
+            255.68496704101562,
+            1067.2261962890625,
+            269.305419921875,
+            -0.41042327880859375
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            590.5,
+            551.5,
+            1065,
+            267,
+            0
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Ggm/V1/13.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 768
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Ggm/V1/13.jpg.jpg",
+      "width": 1200
+    },
+    {
+      "height": 800,
+      "img_path": "14.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            597.4049072265625,
+            253.0653076171875,
+            1069.1085205078125,
+            266.899169921875,
+            0.07207012921571732
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            595,
+            565,
+            1070,
+            296,
+            0
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Ggm/V1/14.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 768
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Ggm/V1/14.jpg.jpg",
+      "width": 1200
+    },
+    {
+      "height": 800,
+      "img_path": "15.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            598.6195678710938,
+            255.72509765625,
+            1069.033447265625,
+            267.6260070800781,
+            -0.4421844482421875
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            594.9166259765625,
+            554.741943359375,
+            1070.2445068359375,
+            276.8849792480469,
+            0.19689194858074188
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Ggm/V1/15.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 768
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Ggm/V1/15.jpg.jpg",
+      "width": 1200
+    },
+    {
+      "height": 800,
+      "img_path": "16.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            597.3638305664062,
+            253.55035400390625,
+            1067.206787109375,
+            266.8780517578125,
+            0.1416456550359726
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            594.8455200195312,
+            550.5680541992188,
+            1070.0506591796875,
+            268.13323974609375,
+            0.08500851690769196
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Ggm/V1/16.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 768
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Ggm/V1/16.jpg.jpg",
+      "width": 1200
+    },
+    {
+      "height": 800,
+      "img_path": "17.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            599.3941650390625,
+            255.31271362304688,
+            1067.48486328125,
+            266.55780029296875,
+            -0.27948760986328125
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            594.0142211914062,
+            551.0957641601562,
+            1072.0303955078125,
+            267.4568176269531,
+            0.07460383325815201
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Ggm/V1/17.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 768
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Ggm/V1/17.jpg.jpg",
+      "width": 1200
+    },
+    {
+      "height": 800,
+      "img_path": "18.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            598.84228515625,
+            252.72238159179688,
+            1070.517578125,
+            267.7200622558594,
+            0.20438358187675476
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            594,
+            551,
+            1072,
+            268,
+            0
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Ggm/V1/18.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 768
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Ggm/V1/18.jpg.jpg",
+      "width": 1200
+    },
+    {
+      "height": 800,
+      "img_path": "19.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            598.8969116210938,
+            254.4923095703125,
+            1066.0560302734375,
+            267.57269287109375,
+            -0.23197174072265625
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            590.5,
+            551.5,
+            1064.999755859375,
+            268.99993896484375,
+            0
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Ggm/V1/19.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 768
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Ggm/V1/19.jpg.jpg",
+      "width": 1200
+    },
+    {
+      "height": 800,
+      "img_path": "20.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            592.4664306640625,
+            254.05120849609375,
+            1073.0172119140625,
+            267.11810302734375,
+            0.05644902214407921
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            590.138671875,
+            553.897705078125,
+            1071.9056396484375,
+            275.3311767578125,
+            -0.0999908447265625
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Ggm/V1/20.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 768
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Ggm/V1/20.jpg.jpg",
+      "width": 1200
+    },
+    {
+      "height": 800,
+      "img_path": "21.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            596.4124145507812,
+            252.62081909179688,
+            1063.4261474609375,
+            269.2830810546875,
+            -0.14395904541015625
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            589,
+            550,
+            1058,
+            270,
+            0
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Ggm/V1/21.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 768
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Ggm/V1/21.jpg.jpg",
+      "width": 1200
+    }
+  ],
+  "folder_path": "BrunoEAP/Ggm/V1/",
+  "options_list": [
+    {
+      "cutAtFixed": false,
+      "direc": "horizontal",
+      "expandToFixed": false,
+      "fixedHeight": -1,
+      "fixedWidth": -1,
+      "maxAreaRatio": 0.3772,
+      "maxRatio": 4.4482,
+      "minAreaRatio": 0.2788,
+      "minRatio": 3.2878,
+      "minSquarish": 0.8,
+      "nbPages": 2,
+      "orient": "custom"
+    }
+  ],
+  "pages_order": false,
+  "preprocess_run": {
+    "date": "2024-06-21T10:11:33.690494",
+    "preprocess_options": {
+      "grayscale_thumbnail": false,
+      "pps": 8,
+      "pre_rotate": 0,
+      "sam_resize": 1024,
+      "thumbnail_resize": 512,
+      "use_exif_rotation": false
+    },
+    "version": "0.0.1"
+  },
+  "scam_runs": []
+}

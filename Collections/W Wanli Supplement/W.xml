@@ -508,7 +508,7 @@
 <ref>W23.12</ref>
 <loc><set>MWSBB_WKG</set><vol>Pantheon23</vol><voln>23</voln><json>Pantheon23</json><psection>2</psection><p>301b4-329a6</p></loc>
 <tib>dpal phyag rgya chen po'i thig le zhes bya ba rnal 'byor ma chen mo'i rgyud kyi rgyal po'i mnga' bdag</tib>
-<skttrans>shrI ma hA mu drA ti la kaM nA ma ma hA yo gi nI tan tra rA dza a thi rA dzaM</skttrans>
+<skttrans>shrI ma hA mu drA ti la kaM nA ma ma hA yo gi nI tan t+ra rA dza a thi rA dzaM</skttrans>
 <coloph></coloph>
 <note></note>
 </item>
@@ -518,7 +518,7 @@
 <ref>W24.1</ref>
 <loc><set>MWSBB_WKG</set><vol>Pantheon24</vol><voln>24</voln><json>Pantheon24</json><psection>1</psection><p>1b1-4a8</p></loc>
 <tib>dpal gsang ba rdo rje rgyud kyi rgyal po</tib>
-<skttrans>shrI gu h+ya badzra tan tra rA dza</skttrans>
+<skttrans>shrI gu h+ya badzra tan t+ra rA dza</skttrans>
 <coloph></coloph>
 <note></note>
 </item>
@@ -528,7 +528,7 @@
 <ref>W24.2</ref>
 <loc><set>MWSBB_WKG</set><vol>Pantheon24</vol><voln>24</voln><json>Pantheon24</json><psection>1</psection><p>4a8-13a3</p></loc>
 <tib>dpal gsang ba thams cad gcod pa'i rgyud kyi rgyal po</tib>
-<skttrans>shrI gu h+ya sarba ts+tshin d+ha tan tra rA dzA</skttrans>
+<skttrans>shrI gu h+ya sarba ts+tshin d+ha tan t+ra rA dzA</skttrans>
 <coloph></coloph>
 <note></note>
 </item>
@@ -538,61 +538,21 @@
 <ref>W24.3</ref>
 <loc><set>MWSBB_WKG</set><vol>Pantheon24</vol><voln>24</voln><json>Pantheon24</json><psection>1</psection><p>13a4-16b4</p></loc>
 <tib>dpal 'khor lo sdom pa'i gsang ba bsam gyis mi khyab pa'i rgyud kyi rgyal po</tib>
-<skttrans>shrI tsakra saM ba ra gu h+ya a tsin+ta tan tra rA dzA</skttrans>
-<coloph></coloph>
-<note></note>
-</item>
-
-<item>
-<rkts>386</rkts>
-<ref>W24.4</ref>
-<loc><set>MWSBB_WKG</set><vol>Pantheon24</vol><voln>24</voln><json>Pantheon24</json><psection>1</psection><p>16b4-19a7</p></loc>
-<tib>dpal nam mkha' dang mnyam pa'i rgyud kyi rgyal po</tib>
-<skttrans>shrI khA sa ma tan tra rA dza nA ma</skttrans>
-<coloph></coloph>
-<note></note>
-</item>
-
-<item>
-<rkts>387</rkts>
-<ref>W24.5</ref>
-<loc><set>MWSBB_WKG</set><vol>Pantheon24</vol><voln>24</voln><json>Pantheon24</json><psection>1</psection><p>19a7-20b7</p></loc>
-<tib>dpal nam mkha' chen po'i rgyud kyi rgyal po</tib>
-<skttrans>shrI ma hA khA sa  ma tan tra rA dza</skttrans>
-<coloph></coloph>
-<note></note>
-</item>
-
-<item>
-<rkts>388</rkts>
-<ref>W24.6</ref>
-<loc><set>MWSBB_WKG</set><vol>Pantheon24</vol><voln>24</voln><json>Pantheon24</json><psection>1</psection><p>20b7-25b8</p></loc>
-<tib>dpal sku gsung thugs kyi rgyud kyi rgyal po</tib>
-<skttrans>shrI kA ya bA tsit+ta tan tra rA dzA</skttrans>
-<coloph></coloph>
-<note></note>
-</item>
-
-<item>
-<rkts>389</rkts>
-<ref>W24.7</ref>
-<loc><set>MWSBB_WKG</set><vol>Pantheon24</vol><voln>24</voln><json>Pantheon24</json><psection>1</psection><p>26a1-31a6</p></loc>
-<tib>dpal rin chen phreng ba'i rgyud kyi rgyal po</tib>
-<skttrans>shrI rad na mA le tan tra rA dzA</skttrans>
-<coloph></coloph>
-<note></note>
-</item>
-
-<item>
-<rkts>390</rkts>
-<ref>W24.8</ref>
-<loc><set>MWSBB_WKG</set><vol>Pantheon24</vol><voln>24</voln><json>Pantheon24</json><psection>1</psection><p>31a6-33b6</p></loc>
-<tib>dpal dam tshig chen po'i rgyud kyi rgyal po</tib>
-<skttrans>shrI ma hA sa mA ya tan tra rA dzA nA ma</skttrans>
+<skttrans>shrI tsakra saM ba ra gu h+ya a tsin+ta tan t+ra rA dzA</skttrans>
 <coloph></coloph>
 <note></note>
 </item>
 ###
+<item>
+<rkts>386</rkts>
+<ref>W24.4</ref>
+<loc><set>MWSBB_WKG</set><vol>Pantheon24</vol><voln>24</voln><json>Pantheon24</json><psection>1</psection><p>16b4-</p></loc>
+<tib></tib>
+<skttrans></skttrans>
+<coloph></coloph>
+<note></note>
+</item>
+
 <item>
 <rkts></rkts>
 <ref>W25.1</ref>

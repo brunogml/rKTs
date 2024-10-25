@@ -1,5 +1,6 @@
+<?xml version="1.0"?>
 <outline>
-<creator type="hasScribe">Bruno Lainé</creator>
+<creator type="hasScribe">Bruno Lain&#xE9;</creator>
 Narthang Kanjur
 
 <item>
@@ -84,7 +85,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>'dul ba, na</vol><voln>12</voln><json>5415</json><psection>'dul ba</psection><p>1b1-139a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>'dul ba, na</vol><voln>12</voln><json>2KG212570</json><psection>'dul ba</psection><p>1b1-139a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -156,7 +157,7 @@ Narthang Kanjur
 	<loc><set>MW2KG5014</set><vol>khri brgyad, kha</vol><voln>30</voln><json>2KG212588</json><psection>khri brgyad</psection><p>1b1-545b7</p></loc>
 <loc><set>MW22703</set><vol>khri brgyad, ga</vol><voln>31</voln><json>5434</json><psection>khri brgyad</psection><p>1b1-213a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>khri brgyad, ga</vol><voln>31</voln><json>2KG212589</json><psection>khri brgyad</psection><p>1b1-213a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -936,8 +937,8 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>mdo sde, ga</vol><voln>49</voln><json>5452</json><psection>mdo sde</psection><p>416b2-466a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>mdo sde, ga</vol><voln>49</voln><json>2KG212607</json><psection>mdo sde</psection><p>416b2-466a6</p></loc>
-<coloph>'phags pa sangs rgyas thams cad kyi yul la 'jug pa ye shes snang ba'i rgyan ces bya ba theg pa chen po'i mdo rdzogs so/ /rgya gar gyi mkhan po su ren dra bo d+hi dang / zhu chen gyi lo tsA ba ban+de ye shes sde la sogs pas bsgyur cing zhus te gtan la phab pa/ zhus dag</coloph>		
-</item>		
+<coloph>'phags pa sangs rgyas thams cad kyi yul la 'jug pa ye shes snang ba'i rgyan ces bya ba theg pa chen po'i mdo rdzogs so/ /rgya gar gyi mkhan po su ren+d+ra bo d+hi dang / zhu chen gyi lo tsA ba ban+de ye shes sde la sogs pas bsgyur cing zhus te gtan la phab pa/ zhus dag</coloph>		
+<translator>rgya gar gyi mkhan po su ren+d+ra bo d+hi<rid>bdr:P8228</rid></translator><translator>zhu chen gyi lo tsA ba ban+de ye shes sde<rid>bdr:P8205</rid></translator></item>		
 		
 <item>		
 <rkts>101</rkts>		
@@ -1174,8 +1175,8 @@ Narthang Kanjur
 <ref>N112</ref>		
 <tib>gser gyi mdo dang</tib>		
 <skttrans>-</skttrans>		
-<loc><set>MW22703</set><vol>mdo sde, nya</vol><voln>54</voln><json>5457</json><psection>mdo sde</psection><p>456b4-457a</p></loc>
-	<loc><set>MW2KG5014</set><vol>mdo sde, nya</vol><voln>54</voln><json>2KG212612</json><psection>mdo sde</psection><p>456b4-457a</p></loc>
+<loc><set>MW22703</set><vol>mdo sde, nya</vol><voln>54</voln><json>5457</json><psection>mdo sde</psection><p>456b4-457a6</p></loc>
+	<loc><set>MW2KG5014</set><vol>mdo sde, nya</vol><voln>54</voln><json>2KG212612</json><psection>mdo sde</psection><p>456b4-457a6</p></loc>
 <coloph>'phags pa gser gyi mdo zhes bya ba theg pa chen po'i mdo rdzogs so</coloph>		
 </item>		
 		
@@ -1324,8 +1325,8 @@ Narthang Kanjur
 <ref>N127</ref>		
 <tib>sgo mtha' yas pa sgrub pa'i gzungs</tib>		
 <skttrans>-</skttrans>		
-<loc><set>MW22703</set><vol>mdo sde, tha</vol><voln>56</voln><json>5459</json><psection>mdo sde</psection><p>474b1-489a</p></loc>
-	<loc><set>MW2KG5014</set><vol>mdo sde, tha</vol><voln>56</voln><json>2KG212614</json><psection>mdo sde</psection><p>474b1-489a</p></loc>
+<loc><set>MW22703</set><vol>mdo sde, tha</vol><voln>56</voln><json>5459</json><psection>mdo sde</psection><p>474b1-489a2</p></loc>
+	<loc><set>MW2KG5014</set><vol>mdo sde, tha</vol><voln>56</voln><json>2KG212614</json><psection>mdo sde</psection><p>474b1-489a2</p></loc>
 <coloph>'phags pa sgo mtha' yas pa sgrub pa zhes bya ba'i gzungs rdzogs so</coloph>		
 </item>		
 		
@@ -1387,7 +1388,7 @@ Narthang Kanjur
 <loc><set>MW22703</set><vol>mdo sde, da</vol><voln>57</voln><json>5460</json><psection>mdo sde</psection><p>154b6-321a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>mdo sde, da</vol><voln>57</voln><json>2KG212615</json><psection>mdo sde</psection><p>154b6-321a5</p></loc>
 <coloph>'phags pa de bzhin gshegs pa'i snying rje chen po bstan pa zhes bya ba theg pa chen po'i mdo rdzogs so/ /rgya gar gyi mkhan po shI len dra bo d+hi dang / zhu chen gyi lo ts+tsha ba ban+de ye shes sdes bsgyur cing zhus te/ skad gsar bcad kyis kyang bcos nas gtan la phab pa</coloph>		
-</item>		
+<translator>rgya gar gyi mkhan po shI len dra bo d+hi<rid>bdr:P8201</rid></translator><translator>zhu chen gyi lo ts+tsha ba ban+de ye shes sde<rid>bdr:P8205</rid></translator></item>		
 		
 <item>		
 <rkts>148</rkts>		
@@ -1416,8 +1417,8 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>mdo sde, da</vol><voln>57</voln><json>5460</json><psection>mdo sde</psection><p>472a2-473a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>mdo sde, da</vol><voln>57</voln><json>2KG212615</json><psection>mdo sde</psection><p>472a2-473a4</p></loc>
-<coloph>'phags pa spyan ras gzigs dbang phyug gis zhus pa chos bdun pa zhes bya ba theg pa chen po'i mdo rdzogs so/ /rgya gar gyi mkhan po dI paM ka ra shrI dz+nyA na dang / lo ts+ts+tsha ba dge slong dge ba'i blo gros kyis bsgyur ba'o</coloph>		
-</item>		
+<coloph>'phags pa spyan ras gzigs dbang phyug gis zhus pa chos bdun pa zhes bya ba theg pa chen po'i mdo rdzogs so/ /rgya gar gyi mkhan po dI paM ka ra shrI dz+nyA na dang / lo ts+tsha ba dge slong dge ba'i blo gros kyis bsgyur ba'o</coloph>		
+<translator>rgya gar gyi mkhan po dI paM ka ra shrI dz+nyA na<rid>bdr:P3379</rid></translator><translator>lo ts+tsha ba dge slong dge ba'i blo gros<rid>bdr:P1242</rid></translator></item>		
 		
 <item>		
 <rkts>151</rkts>		
@@ -3092,7 +3093,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>mdo sde, la</vol><voln>72</voln><json>5475</json><psection>mdo sde</psection><p>295b1-303b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>mdo sde, la</vol><voln>72</voln><json>2KG212630</json><psection>mdo sde</psection><p>295b1-303b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3462,8 +3463,8 @@ Narthang Kanjur
 <ref>N340</ref>		
 <tib>thabs mkhas pa chen po sangs rgyas drin lan bsab pa'i mdo</tib>		
 <skttrans>-</skttrans>		
-<loc><set>MW22703</set><vol>mdo sde, a</vol><voln>76</voln><json>5479</json><psection>mdo sde</psection><p>132b2-303b</p></loc>
-	<loc><set>MW2KG5014</set><vol>mdo sde, a</vol><voln>76</voln><json>2KG212634</json><psection>mdo sde</psection><p>132b2-303b</p></loc>
+<loc><set>MW22703</set><vol>mdo sde, a</vol><voln>76</voln><json>5479</json><psection>mdo sde</psection><p>132b2-303b7</p></loc>
+	<loc><set>MW2KG5014</set><vol>mdo sde, a</vol><voln>76</voln><json>2KG212634</json><psection>mdo sde</psection><p>132b2-303b7</p></loc>
 <coloph>thabs mkhas pa chen po sangs rgyas drin lan bsab pa zhes bya ba'i mdo rdzogs so // rgya nag las bod du 'gyur ba la 'gyur gsar bcad ma byas pa'o //</coloph>		
 </item>		
 		
@@ -3664,7 +3665,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>mdo sde, ki</vol><voln>77</voln><json>5480</json><psection>mdo sde</psection><p>1b1-190a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>mdo sde, ki</vol><voln>77</voln><json>2KG212635</json><psection>mdo sde</psection><p>1b1-190a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3696,7 +3697,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ka</vol><voln>80</voln><json>5483</json><psection>rgyud</psection><p>18b6-28b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ka</vol><voln>80</voln><json>2KG212638</json><psection>rgyud</psection><p>18b6-28b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3706,7 +3707,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ka</vol><voln>80</voln><json>5483</json><psection>rgyud</psection><p>28b2-186a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ka</vol><voln>80</voln><json>2KG212638</json><psection>rgyud</psection><p>28b2-186a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3716,7 +3717,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ka</vol><voln>80</voln><json>5483</json><psection>rgyud</psection><p>186a6-210a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ka</vol><voln>80</voln><json>2KG212638</json><psection>rgyud</psection><p>186a6-210a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3726,7 +3727,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ka</vol><voln>80</voln><json>5483</json><psection>rgyud</psection><p>210a4-216b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ka</vol><voln>80</voln><json>2KG212638</json><psection>rgyud</psection><p>210a4-216b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3736,7 +3737,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ka</vol><voln>80</voln><json>5483</json><psection>rgyud</psection><p>216b1-277b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ka</vol><voln>80</voln><json>2KG212638</json><psection>rgyud</psection><p>216b1-277b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3746,7 +3747,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ka</vol><voln>80</voln><json>5483</json><psection>rgyud</psection><p>277b6-306b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ka</vol><voln>80</voln><json>2KG212638</json><psection>rgyud</psection><p>277b6-306b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3756,7 +3757,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ka</vol><voln>80</voln><json>5483</json><psection>rgyud</psection><p>306b6-352a1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ka</vol><voln>80</voln><json>2KG212638</json><psection>rgyud</psection><p>306b6-352a1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3766,7 +3767,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ka</vol><voln>80</voln><json>5483</json><psection>rgyud</psection><p>352a1-412b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ka</vol><voln>80</voln><json>2KG212638</json><psection>rgyud</psection><p>352a1-412b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3776,7 +3777,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ka</vol><voln>80</voln><json>5483</json><psection>rgyud</psection><p>412b5-455b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ka</vol><voln>80</voln><json>2KG212638</json><psection>rgyud</psection><p>412b5-455b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3786,7 +3787,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ka</vol><voln>80</voln><json>5483</json><psection>rgyud</psection><p>455b2-464b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ka</vol><voln>80</voln><json>2KG212638</json><psection>rgyud</psection><p>455b2-464b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3796,7 +3797,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ka</vol><voln>80</voln><json>5483</json><psection>rgyud</psection><p>465a1-527b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ka</vol><voln>80</voln><json>2KG212638</json><psection>rgyud</psection><p>465a1-527b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3806,7 +3807,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ka</vol><voln>80</voln><json>5483</json><psection>rgyud</psection><p>527b2-537</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ka</vol><voln>80</voln><json>2KG212638</json><psection>rgyud</psection><p>527b2-537</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3816,7 +3817,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, kha</vol><voln>81</voln><json>5484</json><psection>rgyud</psection><p>1b1-53a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, kha</vol><voln>81</voln><json>2KG212639</json><psection>rgyud</psection><p>1b1-53a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3826,7 +3827,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, kha</vol><voln>81</voln><json>5484</json><psection>rgyud</psection><p>53a7-245a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, kha</vol><voln>81</voln><json>2KG212639</json><psection>rgyud</psection><p>53a7-245a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3836,7 +3837,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, kha</vol><voln>81</voln><json>5484</json><psection>rgyud</psection><p>245a7-317b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, kha</vol><voln>81</voln><json>2KG212639</json><psection>rgyud</psection><p>245a7-317b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3846,7 +3847,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, kha</vol><voln>81</voln><json>5484</json><psection>rgyud</psection><p>317b2-513a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, kha</vol><voln>81</voln><json>2KG212639</json><psection>rgyud</psection><p>317b2-513a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3856,7 +3857,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ga</vol><voln>82</voln><json>5485</json><psection>rgyud</psection><p>1b1-192a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ga</vol><voln>82</voln><json>2KG212640</json><psection>rgyud</psection><p>1b1-192a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3866,7 +3867,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ga</vol><voln>82</voln><json>5485</json><psection>rgyud</psection><p>192a4-236b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ga</vol><voln>82</voln><json>2KG212640</json><psection>rgyud</psection><p>192a4-236b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3876,7 +3877,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ga</vol><voln>82</voln><json>5485</json><psection>rgyud</psection><p>236b6-246b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ga</vol><voln>82</voln><json>2KG212640</json><psection>rgyud</psection><p>236b6-246b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3886,7 +3887,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ga</vol><voln>82</voln><json>5485</json><psection>rgyud</psection><p>247a1-262b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ga</vol><voln>82</voln><json>2KG212640</json><psection>rgyud</psection><p>247a1-262b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3896,7 +3897,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ga</vol><voln>82</voln><json>5485</json><psection>rgyud</psection><p>262b3-274b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ga</vol><voln>82</voln><json>2KG212640</json><psection>rgyud</psection><p>262b3-274b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3906,7 +3907,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ga</vol><voln>82</voln><json>5485</json><psection>rgyud</psection><p>274b3-398a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ga</vol><voln>82</voln><json>2KG212640</json><psection>rgyud</psection><p>274b3-398a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3916,7 +3917,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ga</vol><voln>82</voln><json>5485</json><psection>rgyud</psection><p>398a4-437b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ga</vol><voln>82</voln><json>2KG212640</json><psection>rgyud</psection><p>398a4-437b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3926,7 +3927,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ga</vol><voln>82</voln><json>5485</json><psection>rgyud</psection><p>437b4-483</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ga</vol><voln>82</voln><json>2KG212640</json><psection>rgyud</psection><p>437b4-483</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3936,7 +3937,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nga</vol><voln>83</voln><json>5486</json><psection>rgyud</psection><p>1b1-5b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nga</vol><voln>83</voln><json>2KG212641</json><psection>rgyud</psection><p>1b1-5b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3946,7 +3947,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nga</vol><voln>83</voln><json>5486</json><psection>rgyud</psection><p>5b4-38b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nga</vol><voln>83</voln><json>2KG212641</json><psection>rgyud</psection><p>5b4-38b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3956,7 +3957,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nga</vol><voln>83</voln><json>5486</json><psection>rgyud</psection><p>38b5-44a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nga</vol><voln>83</voln><json>2KG212641</json><psection>rgyud</psection><p>38b5-44a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3966,7 +3967,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nga</vol><voln>83</voln><json>5486</json><psection>rgyud</psection><p>44a2-50b3.</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nga</vol><voln>83</voln><json>2KG212641</json><psection>rgyud</psection><p>44a2-50b3.</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3976,7 +3977,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nga</vol><voln>83</voln><json>5486</json><psection>rgyud</psection><p>50b3-57b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nga</vol><voln>83</voln><json>2KG212641</json><psection>rgyud</psection><p>50b3-57b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3986,7 +3987,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nga</vol><voln>83</voln><json>5486</json><psection>rgyud</psection><p>57b4-128a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nga</vol><voln>83</voln><json>2KG212641</json><psection>rgyud</psection><p>57b4-128a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -3996,7 +3997,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nga</vol><voln>83</voln><json>5486</json><psection>rgyud</psection><p>128a6-166b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nga</vol><voln>83</voln><json>2KG212641</json><psection>rgyud</psection><p>128a6-166b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4006,7 +4007,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nga</vol><voln>83</voln><json>5486</json><psection>rgyud</psection><p>166b7-227b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nga</vol><voln>83</voln><json>2KG212641</json><psection>rgyud</psection><p>166b7-227b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4016,7 +4017,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nga</vol><voln>83</voln><json>5486</json><psection>rgyud</psection><p>227b1-243b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nga</vol><voln>83</voln><json>2KG212641</json><psection>rgyud</psection><p>227b1-243b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4026,7 +4027,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nga</vol><voln>83</voln><json>5486</json><psection>rgyud</psection><p>243b2-246b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nga</vol><voln>83</voln><json>2KG212641</json><psection>rgyud</psection><p>243b2-246b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4036,7 +4037,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nga</vol><voln>83</voln><json>5486</json><psection>rgyud</psection><p>246b7-250a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nga</vol><voln>83</voln><json>2KG212641</json><psection>rgyud</psection><p>246b7-250a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4046,7 +4047,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nga</vol><voln>83</voln><json>5486</json><psection>rgyud</psection><p>250a2-266b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nga</vol><voln>83</voln><json>2KG212641</json><psection>rgyud</psection><p>250a2-266b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4056,7 +4057,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nga</vol><voln>83</voln><json>5486</json><psection>rgyud</psection><p>266b5-286b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nga</vol><voln>83</voln><json>2KG212641</json><psection>rgyud</psection><p>266b5-286b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4066,7 +4067,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nga</vol><voln>83</voln><json>5486</json><psection>rgyud</psection><p>286b6-288b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nga</vol><voln>83</voln><json>2KG212641</json><psection>rgyud</psection><p>286b6-288b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4076,7 +4077,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nga</vol><voln>83</voln><json>5486</json><psection>rgyud</psection><p>288b3-291b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nga</vol><voln>83</voln><json>2KG212641</json><psection>rgyud</psection><p>288b3-291b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4086,7 +4087,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nga</vol><voln>83</voln><json>5486</json><psection>rgyud</psection><p>291b1-351</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nga</vol><voln>83</voln><json>2KG212641</json><psection>rgyud</psection><p>291b1-351</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4096,7 +4097,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ca</vol><voln>84</voln><json>5487</json><psection>rgyud</psection><p>1b1-64a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ca</vol><voln>84</voln><json>2KG212642</json><psection>rgyud</psection><p>1b1-64a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4106,7 +4107,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ca</vol><voln>84</voln><json>5487</json><psection>rgyud</psection><p>64a7-153a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ca</vol><voln>84</voln><json>2KG212642</json><psection>rgyud</psection><p>64a7-153a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4116,7 +4117,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ca</vol><voln>84</voln><json>5487</json><psection>rgyud</psection><p>153a2-167b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ca</vol><voln>84</voln><json>2KG212642</json><psection>rgyud</psection><p>153a2-167b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4126,7 +4127,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ca</vol><voln>84</voln><json>5487</json><psection>rgyud</psection><p>167b3-267a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ca</vol><voln>84</voln><json>2KG212642</json><psection>rgyud</psection><p>167b3-267a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4136,7 +4137,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ca</vol><voln>84</voln><json>5487</json><psection>rgyud</psection><p>267a6-339b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ca</vol><voln>84</voln><json>2KG212642</json><psection>rgyud</psection><p>267a6-339b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4146,7 +4147,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ca</vol><voln>84</voln><json>5487</json><psection>rgyud</psection><p>339b7-345a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ca</vol><voln>84</voln><json>2KG212642</json><psection>rgyud</psection><p>339b7-345a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4156,7 +4157,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ca</vol><voln>84</voln><json>5487</json><psection>rgyud</psection><p>345a7-351a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ca</vol><voln>84</voln><json>2KG212642</json><psection>rgyud</psection><p>345a7-351a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4166,7 +4167,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ca</vol><voln>84</voln><json>5487</json><psection>rgyud</psection><p>351a5-378b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ca</vol><voln>84</voln><json>2KG212642</json><psection>rgyud</psection><p>351a5-378b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4176,7 +4177,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ca</vol><voln>84</voln><json>5487</json><psection>rgyud</psection><p>379a1-432b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ca</vol><voln>84</voln><json>2KG212642</json><psection>rgyud</psection><p>379a1-432b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4186,7 +4187,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, cha</vol><voln>85</voln><json>5488</json><psection>rgyud</psection><p>1b1-5a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, cha</vol><voln>85</voln><json>2KG212643</json><psection>rgyud</psection><p>1b1-5a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4196,7 +4197,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, cha</vol><voln>85</voln><json>5488</json><psection>rgyud</psection><p>5a3-11a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, cha</vol><voln>85</voln><json>2KG212643</json><psection>rgyud</psection><p>5a3-11a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4206,7 +4207,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, cha</vol><voln>85</voln><json>5488</json><psection>rgyud</psection><p>11a6-16b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, cha</vol><voln>85</voln><json>2KG212643</json><psection>rgyud</psection><p>11a6-16b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4216,7 +4217,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, cha</vol><voln>85</voln><json>5488</json><psection>rgyud</psection><p>16b7-20b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, cha</vol><voln>85</voln><json>2KG212643</json><psection>rgyud</psection><p>16b7-20b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4226,7 +4227,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, cha</vol><voln>85</voln><json>5488</json><psection>rgyud</psection><p>20b7-42b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, cha</vol><voln>85</voln><json>2KG212643</json><psection>rgyud</psection><p>20b7-42b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4236,7 +4237,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, cha</vol><voln>85</voln><json>5488</json><psection>rgyud</psection><p>42b5-51b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, cha</vol><voln>85</voln><json>2KG212643</json><psection>rgyud</psection><p>42b5-51b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4246,7 +4247,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, cha</vol><voln>85</voln><json>5488</json><psection>rgyud</psection><p>51b1-56a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, cha</vol><voln>85</voln><json>2KG212643</json><psection>rgyud</psection><p>51b1-56a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4256,7 +4257,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, cha</vol><voln>85</voln><json>5488</json><psection>rgyud</psection><p>56a2-56a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, cha</vol><voln>85</voln><json>2KG212643</json><psection>rgyud</psection><p>56a2-56a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4266,7 +4267,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, cha</vol><voln>85</voln><json>5488</json><psection>rgyud</psection><p>56a5-93a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, cha</vol><voln>85</voln><json>2KG212643</json><psection>rgyud</psection><p>56a5-93a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4276,7 +4277,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, cha</vol><voln>85</voln><json>5488</json><psection>rgyud</psection><p>93a2-96a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, cha</vol><voln>85</voln><json>2KG212643</json><psection>rgyud</psection><p>93a2-96a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4286,7 +4287,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, cha</vol><voln>85</voln><json>5488</json><psection>rgyud</psection><p>96a2-156</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, cha</vol><voln>85</voln><json>2KG212643</json><psection>rgyud</psection><p>96a2-156</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4296,7 +4297,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ja</vol><voln>86</voln><json>5489</json><psection>rgyud</psection><p>1b1-29a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ja</vol><voln>86</voln><json>2KG212644</json><psection>rgyud</psection><p>1b1-29a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4306,7 +4307,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ja</vol><voln>86</voln><json>5489</json><psection>rgyud</psection><p>27a4-46b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ja</vol><voln>86</voln><json>2KG212644</json><psection>rgyud</psection><p>27a4-46b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4316,7 +4317,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ja</vol><voln>86</voln><json>5489</json><psection>rgyud</psection><p>46b3-65a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ja</vol><voln>86</voln><json>2KG212644</json><psection>rgyud</psection><p>46b3-65a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4326,7 +4327,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ja</vol><voln>86</voln><json>5489</json><psection>rgyud</psection><p>65a3-68b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ja</vol><voln>86</voln><json>2KG212644</json><psection>rgyud</psection><p>65a3-68b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4336,7 +4337,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ja</vol><voln>86</voln><json>5489</json><psection>rgyud</psection><p>68b4-69b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ja</vol><voln>86</voln><json>2KG212644</json><psection>rgyud</psection><p>68b4-69b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4346,7 +4347,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ja</vol><voln>86</voln><json>5489</json><psection>rgyud</psection><p>69b7-70b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ja</vol><voln>86</voln><json>2KG212644</json><psection>rgyud</psection><p>69b7-70b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4356,7 +4357,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ja</vol><voln>86</voln><json>5489</json><psection>rgyud</psection><p>70b3-71a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ja</vol><voln>86</voln><json>2KG212644</json><psection>rgyud</psection><p>70b3-71a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4366,7 +4367,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ja</vol><voln>86</voln><json>5489</json><psection>rgyud</psection><p>71a7-117b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ja</vol><voln>86</voln><json>2KG212644</json><psection>rgyud</psection><p>71a7-117b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4376,7 +4377,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ja</vol><voln>86</voln><json>5489</json><psection>rgyud</psection><p>117b7-122a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ja</vol><voln>86</voln><json>2KG212644</json><psection>rgyud</psection><p>117b7-122a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4386,7 +4387,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ja</vol><voln>86</voln><json>5489</json><psection>rgyud</psection><p>122a3-213a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ja</vol><voln>86</voln><json>2KG212644</json><psection>rgyud</psection><p>122a3-213a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4396,7 +4397,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ja</vol><voln>86</voln><json>5489</json><psection>rgyud</psection><p>213a4-440</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ja</vol><voln>86</voln><json>2KG212644</json><psection>rgyud</psection><p>213a4-440</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4406,7 +4407,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nya</vol><voln>87</voln><json>5490</json><psection>rgyud</psection><p>1b1-207a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nya</vol><voln>87</voln><json>2KG212645</json><psection>rgyud</psection><p>1b1-207a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4416,7 +4417,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nya</vol><voln>87</voln><json>5490</json><psection>rgyud</psection><p>207a5-218b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nya</vol><voln>87</voln><json>2KG212645</json><psection>rgyud</psection><p>207a5-218b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4426,7 +4427,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nya</vol><voln>87</voln><json>5490</json><psection>rgyud</psection><p>218b6-288a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nya</vol><voln>87</voln><json>2KG212645</json><psection>rgyud</psection><p>218b6-288a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4436,7 +4437,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nya</vol><voln>87</voln><json>5490</json><psection>rgyud</psection><p>288a3-294a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nya</vol><voln>87</voln><json>2KG212645</json><psection>rgyud</psection><p>288a3-294a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4446,7 +4447,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nya</vol><voln>87</voln><json>5490</json><psection>rgyud</psection><p>294a6-328a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nya</vol><voln>87</voln><json>2KG212645</json><psection>rgyud</psection><p>294a6-328a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4456,7 +4457,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nya</vol><voln>87</voln><json>5490</json><psection>rgyud</psection><p>328a3-466a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nya</vol><voln>87</voln><json>2KG212645</json><psection>rgyud</psection><p>328a3-466a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4476,7 +4477,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, nya</vol><voln>87</voln><json>5490</json><psection>rgyud</psection><p>476b3-531</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, nya</vol><voln>87</voln><json>2KG212645</json><psection>rgyud</psection><p>476b3-531</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4486,7 +4487,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ta</vol><voln>88</voln><json>5491</json><psection>rgyud</psection><p>1b1b-61b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ta</vol><voln>88</voln><json>2KG212646</json><psection>rgyud</psection><p>1b1b-61b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4496,7 +4497,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ta</vol><voln>88</voln><json>5491</json><psection>rgyud</psection><p>61b7-134b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ta</vol><voln>88</voln><json>2KG212646</json><psection>rgyud</psection><p>61b7-134b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4506,7 +4507,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ta</vol><voln>88</voln><json>5491</json><psection>rgyud</psection><p>134b3-249a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ta</vol><voln>88</voln><json>2KG212646</json><psection>rgyud</psection><p>134b3-249a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4526,7 +4527,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ta</vol><voln>88</voln><json>5491</json><psection>rgyud</psection><p>250b7-300b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ta</vol><voln>88</voln><json>2KG212646</json><psection>rgyud</psection><p>250b7-300b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4536,7 +4537,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ta</vol><voln>88</voln><json>5491</json><psection>rgyud</psection><p>301a1-455a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ta</vol><voln>88</voln><json>2KG212646</json><psection>rgyud</psection><p>301a1-455a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4546,7 +4547,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ta</vol><voln>88</voln><json>5491</json><psection>rgyud</psection><p>455a2-467</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ta</vol><voln>88</voln><json>2KG212646</json><psection>rgyud</psection><p>455a2-467</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4556,7 +4557,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tha</vol><voln>89</voln><json>5492</json><psection>rgyud</psection><p>1b1-97a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tha</vol><voln>89</voln><json>2KG212647</json><psection>rgyud</psection><p>1b1-97a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4566,7 +4567,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tha</vol><voln>89</voln><json>5492</json><psection>rgyud</psection><p>97a5-328a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tha</vol><voln>89</voln><json>2KG212647</json><psection>rgyud</psection><p>97a5-328a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4576,7 +4577,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tha</vol><voln>89</voln><json>5492</json><psection>rgyud</psection><p>328a4-334b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tha</vol><voln>89</voln><json>2KG212647</json><psection>rgyud</psection><p>328a4-334b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4586,7 +4587,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tha</vol><voln>89</voln><json>5492</json><psection>rgyud</psection><p>334b5-433b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tha</vol><voln>89</voln><json>2KG212647</json><psection>rgyud</psection><p>334b5-433b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4596,7 +4597,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tha</vol><voln>89</voln><json>5492</json><psection>rgyud</psection><p>433b3-470a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tha</vol><voln>89</voln><json>2KG212647</json><psection>rgyud</psection><p>433b3-470a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4606,7 +4607,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tha</vol><voln>89</voln><json>5492</json><psection>rgyud</psection><p>470a6-484a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tha</vol><voln>89</voln><json>2KG212647</json><psection>rgyud</psection><p>470a6-484a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4616,7 +4617,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tha</vol><voln>89</voln><json>5492</json><psection>rgyud</psection><p>484a6-488</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tha</vol><voln>89</voln><json>2KG212647</json><psection>rgyud</psection><p>484a6-488</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4626,7 +4627,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>1b1-40a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>1b1-40a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4636,7 +4637,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>40a6-41b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>40a6-41b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4646,7 +4647,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>41b1-50b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>41b1-50b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4666,7 +4667,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>57a3-57a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>57a3-57a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4676,7 +4677,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>57a5-57b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>57a5-57b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4686,7 +4687,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>57b4-58a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>57b4-58a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4696,7 +4697,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>58a2-58a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>58a2-58a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4706,7 +4707,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>58a6-58b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>58a6-58b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4716,7 +4717,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>58b1-62a1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>58b1-62a1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4726,7 +4727,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>62a2-64b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>62a2-64b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4756,7 +4757,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>76b4-77a1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>76b4-77a1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4766,7 +4767,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>77a1-77a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>77a1-77a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4776,7 +4777,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>77a5-77a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>77a5-77a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4786,7 +4787,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>77a7-83a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>77a7-83a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4796,7 +4797,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>83a5-87b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>83a5-87b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4806,7 +4807,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>88a1-89a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>88a1-89a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4836,7 +4837,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>94a2-100b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>94a2-100b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4846,7 +4847,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>100b4-483b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>100b4-483b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4856,7 +4857,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>483b2-499b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>483b2-499b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4866,7 +4867,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>499b3-500b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>499b3-500b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4876,7 +4877,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>500b1-500b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>500b1-500b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4886,7 +4887,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>501a1-501b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>501a1-501b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4896,7 +4897,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>501b2-502a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>501b2-502a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4906,7 +4907,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>502a5-502a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>502a5-502a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4916,7 +4917,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>502a7-502b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>502a7-502b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4926,7 +4927,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>502b6-503a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>502b6-503a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4936,7 +4937,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, da</vol><voln>90</voln><json>5493</json><psection>rgyud</psection><p>503a3-503b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, da</vol><voln>90</voln><json>2KG212648</json><psection>rgyud</psection><p>503a3-503b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4966,7 +4967,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, na</vol><voln>91</voln><json>5494</json><psection>rgyud</psection><p>1b1-208b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, na</vol><voln>91</voln><json>2KG212649</json><psection>rgyud</psection><p>1b1-208b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4976,7 +4977,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, na</vol><voln>91</voln><json>5494</json><psection>rgyud</psection><p>208b7-385a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, na</vol><voln>91</voln><json>2KG212649</json><psection>rgyud</psection><p>208b7-385a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4986,7 +4987,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>1b1-39b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>1b1-39b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -4996,7 +4997,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>39b3-86a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>39b3-86a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5006,7 +5007,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>86a4-117b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>86a4-117b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5016,7 +5017,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>117b2-134b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>117b2-134b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5026,7 +5027,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>134b7-143b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>134b7-143b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5036,7 +5037,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>143b6-145a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>143b6-145a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5046,7 +5047,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>145a7-146b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>145a7-146b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5056,7 +5057,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>146b7-147b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>146b7-147b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5066,7 +5067,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>147b7-160a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>147b7-160a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5076,7 +5077,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>160a5-161a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>160a5-161a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5086,7 +5087,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>161a5-162a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>161a5-162a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5096,7 +5097,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>162b1-164b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>162b1-164b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5106,7 +5107,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>164b7-165b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>164b7-165b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5116,7 +5117,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>165b4-171a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>165b4-171a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5126,7 +5127,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>171a7-172a1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>171a7-172a1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5136,7 +5137,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>172a1-179b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>172a1-179b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5146,7 +5147,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>179b3-181b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>179b3-181b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5156,7 +5157,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>181b4-188b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>181b4-188b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5166,7 +5167,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>188b4-195b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>188b4-195b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5176,7 +5177,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>195b2-207a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>195b2-207a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5186,7 +5187,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>207a3-210a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>207a3-210a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5196,7 +5197,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>210a6-212a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>210a6-212a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5206,7 +5207,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>212a2-223b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>212a2-223b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5216,7 +5217,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>223b5-232a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>223b5-232a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5226,7 +5227,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>232a7-240a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>232a7-240a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5236,7 +5237,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>240a7-254b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>240a7-254b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5246,7 +5247,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>254b3-255a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>254b3-255a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5256,7 +5257,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>255b1-255b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>255b1-255b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5266,7 +5267,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>255b3-256a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>255b3-256a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5276,7 +5277,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>256a6-256b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>256a6-256b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5286,7 +5287,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>256b6-258a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>256b6-258a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5296,7 +5297,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>258a7-259a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>258a7-259a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5306,7 +5307,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>259a7-260a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>259a7-260a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5316,7 +5317,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>260a5-260b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>260a5-260b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5326,7 +5327,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>260b7-263a1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>260b7-263a1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5336,7 +5337,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>263a1-278b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>263a1-278b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5346,7 +5347,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>278b6-288b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>278b6-288b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5356,7 +5357,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>288b4-292a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>288b4-292a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5376,7 +5377,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>293b2-297a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>293b2-297a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5386,7 +5387,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>297a2-297a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>297a2-297a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5396,7 +5397,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>297a4-297b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>297a4-297b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5406,7 +5407,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>297b1-297b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>297b1-297b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5416,7 +5417,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>297b3-297b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>297b3-297b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5426,7 +5427,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>297b5-298a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>297b5-298a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5436,7 +5437,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>298a3-298b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>298a3-298b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5446,7 +5447,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>298b2-298b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>298b2-298b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5456,7 +5457,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>298b4-298b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>298b4-298b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5466,7 +5467,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>298b7-299a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>298b7-299a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5476,7 +5477,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>299a3-299a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>299a3-299a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5486,7 +5487,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>299a7-299b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>299a7-299b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5496,7 +5497,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>299b3-299b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>299b3-299b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5506,7 +5507,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>299b6-300a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>299b6-300a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5516,7 +5517,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>300a3-300a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>300a3-300a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5526,7 +5527,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>300a7-300b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>300a7-300b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5536,7 +5537,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>300b2-301a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>300b2-301a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5546,7 +5547,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>301a6-301b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>301a6-301b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5556,7 +5557,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>302a1-302b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>302a1-302b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5566,7 +5567,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>302b2-303a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>302b2-303a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5576,7 +5577,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>303a5-304a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>303a5-304a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5586,7 +5587,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>304a6-384b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>304a6-384b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5596,7 +5597,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>384b1-387a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>384b1-387a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5606,7 +5607,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>387a4-389b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>387a4-389b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5616,7 +5617,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>389b7-392a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>389b7-392a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5626,7 +5627,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>392a3-393a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>392a3-393a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5636,7 +5637,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>393a5-395b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>393a5-395b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5646,7 +5647,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>395b4-397b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>395b4-397b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5656,7 +5657,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>397b5-398a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>397b5-398a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5666,7 +5667,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>398a5-398b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>398a5-398b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5676,7 +5677,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>398b2-400b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>398b2-400b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5686,7 +5687,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>400b5-403a1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>400b5-403a1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5696,7 +5697,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>403a2-405a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>403a2-405a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5706,7 +5707,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>405a4-405b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>405a4-405b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5716,7 +5717,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>405b6-408b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>405b6-408b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5726,7 +5727,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>408b7-411a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>408b7-411a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5736,7 +5737,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>411a2-413a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>411a2-413a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5746,7 +5747,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>413a4-416b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>413a4-416b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5756,7 +5757,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>416b2-424b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>416b2-424b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5766,7 +5767,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>424b1-429a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>424b1-429a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5796,7 +5797,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>430b7-432a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>430b7-432a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5806,7 +5807,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>432a2-435a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>432a2-435a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5816,7 +5817,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>435a6-438a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>435a6-438a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5826,7 +5827,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>438a5-441b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>438a5-441b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5836,7 +5837,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pa</vol><voln>92</voln><json>5495</json><psection>rgyud</psection><p>441b3-445</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pa</vol><voln>92</voln><json>2KG212650</json><psection>rgyud</psection><p>441b3-445</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5846,7 +5847,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>1b1-23b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>1b1-23b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5856,7 +5857,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>24a1-57b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>24a1-57b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5866,7 +5867,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>57b5-61a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>57b5-61a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5876,7 +5877,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>61a4-63b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>61a4-63b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5886,7 +5887,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>63b5-67b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>63b5-67b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5896,7 +5897,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>68a1-73a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>68a1-73a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5906,7 +5907,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>73a7-77a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>73a7-77a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5916,7 +5917,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>77a5-82a1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>77a5-82a1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5926,7 +5927,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>82a1-85a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>82a1-85a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5936,7 +5937,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>85a4-88a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>85a4-88a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5946,7 +5947,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>88a3-89a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>88a3-89a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5956,7 +5957,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>89a3-89b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>89a3-89b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5966,7 +5967,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>89('og)a1-91b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>89('og)a1-91b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -5976,7 +5977,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>91b3-112b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>91b3-112b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6006,7 +6007,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>139b3-140a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>139b3-140a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6016,7 +6017,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>140a7-148b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>140a7-148b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6026,7 +6027,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>148b7-150a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>148b7-150a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6036,7 +6037,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>150a2-153b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>150a2-153b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6046,7 +6047,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>153b4-157a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>153b4-157a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6056,7 +6057,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>157a4-162b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>157a4-162b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6066,7 +6067,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>162b4-164a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>162b4-164a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6076,7 +6077,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>164a3-167b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>164a3-167b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6086,7 +6087,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>167b2-170b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>167b2-170b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6096,7 +6097,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>170b6-171b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>170b6-171b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6106,7 +6107,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>171b2-172a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>171b2-172a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6116,7 +6117,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>172a3-172b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>172a3-172b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6126,7 +6127,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>172b3-182a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>172b3-182a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6136,7 +6137,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>182a7-184b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>182a7-184b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6146,7 +6147,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>184b4-184b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>184b4-184b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6156,7 +6157,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>184b7-190a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>184b7-190a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6166,7 +6167,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>190a5-190b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>190a5-190b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6176,7 +6177,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>190b5-191a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>190b5-191a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6186,7 +6187,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>191a5-193b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>191a5-193b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6196,7 +6197,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>193b5-197b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>193b5-197b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6206,7 +6207,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>197b3-200b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>197b3-200b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6216,7 +6217,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>200b6-208b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>200b6-208b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6226,7 +6227,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>208b1-215a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>208b1-215a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6236,7 +6237,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>215a4-217b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>215a4-217b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6246,7 +6247,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>217b7-299b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>217b7-299b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6256,7 +6257,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>299b7-302b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>299b7-302b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6266,7 +6267,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>302b3-346a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>302b3-346a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6276,7 +6277,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>346a7-400a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>346a7-400a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6286,7 +6287,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>400a5-410b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>400a5-410b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6296,7 +6297,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>410b6-413b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>410b6-413b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6306,7 +6307,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>413b6-414a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>413b6-414a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6316,7 +6317,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>414a3-414b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>414a3-414b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6326,7 +6327,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>414b5-425b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>414b5-425b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6336,7 +6337,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>425b2-433a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>425b2-433a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6346,7 +6347,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>433a6-436b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>433a6-436b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6356,7 +6357,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>436b5-438a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>436b5-438a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6366,7 +6367,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>438a2-440b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>438a2-440b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6376,7 +6377,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>440b5-441a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>440b5-441a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6386,7 +6387,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>441a7-443b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>441a7-443b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6396,7 +6397,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>443b4-445a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>443b4-445a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6406,7 +6407,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>445b1-453b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>445b1-453b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6416,7 +6417,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>453b7-454a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>453b7-454a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6426,7 +6427,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>454a5-455a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>454a5-455a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6436,7 +6437,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>455a7-457b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>455a7-457b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6446,7 +6447,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>457b3-480a1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>457b3-480a1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6456,7 +6457,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>480a2-483a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>480a2-483a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6466,7 +6467,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>483a5-487b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>483a5-487b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6476,7 +6477,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>487b2-495b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>487b2-495b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6486,7 +6487,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>495b1-495b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>495b1-495b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6496,7 +6497,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, pha</vol><voln>93</voln><json>5496</json><psection>rgyud</psection><p>495b3-496</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, pha</vol><voln>93</voln><json>2KG212651</json><psection>rgyud</psection><p>495b3-496</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6506,7 +6507,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ba</vol><voln>94</voln><json>5497</json><psection>rgyud</psection><p>1b1-11b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ba</vol><voln>94</voln><json>2KG212652</json><psection>rgyud</psection><p>1b1-11b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6516,7 +6517,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ba</vol><voln>94</voln><json>5497</json><psection>rgyud</psection><p>11b2-12b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ba</vol><voln>94</voln><json>2KG212652</json><psection>rgyud</psection><p>11b2-12b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6526,7 +6527,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ba</vol><voln>94</voln><json>5497</json><psection>rgyud</psection><p>12b3-19a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ba</vol><voln>94</voln><json>2KG212652</json><psection>rgyud</psection><p>12b3-19a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6536,7 +6537,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ba</vol><voln>94</voln><json>5497</json><psection>rgyud</psection><p>19a4-20a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ba</vol><voln>94</voln><json>2KG212652</json><psection>rgyud</psection><p>19a4-20a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6546,7 +6547,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ba</vol><voln>94</voln><json>5497</json><psection>rgyud</psection><p>20a4-21a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ba</vol><voln>94</voln><json>2KG212652</json><psection>rgyud</psection><p>20a4-21a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6556,7 +6557,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ba</vol><voln>94</voln><json>5497</json><psection>rgyud</psection><p>21a3-66a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ba</vol><voln>94</voln><json>2KG212652</json><psection>rgyud</psection><p>21a3-66a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6566,7 +6567,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ba</vol><voln>94</voln><json>5497</json><psection>rgyud</psection><p>66a4-105a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ba</vol><voln>94</voln><json>2KG212652</json><psection>rgyud</psection><p>66a4-105a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6576,7 +6577,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ba</vol><voln>94</voln><json>5497</json><psection>rgyud2</psection><p>1b1-569</p><margin type="AlternativeVolumeName">'og ma</margin></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ba</vol><voln>94</voln><json>2KG212652</json><psection>rgyud2</psection><p>1b1-569</p><margin type="AlternativeVolumeName">'og ma</margin></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6586,7 +6587,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ma</vol><voln>95</voln><json>5498</json><psection>rgyud</psection><p>1b1-3b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ma</vol><voln>95</voln><json>2KG212653</json><psection>rgyud</psection><p>1b1-3b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6596,7 +6597,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ma</vol><voln>95</voln><json>5498</json><psection>rgyud</psection><p>3b7-365a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ma</vol><voln>95</voln><json>2KG212653</json><psection>rgyud</psection><p>3b7-365a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6606,7 +6607,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ma</vol><voln>95</voln><json>5498</json><psection>rgyud</psection><p>366a6-368a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ma</vol><voln>95</voln><json>2KG212653</json><psection>rgyud</psection><p>366a6-368a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6616,7 +6617,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ma</vol><voln>95</voln><json>5498</json><psection>rgyud</psection><p>368a7-370b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ma</vol><voln>95</voln><json>2KG212653</json><psection>rgyud</psection><p>368a7-370b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6626,7 +6627,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ma</vol><voln>95</voln><json>5498</json><psection>rgyud</psection><p>370b4-419b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ma</vol><voln>95</voln><json>2KG212653</json><psection>rgyud</psection><p>370b4-419b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6636,7 +6637,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ma</vol><voln>95</voln><json>5498</json><psection>rgyud</psection><p>419b4-424b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ma</vol><voln>95</voln><json>2KG212653</json><psection>rgyud</psection><p>419b4-424b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6646,7 +6647,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ma</vol><voln>95</voln><json>5498</json><psection>rgyud</psection><p>424b5-426a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ma</vol><voln>95</voln><json>2KG212653</json><psection>rgyud</psection><p>424b5-426a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6656,7 +6657,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ma</vol><voln>95</voln><json>5498</json><psection>rgyud</psection><p>426a4-463b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ma</vol><voln>95</voln><json>2KG212653</json><psection>rgyud</psection><p>426a4-463b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6666,7 +6667,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ma</vol><voln>95</voln><json>5498</json><psection>rgyud</psection><p>463b2-466a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ma</vol><voln>95</voln><json>2KG212653</json><psection>rgyud</psection><p>463b2-466a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6676,7 +6677,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ma</vol><voln>95</voln><json>5498</json><psection>rgyud</psection><p>466a7-469a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ma</vol><voln>95</voln><json>2KG212653</json><psection>rgyud</psection><p>466a7-469a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6686,7 +6687,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ma</vol><voln>95</voln><json>5498</json><psection>rgyud</psection><p>469a2-470b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ma</vol><voln>95</voln><json>2KG212653</json><psection>rgyud</psection><p>469a2-470b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6696,7 +6697,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ma</vol><voln>95</voln><json>5498</json><psection>rgyud</psection><p>470b7-472a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ma</vol><voln>95</voln><json>2KG212653</json><psection>rgyud</psection><p>470b7-472a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6706,7 +6707,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ma</vol><voln>95</voln><json>5498</json><psection>rgyud</psection><p>472a2-474a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ma</vol><voln>95</voln><json>2KG212653</json><psection>rgyud</psection><p>472a2-474a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6716,7 +6717,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ma</vol><voln>95</voln><json>5498</json><psection>rgyud</psection><p>474a3-489b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ma</vol><voln>95</voln><json>2KG212653</json><psection>rgyud</psection><p>474a3-489b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6726,7 +6727,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ma</vol><voln>95</voln><json>5498</json><psection>rgyud</psection><p>489a1-489b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ma</vol><voln>95</voln><json>2KG212653</json><psection>rgyud</psection><p>489a1-489b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6736,7 +6737,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ma</vol><voln>95</voln><json>5498</json><psection>rgyud</psection><p>490a1-510a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ma</vol><voln>95</voln><json>2KG212653</json><psection>rgyud</psection><p>490a1-510a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6746,7 +6747,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ma</vol><voln>95</voln><json>5498</json><psection>rgyud</psection><p>510a3-521b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ma</vol><voln>95</voln><json>2KG212653</json><psection>rgyud</psection><p>510a3-521b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6756,7 +6757,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ma</vol><voln>95</voln><json>5498</json><psection>rgyud</psection><p>521b2-523a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ma</vol><voln>95</voln><json>2KG212653</json><psection>rgyud</psection><p>521b2-523a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6766,7 +6767,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, ma</vol><voln>95</voln><json>5498</json><psection>rgyud</psection><p>523a2-546</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, ma</vol><voln>95</voln><json>2KG212653</json><psection>rgyud</psection><p>523a2-546</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6776,7 +6777,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsa</vol><voln>96</voln><json>5499</json><psection>rgyud</psection><p>1b1-453a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsa</vol><voln>96</voln><json>2KG212654</json><psection>rgyud</psection><p>1b1-453a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6786,7 +6787,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>1b1-3a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>1b1-3a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6796,7 +6797,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>3a4-20b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>3a4-20b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6806,7 +6807,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>20b5-27b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>20b5-27b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6816,7 +6817,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>28a1-28b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>28a1-28b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6826,7 +6827,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>28b7-29a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>28b7-29a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6836,7 +6837,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>29a2-29a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>29a2-29a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6846,7 +6847,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>29a4-29b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>29a4-29b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6856,7 +6857,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>29b2-30a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>29b2-30a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6866,7 +6867,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>30a3-30a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>30a3-30a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6876,7 +6877,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>30a5-30b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>30a5-30b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6886,7 +6887,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>30b2-30b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>30b2-30b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6896,7 +6897,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>30b6-30b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>30b6-30b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6906,7 +6907,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>31a1-31b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>31a1-31b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6916,7 +6917,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>31b1-33a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>31b1-33a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6926,7 +6927,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>33a6-33b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>33a6-33b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6936,7 +6937,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>33b2-33b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>33b2-33b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6946,7 +6947,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>33b3-33b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>33b3-33b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6956,7 +6957,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>33b6-34a1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>33b6-34a1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6966,7 +6967,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>34a1-34a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>34a1-34a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6976,7 +6977,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>34a3-34a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>34a3-34a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6986,7 +6987,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>34a4-34b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>34a4-34b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -6996,7 +6997,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>34b1-34b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>34b1-34b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7006,7 +7007,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>34b2-34b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>34b2-34b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7016,7 +7017,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>34b5-34b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>34b5-34b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7026,7 +7027,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>34b7-35a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>34b7-35a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7036,7 +7037,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>35a3-35b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>35a3-35b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7046,7 +7047,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>35b1-35b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>35b1-35b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7056,7 +7057,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>35b3-35b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>35b3-35b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7066,7 +7067,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>35b5-35b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>35b5-35b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7076,7 +7077,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>35b7-36a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>35b7-36a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7086,7 +7087,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>36a2-36a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>36a2-36a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7096,7 +7097,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>36a4-36a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>36a4-36a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7106,7 +7107,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>36a5-36a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>36a5-36a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7116,7 +7117,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>36a7-36b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>36a7-36b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7126,7 +7127,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>36b2-36b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>36b2-36b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7136,7 +7137,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>36b4-37a1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>36b4-37a1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7146,7 +7147,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>37a1-37a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>37a1-37a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7156,7 +7157,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>37a5-37b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>37a5-37b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7166,7 +7167,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>37b1-37b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>37b1-37b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7176,7 +7177,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>37b4-38a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>37b4-38a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7186,7 +7187,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>38a5-38a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>38a5-38a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7196,7 +7197,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>38a6-38b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>38a6-38b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7206,7 +7207,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>38b3-38b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>38b3-38b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7216,7 +7217,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>38b5-38b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>38b5-38b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7226,7 +7227,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>38b7-39a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>38b7-39a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7236,7 +7237,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>39a2-39a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>39a2-39a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7246,7 +7247,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>39a4-39a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>39a4-39a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7256,7 +7257,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>39a5-39a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>39a5-39a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7266,7 +7267,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>39a7-40a1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>39a7-40a1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7276,7 +7277,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>40a1-71b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>40a1-71b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7286,7 +7287,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>71b2-108b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>71b2-108b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7296,7 +7297,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>108b4-112b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>108b4-112b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7306,7 +7307,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>112b2-187b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>112b2-187b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7326,7 +7327,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>193a1-223b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>193a1-223b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7336,7 +7337,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>224a1-225a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>224a1-225a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7346,7 +7347,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>225a7-227b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>225a7-227b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7356,7 +7357,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>227b5-229a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>227b5-229a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7366,7 +7367,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>229b1-229b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>229b1-229b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7376,7 +7377,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>229b7-232a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>229b7-232a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7386,7 +7387,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>232a3-233a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>232a3-233a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7396,7 +7397,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>233a5-235b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>233a5-235b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7406,7 +7407,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>235b1-236a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>235b1-236a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7416,7 +7417,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>236a4-237a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>236a4-237a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7426,7 +7427,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>237a4-238a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>237a4-238a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7436,7 +7437,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>238a2-238b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>238a2-238b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7446,7 +7447,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>238b5-239a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>238b5-239a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7456,7 +7457,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>239a6-239b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>239a6-239b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7466,7 +7467,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>239b3-239b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>239b3-239b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7476,7 +7477,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>239b7-240a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>239b7-240a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7486,7 +7487,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>240a5-242a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>240a5-242a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7496,7 +7497,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, tsha</vol><voln>97</voln><json>5500</json><psection>rgyud</psection><p>242a6-243</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, tsha</vol><voln>97</voln><json>2KG212655</json><psection>rgyud</psection><p>242a6-243</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7506,7 +7507,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, dza</vol><voln>98</voln><json>5501</json><psection>rgyud</psection><p>1b1-120b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, dza</vol><voln>98</voln><json>2KG212656</json><psection>rgyud</psection><p>1b1-120b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7516,7 +7517,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, dza</vol><voln>98</voln><json>5501</json><psection>rgyud</psection><p>120b4-408a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, dza</vol><voln>98</voln><json>2KG212656</json><psection>rgyud</psection><p>120b4-408a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7526,7 +7527,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, dza</vol><voln>98</voln><json>5501</json><psection>rgyud</psection><p>408a2-502</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, dza</vol><voln>98</voln><json>2KG212656</json><psection>rgyud</psection><p>408a2-502</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7536,7 +7537,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, wa</vol><voln>99</voln><json>5502</json><psection>rgyud</psection><p>1b1-139a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, wa</vol><voln>99</voln><json>2KG212657</json><psection>rgyud</psection><p>1b1-139a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7546,7 +7547,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, wa</vol><voln>99</voln><json>5502</json><psection>rgyud</psection><p>139a6-171a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, wa</vol><voln>99</voln><json>2KG212657</json><psection>rgyud</psection><p>139a6-171a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7556,7 +7557,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, wa</vol><voln>99</voln><json>5502</json><psection>rgyud</psection><p>171a4-267a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, wa</vol><voln>99</voln><json>2KG212657</json><psection>rgyud</psection><p>171a4-267a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7566,7 +7567,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, wa</vol><voln>99</voln><json>5502</json><psection>rgyud</psection><p>267a3-407b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, wa</vol><voln>99</voln><json>2KG212657</json><psection>rgyud</psection><p>267a3-407b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7576,7 +7577,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, wa</vol><voln>99</voln><json>5502</json><psection>rgyud</psection><p>407b5-427</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, wa</vol><voln>99</voln><json>2KG212657</json><psection>rgyud</psection><p>407b5-427</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7586,7 +7587,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, zha</vol><voln>100</voln><json>5503</json><psection>rgyud</psection><p>1b1-47b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, zha</vol><voln>100</voln><json>2KG212658</json><psection>rgyud</psection><p>1b1-47b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7596,7 +7597,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, zha</vol><voln>100</voln><json>5503</json><psection>rgyud</psection><p>47b6-84a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, zha</vol><voln>100</voln><json>2KG212658</json><psection>rgyud</psection><p>47b6-84a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7606,7 +7607,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, zha</vol><voln>100</voln><json>5503</json><psection>rgyud</psection><p>84a5-107a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, zha</vol><voln>100</voln><json>2KG212658</json><psection>rgyud</psection><p>84a5-107a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7616,7 +7617,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, zha</vol><voln>100</voln><json>5503</json><psection>rgyud</psection><p>107b1-179b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, zha</vol><voln>100</voln><json>2KG212658</json><psection>rgyud</psection><p>107b1-179b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7626,7 +7627,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, zha</vol><voln>100</voln><json>5503</json><psection>rgyud</psection><p>179b5-285b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, zha</vol><voln>100</voln><json>2KG212658</json><psection>rgyud</psection><p>179b5-285b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7636,17 +7637,17 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, zha</vol><voln>100</voln><json>5503</json><psection>rgyud</psection><p>285b2-310b6</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, zha</vol><voln>100</voln><json>2KG212658</json><psection>rgyud</psection><p>285b2-310b6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
 <rkts>651</rkts>		
 <ref>N758</ref>		
-<tib></tib>		
+<tib/>		
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, zha</vol><voln>100</voln><json>5503</json><psection>rgyud</psection><p>310b6-312b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, zha</vol><voln>100</voln><json>2KG212658</json><psection>rgyud</psection><p>310b6-312b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7656,7 +7657,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, zha</vol><voln>100</voln><json>5503</json><psection>rgyud</psection><p>312b7-349a2</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, zha</vol><voln>100</voln><json>2KG212658</json><psection>rgyud</psection><p>312b7-349a2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7666,7 +7667,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, zha</vol><voln>100</voln><json>5503</json><psection>rgyud</psection><p>349a2-369b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, zha</vol><voln>100</voln><json>2KG212658</json><psection>rgyud</psection><p>349a2-369b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7676,7 +7677,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>rgyud, zha</vol><voln>100</voln><json>5503</json><psection>rgyud</psection><p>369b3-397</p></loc>
 	<loc><set>MW2KG5014</set><vol>rgyud, zha</vol><voln>100</voln><json>2KG212658</json><psection>rgyud</psection><p>369b3-397</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7686,7 +7687,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>1b1-10b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>1b1-10b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7696,7 +7697,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>11a1-94b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>11a1-94b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7706,7 +7707,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>95a1-102b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>95a1-102b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7716,7 +7717,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>102b5-103b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>102b5-103b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7726,7 +7727,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>103b3-111b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>103b3-111b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7736,7 +7737,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>112a1-118b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>112a1-118b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7746,7 +7747,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>118b1-119a3</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>118b1-119a3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7756,7 +7757,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>119a3-120b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>119a3-120b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7766,7 +7767,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>120b1-120b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>120b1-120b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7776,7 +7777,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>120b3-120b5</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>120b3-120b5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7786,7 +7787,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>120b5-121a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>120b5-121a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7796,7 +7797,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>121a6-121b2</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>121a6-121b2</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7806,7 +7807,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>121b2-121b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>121b2-121b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7816,7 +7817,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>122a1-124a4</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>122a1-124a4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7826,7 +7827,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>124a4-125b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>124a4-125b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7836,7 +7837,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>125b3-126a6</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>125b3-126a6</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7846,7 +7847,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>126a6-128a5</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>126a6-128a5</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7856,7 +7857,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>128a5-128a7</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>128a5-128a7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7866,7 +7867,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>128a7-128b3</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>128a7-128b3</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7876,7 +7877,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>128b3-129b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>128b3-129b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7886,7 +7887,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>129b3-129b4</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>129b3-129b4</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7896,7 +7897,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>129b4-129b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>129b4-129b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7906,7 +7907,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>130a1-157b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>130a1-157b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7916,7 +7917,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>158a1-225b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>158a1-225b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7926,7 +7927,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>225b7-227b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>225b7-227b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7936,7 +7937,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>228a1-313b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>228a1-313b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7946,7 +7947,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>313b7-314b1</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>313b7-314b1</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 <item>		
@@ -7956,7 +7957,7 @@ Narthang Kanjur
 <skttrans>-</skttrans>		
 <loc><set>MW22703</set><vol>kha skong, ka</vol><voln>101</voln><json>5504</json><psection>kha skong</psection><p>314b2-314b7</p></loc>
 	<loc><set>MW2KG5014</set><vol>kha skong, ka</vol><voln>101</voln><json>2KG212659</json><psection>kha skong</psection><p>314b2-314b7</p></loc>
-<coloph></coloph>		
+<coloph/>		
 </item>		
 		
 

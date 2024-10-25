@@ -1,0 +1,108 @@
+{
+  "checked": true,
+  "files": [
+    {
+      "height": 667,
+      "img_path": "EAP570_4_1_108-Chizhi_kanjur_mdo_skal_bzang_dbu_shog_(1)_L.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            476.3063524590164,
+            194.0860655737705,
+            845.6284153005464,
+            247.39139344262296,
+            0
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            464.01127049180326,
+            470.86372950819674,
+            845.6284153005464,
+            224.15573770491804,
+            0
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Cz/108 mdo skal bzang/EAP570_4_1_108-Chizhi_kanjur_mdo_skal_bzang_dbu_shog_(1)_L.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "selected": 1,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 767
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Cz/108 mdo skal bzang/EAP570_4_1_108-Chizhi_kanjur_mdo_skal_bzang_dbu_shog_(1)_L.jpg.jpg",
+      "width": 1000
+    },
+    {
+      "height": 667,
+      "img_path": "EAP570_4_1_108-Chizhi_kanjur_mdo_skal_bzang_dbu_shog_(2)_L.jpg",
+      "pages": [
+        {
+          "minAreaRect": [
+            480.1912568306011,
+            187.93545081967213,
+            844.2622950819672,
+            243.29098360655738,
+            0
+          ],
+          "warnings": []
+        },
+        {
+          "minAreaRect": [
+            476.775956284153,
+            468.8135245901639,
+            848.360655737705,
+            236.45696721311475,
+            0
+          ],
+          "warnings": []
+        }
+      ],
+      "pickle_path": "sam_pickle_gz/BrunoEAP/Cz/108 mdo skal bzang/EAP570_4_1_108-Chizhi_kanjur_mdo_skal_bzang_dbu_shog_(2)_L.jpg_sam_pickle.gz",
+      "rotation": 0,
+      "selected": 1,
+      "thumbnail_info": {
+        "height": 512,
+        "rotation": 0,
+        "width": 767
+      },
+      "thumbnail_path": "thumbnails/BrunoEAP/Cz/108 mdo skal bzang/EAP570_4_1_108-Chizhi_kanjur_mdo_skal_bzang_dbu_shog_(2)_L.jpg.jpg",
+      "width": 1000
+    }
+  ],
+  "folder_path": "BrunoEAP/Cz/108 mdo skal bzang/",
+  "options_list": [
+    {
+      "cutAtFixed": false,
+      "direc": "horizontal",
+      "expandToFixed": false,
+      "fixedHeight": -1,
+      "fixedWidth": -1,
+      "maxAreaRatio": 0.41629999999999995,
+      "maxRatio": 4.027299999999999,
+      "minAreaRatio": 0.3077,
+      "minRatio": 2.9766999999999997,
+      "minSquarish": 0.85,
+      "nbPages": 2,
+      "orient": "custom"
+    }
+  ],
+  "pages_order": false,
+  "preprocess_run": {
+    "date": "2024-05-21T07:58:13.440158",
+    "preprocess_options": {
+      "grayscale_thumbnail": false,
+      "pps": 8,
+      "pre_rotate": 0,
+      "sam_resize": 1024,
+      "thumbnail_resize": 512,
+      "use_exif_rotation": false
+    },
+    "version": "0.0.1"
+  },
+  "scam_runs": []
+}
